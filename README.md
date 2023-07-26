@@ -1,14 +1,12 @@
-# Create React App
+# Recall Scripture App
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+This app was created to assist those who wish to memorize scripture and code is completely open source.
 
-## Deploy Your Own
+The bible files associated to this repository wholy belong to each individual publishers.
 
-Deploy your own Create React App project with Vercel.
+The dication action and feature will only function on Chrome browsers. (And iOS Safari Browser) Under the hood, these browsers have proprietary apis that allows this app to access the voice to text transcriptions. Google / Apple use these recordings to continually improve their own LLM and to more accurately transcribe voice to text.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
-
-_Live Example: https://create-react-template.vercel.app/_
+Creating an account will allow users to save their favorite verses they're trying to memorize and to more quickly access those verses.
 
 ## Available Scripts
 
@@ -19,10 +17,6 @@ In the project directory, you can run:
 Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes. You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
