@@ -7,8 +7,7 @@ db.User = require('../models/user.model');
 db.Passage = require('../models/passage.model');
 db.mongoose = mongoose;
 db.mongoose
-	// .connect(`mongodb://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}@${process.env.MONGODB_HOST}/${process.env.MONGODB_DATABASE}?authSource=${process.env.MONGODB_AUTH_SOURCE}&readPreference=primary&ssl=true&retryWrites=true&w=majority`, {
-	.connect(`mongodb+srv://admin:2fkoswAJz74rkKPA@rsc.2bivzc3.mongodb.net/?retryWrites=true&w=majority`, {
+	.connect(`mongodb+srv://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}@${process.env.MONGODB_HOST}/?retryWrites=true&w=majority`, {
 		useNewUrlParser: true,
 		useUnifiedTopology: true,
 		useFindAndModify: false,
