@@ -11,7 +11,7 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, '..', 'build', 'index.html'));
 });
 
-app.listen(process.env.PORT || 3005, err => {
+app.listen(process.env.PORT || 3000, err => {
   if (err) {
     console.error(`Server start error`, err);
     process.exit();

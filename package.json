@@ -33,6 +33,7 @@
     "web-vitals": "^3.0.4"
   },
   "scripts": {
+    "serve": "node ./server/index.js",
     "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
     "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "test": "react-scripts test",
