@@ -1,6 +1,13 @@
 {
   "version": 2,
   "builds": [
+		{
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "buildCommand": "npm run build"
+      }
+    },
     {
       "src": "server/index.js",
       "use": "@vercel/node"
@@ -8,8 +15,12 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/v1/(.*)",
       "dest": "server/index.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "package.json"
     }
   ]
 }
