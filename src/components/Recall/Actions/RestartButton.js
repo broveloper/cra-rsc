@@ -18,6 +18,7 @@ export const RestartButton = props => {
 	if (completed || verses?.length < 1) return null;
 
 	return <Fab
+		tabIndex="-1"
 		color="secondary"
 		className={className}
 		onClick={resetWords}

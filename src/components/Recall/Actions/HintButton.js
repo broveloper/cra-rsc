@@ -33,6 +33,7 @@ export const HintButton = props => {
 	if (completed || verses?.length < 1) return null;
 
 	return <Fab
+		tabIndex="-1"
 		color="secondary"
 		className={clsx(className, classes.hint, { [classes.hinton]: showHint, [classes.hintoff]: !showHint })}
 		onClick={toggleHint}

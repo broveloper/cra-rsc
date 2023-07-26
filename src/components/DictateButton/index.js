@@ -33,6 +33,7 @@ export const DictateButton = props => {
 	return <>
 		<ThemeProvider theme={micTheme}>
 			<Fab
+				tabIndex="-1"
 				className={clsx(className)}
 				color="primary"
 				onClick={toggle}
