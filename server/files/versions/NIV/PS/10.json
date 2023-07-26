@@ -1,0 +1,232 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 10,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Psalm 10",
+      "type": "heading"
+    },
+    {
+      "text": "Why, Lord, do you stand far off?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why do you hide yourself in times of trouble?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In his arrogance the wicked man hunts down the weak,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who are caught in the schemes he devises.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He boasts about the cravings of his heart;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he blesses the greedy and reviles the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In his pride the wicked man does not seek him;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "in all his thoughts there is no room for God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "His ways are always prosperous;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "your laws are rejected by him;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he sneers at all his enemies.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He says to himself, “Nothing will ever shake me.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He swears, “No one will ever do me harm.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "His mouth is full of lies and threats;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "trouble and evil are under his tongue.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He lies in wait near the villages;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from ambush he murders the innocent.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "His eyes watch in secret for his victims;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "    like a lion in cover he lies in wait.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He lies in wait to catch the helpless;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he catches the helpless and drags them off in his net.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "His victims are crushed, they collapse;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they fall under his strength.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He says to himself, “God will never notice;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he covers his face and never sees.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, Lord! Lift up your hand, O God.",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not forget the helpless.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Why does the wicked man revile God?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Why does he say to himself,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“He won’t call me to account”?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, God, see the trouble of the afflicted;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "you consider their grief and take it in hand.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The victims commit themselves to you;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "you are the helper of the fatherless.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Break the arm of the wicked man;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "call the evildoer to account for his wickedness",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "that would not otherwise be found out.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is King for ever and ever;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the nations will perish from his land.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You, Lord, hear the desire of the afflicted;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you encourage them, and you listen to their cry,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "defending the fatherless and the oppressed,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "so that mere earthly mortals",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "will never again strike terror.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

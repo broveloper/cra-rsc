@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 64,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Hide Me from the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear my voice, O God, in my complaint;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "preserve my life from dread of the enemy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide me from the secret plots of the wicked,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "from the throng of evildoers,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who whet their tongues like swords,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who aim bitter words like arrows,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "shooting from ambush at the blameless,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "shooting at him suddenly and without fear.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They hold fast to their evil purpose;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they talk of laying snares secretly,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "thinking, “Who can see them?”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    They search out injustice,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, “We have accomplished a diligent search.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For the inward mind and heart of a man are deep.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But God shoots his arrow at them;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they are wounded suddenly.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They are brought to ruin, with their own tongues turned against them;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all who see them will wag their heads.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Then all mankind fears;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they tell what God has brought about",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and ponder what he has done.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the righteous one rejoice in the Lord",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and take refuge in him!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all the upright in heart exult!",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

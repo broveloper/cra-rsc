@@ -1,0 +1,121 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 6,
+  "verses": 10,
+  "content": [
+    {
+      "text": "O Lord, Deliver My Life",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: with stringed instruments; according to The Sheminith. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "O Lord, rebuke me not in your anger,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor discipline me in your wrath.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Be gracious to me, O Lord, for I am languishing;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "heal me, O Lord, for my bones are troubled.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul also is greatly troubled.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, O Lord—how long?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn, O Lord, deliver my life;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "save me for the sake of your steadfast love.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For in death there is no remembrance of you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in Sheol who will give you praise?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I am weary with my moaning;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "every night I flood my bed with tears;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I drench my couch with my weeping.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My eye wastes away because of grief;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "it grows weak because of all my foes.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Depart from me, all you workers of evil,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the Lord has heard the sound of my weeping.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has heard my plea;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord accepts my prayer.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All my enemies shall be ashamed and greatly troubled;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall turn back and be put to shame in a moment.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

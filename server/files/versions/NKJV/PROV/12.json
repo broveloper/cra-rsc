@@ -1,0 +1,292 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 12,
+  "verses": 28,
+  "content": [
+    {
+      "text": "The House of the Righteous Shall Stand",
+      "type": "heading"
+    },
+    {
+      "text": "Whoever loves instruction loves knowledge,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who hates correction is stupid.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A good man obtains favor from the Lord,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a man of wicked intentions He will condemn.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A man is not established by wickedness,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the root of the righteous cannot be moved.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "An excellent wife is the crown of her husband,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But she who causes shame is like rottenness in his bones.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The thoughts of the righteous are right,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the counsels of the wicked are deceitful.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of the wicked are, “Lie in wait for blood,”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But the mouth of the upright will deliver them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked are overthrown and are no more,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the house of the righteous will stand.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A man will be commended according to his wisdom,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who is of a perverse heart will be despised.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Better is the one who is slighted but has a servant,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than he who honors himself but lacks bread.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "A righteous man regards the life of his animal,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the tender mercies of the wicked are cruel.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He who tills his land will be satisfied with bread,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who follows frivolity is devoid of understanding.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked covet the catch of evil men,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the root of the righteous yields fruit.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked is ensnared by the transgression of his lips,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But the righteous will come through trouble.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "A man will be satisfied with good by the fruit of his mouth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And the recompense of a man’s hands will be rendered to him.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of a fool is right in his own eyes,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who heeds counsel is wise.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A fool’s wrath is known at once,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But a prudent man covers shame.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He who speaks truth declares righteousness,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a false witness, deceit.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "There is one who speaks like the piercings of a sword,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But the tongue of the wise promotes health.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The truthful lip shall be established forever,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But a lying tongue is but for a moment.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Deceit is in the heart of those who devise evil,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But counselors of peace have joy.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "No grave trouble will overtake the righteous,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wicked shall be filled with evil.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Lying lips are an abomination to the Lord,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "But those who deal truthfully are His delight.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A prudent man conceals knowledge,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the heart of fools proclaims foolishness.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The hand of the diligent will rule,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the lazy man will be put to forced labor.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Anxiety in the heart of man causes depression,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a good word makes it glad.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous should choose his friends carefully,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the way of the wicked leads them astray.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The lazy man does not roast what he took in hunting,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But diligence is man’s precious possession.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "In the way of righteousness is life,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And in its pathway there is no death.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

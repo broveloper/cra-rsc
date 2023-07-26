@@ -1,0 +1,152 @@
+{
+  "book_id": "ROM",
+  "book_name": "Romans",
+  "chapter": 2,
+  "verses": 29,
+  "content": [
+    {
+      "text": "Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.",
+      "verse": 1
+    },
+    {
+      "text": "But we are sure that the judgment of God is according to truth against them which commit such things.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God?",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance?",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Who will render to every man according to his deeds:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "For there is no respect of persons with God.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law;",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "(For not the hearers of the law are just before God, but the doers of the law shall be justified.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;)",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "And knowest his will, and approvest the things that are more excellent, being instructed out of the law;",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "An instructor of the foolish, a teacher of babes, which hast the form of knowledge and of the truth in the law.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Thou that sayest a man should not commit adultery, dost thou commit adultery? thou that abhorrest idols, dost thou commit sacrilege?",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "Thou that makest thy boast of the law, through breaking the law dishonourest thou God?",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "For the name of God is blasphemed among the Gentiles through you, as it is written.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "For circumcision verily profiteth, if thou keep the law: but if thou be a breaker of the law, thy circumcision is made uncircumcision.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh:",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.",
+      "verse": 29,
+      "type": "newline"
+    }
+  ]
+}

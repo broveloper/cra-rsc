@@ -1,0 +1,386 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 22,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Why Have You Forsaken Me?",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: according to The Doe of the Dawn. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "My God, my God, why have you forsaken me?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why are you so far from saving me, from the words of my groaning?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O my God, I cry by day, but you do not answer,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and by night, but I find no rest.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you are holy,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "enthroned on the praises of Israel.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In you our fathers trusted;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they trusted, and you delivered them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To you they cried and were rescued;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in you they trusted and were not put to shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But I am a worm and not a man,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "scorned by mankind and despised by the people.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All who see me mock me;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they make mouths at me; they wag their heads;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“He trusts in the Lord; let him deliver him;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "let him rescue him, for he delights in him!”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you are he who took me from the womb;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you made me trust you at my mother's breasts.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "On you was I cast from my birth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and from my mother's womb you have been my God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Be not far from me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for trouble is near,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and there is none to help.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Many bulls encompass me;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "strong bulls of Bashan surround me;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they open wide their mouths at me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "like a ravening and roaring lion.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I am poured out like water,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and all my bones are out of joint;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "my heart is like wax;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "it is melted within my breast;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "my strength is dried up like a potsherd,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and my tongue sticks to my jaws;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you lay me in the dust of death.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For dogs encompass me;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a company of evildoers encircles me;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they have pierced my hands and feet—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I can count all my bones—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they stare and gloat over me;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they divide my garments among them,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and for my clothing they cast lots.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, O Lord, do not be far off!",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O you my help, come quickly to my aid!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver my soul from the sword,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "my precious life from the power of the dog!",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "    Save me from the mouth of the lion!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "You have rescued me from the horns of the wild oxen!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I will tell of your name to my brothers;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the midst of the congregation I will praise you:",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "You who fear the Lord, praise him!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "All you offspring of Jacob, glorify him,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and stand in awe of him, all you offspring of Israel!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "For he has not despised or abhorred",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "the affliction of the afflicted,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and he has not hidden his face from him,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "but has heard, when he cried to him.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "From you comes my praise in the great congregation;",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my vows I will perform before those who fear him.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The afflicted shall eat and be satisfied;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "those who seek him shall praise the Lord!",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "May your hearts live forever!",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "All the ends of the earth shall remember",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and turn to the Lord,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the families of the nations",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "shall worship before you.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For kingship belongs to the Lord,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and he rules over the nations.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "All the prosperous of the earth eat and worship;",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "before him shall bow all who go down to the dust,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "even the one who could not keep himself alive.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Posterity shall serve him;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "it shall be told of the Lord to the coming generation;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall come and proclaim his righteousness to a people yet unborn,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "that he has done it.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

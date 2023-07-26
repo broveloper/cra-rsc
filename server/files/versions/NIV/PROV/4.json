@@ -1,0 +1,287 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 4,
+  "verses": 27,
+  "content": [
+    {
+      "text": "Get Wisdom at Any Cost",
+      "type": "heading"
+    },
+    {
+      "text": "Listen, my sons, to a father’s instruction;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "pay attention and gain understanding.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I give you sound learning,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "so do not forsake my teaching.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For I too was a son to my father,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "still tender, and cherished by my mother.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he taught me, and he said to me,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Take hold of my words with all your heart;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "keep my commands, and you will live.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Get wisdom, get understanding;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "do not forget my words or turn away from them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not forsake wisdom, and she will protect you;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "love her, and she will watch over you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The beginning of wisdom is this: Get wisdom.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Though it cost all you have, get understanding.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Cherish her, and she will exalt you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "embrace her, and she will honor you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "She will give you a garland to grace your head",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and present you with a glorious crown.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen, my son, accept what I say,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the years of your life will be many.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I instruct you in the way of wisdom",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and lead you along straight paths.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "When you walk, your steps will not be hampered;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "when you run, you will not stumble.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Hold on to instruction, do not let it go;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "guard it well, for it is your life.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not set foot on the path of the wicked",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "or walk in the way of evildoers.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Avoid it, do not travel on it;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "turn from it and go on your way.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For they cannot rest until they do evil;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they are robbed of sleep till they make someone stumble.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They eat the bread of wickedness",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and drink the wine of violence.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The path of the righteous is like the morning sun,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "shining ever brighter till the full light of day.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But the way of the wicked is like deep darkness;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "they do not know what makes them stumble.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, pay attention to what I say;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "turn your ear to my words.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let them out of your sight,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "keep them within your heart;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for they are life to those who find them",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and health to one’s whole body.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Above all else, guard your heart,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "for everything you do flows from it.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep your mouth free of perversity;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "keep corrupt talk far from your lips.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your eyes look straight ahead;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "fix your gaze directly before you.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Give careful thought to the paths for your feet",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and be steadfast in all your ways.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not turn to the right or the left;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "keep your foot from evil.",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

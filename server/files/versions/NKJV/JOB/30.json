@@ -1,0 +1,342 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 30,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Job’s Wealth Now Poverty",
+      "type": "heading"
+    },
+    {
+      "text": "“But now they mock at me, men younger than I,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whose fathers I disdained to put with the dogs of my flock.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, what profit is the strength of their hands to me?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Their vigor has perished.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They are gaunt from want and famine,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Fleeing late to the wilderness, desolate and waste,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who pluck mallow by the bushes,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And broom tree roots for their food.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They were driven out from among men,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They shouted at them as at a thief.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They had to live in the clefts of the valleys,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In caves of the earth and the rocks.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the bushes they brayed,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Under the nettles they nestled.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They were sons of fools,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, sons of vile men;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They were scourged from the land.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“And now I am their taunting song;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, I am their byword.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They abhor me, they keep far from me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not hesitate to spit in my face.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Because He has loosed my bowstring and afflicted me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They have cast off restraint before me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "At my right hand the rabble arises;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They push away my feet,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And they raise against me their ways of destruction.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They break up my path,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They promote my calamity;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They have no helper.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They come as broad breakers;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Under the ruinous storm they roll along.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Terrors are turned upon me;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They pursue my honor as the wind,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And my prosperity has passed like a cloud.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“And now my soul is poured out because of my plight;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The days of affliction take hold of me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "My bones are pierced in me at night,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And my gnawing pains take no rest.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "By great force my garment is disfigured;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "It binds me about as the collar of my coat.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He has cast me into the mire,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And I have become like dust and ashes.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“I cry out to You, but You do not answer me;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I stand up, and You regard me.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But You have become cruel to me;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "With the strength of Your hand You oppose me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "You lift me up to the wind and cause me to ride on it;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "You spoil my success.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For I know that You will bring me to death,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the house appointed for all living.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely He would not stretch out His hand against a heap of ruins,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "If they cry out when He destroys it.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Have I not wept for him who was in trouble?",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Has not my soul grieved for the poor?",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "But when I looked for good, evil came to me;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And when I waited for light, then came darkness.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart is in turmoil and cannot rest;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Days of affliction confront me.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "I go about mourning, but not in the sun;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I stand up in the assembly and cry out for help.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I am a brother of jackals,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And a companion of ostriches.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "My skin grows black and falls from me;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "My bones burn with fever.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "My harp is turned to mourning,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And my flute to the voice of those who weep.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

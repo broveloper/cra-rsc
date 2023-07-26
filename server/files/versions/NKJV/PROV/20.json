@@ -1,0 +1,317 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 20,
+  "verses": 30,
+  "content": [
+    {
+      "text": "Wine Is a Mocker",
+      "type": "heading"
+    },
+    {
+      "text": "Wine is a mocker,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Strong drink is a brawler,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And whoever is led astray by it is not wise.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The wrath of a king is like the roaring of a lion;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whoever provokes him to anger sins against his own life.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "It is honorable for a man to stop striving,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Since any fool can start a quarrel.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The lazy man will not plow because of winter;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He will beg during harvest and have nothing.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Counsel in the heart of man is like deep water,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a man of understanding will draw it out.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Most men will proclaim each his own goodness,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But who can find a faithful man?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous man walks in his integrity;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His children are blessed after him.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A king who sits on the throne of judgment",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Scatters all evil with his eyes.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can say, “I have made my heart clean,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I am pure from my sin”?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Diverse weights and diverse measures,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They are both alike, an abomination to the Lord.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Even a child is known by his deeds,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whether what he does is pure and right.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The hearing ear and the seeing eye,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord has made them both.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not love sleep, lest you come to poverty;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Open your eyes, and you will be satisfied with bread.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“It is good for nothing,” cries the buyer;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But when he has gone his way, then he boasts.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "There is gold and a multitude of rubies,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the lips of knowledge are a precious jewel.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Take the garment of one who is surety for a stranger,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And hold it as a pledge when it is for a seductress.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Bread gained by deceit is sweet to a man,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But afterward his mouth will be filled with gravel.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Plans are established by counsel;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "By wise counsel wage war.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He who goes about as a talebearer reveals secrets;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore do not associate with one who flatters with his lips.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever curses his father or his mother,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His lamp will be put out in deep darkness.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "An inheritance gained hastily at the beginning",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will not be blessed at the end.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not say, “I will recompense evil”;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Wait for the Lord, and He will save you.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Diverse weights are an abomination to the Lord,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And dishonest scales are not good.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "A man’s steps are of the Lord;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How then can a man understand his own way?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "It is a snare for a man to devote rashly something as holy,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And afterward to reconsider his vows.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "A wise king sifts out the wicked,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And brings the threshing wheel over them.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The spirit of a man is the lamp of the Lord,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Searching all the inner depths of his heart.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Mercy and truth preserve the king,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And by lovingkindness he upholds his throne.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The glory of young men is their strength,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the splendor of old men is their gray head.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Blows that hurt cleanse away evil,",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As do stripes the inner depths of the heart.",
+      "verse": 30,
+      "type": "poetry"
+    }
+  ]
+}

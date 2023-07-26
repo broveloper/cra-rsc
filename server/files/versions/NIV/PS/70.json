@@ -1,0 +1,96 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 70,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Psalm 70",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. Of David. A petition.",
+      "type": "title"
+    },
+    {
+      "text": "Hasten, O God, to save me;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "come quickly, Lord, to help me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "May those who want to take my life",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "be put to shame and confusion;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "may all who desire my ruin",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "be turned back in disgrace.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May those who say to me, “Aha! Aha!”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "turn back because of their shame.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But may all who seek you",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "rejoice and be glad in you;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "may those who long for your saving help always say,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord is great!”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But as for me, I am poor and needy;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "come quickly to me, O God.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my help and my deliverer;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, do not delay.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

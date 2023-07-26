@@ -1,0 +1,402 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 23,
+  "verses": 35,
+  "content": [
+    {
+      "text": "Listen to Your Father",
+      "type": "heading"
+    },
+    {
+      "text": "When you sit down to eat with a ruler,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Consider carefully what is before you;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And put a knife to your throat",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "If you are a man given to appetite.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not desire his delicacies,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For they are deceptive food.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not overwork to be rich;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because of your own understanding, cease!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Will you set your eyes on that which is not?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For riches certainly make themselves wings;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They fly away like an eagle toward heaven.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not eat the bread of a miser,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor desire his delicacies;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For as he thinks in his heart, so is he.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Eat and drink!” he says to you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But his heart is not with you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The morsel you have eaten, you will vomit up,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And waste your pleasant words.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not speak in the hearing of a fool,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For he will despise the wisdom of your words.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not remove the ancient landmark,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor enter the fields of the fatherless;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For their Redeemer is mighty;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He will plead their cause against you.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Apply your heart to instruction,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And your ears to words of knowledge.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not withhold correction from a child,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For if you beat him with a rod, he will not die.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall beat him with a rod,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And deliver his soul from hell.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, if your heart is wise,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My heart will rejoice—indeed, I myself;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, my inmost being will rejoice",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "When your lips speak right things.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let your heart envy sinners,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But be zealous for the fear of the Lord all the day;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For surely there is a hereafter,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And your hope will not be cut off.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear, my son, and be wise;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And guide your heart in the way.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not mix with winebibbers,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Or with gluttonous eaters of meat;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the drunkard and the glutton will come to poverty,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And drowsiness will clothe a man with rags.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen to your father who begot you,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And do not despise your mother when she is old.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Buy the truth, and do not sell it,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Also wisdom and instruction and understanding.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The father of the righteous will greatly rejoice,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who begets a wise child will delight in him.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your father and your mother be glad,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And let her who bore you rejoice.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, give me your heart,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let your eyes observe my ways.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "For a harlot is a deep pit,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And a seductress is a narrow well.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "She also lies in wait as for a victim,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And increases the unfaithful among men.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has woe?",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who has sorrow?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has contentions?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has complaints?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has wounds without cause?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has redness of eyes?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who linger long at the wine,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who go in search of mixed wine.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not look on the wine when it is red,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "When it sparkles in the cup,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "When it swirls around smoothly;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "At the last it bites like a serpent,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And stings like a viper.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Your eyes will see strange things,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "And your heart will utter perverse things.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, you will be like one who lies down in the midst of the sea,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Or like one who lies at the top of the mast, saying:",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "“They have struck me, but I was not hurt;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "They have beaten me, but I did not feel it.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "When shall I awake, that I may seek another drink?”",
+      "verse": 35,
+      "type": "poetry"
+    }
+  ]
+}

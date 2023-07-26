@@ -1,0 +1,391 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 35,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Psalm 35",
+      "type": "heading"
+    },
+    {
+      "text": "Of David.",
+      "type": "title"
+    },
+    {
+      "text": "Contend, Lord, with those who contend with me;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "fight against those who fight against me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Take up shield and armor;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "arise and come to my aid.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Brandish spear and javelin",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "against those who pursue me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Say to me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am your salvation.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May those who seek my life",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "be disgraced and put to shame;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "may those who plot my ruin",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "be turned back in dismay.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May they be like chaff before the wind,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "with the angel of the Lord driving them away;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "may their path be dark and slippery,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with the angel of the Lord pursuing them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Since they hid their net for me without cause",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and without cause dug a pit for me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "may ruin overtake them by surprise—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "may the net they hid entangle them,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "may they fall into the pit, to their ruin.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Then my soul will rejoice in the Lord",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and delight in his salvation.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My whole being will exclaim,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who is like you, Lord?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You rescue the poor from those too strong for them,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the poor and needy from those who rob them.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Ruthless witnesses come forward;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they question me on things I know nothing about.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They repay me evil for good",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and leave me like one bereaved.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet when they were ill, I put on sackcloth",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and humbled myself with fasting.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "When my prayers returned to me unanswered,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "    I went about mourning",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "as though for my friend or brother.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I bowed my head in grief",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "as though weeping for my mother.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But when I stumbled, they gathered in glee;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "assailants gathered against me without my knowledge.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They slandered me without ceasing.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the ungodly they maliciously mocked;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they gnashed their teeth at me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, Lord, will you look on?",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Rescue me from their ravages,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "my precious life from these lions.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give you thanks in the great assembly;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "among the throngs I will praise you.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let those gloat over me",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "who are my enemies without cause;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "do not let those who hate me without reason",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "maliciously wink the eye.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not speak peaceably,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "but devise false accusations",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "against those who live quietly in the land.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They sneer at me and say, “Aha! Aha!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "With our own eyes we have seen it.”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, you have seen this; do not be silent.",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not be far from me, Lord.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, and rise to my defense!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Contend for me, my God and Lord.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Vindicate me in your righteousness, Lord my God;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "do not let them gloat over me.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let them think, “Aha, just what we wanted!”",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "or say, “We have swallowed him up.”",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "May all who gloat over my distress",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "be put to shame and confusion;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "may all who exalt themselves over me",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "be clothed with shame and disgrace.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "May those who delight in my vindication",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "shout for joy and gladness;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "may they always say, “The Lord be exalted,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "who delights in the well-being of his servant.”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "My tongue will proclaim your righteousness,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your praises all day long.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

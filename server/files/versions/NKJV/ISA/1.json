@@ -1,0 +1,610 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 1,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Judah Called to Repentance",
+      "type": "heading"
+    },
+    {
+      "text": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "The Wickedness of Judah",
+      "type": "heading"
+    },
+    {
+      "text": "Hear, O heavens, and give ear, O earth!",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the Lord has spoken:",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have nourished and brought up children,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And they have rebelled against Me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The ox knows its owner",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And the donkey its master’s crib;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But Israel does not know,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My people do not consider.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Alas, sinful nation,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A people laden with iniquity,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A brood of evildoers,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Children who are corrupters!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They have forsaken the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They have provoked to anger",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Holy One of Israel,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They have turned away backward.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should you be stricken again?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You will revolt more and more.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The whole head is sick,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the whole heart faints.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "From the sole of the foot even to the head,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no soundness in it,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But wounds and bruises and putrefying sores;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have not been closed or bound up,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Or soothed with ointment.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Your country is desolate,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your cities are burned with fire;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Strangers devour your land in your presence;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And it is desolate, as overthrown by strangers.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "So the daughter of Zion is left as a booth in a vineyard,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "As a hut in a garden of cucumbers,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "As a besieged city.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless the Lord of hosts",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Had left to us a very small remnant,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "We would have become like Sodom,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "We would have been made like Gomorrah.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear the word of the Lord,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You rulers of Sodom;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Give ear to the law of our God,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You people of Gomorrah:",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“To what purpose is the multitude of your sacrifices to Me?”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have had enough of burnt offerings of rams",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fat of fed cattle.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I do not delight in the blood of bulls,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Or of lambs or goats.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“When you come to appear before Me,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who has required this from your hand,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "To trample My courts?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring no more futile sacrifices;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Incense is an abomination to Me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The New Moons, the Sabbaths, and the calling of assemblies—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I cannot endure iniquity and the sacred meeting.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Your New Moons and your appointed feasts",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul hates;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They are a trouble to Me,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I am weary of bearing them.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "When you spread out your hands,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will hide My eyes from you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Even though you make many prayers,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not hear.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Your hands are full of blood.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Wash yourselves, make yourselves clean;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Put away the evil of your doings from before My eyes.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Cease to do evil,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Learn to do good;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek justice,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Rebuke the oppressor;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Defend the fatherless,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Plead for the widow.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come now, and let us reason together,”",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Says the Lord,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Though your sins are like scarlet,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be as white as snow;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they are red like crimson,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be as wool.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "If you are willing and obedient,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall eat the good of the land;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But if you refuse and rebel,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall be devoured by the sword”;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the mouth of the Lord has spoken.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The Degenerate City",
+      "type": "heading"
+    },
+    {
+      "text": "How the faithful city has become a harlot!",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "It was full of justice;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Righteousness lodged in it,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But now murderers.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Your silver has become dross,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wine mixed with water.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Your princes are rebellious,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And companions of thieves;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone loves bribes,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And follows after rewards.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not defend the fatherless,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does the cause of the widow come before them.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the Lord says,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord of hosts, the Mighty One of Israel,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“Ah, I will rid Myself of My adversaries,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And take vengeance on My enemies.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn My hand against you,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And thoroughly purge away your dross,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And take away all your alloy.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I will restore your judges as at the first,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And your counselors as at the beginning.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Afterward you shall be called the city of righteousness, the faithful city.”",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Zion shall be redeemed with justice,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And her penitents with righteousness.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The destruction of transgressors and of sinners shall be together,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who forsake the Lord shall be consumed.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "For they shall be ashamed of the terebinth trees",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Which you have desired;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall be embarrassed because of the gardens",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Which you have chosen.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "For you shall be as a terebinth whose leaf fades,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And as a garden that has no water.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The strong shall be as tinder,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And the work of it as a spark;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Both will burn together,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And no one shall quench them.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

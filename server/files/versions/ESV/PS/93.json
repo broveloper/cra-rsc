@@ -1,0 +1,82 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 93,
+  "verses": 5,
+  "content": [
+    {
+      "text": "The Lord Reigns",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord reigns; he is robed in majesty;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord is robed; he has put on strength as his belt.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, the world is established; it shall never be moved.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your throne is established from of old;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "you are from everlasting.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The floods have lifted up, O Lord,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the floods have lifted up their voice;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the floods lift up their roaring.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Mightier than the thunders of many waters,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "mightier than the waves of the sea,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord on high is mighty!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your decrees are very trustworthy;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "holiness befits your house,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, forevermore.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

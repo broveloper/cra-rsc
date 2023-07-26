@@ -1,0 +1,287 @@
+{
+  "book_id": "NUM",
+  "book_name": "Numbers",
+  "chapter": 33,
+  "verses": 56,
+  "content": [
+    {
+      "text": "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
+      "verse": 1
+    },
+    {
+      "text": "And Moses wrote their goings out according to their journeys by the commandment of the Lord: and these are their journeys according to their goings out.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For the Egyptians buried all their firstborn, which the Lord had smitten among them: upon their gods also the Lord executed judgments.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "And the children of Israel removed from Rameses, and pitched in Succoth.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days'journey in the wilderness of Etham, and pitched in Marah.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Elim, and encamped by the Red sea.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from the Red sea, and encamped in the wilderness of Sin.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Dophkah, and encamped in Alush.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Rephidim, and pitched in the wilderness of Sinai.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from the desert of Sinai, and pitched at Kibrothhattaavah.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Kibrothhattaavah, and encamped at Hazeroth.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Hazeroth, and pitched in Rithmah.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Rithmah, and pitched at Rimmonparez.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Rimmonparez, and pitched in Libnah.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Libnah, and pitched at Rissah.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "And they journeyed from Rissah, and pitched in Kehelathah.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "And they went from Kehelathah, and pitched in mount Shapher.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from mount Shapher, and encamped in Haradah.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Haradah, and pitched in Makheloth.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Makheloth, and encamped at Tahath.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Tahath, and pitched at Tarah.",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Tarah, and pitched in Mithcah.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "And they went from Mithcah, and pitched in Hashmonah.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Hashmonah, and encamped at Moseroth.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Moseroth, and pitched in Benejaakan.",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Benejaakan, and encamped at Horhagidgad.",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "And they went from Horhagidgad, and pitched in Jotbathah.",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Jotbathah, and encamped at Ebronah.",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Ebronah, and encamped at Eziongaber.",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Eziongaber, and pitched in the wilderness of Zin, which is Kadesh.",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "And Aaron the priest went up into mount Hor at the commandment of the Lord, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "And Aaron was an hundred and twenty and three years old when he died in mount Hor.",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from mount Hor, and pitched in Zalmonah.",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Zalmonah, and pitched in Punon.",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Punon, and pitched in Oboth.",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Oboth, and pitched in Ijeabarim, in the border of Moab.",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from Iim, and pitched in Dibongad.",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Dibongad, and encamped in Almondiblathaim.",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "And they removed from Almondiblathaim, and pitched in the mountains of Abarim, before Nebo.",
+      "verse": 47,
+      "type": "newline"
+    },
+    {
+      "text": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho.",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "And they pitched by Jordan, from Bethjesimoth even unto Abelshittim in the plains of Moab.",
+      "verse": 49,
+      "type": "newline"
+    },
+    {
+      "text": "And the Lord spake unto Moses in the plains of Moab by Jordan near Jericho, saying,",
+      "verse": 50,
+      "type": "newline"
+    },
+    {
+      "text": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;",
+      "verse": 51,
+      "type": "newline"
+    },
+    {
+      "text": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:",
+      "verse": 52,
+      "type": "newline"
+    },
+    {
+      "text": "And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.",
+      "verse": 53,
+      "type": "newline"
+    },
+    {
+      "text": "And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man's inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.",
+      "verse": 54,
+      "type": "newline"
+    },
+    {
+      "text": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.",
+      "verse": 55,
+      "type": "newline"
+    },
+    {
+      "text": "Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.",
+      "verse": 56,
+      "type": "newline"
+    }
+  ]
+}

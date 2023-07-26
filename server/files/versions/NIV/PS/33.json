@@ -1,0 +1,232 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 33,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Psalm 33",
+      "type": "heading"
+    },
+    {
+      "text": "Sing joyfully to the Lord, you righteous;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "it is fitting for the upright to praise him.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord with the harp;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "make music to him on the ten-stringed lyre.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to him a new song;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "play skillfully, and shout for joy.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For the word of the Lord is right and true;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he is faithful in all he does.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord loves righteousness and justice;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth is full of his unfailing love.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "By the word of the Lord the heavens were made,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "their starry host by the breath of his mouth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He gathers the waters of the sea into jars;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he puts the deep into storehouses.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all the earth fear the Lord;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "let all the people of the world revere him.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For he spoke, and it came to be;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he commanded, and it stood firm.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord foils the plans of the nations;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he thwarts the purposes of the peoples.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But the plans of the Lord stand firm forever,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the purposes of his heart through all generations.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the nation whose God is the Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the people he chose for his inheritance.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "From heaven the Lord looks down",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and sees all mankind;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "from his dwelling place he watches",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "all who live on earth—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "he who forms the hearts of all,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who considers everything they do.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "No king is saved by the size of his army;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "no warrior escapes by his great strength.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "A horse is a vain hope for deliverance;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "despite all its great strength it cannot save.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But the eyes of the Lord are on those who fear him,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "on those whose hope is in his unfailing love,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "to deliver them from death",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and keep them alive in famine.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "We wait in hope for the Lord;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he is our help and our shield.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "In him our hearts rejoice,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for we trust in his holy name.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "May your unfailing love be with us, Lord,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "even as we put our hope in you.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

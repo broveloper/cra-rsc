@@ -1,0 +1,327 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 24,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Job Complains of Violence on the Earth",
+      "type": "heading"
+    },
+    {
+      "text": "“Since times are not hidden from the Almighty,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why do those who know Him see not His days?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Some remove landmarks;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They seize flocks violently and feed on them;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They drive away the donkey of the fatherless;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They take the widow’s ox as a pledge.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They push the needy off the road;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "All the poor of the land are forced to hide.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, like wild donkeys in the desert,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They go out to their work, searching for food.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The wilderness yields food for them and for their children.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They gather their fodder in the field",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And glean in the vineyard of the wicked.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They spend the night naked, without clothing,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And have no covering in the cold.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They are wet with the showers of the mountains,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And huddle around the rock for want of shelter.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Some snatch the fatherless from the breast,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And take a pledge from the poor.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They cause the poor to go naked, without clothing;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And they take away the sheaves from the hungry.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They press out oil within their walls,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And tread winepresses, yet suffer thirst.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The dying groan in the city,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And the souls of the wounded cry out;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet God does not charge them with wrong.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“There are those who rebel against the light;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They do not know its ways",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor abide in its paths.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The murderer rises with the light;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He kills the poor and needy;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the night he is like a thief.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The eye of the adulterer waits for the twilight,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying, ‘No eye will see me’;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And he disguises his face.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "In the dark they break into houses",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Which they marked for themselves in the daytime;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not know the light.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the morning is the same to them as the shadow of death;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "If someone recognizes them,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They are in the terrors of the shadow of death.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“They should be swift on the face of the waters,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Their portion should be cursed in the earth,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "So that no one would turn into the way of their vineyards.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As drought and heat consume the snow waters,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "So the grave consumes those who have sinned.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The womb should forget him,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The worm should feed sweetly on him;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He should be remembered no more,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And wickedness should be broken like a tree.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For he preys on the barren who do not bear,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And does no good for the widow.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“But God draws the mighty away with His power;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He rises up, but no man is sure of life.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives them security, and they rely on it;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet His eyes are on their ways.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They are exalted for a little while,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they are gone.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "They are brought low;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "They are taken out of the way like all others;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "They dry out like the heads of grain.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“Now if it is not so, who will prove me a liar,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And make my speech worth nothing?”",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

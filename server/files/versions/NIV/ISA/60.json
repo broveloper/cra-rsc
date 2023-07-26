@@ -1,0 +1,447 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 60,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Glory of Zion",
+      "type": "heading"
+    },
+    {
+      "text": "“Arise, shine, for your light has come,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the glory of the Lord rises upon you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "See, darkness covers the earth",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and thick darkness is over the peoples,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but the Lord rises upon you",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and his glory appears over you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Nations will come to your light,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and kings to the brightness of your dawn.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Lift up your eyes and look about you:",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All assemble and come to you;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "your sons come from afar,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and your daughters are carried on the hip.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will look and be radiant,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "your heart will throb and swell with joy;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the wealth on the seas will be brought to you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "to you the riches of the nations will come.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Herds of camels will cover your land,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "young camels of Midian and Ephah.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And all from Sheba will come,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "bearing gold and incense",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and proclaiming the praise of the Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All Kedar’s flocks will be gathered to you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the rams of Nebaioth will serve you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be accepted as offerings on my altar,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will adorn my glorious temple.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who are these that fly along like clouds,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "like doves to their nests?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the islands look to me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in the lead are the ships of Tarshish,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "bringing your children from afar,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "with their silver and gold,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to the honor of the Lord your God,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the Holy One of Israel,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for he has endowed you with splendor.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Foreigners will rebuild your walls,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and their kings will serve you.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Though in anger I struck you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "in favor I will show you compassion.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your gates will always stand open,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they will never be shut, day or night,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "so that people may bring you the wealth of the nations—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "their kings led in triumphal procession.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For the nation or kingdom that will not serve you will perish;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "it will be utterly ruined.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“The glory of Lebanon will come to you,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the juniper, the fir and the cypress together,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "to adorn my sanctuary;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will glorify the place for my feet.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The children of your oppressors will come bowing before you;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "all who despise you will bow down at your feet",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and will call you the City of the Lord,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Zion of the Holy One of Israel.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Although you have been forsaken and hated,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with no one traveling through,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make you the everlasting pride",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the joy of all generations.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You will drink the milk of nations",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and be nursed at royal breasts.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will know that I, the Lord, am your Savior,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "your Redeemer, the Mighty One of Jacob.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Instead of bronze I will bring you gold,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and silver in place of iron.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Instead of wood I will bring you bronze,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and iron in place of stones.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make peace your governor",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and well-being your ruler.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "No longer will violence be heard in your land,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "nor ruin or destruction within your borders,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "but you will call your walls Salvation",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and your gates Praise.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun will no more be your light by day,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will the brightness of the moon shine on you,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord will be your everlasting light,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and your God will be your glory.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Your sun will never set again,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and your moon will wane no more;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord will be your everlasting light,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and your days of sorrow will end.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Then all your people will be righteous",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will possess the land forever.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They are the shoot I have planted,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "the work of my hands,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for the display of my splendor.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The least of you will become a thousand,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the smallest a mighty nation.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I am the Lord;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "in its time I will do this swiftly.”",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "book_id": "MATT",
+  "book_name": "Matthew",
+  "chapter": 26,
+  "verses": 75,
+  "content": [
+    {
+      "text": "The Plot Against Jesus",
+      "type": "heading"
+    },
+    {
+      "text": "When Jesus had finished saying all these things, he said to his disciples,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified.”",
+      "verse": 2
+    },
+    {
+      "text": "Then the chief priests and the elders of the people assembled in the palace of the high priest, whose name was Caiaphas,",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "and they schemed to arrest Jesus secretly and kill him.",
+      "verse": 4
+    },
+    {
+      "text": "“But not during the festival,” they said, “or there may be a riot among the people.”",
+      "verse": 5
+    },
+    {
+      "text": "Jesus Anointed at Bethany",
+      "type": "heading"
+    },
+    {
+      "text": "While Jesus was in Bethany in the home of Simon the Leper,",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "a woman came to him with an alabaster jar of very expensive perfume, which she poured on his head as he was reclining at the table.",
+      "verse": 7
+    },
+    {
+      "text": "When the disciples saw this, they were indignant. “Why this waste?” they asked.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“This perfume could have been sold at a high price and the money given to the poor.”",
+      "verse": 9
+    },
+    {
+      "text": "Aware of this, Jesus said to them, “Why are you bothering this woman? She has done a beautiful thing to me.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "The poor you will always have with you, but you will not always have me.",
+      "verse": 11
+    },
+    {
+      "text": "When she poured this perfume on my body, she did it to prepare me for burial.",
+      "verse": 12
+    },
+    {
+      "text": "Truly I tell you, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.”",
+      "verse": 13
+    },
+    {
+      "text": "Judas Agrees to Betray Jesus",
+      "type": "heading"
+    },
+    {
+      "text": "Then one of the Twelve—the one called Judas Iscariot—went to the chief priests",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "and asked, “What are you willing to give me if I deliver him over to you?” So they counted out for him thirty pieces of silver.",
+      "verse": 15
+    },
+    {
+      "text": "From then on Judas watched for an opportunity to hand him over.",
+      "verse": 16
+    },
+    {
+      "text": "The Last Supper",
+      "type": "heading"
+    },
+    {
+      "text": "On the first day of the Festival of Unleavened Bread, the disciples came to Jesus and asked, “Where do you want us to make preparations for you to eat the Passover?”",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "He replied, “Go into the city to a certain man and tell him, ‘The Teacher says: My appointed time is near. I am going to celebrate the Passover with my disciples at your house.’”",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "So the disciples did as Jesus had directed them and prepared the Passover.",
+      "verse": 19
+    },
+    {
+      "text": "When evening came, Jesus was reclining at the table with the Twelve.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "And while they were eating, he said, “Truly I tell you, one of you will betray me.”",
+      "verse": 21
+    },
+    {
+      "text": "They were very sad and began to say to him one after the other, “Surely you don’t mean me, Lord?”",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus replied, “The one who has dipped his hand into the bowl with me will betray me.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.”",
+      "verse": 24
+    },
+    {
+      "text": "Then Judas, the one who would betray him, said, “Surely you don’t mean me, Rabbi?”",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus answered, “You have said so.”",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you.",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "This is my blood of the covenant, which is poured out for many for the forgiveness of sins.",
+      "verse": 28
+    },
+    {
+      "text": "I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.”",
+      "verse": 29
+    },
+    {
+      "text": "When they had sung a hymn, they went out to the Mount of Olives.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus Predicts Peter’s Denial",
+      "type": "heading"
+    },
+    {
+      "text": "Then Jesus told them, “This very night you will all fall away on account of me, for it is written:",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "“‘I will strike the shepherd,",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the sheep of the flock will be scattered.’",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "But after I have risen, I will go ahead of you into Galilee.”",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "Peter replied, “Even if all fall away on account of you, I never will.”",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "“Truly I tell you,” Jesus answered, “this very night, before the rooster crows, you will disown me three times.”",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "But Peter declared, “Even if I have to die with you, I will never disown you.” And all the other disciples said the same.",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "Gethsemane",
+      "type": "heading"
+    },
+    {
+      "text": "Then Jesus went with his disciples to a place called Gethsemane, and he said to them, “Sit here while I go over there and pray.”",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled.",
+      "verse": 37
+    },
+    {
+      "text": "Then he said to them, “My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.”",
+      "verse": 38
+    },
+    {
+      "text": "Going a little farther, he fell with his face to the ground and prayed, “My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.”",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "Then he returned to his disciples and found them sleeping. “Couldn’t you men keep watch with me for one hour?” he asked Peter.",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "“Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.”",
+      "verse": 41
+    },
+    {
+      "text": "He went away a second time and prayed, “My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.”",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "When he came back, he again found them sleeping, because their eyes were heavy.",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "So he left them and went away once more and prayed the third time, saying the same thing.",
+      "verse": 44
+    },
+    {
+      "text": "Then he returned to the disciples and said to them, “Are you still sleeping and resting? Look, the hour has come, and the Son of Man is delivered into the hands of sinners.",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "Rise! Let us go! Here comes my betrayer!”",
+      "verse": 46
+    },
+    {
+      "text": "Jesus Arrested",
+      "type": "heading"
+    },
+    {
+      "text": "While he was still speaking, Judas, one of the Twelve, arrived. With him was a large crowd armed with swords and clubs, sent from the chief priests and the elders of the people.",
+      "verse": 47,
+      "type": "newline"
+    },
+    {
+      "text": "Now the betrayer had arranged a signal with them: “The one I kiss is the man; arrest him.”",
+      "verse": 48
+    },
+    {
+      "text": "Going at once to Jesus, Judas said, “Greetings, Rabbi!” and kissed him.",
+      "verse": 49
+    },
+    {
+      "text": "Jesus replied, “Do what you came for, friend.”",
+      "verse": 50,
+      "type": "newline"
+    },
+    {
+      "text": "Then the men stepped forward, seized Jesus and arrested him.",
+      "verse": 50,
+      "type": "newline"
+    },
+    {
+      "text": "With that, one of Jesus’ companions reached for his sword, drew it out and struck the servant of the high priest, cutting off his ear.",
+      "verse": 51
+    },
+    {
+      "text": "“Put your sword back in its place,” Jesus said to him, “for all who draw the sword will die by the sword.",
+      "verse": 52,
+      "type": "newline"
+    },
+    {
+      "text": "Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?",
+      "verse": 53
+    },
+    {
+      "text": "But how then would the Scriptures be fulfilled that say it must happen in this way?”",
+      "verse": 54
+    },
+    {
+      "text": "In that hour Jesus said to the crowd, “Am I leading a rebellion, that you have come out with swords and clubs to capture me? Every day I sat in the temple courts teaching, and you did not arrest me.",
+      "verse": 55,
+      "type": "newline"
+    },
+    {
+      "text": "But this has all taken place that the writings of the prophets might be fulfilled.” Then all the disciples deserted him and fled.",
+      "verse": 56
+    },
+    {
+      "text": "Jesus Before the Sanhedrin",
+      "type": "heading"
+    },
+    {
+      "text": "Those who had arrested Jesus took him to Caiaphas the high priest, where the teachers of the law and the elders had assembled.",
+      "verse": 57,
+      "type": "newline"
+    },
+    {
+      "text": "But Peter followed him at a distance, right up to the courtyard of the high priest. He entered and sat down with the guards to see the outcome.",
+      "verse": 58
+    },
+    {
+      "text": "The chief priests and the whole Sanhedrin were looking for false evidence against Jesus so that they could put him to death.",
+      "verse": 59,
+      "type": "newline"
+    },
+    {
+      "text": "But they did not find any, though many false witnesses came forward.",
+      "verse": 60
+    },
+    {
+      "text": "Finally two came forward",
+      "verse": 60,
+      "type": "newline"
+    },
+    {
+      "text": "and declared, “This fellow said, ‘I am able to destroy the temple of God and rebuild it in three days.’”",
+      "verse": 61
+    },
+    {
+      "text": "Then the high priest stood up and said to Jesus, “Are you not going to answer? What is this testimony that these men are bringing against you?”",
+      "verse": 62,
+      "type": "newline"
+    },
+    {
+      "text": "But Jesus remained silent.",
+      "verse": 63
+    },
+    {
+      "text": "The high priest said to him, “I charge you under oath by the living God: Tell us if you are the Messiah, the Son of God.”",
+      "verse": 63,
+      "type": "newline"
+    },
+    {
+      "text": "“You have said so,” Jesus replied. “But I say to all of you: From now on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”",
+      "verse": 64,
+      "type": "newline"
+    },
+    {
+      "text": "Then the high priest tore his clothes and said, “He has spoken blasphemy! Why do we need any more witnesses? Look, now you have heard the blasphemy.",
+      "verse": 65,
+      "type": "newline"
+    },
+    {
+      "text": "What do you think?”",
+      "verse": 66
+    },
+    {
+      "text": "“He is worthy of death,” they answered.",
+      "verse": 66,
+      "type": "newline"
+    },
+    {
+      "text": "Then they spit in his face and struck him with their fists. Others slapped him",
+      "verse": 67,
+      "type": "newline"
+    },
+    {
+      "text": "and said, “Prophesy to us, Messiah. Who hit you?”",
+      "verse": 68
+    },
+    {
+      "text": "Peter Disowns Jesus",
+      "type": "heading"
+    },
+    {
+      "text": "Now Peter was sitting out in the courtyard, and a servant girl came to him. “You also were with Jesus of Galilee,” she said.",
+      "verse": 69,
+      "type": "newline"
+    },
+    {
+      "text": "But he denied it before them all. “I don’t know what you’re talking about,” he said.",
+      "verse": 70,
+      "type": "newline"
+    },
+    {
+      "text": "Then he went out to the gateway, where another servant girl saw him and said to the people there, “This fellow was with Jesus of Nazareth.”",
+      "verse": 71,
+      "type": "newline"
+    },
+    {
+      "text": "He denied it again, with an oath: “I don’t know the man!”",
+      "verse": 72,
+      "type": "newline"
+    },
+    {
+      "text": "After a little while, those standing there went up to Peter and said, “Surely you are one of them; your accent gives you away.”",
+      "verse": 73,
+      "type": "newline"
+    },
+    {
+      "text": "Then he began to call down curses, and he swore to them, “I don’t know the man!”",
+      "verse": 74,
+      "type": "newline"
+    },
+    {
+      "text": "Immediately a rooster crowed.",
+      "verse": 74,
+      "type": "newline"
+    },
+    {
+      "text": "Then Peter remembered the word Jesus had spoken: “Before the rooster crows, you will disown me three times.” And he went outside and wept bitterly.",
+      "verse": 75
+    }
+  ]
+}

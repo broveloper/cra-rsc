@@ -1,0 +1,487 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 66,
+  "verses": 24,
+  "content": [
+    {
+      "text": "True Worship and False",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Heaven is My throne,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And earth is My footstool.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is the house that you will build Me?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And where is the place of My rest?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For all those things My hand has made,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And all those things exist,”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“But on this one will I look:",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "On him who is poor and of a contrite spirit,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And who trembles at My word.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“He who kills a bull is as if he slays a man;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He who sacrifices a lamb, as if he breaks a dog’s neck;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He who offers a grain offering, as if he offers swine’s blood;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He who burns incense, as if he blesses an idol.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Just as they have chosen their own ways,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And their soul delights in their abominations,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "So will I choose their delusions,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And bring their fears on them;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because, when I called, no one answered,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "When I spoke they did not hear;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But they did evil before My eyes,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And chose that in which I do not delight.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Vindicates Zion",
+      "type": "heading"
+    },
+    {
+      "text": "Hear the word of the Lord,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You who tremble at His word:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Your brethren who hated you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Who cast you out for My name’s sake, said,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Let the Lord be glorified,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That we may see your joy.’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But they shall be ashamed.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The sound of noise from the city!",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A voice from the temple!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who fully repays His enemies!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Before she was in labor, she gave birth;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Before her pain came,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "She delivered a male child.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has heard such a thing?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has seen such things?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall the earth be made to give birth in one day?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Or shall a nation be born at once?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For as soon as Zion was in labor,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "She gave birth to her children.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I bring to the time of birth, and not cause delivery?” says the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Shall I who cause delivery shut up the womb?” says your God.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Rejoice with Jerusalem,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And be glad with her, all you who love her;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoice for joy with her, all you who mourn for her;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may feed and be satisfied",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "With the consolation of her bosom,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may drink deeply and be delighted",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "With the abundance of her glory.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“Behold, I will extend peace to her like a river,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the glory of the Gentiles like a flowing stream.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you shall feed;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "On her sides shall you be carried,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And be dandled on her knees.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "As one whom his mother comforts,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So I will comfort you;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall be comforted in Jerusalem.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Reign and Indignation of God",
+      "type": "heading"
+    },
+    {
+      "text": "When you see this, your heart shall rejoice,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And your bones shall flourish like grass;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The hand of the Lord shall be known to His servants,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And His indignation to His enemies.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, the Lord will come with fire",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And with His chariots, like a whirlwind,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "To render His anger with fury,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And His rebuke with flames of fire.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For by fire and by His sword",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will judge all flesh;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And the slain of the Lord shall be many.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Those who sanctify themselves and purify themselves,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To go to the gardens",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "After an idol in the midst,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Eating swine’s flesh and the abomination and the mouse,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be consumed together,” says the Lord.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“For I know their works and their thoughts. It shall be that I will gather all nations and tongues; and they shall come and see My glory. ",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "I will set a sign among them; and those among them who escape I will send to the nations: to Tarshish and Pul and Lud, who draw the bow, and Tubal and Javan, to the coastlands afar off who have not heard My fame nor seen My glory. And they shall declare My glory among the Gentiles. ",
+      "verse": 19
+    },
+    {
+      "text": "Then they shall bring all your brethren for an offering to the Lord out of all nations, on horses and in chariots and in litters, on mules and on camels, to My holy mountain Jerusalem,” says the Lord, “as the children of Israel bring an offering in a clean vessel into the house of the Lord. ",
+      "verse": 20
+    },
+    {
+      "text": "And I will also take some of them for priests and Levites,” says the Lord.",
+      "verse": 21
+    },
+    {
+      "text": "“For as the new heavens and the new earth",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Which I will make shall remain before Me,” says the Lord,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“So shall your descendants and your name remain.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall come to pass",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "That from one New Moon to another,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And from one Sabbath to another,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "All flesh shall come to worship before Me,” says the Lord.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“And they shall go forth and look",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Upon the corpses of the men",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have transgressed against Me.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For their worm does not die,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And their fire is not quenched.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be an abhorrence to all flesh.”",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

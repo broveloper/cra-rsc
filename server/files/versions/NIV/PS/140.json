@@ -1,0 +1,161 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 140,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Psalm 140",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Rescue me, Lord, from evildoers;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "protect me from the violent,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "who devise evil plans in their hearts",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and stir up war every day.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They make their tongues as sharp as a serpent’s;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the poison of vipers is on their lips.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep me safe, Lord, from the hands of the wicked;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "protect me from the violent,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who devise ways to trip my feet.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The arrogant have hidden a snare for me;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they have spread out the cords of their net",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and have set traps for me along my path.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I say to the Lord, “You are my God.”",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Hear, Lord, my cry for mercy.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Sovereign Lord, my strong deliverer,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you shield my head in the day of battle.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not grant the wicked their desires, Lord;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "do not let their plans succeed.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who surround me proudly rear their heads;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may the mischief of their lips engulf them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "May burning coals fall on them;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "may they be thrown into the fire,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "into miry pits, never to rise.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "May slanderers not be established in the land;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "may disaster hunt down the violent.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I know that the Lord secures justice for the poor",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and upholds the cause of the needy.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the righteous will praise your name,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and the upright will live in your presence.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

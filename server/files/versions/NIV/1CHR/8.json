@@ -1,0 +1,212 @@
+{
+  "book_id": "1CHR",
+  "book_name": "1 Chronicles",
+  "chapter": 8,
+  "verses": 40,
+  "content": [
+    {
+      "text": "The Genealogy of Saul the Benjamite",
+      "type": "heading"
+    },
+    {
+      "text": "Benjamin was the father of Bela his firstborn,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Ashbel the second son, Aharah the third,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Nohah the fourth and Rapha the fifth.",
+      "verse": 2
+    },
+    {
+      "text": "The sons of Bela were:",
+      "verse": 3
+    },
+    {
+      "text": "Addar, Gera, Abihud,",
+      "verse": 3
+    },
+    {
+      "text": "Abishua, Naaman, Ahoah,",
+      "verse": 4
+    },
+    {
+      "text": "Gera, Shephuphan and Huram.",
+      "verse": 5
+    },
+    {
+      "text": "These were the descendants of Ehud, who were heads of families of those living in Geba and were deported to Manahath:",
+      "verse": 6
+    },
+    {
+      "text": "Naaman, Ahijah, and Gera, who deported them and who was the father of Uzza and Ahihud.",
+      "verse": 7
+    },
+    {
+      "text": "Sons were born to Shaharaim in Moab after he had divorced his wives Hushim and Baara.",
+      "verse": 8
+    },
+    {
+      "text": "By his wife Hodesh he had Jobab, Zibia, Mesha, Malkam,",
+      "verse": 9
+    },
+    {
+      "text": "Jeuz, Sakia and Mirmah. These were his sons, heads of families.",
+      "verse": 10
+    },
+    {
+      "text": "By Hushim he had Abitub and Elpaal.",
+      "verse": 11
+    },
+    {
+      "text": "The sons of Elpaal:",
+      "verse": 12
+    },
+    {
+      "text": "Eber, Misham, Shemed (who built Ono and Lod with its surrounding villages),",
+      "verse": 12
+    },
+    {
+      "text": "and Beriah and Shema, who were heads of families of those living in Aijalon and who drove out the inhabitants of Gath.",
+      "verse": 13
+    },
+    {
+      "text": "Ahio, Shashak, Jeremoth,",
+      "verse": 14
+    },
+    {
+      "text": "Zebadiah, Arad, Eder,",
+      "verse": 15
+    },
+    {
+      "text": "Michael, Ishpah and Joha were the sons of Beriah.",
+      "verse": 16
+    },
+    {
+      "text": "Zebadiah, Meshullam, Hizki, Heber,",
+      "verse": 17
+    },
+    {
+      "text": "Ishmerai, Izliah and Jobab were the sons of Elpaal.",
+      "verse": 18
+    },
+    {
+      "text": "Jakim, Zikri, Zabdi,",
+      "verse": 19
+    },
+    {
+      "text": "Elienai, Zillethai, Eliel,",
+      "verse": 20
+    },
+    {
+      "text": "Adaiah, Beraiah and Shimrath were the sons of Shimei.",
+      "verse": 21
+    },
+    {
+      "text": "Ishpan, Eber, Eliel,",
+      "verse": 22
+    },
+    {
+      "text": "Abdon, Zikri, Hanan,",
+      "verse": 23
+    },
+    {
+      "text": "Hananiah, Elam, Anthothijah,",
+      "verse": 24
+    },
+    {
+      "text": "Iphdeiah and Penuel were the sons of Shashak.",
+      "verse": 25
+    },
+    {
+      "text": "Shamsherai, Shehariah, Athaliah,",
+      "verse": 26
+    },
+    {
+      "text": "Jaareshiah, Elijah and Zikri were the sons of Jeroham.",
+      "verse": 27
+    },
+    {
+      "text": "All these were heads of families, chiefs as listed in their genealogy, and they lived in Jerusalem.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "Jeiel the father of Gibeon lived in Gibeon.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "His wife’s name was Maakah,",
+      "verse": 29
+    },
+    {
+      "text": "and his firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,",
+      "verse": 30
+    },
+    {
+      "text": "Gedor, Ahio, Zeker",
+      "verse": 31
+    },
+    {
+      "text": "and Mikloth, who was the father of Shimeah. They too lived near their relatives in Jerusalem.",
+      "verse": 32
+    },
+    {
+      "text": "Ner was the father of Kish, Kish the father of Saul, and Saul the father of Jonathan, Malki-Shua, Abinadab and Esh-Baal.",
+      "verse": 33
+    },
+    {
+      "text": "The son of Jonathan:",
+      "verse": 34
+    },
+    {
+      "text": "Merib-Baal, who was the father of Micah.",
+      "verse": 34
+    },
+    {
+      "text": "The sons of Micah:",
+      "verse": 35
+    },
+    {
+      "text": "Pithon, Melek, Tarea and Ahaz.",
+      "verse": 35
+    },
+    {
+      "text": "Ahaz was the father of Jehoaddah, Jehoaddah was the father of Alemeth, Azmaveth and Zimri, and Zimri was the father of Moza.",
+      "verse": 36
+    },
+    {
+      "text": "Moza was the father of Binea; Raphah was his son, Eleasah his son and Azel his son.",
+      "verse": 37
+    },
+    {
+      "text": "Azel had six sons, and these were their names:",
+      "verse": 38
+    },
+    {
+      "text": "Azrikam, Bokeru, Ishmael, Sheariah, Obadiah and Hanan. All these were the sons of Azel.",
+      "verse": 38
+    },
+    {
+      "text": "The sons of his brother Eshek:",
+      "verse": 39
+    },
+    {
+      "text": "Ulam his firstborn, Jeush the second son and Eliphelet the third.",
+      "verse": 39
+    },
+    {
+      "text": "The sons of Ulam were brave warriors who could handle the bow. They had many sons and grandsons—150 in all.",
+      "verse": 40
+    },
+    {
+      "text": "All these were the descendants of Benjamin.",
+      "verse": 40
+    }
+  ]
+}

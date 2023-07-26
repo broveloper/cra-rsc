@@ -1,0 +1,320 @@
+{
+  "book_id": "MIC",
+  "book_name": "Micah",
+  "chapter": 5,
+  "verses": 15,
+  "content": [
+    {
+      "text": "The Messiah Will Be Born at Bethlehem",
+      "type": "heading"
+    },
+    {
+      "text": "Now gather yourself in troops,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O daughter of troops;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He has laid siege against us;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They will strike the judge of Israel with a rod on the cheek.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Coming Messiah",
+      "type": "heading"
+    },
+    {
+      "text": "“But you, Bethlehem Ephrathah,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Though you are little among the thousands of Judah,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet out of you shall come forth to Me",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The One to be Ruler in Israel,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose goings forth are from of old,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "From everlasting.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore He shall give them up,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Until the time that she who is in labor has given birth;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the remnant of His brethren",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall return to the children of Israel.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall stand and feed His flock",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In the strength of the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In the majesty of the name of the Lord His God;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall abide,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For now He shall be great",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To the ends of the earth;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And this One shall be peace.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Israel’s Enemies",
+      "type": "heading"
+    },
+    {
+      "text": "When the Assyrian comes into our land,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And when he treads in our palaces,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Then we will raise against him",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Seven shepherds and eight princely men.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall waste with the sword the land of Assyria,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the land of Nimrod at its entrances;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus He shall deliver us from the Assyrian,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When he comes into our land",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And when he treads within our borders.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the remnant of Jacob",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shall be in the midst of many peoples,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Like dew from the Lord,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Like showers on the grass,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "That tarry for no man",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor wait for the sons of men.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And the remnant of Jacob",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be among the Gentiles,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of many peoples,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a lion among the beasts of the forest,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a young lion among flocks of sheep,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who, if he passes through,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Both treads down and tears in pieces,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And none can deliver.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Your hand shall be lifted against your adversaries,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And all your enemies shall be cut off.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“And it shall be in that day,” says the Lord,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“That I will cut off your horses from your midst",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And destroy your chariots.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cut off the cities of your land",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And throw down all your strongholds.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cut off sorceries from your hand,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall have no soothsayers.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Your carved images I will also cut off,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And your sacred pillars from your midst;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall no more worship the work of your hands;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pluck your wooden images from your midst;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus I will destroy your cities.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will execute vengeance in anger and fury",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "On the nations that have not heard.”",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

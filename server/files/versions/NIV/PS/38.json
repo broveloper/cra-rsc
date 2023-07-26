@@ -1,0 +1,246 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 38,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Psalm 38",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of David. A petition.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, do not rebuke me in your anger",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or discipline me in your wrath.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your arrows have pierced me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and your hand has come down on me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of your wrath there is no health in my body;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no soundness in my bones because of my sin.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My guilt has overwhelmed me",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like a burden too heavy to bear.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My wounds fester and are loathsome",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because of my sinful folly.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I am bowed down and brought very low;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "all day long I go about mourning.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My back is filled with searing pain;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no health in my body.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am feeble and utterly crushed;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I groan in anguish of heart.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All my longings lie open before you, Lord;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my sighing is not hidden from you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart pounds, my strength fails me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "even the light has gone from my eyes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My friends and companions avoid me because of my wounds;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "my neighbors stay far away.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who want to kill me set their traps,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "those who would harm me talk of my ruin;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "all day long they scheme and lie.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I am like the deaf, who cannot hear,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "like the mute, who cannot speak;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I have become like one who does not hear,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "whose mouth can offer no reply.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, I wait for you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you will answer, Lord my God.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For I said, “Do not let them gloat",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "or exalt themselves over me when my feet slip.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am about to fall,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my pain is ever with me.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I confess my iniquity;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I am troubled by my sin.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Many have become my enemies without cause;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "those who hate me without reason are numerous.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who repay my good with evil",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "lodge accusations against me,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "though I seek only to do what is good.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, do not forsake me;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not be far from me, my God.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Come quickly to help me,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "my Lord and my Savior.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

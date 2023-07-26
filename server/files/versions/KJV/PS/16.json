@@ -1,0 +1,62 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 16,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Preserve me, O God: for in thee do I put my trust.",
+      "verse": 1
+    },
+    {
+      "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "But to the saints that are in the earth, and to the excellent, in whom is all my delight.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord is the portion of mine inheritance and of my cup: thou maintainest my lot.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "The lines are fallen unto me in pleasant places; yea, I have a goodly heritage.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "I will bless the Lord, who hath given me counsel: my reins also instruct me in the night seasons.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "I have set the Lord always before me: because he is at my right hand, I shall not be moved.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Thou wilt shew me the path of life: in thy presence is fulness of joy; at thy right hand there are pleasures for evermore.",
+      "verse": 11,
+      "type": "newline"
+    }
+  ]
+}

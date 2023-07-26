@@ -1,0 +1,286 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 3,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Job Speaks",
+      "type": "heading"
+    },
+    {
+      "text": "After this, Job opened his mouth and cursed the day of his birth.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "He said:",
+      "verse": 2
+    },
+    {
+      "text": "“May the day of my birth perish,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the night that said, ‘A boy is conceived!’",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "That day—may it turn to darkness;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "may God above not care about it;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "may no light shine on it.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May gloom and utter darkness claim it once more;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "may a cloud settle over it;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "may blackness overwhelm it.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That night—may thick darkness seize it;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "may it not be included among the days of the year",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "nor be entered in any of the months.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "May that night be barren;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "may no shout of joy be heard in it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "May those who curse days curse that day,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "those who are ready to rouse Leviathan.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "May its morning stars become dark;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "may it wait for daylight in vain",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and not see the first rays of dawn,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for it did not shut the doors of the womb on me",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to hide trouble from my eyes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why did I not perish at birth,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and die as I came from the womb?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Why were there knees to receive me",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and breasts that I might be nursed?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For now I would be lying down in peace;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I would be asleep and at rest",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "with kings and rulers of the earth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "who built for themselves places now lying in ruins,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with princes who had gold,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who filled their houses with silver.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Or why was I not hidden away in the ground like a stillborn child,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "like an infant who never saw the light of day?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "There the wicked cease from turmoil,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and there the weary are at rest.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Captives also enjoy their ease;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "they no longer hear the slave driver’s shout.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The small and the great are there,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and the slaves are freed from their owners.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why is light given to those in misery,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and life to the bitter of soul,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to those who long for death that does not come,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "who search for it more than for hidden treasure,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "who are filled with gladness",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and rejoice when they reach the grave?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Why is life given to a man",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "whose way is hidden,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "whom God has hedged in?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "For sighing has become my daily food;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "my groans pour out like water.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "What I feared has come upon me;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "what I dreaded has happened to me.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I have no peace, no quietness;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "I have no rest, but only turmoil.”",
+      "verse": 26,
+      "type": "poetry"
+    }
+  ]
+}

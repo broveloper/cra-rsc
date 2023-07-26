@@ -1,0 +1,427 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 9,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Disobedience Brings God’s Judgment",
+      "type": "heading"
+    },
+    {
+      "text": "Oh, that my head were waters,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And my eyes a fountain of tears,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "That I might weep day and night",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the slain of the daughter of my people!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that I had in the wilderness",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A lodging place for travelers;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "That I might leave my people,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And go from them!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For they are all adulterers,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "An assembly of treacherous men.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“And like their bow they have bent their tongues for lies.",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They are not valiant for the truth on the earth.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For they proceed from evil to evil,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And they do not know Me,” says the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Everyone take heed to his neighbor,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not trust any brother;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For every brother will utterly supplant,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And every neighbor will walk with slanderers.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone will deceive his neighbor,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And will not speak the truth;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They have taught their tongue to speak lies;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They weary themselves to commit iniquity.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your dwelling place is in the midst of deceit;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Through deceit they refuse to know Me,” says the Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord of hosts:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "“Behold, I will refine them and try them;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For how shall I deal with the daughter of My people?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their tongue is an arrow shot out;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "It speaks deceit;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "One speaks peaceably to his neighbor with his mouth,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But in his heart he lies in wait.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I not punish them for these things?” says the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Shall I not avenge Myself on such a nation as this?”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take up a weeping and wailing for the mountains,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And for the dwelling places of the wilderness a lamentation,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they are burned up,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "So that no one can pass through;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor can men hear the voice of the cattle.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Both the birds of the heavens and the beasts have fled;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They are gone.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will make Jerusalem a heap of ruins, a den of jackals.",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will make the cities of Judah desolate, without an inhabitant.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is the wise man who may understand this? And who is he to whom the mouth of the Lord has spoken, that he may declare it? Why does the land perish and burn up like a wilderness, so that no one can pass through?",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And the Lord said, “Because they have forsaken My law which I set before them, and have not obeyed My voice, nor walked according to it, ",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "but they have walked according to the dictates of their own hearts and after the Baals, which their fathers taught them,” ",
+      "verse": 14
+    },
+    {
+      "text": "therefore thus says the Lord of hosts, the God of Israel: “Behold, I will feed them, this people, with wormwood, and give them water of gall to drink. ",
+      "verse": 15
+    },
+    {
+      "text": "I will scatter them also among the Gentiles, whom neither they nor their fathers have known. And I will send a sword after them until I have consumed them.”",
+      "verse": 16
+    },
+    {
+      "text": "The People Mourn in Judgment",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord of hosts:",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“Consider and call for the mourning women,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That they may come;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And send for skillful wailing women,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may come.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them make haste",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And take up a wailing for us,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "That our eyes may run with tears,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And our eyelids gush with water.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For a voice of wailing is heard from Zion:",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "‘How we are plundered!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "We are greatly ashamed,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Because we have forsaken the land,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Because we have been cast out of our dwellings.’ ”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet hear the word of the Lord, O women,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let your ear receive the word of His mouth;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach your daughters wailing,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And everyone her neighbor a lamentation.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For death has come through our windows,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Has entered our palaces,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "To kill off the children—no longer to be outside!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And the young men—no longer on the streets!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Speak, “Thus says the Lord:",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "‘Even the carcasses of men shall fall as refuse on the open field,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Like cuttings after the harvester,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And no one shall gather them.’ ”",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "“Let not the wise man glory in his wisdom,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let not the mighty man glory in his might,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor let the rich man glory in his riches;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "But let him who glories glory in this,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "That he understands and knows Me,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "That I am the Lord, exercising lovingkindness, judgment, and righteousness in the earth.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For in these I delight,” says the Lord.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, the days are coming,” says the Lord, “that I will punish all who are circumcised with the uncircumcised— ",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "Egypt, Judah, Edom, the people of Ammon, Moab, and all who are in the farthest corners, who dwell in the wilderness. For all these nations are uncircumcised, and all the house of Israel are uncircumcised in the heart.”",
+      "verse": 26
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 4,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 4",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. With stringed instruments. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Answer me when I call to you,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my righteous God.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Give me relief from my distress;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "have mercy on me and hear my prayer.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will you people turn my glory into shame?",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How long will you love delusions and seek false gods?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Know that the Lord has set apart his faithful servant for himself;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord hears when I call to him.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Tremble and do not sin;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when you are on your beds,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "search your hearts and be silent.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Offer the sacrifices of the righteous",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and trust in the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Many, Lord, are asking, “Who will bring us prosperity?”",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let the light of your face shine on us.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Fill my heart with joy",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "when their grain and new wine abound.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In peace I will lie down and sleep,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for you alone, Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "make me dwell in safety.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

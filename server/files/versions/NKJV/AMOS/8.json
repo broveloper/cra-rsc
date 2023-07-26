@@ -1,0 +1,291 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 8,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Vision of the Summer Fruit",
+      "type": "heading"
+    },
+    {
+      "text": "Thus the Lord God showed me: Behold, a basket of summer fruit. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And He said, “Amos, what do you see?”",
+      "verse": 2
+    },
+    {
+      "text": "So I said, “A basket of summer fruit.”",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord said to me:",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "“The end has come upon My people Israel;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not pass by them anymore.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And the songs of the temple",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be wailing in that day,”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Many dead bodies everywhere,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be thrown out in silence.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear this, you who swallow up the needy,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And make the poor of the land fail,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying:",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“When will the New Moon be past,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That we may sell grain?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Sabbath,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That we may trade wheat?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Making the ephah small and the shekel large,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Falsifying the scales by deceit,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That we may buy the poor for silver,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the needy for a pair of sandals—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Even sell the bad wheat?”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has sworn by the pride of Jacob:",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Surely I will never forget any of their works.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall the land not tremble for this,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And everyone mourn who dwells in it?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All of it shall swell like the River,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Heave and subside",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the River of Egypt.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“And it shall come to pass in that day,” says the Lord God,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“That I will make the sun go down at noon,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will darken the earth in broad daylight;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn your feasts into mourning,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And all your songs into lamentation;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring sackcloth on every waist,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And baldness on every head;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make it like mourning for an only son,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And its end like a bitter day.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, the days are coming,” says the Lord God,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“That I will send a famine on the land,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Not a famine of bread,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor a thirst for water,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But of hearing the words of the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall wander from sea to sea,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And from north to east;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall run to and fro, seeking the word of the Lord,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But shall not find it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“In that day the fair virgins",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And strong young men",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall faint from thirst.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who swear by the sin of Samaria,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who say,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "‘As your god lives, O Dan!’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And, ‘As the way of Beersheba lives!’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall fall and never rise again.”",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "book_id": "REV",
+  "book_name": "Revelation",
+  "chapter": 15,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Seven Angels With Seven Plagues",
+      "type": "heading"
+    },
+    {
+      "text": "I saw in heaven another great and marvelous sign: seven angels with the seven last plagues—last, because with them God’s wrath is completed.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And I saw what looked like a sea of glass glowing with fire and, standing beside the sea, those who had been victorious over the beast and its image and over the number of its name. They held harps given them by God",
+      "verse": 2
+    },
+    {
+      "text": "and sang the song of God’s servant Moses and of the Lamb:",
+      "verse": 3
+    },
+    {
+      "text": "“Great and marvelous are your deeds,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lord God Almighty.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Just and true are your ways,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "King of the nations.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will not fear you, Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and bring glory to your name?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For you alone are holy.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "All nations will come",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and worship before you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for your righteous acts have been revealed.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "After this I looked, and I saw in heaven the temple—that is, the tabernacle of the covenant law—and it was opened.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Out of the temple came the seven angels with the seven plagues. They were dressed in clean, shining linen and wore golden sashes around their chests.",
+      "verse": 6
+    },
+    {
+      "text": "Then one of the four living creatures gave to the seven angels seven golden bowls filled with the wrath of God, who lives for ever and ever.",
+      "verse": 7
+    },
+    {
+      "text": "And the temple was filled with smoke from the glory of God and from his power, and no one could enter the temple until the seven plagues of the seven angels were completed.",
+      "verse": 8
+    }
+  ]
+}

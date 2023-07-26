@@ -1,0 +1,361 @@
+{
+  "book_id": "ZEPH",
+  "book_name": "Zephaniah",
+  "chapter": 2,
+  "verses": 15,
+  "content": [
+    {
+      "text": "A Call to Repentance",
+      "type": "heading"
+    },
+    {
+      "text": "Gather yourselves together, yes, gather together,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O undesirable nation,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the decree is issued,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Or the day passes like chaff,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the Lord’s fierce anger comes upon you,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the day of the Lord’s anger comes upon you!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek the Lord, all you meek of the earth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have upheld His justice.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek righteousness, seek humility.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "It may be that you will be hidden",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of the Lord’s anger.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Nations",
+      "type": "heading"
+    },
+    {
+      "text": "For Gaza shall be forsaken,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Ashkelon desolate;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall drive out Ashdod at noonday,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And Ekron shall be uprooted.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to the inhabitants of the seacoast,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The nation of the Cherethites!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The word of the Lord is against you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "O Canaan, land of the Philistines:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will destroy you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "So there shall be no inhabitant.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The seacoast shall be pastures,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With shelters for shepherds and folds for flocks.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The coast shall be for the remnant of the house of Judah;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall feed their flocks there;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In the houses of Ashkelon they shall lie down at evening.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord their God will intervene for them,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And return their captives.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have heard the reproach of Moab,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the insults of the people of Ammon,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "With which they have reproached My people,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And made arrogant threats against their borders.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, as I live,”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts, the God of Israel,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely Moab shall be like Sodom,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the people of Ammon like Gomorrah—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Overrun with weeds and saltpits,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And a perpetual desolation.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The residue of My people shall plunder them,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the remnant of My people shall possess them.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This they shall have for their pride,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because they have reproached and made arrogant threats",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Against the people of the Lord of hosts.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will be awesome to them,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For He will reduce to nothing all the gods of the earth;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "People shall worship Him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Each one from his place,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed all the shores of the nations.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“You Ethiopians also,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You shall be slain by My sword.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And He will stretch out His hand against the north,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Destroy Assyria,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And make Nineveh a desolation,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "As dry as the wilderness.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The herds shall lie down in her midst,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Every beast of the nation.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Both the pelican and the bittern",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall lodge on the capitals of her pillars;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Their voice shall sing in the windows;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Desolation shall be at the threshold;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For He will lay bare the cedar work.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the rejoicing city",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "That dwelt securely,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "That said in her heart,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am it, and there is none besides me.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "How has she become a desolation,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A place for beasts to lie down!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone who passes by her",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall hiss and shake his fist.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

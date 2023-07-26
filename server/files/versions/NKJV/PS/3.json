@@ -1,0 +1,106 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 3,
+  "verses": 8,
+  "content": [
+    {
+      "text": "The Lord Helps His Troubled People",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David when he fled from Absalom his son.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, how they have increased who trouble me!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Many are they who rise up against me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Many are they who say of me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“There is no help for him in God.” Selah",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But You, O Lord, are a shield for me,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My glory and the One who lifts up my head.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I cried to the Lord with my voice,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And He heard me from His holy hill. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I lay down and slept;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I awoke, for the Lord sustained me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not be afraid of ten thousands of people",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have set themselves against me all around.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O Lord;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Save me, O my God!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have struck all my enemies on the cheekbone;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have broken the teeth of the ungodly.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Salvation belongs to the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Your blessing is upon Your people. Selah",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

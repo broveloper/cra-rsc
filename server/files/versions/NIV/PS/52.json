@@ -1,0 +1,151 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 52,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Psalm 52",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. A maskil of David. When Doeg the Edomite had gone to Saul and told him: “David has gone to the house of Ahimelek.”",
+      "type": "title"
+    },
+    {
+      "text": "Why do you boast of evil, you mighty hero?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why do you boast all day long,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "you who are a disgrace in the eyes of God?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You who practice deceit,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "your tongue plots destruction;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "it is like a sharpened razor.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You love evil rather than good,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "falsehood rather than speaking the truth.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You love every harmful word,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "you deceitful tongue!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely God will bring you down to everlasting ruin:",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He will snatch you up and pluck you from your tent;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he will uproot you from the land of the living.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous will see and fear;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they will laugh at you, saying,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Here now is the man",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "who did not make God his stronghold",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but trusted in his great wealth",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and grew strong by destroying others!”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But I am like an olive tree",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "flourishing in the house of God;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I trust in God’s unfailing love",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for ever and ever.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For what you have done I will always praise you",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in the presence of your faithful people.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will hope in your name,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for your name is good.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

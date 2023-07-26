@@ -1,0 +1,286 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 23,
+  "verses": 18,
+  "content": [
+    {
+      "text": "An Oracle Concerning Tyre and Sidon",
+      "type": "heading"
+    },
+    {
+      "text": "The oracle concerning Tyre.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Wail, O ships of Tarshish,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for Tyre is laid waste, without house or harbor!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "From the land of Cyprus",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "it is revealed to them.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Be still, O inhabitants of the coast;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the merchants of Sidon, who cross the sea, have filled you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And on many waters",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "your revenue was the grain of Shihor,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the harvest of the Nile;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you were the merchant of the nations.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Be ashamed, O Sidon, for the sea has spoken,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the stronghold of the sea, saying:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have neither labored nor given birth,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have neither reared young men",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "nor brought up young women.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "When the report comes to Egypt,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be in anguish over the report about Tyre.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Cross over to Tarshish;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "wail, O inhabitants of the coast!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is this your exultant city",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "whose origin is from days of old,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "whose feet carried her",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to settle far away?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has purposed this",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "against Tyre, the bestower of crowns,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whose merchants were princes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whose traders were the honored of the earth?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord of hosts has purposed it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to defile the pompous pride of all glory,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to dishonor all the honored of the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Cross over your land like the Nile,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of Tarshish;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no restraint anymore.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He has stretched out his hand over the sea;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he has shaken the kingdoms;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord has given command concerning Canaan",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "to destroy its strongholds.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And he said:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“You will no more exult,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "O oppressed virgin daughter of Sidon;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "arise, cross over to Cyprus,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "even there you will have no rest.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold the land of the Chaldeans! This is the people that was not; Assyria destined it for wild beasts. They erected their siege towers, they stripped her palaces bare, they made her a ruin.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Wail, O ships of Tarshish,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for your stronghold is laid waste.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day Tyre will be forgotten for seventy years, like the days of one king. At the end of seventy years, it will happen to Tyre as in the song of the prostitute:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“Take a harp;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "go about the city,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "O forgotten prostitute!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Make sweet melody;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "sing many songs,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "that you may be remembered.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "At the end of seventy years, the Lord will visit Tyre, and she will return to her wages and will prostitute herself with all the kingdoms of the world on the face of the earth.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Her merchandise and her wages will be holy to the Lord. It will not be stored or hoarded, but her merchandise will supply abundant food and fine clothing for those who dwell before the Lord.",
+      "verse": 18
+    }
+  ]
+}

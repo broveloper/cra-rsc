@@ -1,0 +1,132 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 137,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Longing for Zion in a Foreign Land",
+      "type": "heading"
+    },
+    {
+      "text": "By the rivers of Babylon,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "There we sat down, yea, we wept",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When we remembered Zion.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "We hung our harps",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon the willows in the midst of it.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For there those who carried us away captive asked of us a song,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who plundered us requested mirth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying, “Sing us one of the songs of Zion!”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How shall we sing the Lord’s song",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In a foreign land?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If I forget you, O Jerusalem,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my right hand forget its skill!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "If I do not remember you,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my tongue cling to the roof of my mouth—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "If I do not exalt Jerusalem",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Above my chief joy.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember, O Lord, against the sons of Edom",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The day of Jerusalem,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who said, “Raze it, raze it,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To its very foundation!”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of Babylon, who are to be destroyed,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Happy the one who repays you as you have served us!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Happy the one who takes and dashes",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Your little ones against the rock!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

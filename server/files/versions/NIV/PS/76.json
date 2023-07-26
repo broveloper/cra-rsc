@@ -1,0 +1,151 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 76,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 76",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. With stringed instruments. A psalm of Asaph. A song.",
+      "type": "title"
+    },
+    {
+      "text": "God is renowned in Judah;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in Israel his name is great.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "His tent is in Salem,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "his dwelling place in Zion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "There he broke the flashing arrows,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the shields and the swords, the weapons of war.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You are radiant with light,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "more majestic than mountains rich with game.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The valiant lie plundered,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they sleep their last sleep;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "not one of the warriors",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "can lift his hands.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "At your rebuke, God of Jacob,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "both horse and chariot lie still.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It is you alone who are to be feared.",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who can stand before you when you are angry?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "From heaven you pronounced judgment,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the land feared and was quiet—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when you, God, rose up to judge,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to save all the afflicted of the land.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely your wrath against mankind brings you praise,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the survivors of your wrath are restrained.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Make vows to the Lord your God and fulfill them;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let all the neighboring lands",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "bring gifts to the One to be feared.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He breaks the spirit of rulers;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he is feared by the kings of the earth.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

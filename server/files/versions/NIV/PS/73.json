@@ -1,0 +1,319 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 73,
+  "verses": 28,
+  "content": [
+    {
+      "text": "BOOK III",
+      "type": "heading"
+    },
+    {
+      "text": "Psalms 73–89",
+      "type": "title"
+    },
+    {
+      "text": "Psalm 73",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "Surely God is good to Israel,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to those who are pure in heart.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But as for me, my feet had almost slipped;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I had nearly lost my foothold.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For I envied the arrogant",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when I saw the prosperity of the wicked.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They have no struggles;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "their bodies are healthy and strong.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They are free from common human burdens;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they are not plagued by human ills.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore pride is their necklace;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they clothe themselves with violence.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "From their callous hearts comes iniquity;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their evil imaginations have no limits.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They scoff, and speak with malice;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with arrogance they threaten oppression.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their mouths lay claim to heaven,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and their tongues take possession of the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore their people turn to them",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and drink up waters in abundance.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They say, “How would God know?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Does the Most High know anything?”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the wicked are like—",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "always free of care, they go on amassing wealth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely in vain I have kept my heart pure",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and have washed my hands in innocence.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "All day long I have been afflicted,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and every morning brings new punishments.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If I had spoken out like that,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I would have betrayed your children.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "When I tried to understand all this,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "it troubled me deeply",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "till I entered the sanctuary of God;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "then I understood their final destiny.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely you place them on slippery ground;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you cast them down to ruin.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "How suddenly are they destroyed,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "completely swept away by terrors!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They are like a dream when one awakes;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "when you arise, Lord,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "you will despise them as fantasies.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "When my heart was grieved",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my spirit embittered,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I was senseless and ignorant;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I was a brute beast before you.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I am always with you;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you hold me by my right hand.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "You guide me with your counsel,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and afterward you will take me into glory.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom have I in heaven but you?",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And earth has nothing I desire besides you.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "My flesh and my heart may fail,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "but God is the strength of my heart",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and my portion forever.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who are far from you will perish;",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you destroy all who are unfaithful to you.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "But as for me, it is good to be near God.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I have made the Sovereign Lord my refuge;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I will tell of all your deeds.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 110,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Announcement of the Messiah’s Reign",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The Lord said to my Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Sit at My right hand,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Till I make Your enemies Your footstool.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord shall send the rod of Your strength out of Zion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Rule in the midst of Your enemies!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Your people shall be volunteers",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In the day of Your power;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the beauties of holiness, from the womb of the morning,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You have the dew of Your youth.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has sworn",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And will not relent,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“You are a priest forever",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "According to the order of Melchizedek.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is at Your right hand;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He shall execute kings in the day of His wrath.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall judge among the nations,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall fill the places with dead bodies,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall execute the heads of many countries.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall drink of the brook by the wayside;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore He shall lift up the head.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

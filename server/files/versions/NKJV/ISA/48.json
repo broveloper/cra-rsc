@@ -1,0 +1,446 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 48,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Israel Refined for God’s Glory",
+      "type": "heading"
+    },
+    {
+      "text": "“Hear this, O house of Jacob,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who are called by the name of Israel,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And have come forth from the wellsprings of Judah;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Who swear by the name of the Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And make mention of the God of Israel,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But not in truth or in righteousness;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For they call themselves after the holy city,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And lean on the God of Israel;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord of hosts is His name:",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have declared the former things from the beginning;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They went forth from My mouth, and I caused them to hear it.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Suddenly I did them, and they came to pass.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I knew that you were obstinate,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And your neck was an iron sinew,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And your brow bronze,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Even from the beginning I have declared it to you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Before it came to pass I proclaimed it to you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you should say, ‘My idol has done them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And my carved image and my molded image",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Have commanded them.’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“You have heard;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "See all this.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And will you not declare it?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I have made you hear new things from this time,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Even hidden things, and you did not know them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They are created now and not from the beginning;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And before this day you have not heard them,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you should say, ‘Of course I knew them.’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely you did not hear,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely you did not know;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely from long ago your ear was not opened.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For I knew that you would deal very treacherously,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And were called a transgressor from the womb.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“For My name’s sake I will defer My anger,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And for My praise I will restrain it from you,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "So that I do not cut you off.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I have refined you, but not as silver;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I have tested you in the furnace of affliction.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For My own sake, for My own sake, I will do it;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For how should My name be profaned?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will not give My glory to another.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "God’s Ancient Plan to Redeem Israel",
+      "type": "heading"
+    },
+    {
+      "text": "“Listen to Me, O Jacob,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Israel, My called:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I am He, I am the First,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I am also the Last.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed My hand has laid the foundation of the earth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And My right hand has stretched out the heavens;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "When I call to them,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They stand up together.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“All of you, assemble yourselves, and hear!",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who among them has declared these things?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord loves him;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall do His pleasure on Babylon,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And His arm shall be against the Chaldeans.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I, even I, have spoken;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, I have called him,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I have brought him, and his way will prosper.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come near to Me, hear this:",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have not spoken in secret from the beginning;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "From the time that it was, I was there.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And now the Lord God and His Spirit",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Have sent Me.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord, your Redeemer,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Holy One of Israel:",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am the Lord your God,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Who teaches you to profit,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Who leads you by the way you should go.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that you had heeded My commandments!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Then your peace would have been like a river,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And your righteousness like the waves of the sea.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your descendants also would have been like the sand,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the offspring of your body like the grains of sand;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "His name would not have been cut off",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor destroyed from before Me.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Go forth from Babylon!",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Flee from the Chaldeans!",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "With a voice of singing,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Declare, proclaim this,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Utter it to the end of the earth;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Say, “The Lord has redeemed",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "His servant Jacob!”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And they did not thirst",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "When He led them through the deserts;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He caused the waters to flow from the rock for them;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He also split the rock, and the waters gushed out.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“There is no peace,” says the Lord, “for the wicked.”",
+      "verse": 22,
+      "type": "poetry newline"
+    }
+  ]
+}

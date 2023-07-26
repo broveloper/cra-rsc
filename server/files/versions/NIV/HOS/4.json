@@ -1,0 +1,377 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 4,
+  "verses": 19,
+  "content": [
+    {
+      "text": "The Charge Against Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Hear the word of the Lord, you Israelites,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because the Lord has a charge to bring",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "against you who live in the land:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“There is no faithfulness, no love,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "no acknowledgment of God in the land.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "There is only cursing, lying and murder,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "stealing and adultery;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they break all bounds,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and bloodshed follows bloodshed.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of this the land dries up,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and all who live in it waste away;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the beasts of the field, the birds in the sky",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fish in the sea are swept away.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“But let no one bring a charge,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let no one accuse another,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for your people are like those",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who bring charges against a priest.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You stumble day and night,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the prophets stumble with you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "So I will destroy your mother—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    my people are destroyed from lack of knowledge.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because you have rejected knowledge,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I also reject you as my priests;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "because you have ignored the law of your God,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I also will ignore your children.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The more priests there were,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the more they sinned against me;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they exchanged their glorious God for something disgraceful.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They feed on the sins of my people",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and relish their wickedness.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And it will be: Like people, like priests.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will punish both of them for their ways",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and repay them for their deeds.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“They will eat but not have enough;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they will engage in prostitution but not flourish,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have deserted the Lord",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to give themselves",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to prostitution;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "old wine and new wine",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "take away their understanding.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My people consult a wooden idol,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and a diviner’s rod speaks to them.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A spirit of prostitution leads them astray;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they are unfaithful to their God.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They sacrifice on the mountaintops",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and burn offerings on the hills,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "under oak, poplar and terebinth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "where the shade is pleasant.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore your daughters turn to prostitution",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and your daughters-in-law to adultery.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will not punish your daughters",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when they turn to prostitution,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "nor your daughters-in-law",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "when they commit adultery,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "because the men themselves consort with harlots",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and sacrifice with shrine prostitutes—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "a people without understanding will come to ruin!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Though you, Israel, commit adultery,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not let Judah become guilty.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Do not go to Gilgal;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not go up to Beth Aven.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not swear, ‘As surely as the Lord lives!’",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Israelites are stubborn,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "like a stubborn heifer.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "How then can the Lord pasture them",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "like lambs in a meadow?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is joined to idols;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "leave him alone!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Even when their drinks are gone,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "they continue their prostitution;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "their rulers dearly love shameful ways.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "A whirlwind will sweep them away,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and their sacrifices will bring them shame.",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

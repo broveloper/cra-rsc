@@ -1,0 +1,471 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 57,
+  "verses": 21,
+  "content": [
+    {
+      "text": "Israel’s Futile Idolatry",
+      "type": "heading"
+    },
+    {
+      "text": "The righteous perishes,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And no man takes it to heart;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Merciful men are taken away,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "While no one considers",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "That the righteous is taken away from evil.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall enter into peace;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall rest in their beds,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Each one walking in his uprightness.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“But come here,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You sons of the sorceress,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You offspring of the adulterer and the harlot!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom do you ridicule?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Against whom do you make a wide mouth",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And stick out the tongue?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Are you not children of transgression,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Offspring of falsehood,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Inflaming yourselves with gods under every green tree,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Slaying the children in the valleys,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Under the clefts of the rocks?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the smooth stones of the stream",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is your portion;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They, they, are your lot!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Even to them you have poured a drink offering,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You have offered a grain offering.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Should I receive comfort in these?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“On a lofty and high mountain",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have set your bed;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Even there you went up",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To offer sacrifice.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Also behind the doors and their posts",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You have set up your remembrance;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have uncovered yourself to those other than Me,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And have gone up to them;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You have enlarged your bed",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And made a covenant with them;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You have loved their bed,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Where you saw their nudity.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You went to the king with ointment,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And increased your perfumes;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You sent your messengers far off,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And even descended to Sheol.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You are wearied in the length of your way;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you did not say, ‘There is no hope.’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You have found the life of your hand;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore you were not grieved.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“And of whom have you been afraid, or feared,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That you have lied",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And not remembered Me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor taken it to your heart?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not because I have held My peace from of old",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That you do not fear Me?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will declare your righteousness",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And your works,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For they will not profit you.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "When you cry out,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your collection of idols deliver you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wind will carry them all away,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "A breath will take them.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But he who puts his trust in Me shall possess the land,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall inherit My holy mountain.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Healing for the Backslider",
+      "type": "heading"
+    },
+    {
+      "text": "And one shall say,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Heap it up! Heap it up!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Prepare the way,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Take the stumbling block out of the way of My people.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the High and Lofty One",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who inhabits eternity, whose name is Holy:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“I dwell in the high and holy place,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "With him who has a contrite and humble spirit,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "To revive the spirit of the humble,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And to revive the heart of the contrite ones.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will not contend forever,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will I always be angry;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the spirit would fail before Me,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And the souls which I have made.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the iniquity of his covetousness",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I was angry and struck him;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I hid and was angry,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And he went on backsliding in the way of his heart.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen his ways, and will heal him;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also lead him,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And restore comforts to him",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And to his mourners.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“I create the fruit of the lips:",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Peace, peace to him who is far off and to him who is near,”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“And I will heal him.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wicked are like the troubled sea,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "When it cannot rest,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose waters cast up mire and dirt.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“There is no peace,”",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Says my God, “for the wicked.”",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

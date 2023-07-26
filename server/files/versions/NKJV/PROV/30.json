@@ -1,0 +1,437 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 30,
+  "verses": 33,
+  "content": [
+    {
+      "text": "The Wisdom of Agur",
+      "type": "heading"
+    },
+    {
+      "text": "The words of Agur the son of Jakeh, his utterance. This man declared to Ithiel—to Ithiel and Ucal:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Surely I am more stupid than any man,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And do not have the understanding of a man.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I neither learned wisdom",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor have knowledge of the Holy One.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has ascended into heaven, or descended?",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who has gathered the wind in His fists?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has bound the waters in a garment?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has established all the ends of the earth?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "What is His name, and what is His Son’s name,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If you know?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Every word of God is pure;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He is a shield to those who put their trust in Him.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not add to His words,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest He rebuke you, and you be found a liar.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Two things I request of You",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "(Deprive me not before I die):",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove falsehood and lies far from me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Give me neither poverty nor riches—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Feed me with the food allotted to me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest I be full and deny You,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And say, “Who is the Lord?”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Or lest I be poor and steal,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And profane the name of my God.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not malign a servant to his master,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lest he curse you, and you be found guilty.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "There is a generation that curses its father,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And does not bless its mother.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "There is a generation that is pure in its own eyes,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet is not washed from its filthiness.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "There is a generation—oh, how lofty are their eyes!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And their eyelids are lifted up.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "There is a generation whose teeth are like swords,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And whose fangs are like knives,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "To devour the poor from off the earth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And the needy from among men.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The leech has two daughters—",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Give and Give!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "There are three things that are never satisfied,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Four never say, “Enough!”:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The grave,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The barren womb,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth that is not satisfied with water—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fire never says, “Enough!”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The eye that mocks his father,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And scorns obedience to his mother,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The ravens of the valley will pick it out,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And the young eagles will eat it.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "There are three things which are too wonderful for me,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, four which I do not understand:",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of an eagle in the air,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of a serpent on a rock,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of a ship in the midst of the sea,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the way of a man with a virgin.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the way of an adulterous woman:",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "She eats and wipes her mouth,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And says, “I have done no wickedness.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For three things the earth is perturbed,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, for four it cannot bear up:",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For a servant when he reigns,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A fool when he is filled with food,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A hateful woman when she is married,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And a maidservant who succeeds her mistress.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "There are four things which are little on the earth,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But they are exceedingly wise:",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The ants are a people not strong,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they prepare their food in the summer;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The rock badgers are a feeble folk,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they make their homes in the crags;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The locusts have no king,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they all advance in ranks;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The spider skillfully grasps with its hands,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And it is in kings’ palaces.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "There are three things which are majestic in pace,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, four which are stately in walk:",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "A lion, which is mighty among beasts",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And does not turn away from any;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "A greyhound,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "A male goat also,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And a king whose troops are with him.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "If you have been foolish in exalting yourself,",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or if you have devised evil, put your hand on your mouth.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "For as the churning of milk produces butter,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "And wringing the nose produces blood,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "So the forcing of wrath produces strife.",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

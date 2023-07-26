@@ -1,0 +1,298 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 12,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Jeremiah’s Question",
+      "type": "heading"
+    },
+    {
+      "text": "Righteous are You, O Lord, when I plead with You;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yet let me talk with You about Your judgments.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why does the way of the wicked prosper?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are those happy who deal so treacherously?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have planted them, yes, they have taken root;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They grow, yes, they bear fruit.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You are near in their mouth",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But far from their mind.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But You, O Lord, know me;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have seen me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And You have tested my heart toward You.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Pull them out like sheep for the slaughter,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And prepare them for the day of slaughter.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will the land mourn,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And the herbs of every field wither?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The beasts and birds are consumed,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For the wickedness of those who dwell there,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they said, “He will not see our final end.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Answers Jeremiah",
+      "type": "heading"
+    },
+    {
+      "text": "“If you have run with the footmen, and they have wearied you,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Then how can you contend with horses?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And if in the land of peace,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In which you trusted, they wearied you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Then how will you do in the floodplain of the Jordan?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For even your brothers, the house of your father,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Even they have dealt treacherously with you;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, they have called a multitude after you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not believe them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Even though they speak smooth words to you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have forsaken My house, I have left My heritage;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have given the dearly beloved of My soul into the hand of her enemies.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "My heritage is to Me like a lion in the forest;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "It cries out against Me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I have hated it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My heritage is to Me like a speckled vulture;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The vultures all around are against her.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, assemble all the beasts of the field,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring them to devour!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Many rulers have destroyed My vineyard,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They have trodden My portion underfoot;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They have made My pleasant portion a desolate wilderness.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They have made it desolate;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Desolate, it mourns to Me;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The whole land is made desolate,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Because no one takes it to heart.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The plunderers have come",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "On all the desolate heights in the wilderness,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For the sword of the Lord shall devour",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "From one end of the land to the other end of the land;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "No flesh shall have peace.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They have sown wheat but reaped thorns;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They have put themselves to pain but do not profit.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But be ashamed of your harvest",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the fierce anger of the Lord.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord: “Against all My evil neighbors who touch the inheritance which I have caused My people Israel to inherit—behold, I will pluck them out of their land and pluck out the house of Judah from among them. ",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Then it shall be, after I have plucked them out, that I will return and have compassion on them and bring them back, everyone to his heritage and everyone to his land. ",
+      "verse": 15
+    },
+    {
+      "text": "And it shall be, if they will learn carefully the ways of My people, to swear by My name, ‘As the Lord lives,’ as they taught My people to swear by Baal, then they shall be established in the midst of My people. ",
+      "verse": 16
+    },
+    {
+      "text": "But if they do not obey, I will utterly pluck up and destroy that nation,” says the Lord.",
+      "verse": 17
+    }
+  ]
+}

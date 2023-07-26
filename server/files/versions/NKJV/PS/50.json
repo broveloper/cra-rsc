@@ -1,0 +1,291 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 50,
+  "verses": 23,
+  "content": [
+    {
+      "text": "God the Righteous Judge",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "The Mighty One, God the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Has spoken and called the earth",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "From the rising of the sun to its going down.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Out of Zion, the perfection of beauty,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "God will shine forth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Our God shall come, and shall not keep silent;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A fire shall devour before Him,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall be very tempestuous all around Him.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall call to the heavens from above,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And to the earth, that He may judge His people:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Gather My saints together to Me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who have made a covenant with Me by sacrifice.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the heavens declare His righteousness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For God Himself is Judge. Selah",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear, O My people, and I will speak,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Israel, and I will testify against you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am God, your God!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not rebuke you for your sacrifices",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Or your burnt offerings,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Which are continually before Me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not take a bull from your house,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor goats out of your folds.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For every beast of the forest is Mine,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the cattle on a thousand hills.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I know all the birds of the mountains,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the wild beasts of the field are Mine.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I were hungry, I would not tell you;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the world is Mine, and all its fullness.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Will I eat the flesh of bulls,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Or drink the blood of goats?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Offer to God thanksgiving,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And pay your vows to the Most High.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Call upon Me in the day of trouble;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will deliver you, and you shall glorify Me.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But to the wicked God says:",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“What right have you to declare My statutes,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Or take My covenant in your mouth,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Seeing you hate instruction",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And cast My words behind you?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When you saw a thief, you consented with him,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And have been a partaker with adulterers.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You give your mouth to evil,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And your tongue frames deceit.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You sit and speak against your brother;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "You slander your own mother’s son.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "These things you have done, and I kept silent;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "You thought that I was altogether like you;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will rebuke you,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And set them in order before your eyes.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Now consider this, you who forget God,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lest I tear you in pieces,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And there be none to deliver:",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever offers praise glorifies Me;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And to him who orders his conduct aright",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will show the salvation of God.”",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

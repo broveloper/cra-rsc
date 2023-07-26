@@ -1,0 +1,307 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 8,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Longing for Her Beloved",
+      "type": "heading"
+    },
+    {
+      "text": "Oh that you were like a brother to me",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who nursed at my mother's breasts!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "If I found you outside, I would kiss you,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and none would despise me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I would lead you and bring you",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "into the house of my mother—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she who used to teach me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I would give you spiced wine to drink,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the juice of my pomegranate.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "His left hand is under my head,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and his right hand embraces me!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I adjure you, O daughters of Jerusalem,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "that you not stir up or awaken love",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "until it pleases.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is that coming up from the wilderness,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "leaning on her beloved?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Under the apple tree I awakened you.",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "There your mother was in labor with you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "there she who bore you was in labor.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Set me as a seal upon your heart,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as a seal upon your arm,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for love is strong as death,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "jealousy is fierce as the grave.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Its flashes are flashes of fire,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the very flame of the Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Many waters cannot quench love,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "neither can floods drown it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "If a man offered for love",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "all the wealth of his house,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he would be utterly despised.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Final Advice",
+      "type": "heading"
+    },
+    {
+      "text": "Others",
+      "type": "title"
+    },
+    {
+      "text": "We have a little sister,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and she has no breasts.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "What shall we do for our sister",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "on the day when she is spoken for?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If she is a wall,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "we will build on her a battlement of silver,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "but if she is a door,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "we will enclose her with boards of cedar.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "I was a wall,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my breasts were like towers;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "then I was in his eyes",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "as one who finds peace.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Solomon had a vineyard at Baal-hamon;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he let out the vineyard to keepers;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "each one was to bring for its fruit a thousand pieces of silver.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My vineyard, my very own, is before me;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "you, O Solomon, may have the thousand,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the keepers of the fruit two hundred.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He",
+      "type": "title"
+    },
+    {
+      "text": "O you who dwell in the gardens,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with companions listening for your voice;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "let me hear it.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "Make haste, my beloved,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and be like a gazelle",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "or a young stag",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "on the mountains of spices.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

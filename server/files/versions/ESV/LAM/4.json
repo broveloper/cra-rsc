@@ -1,0 +1,457 @@
+{
+  "book_id": "LAM",
+  "book_name": "Lamentations",
+  "chapter": 4,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Holy Stones Lie Scattered",
+      "type": "heading"
+    },
+    {
+      "text": "How the gold has grown dim,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "how the pure gold is changed!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The holy stones lie scattered",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "at the head of every street.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The precious sons of Zion,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "worth their weight in fine gold,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "how they are regarded as earthen pots,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the work of a potter's hands!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Even jackals offer the breast;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they nurse their young;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "but the daughter of my people has become cruel,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like the ostriches in the wilderness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The tongue of the nursing infant sticks",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to the roof of its mouth for thirst;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the children beg for food,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but no one gives to them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who once feasted on delicacies",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "perish in the streets;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "those who were brought up in purple",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "embrace ash heaps.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For the chastisement of the daughter of my people has been greater",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than the punishment of Sodom,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "which was overthrown in a moment,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and no hands were wrung for her.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Her princes were purer than snow,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whiter than milk;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their bodies were more ruddy than coral,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the beauty of their form was like sapphire.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Now their face is blacker than soot;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they are not recognized in the streets;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "their skin has shriveled on their bones;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "it has become as dry as wood.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Happier were the victims of the sword",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than the victims of hunger,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who wasted away, pierced",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "by lack of the fruits of the field.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The hands of compassionate women",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "have boiled their own children;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they became their food",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "during the destruction of the daughter of my people.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord gave full vent to his wrath;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he poured out his hot anger,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and he kindled a fire in Zion",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that consumed its foundations.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The kings of the earth did not believe,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor any of the inhabitants of the world,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "that foe or enemy could enter",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the gates of Jerusalem.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "This was for the sins of her prophets",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the iniquities of her priests,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who shed in the midst of her",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the blood of the righteous.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They wandered, blind, through the streets;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they were so defiled with blood",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that no one was able to touch",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "their garments.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Away! Unclean!” people cried at them.",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Away! Away! Do not touch!”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "So they became fugitives and wanderers;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "people said among the nations,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“They shall stay with us no longer.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord himself has scattered them;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will regard them no more;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "no honor was shown to the priests,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "no favor to the elders.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Our eyes failed, ever watching",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "vainly for help;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "in our watching we watched",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for a nation which could not save.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They dogged our steps",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so that we could not walk in our streets;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "our end drew near; our days were numbered,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "for our end had come.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Our pursuers were swifter",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than the eagles in the heavens;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "they chased us on the mountains;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "they lay in wait for us in the wilderness.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The breath of our nostrils, the Lord's anointed,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "was captured in their pits,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "of whom we said, “Under his shadow",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "we shall live among the nations.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoice and be glad, O daughter of Edom,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you who dwell in the land of Uz;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "but to you also the cup shall pass;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall become drunk and strip yourself bare.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The punishment of your iniquity, O daughter of Zion, is accomplished;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will keep you in exile no longer;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "but your iniquity, O daughter of Edom, he will punish;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "he will uncover your sins.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

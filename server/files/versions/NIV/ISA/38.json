@@ -1,0 +1,288 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 38,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Hezekiah’s Illness",
+      "type": "heading"
+    },
+    {
+      "text": "In those days Hezekiah became ill and was at the point of death. The prophet Isaiah son of Amoz went to him and said, “This is what the Lord says: Put your house in order, because you are going to die; you will not recover.”",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Hezekiah turned his face to the wall and prayed to the Lord,",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "“Remember, Lord, how I have walked before you faithfully and with wholehearted devotion and have done what is good in your eyes.” And Hezekiah wept bitterly.",
+      "verse": 3
+    },
+    {
+      "text": "Then the word of the Lord came to Isaiah:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“Go and tell Hezekiah, ‘This is what the Lord, the God of your father David, says: I have heard your prayer and seen your tears; I will add fifteen years to your life.",
+      "verse": 5
+    },
+    {
+      "text": "And I will deliver you and this city from the hand of the king of Assyria. I will defend this city.",
+      "verse": 6
+    },
+    {
+      "text": "“‘This is the Lord’s sign to you that the Lord will do what he has promised:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "I will make the shadow cast by the sun go back the ten steps it has gone down on the stairway of Ahaz.’” So the sunlight went back the ten steps it had gone down.",
+      "verse": 8
+    },
+    {
+      "text": "A writing of Hezekiah king of Judah after his illness and recovery:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "I said, “In the prime of my life",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "must I go through the gates of death",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and be robbed of the rest of my years?”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “I will not again see the Lord himself",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "in the land of the living;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "no longer will I look on my fellow man,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "or be with those who now dwell in this world.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a shepherd’s tent my house",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "has been pulled down and taken from me.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a weaver I have rolled up my life,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and he has cut me off from the loom;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "day and night you made an end of me.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I waited patiently till dawn,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but like a lion he broke all my bones;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "day and night you made an end of me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I cried like a swift or thrush,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I moaned like a mourning dove.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes grew weak as I looked to the heavens.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I am being threatened; Lord, come to my aid!”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But what can I say?",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has spoken to me, and he himself has done this.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will walk humbly all my years",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "because of this anguish of my soul.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, by such things people live;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and my spirit finds life in them too.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You restored me to health",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and let me live.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely it was for my benefit",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "that I suffered such anguish.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In your love you kept me",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "from the pit of destruction;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you have put all my sins",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "behind your back.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For the grave cannot praise you,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "death cannot sing your praise;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "those who go down to the pit",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "cannot hope for your faithfulness.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The living, the living—they praise you,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "as I am doing today;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "parents tell their children",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "about your faithfulness.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will save me,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and we will sing with stringed instruments",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "all the days of our lives",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "in the temple of the Lord.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Isaiah had said, “Prepare a poultice of figs and apply it to the boil, and he will recover.”",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Hezekiah had asked, “What will be the sign that I will go up to the temple of the Lord?”",
+      "verse": 22,
+      "type": "newline"
+    }
+  ]
+}

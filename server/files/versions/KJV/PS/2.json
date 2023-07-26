@@ -1,0 +1,67 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 2,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Why do the heathen rage, and the people imagine a vain thing?",
+      "verse": 1
+    },
+    {
+      "text": "The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against his anointed, saying,",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Let us break their bands asunder, and cast away their cords from us.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Yet have I set my king upon my holy hill of Zion.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter's vessel.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Serve the Lord with fear, and rejoice with trembling.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.",
+      "verse": 12,
+      "type": "newline"
+    }
+  ]
+}

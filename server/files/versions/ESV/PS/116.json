@@ -1,0 +1,222 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 116,
+  "verses": 19,
+  "content": [
+    {
+      "text": "I Love the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "I love the Lord, because he has heard",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my voice and my pleas for mercy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he inclined his ear to me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore I will call on him as long as I live.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The snares of death encompassed me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the pangs of Sheol laid hold on me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I suffered distress and anguish.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I called on the name of the Lord:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“O Lord, I pray, deliver my soul!”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Gracious is the Lord, and righteous;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "our God is merciful.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord preserves the simple;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "when I was brought low, he saved me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Return, O my soul, to your rest;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord has dealt bountifully with you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have delivered my soul from death,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my eyes from tears,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "my feet from stumbling;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will walk before the Lord",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in the land of the living.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I believed, even when I spoke:",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“I am greatly afflicted”;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I said in my alarm,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“All mankind are liars.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "What shall I render to the Lord",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for all his benefits to me?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lift up the cup of salvation",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and call on the name of the Lord,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pay my vows to the Lord",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "in the presence of all his people.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Precious in the sight of the Lord",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is the death of his saints.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, I am your servant;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I am your servant, the son of your maidservant.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You have loosed my bonds.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will offer to you the sacrifice of thanksgiving",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and call on the name of the Lord.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pay my vows to the Lord",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "in the presence of all his people,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "in the courts of the house of the Lord,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "in your midst, O Jerusalem.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

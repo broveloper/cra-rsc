@@ -1,0 +1,126 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 138,
+  "verses": 8,
+  "content": [
+    {
+      "text": "The Lord’s Goodness to the Faithful",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "I will praise You with my whole heart;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Before the gods I will sing praises to You.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will worship toward Your holy temple,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And praise Your name",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your lovingkindness and Your truth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have magnified Your word above all Your name.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day when I cried out, You answered me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And made me bold with strength in my soul.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "All the kings of the earth shall praise You, O Lord,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When they hear the words of Your mouth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, they shall sing of the ways of the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For great is the glory of the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Though the Lord is on high,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet He regards the lowly;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But the proud He knows from afar.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I walk in the midst of trouble, You will revive me;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You will stretch out Your hand",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Against the wrath of my enemies,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your right hand will save me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will perfect that which concerns me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Your mercy, O Lord, endures forever;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not forsake the works of Your hands.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

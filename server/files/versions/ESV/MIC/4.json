@@ -1,0 +1,341 @@
+{
+  "book_id": "MIC",
+  "book_name": "Micah",
+  "chapter": 4,
+  "verses": 13,
+  "content": [
+    {
+      "text": "The Mountain of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "It shall come to pass in the latter days",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that the mountain of the house of the Lord",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "shall be established as the highest of the mountains,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and it shall be lifted up above the hills;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and peoples shall flow to it,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "    and many nations shall come, and say:",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come, let us go up to the mountain of the Lord,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to the house of the God of Jacob,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that he may teach us his ways",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and that we may walk in his paths.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For out of Zion shall go forth the law,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the word of the Lord from Jerusalem.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall judge between many peoples,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall decide disputes for strong nations far away;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall beat their swords into plowshares,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and their spears into pruning hooks;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "nation shall not lift up sword against nation,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "neither shall they learn war anymore;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "but they shall sit every man under his vine and under his fig tree,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and no one shall make them afraid,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for the mouth of the Lord of hosts has spoken.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For all the peoples walk",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "each in the name of its god,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "but we will walk in the name of the Lord our God",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "forever and ever.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Shall Rescue Zion",
+      "type": "heading"
+    },
+    {
+      "text": "In that day, declares the Lord,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will assemble the lame",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and gather those who have been driven away",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and those whom I have afflicted;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the lame I will make the remnant,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and those who were cast off, a strong nation;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Lord will reign over them in Mount Zion",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "from this time forth and forevermore.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And you, O tower of the flock,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "hill of the daughter of Zion,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to you shall it come,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the former dominion shall come,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "kingship for the daughter of Jerusalem.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Now why do you cry aloud?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is there no king in you?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Has your counselor perished,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "that pain seized you like a woman in labor?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Writhe and groan, O daughter of Zion,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "like a woman in labor,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for now you shall go out from the city",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and dwell in the open country;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall go to Babylon.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "There you shall be rescued;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "there the Lord will redeem you",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "from the hand of your enemies.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Now many nations",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "are assembled against you,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, “Let her be defiled,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and let our eyes gaze upon Zion.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But they do not know",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the thoughts of the Lord;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they do not understand his plan,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "that he has gathered them as sheaves to the threshing floor.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise and thresh,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of Zion,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for I will make your horn iron,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will make your hoofs bronze;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall beat in pieces many peoples;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall devote their gain to the Lord,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "their wealth to the Lord of the whole earth.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 3,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Job Deplores His Birth",
+      "type": "heading"
+    },
+    {
+      "text": "After this Job opened his mouth and cursed the day of his birth. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And Job spoke, and said:",
+      "verse": 2
+    },
+    {
+      "text": "“May the day perish on which I was born,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the night in which it was said,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "‘A male child is conceived.’",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May that day be darkness;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May God above not seek it,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor the light shine upon it.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May darkness and the shadow of death claim it;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "May a cloud settle on it;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "May the blackness of the day terrify it.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "As for that night, may darkness seize it;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "May it not rejoice among the days of the year,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "May it not come into the number of the months.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, may that night be barren!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "May no joyful shout come into it!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "May those curse it who curse the day,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who are ready to arouse Leviathan.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "May the stars of its morning be dark;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "May it look for light, but have none,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And not see the dawning of the day;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because it did not shut up the doors of my mother’s womb,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor hide sorrow from my eyes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why did I not die at birth?",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why did I not perish when I came from the womb?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Why did the knees receive me?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Or why the breasts, that I should nurse?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For now I would have lain still and been quiet,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I would have been asleep;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I would have been at rest",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "With kings and counselors of the earth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who built ruins for themselves,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Or with princes who had gold,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Who filled their houses with silver;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Or why was I not hidden like a stillborn child,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Like infants who never saw light?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "There the wicked cease from troubling,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And there the weary are at rest.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "There the prisoners rest together;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not hear the voice of the oppressor.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The small and great are there,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the servant is free from his master.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why is light given to him who is in misery,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And life to the bitter of soul,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Who long for death, but it does not come,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And search for it more than hidden treasures;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Who rejoice exceedingly,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And are glad when they can find the grave?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Why is light given to a man whose way is hidden,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And whom God has hedged in?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "For my sighing comes before I eat,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And my groanings pour out like water.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For the thing I greatly feared has come upon me,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And what I dreaded has happened to me.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I am not at ease, nor am I quiet;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "I have no rest, for trouble comes.”",
+      "verse": 26,
+      "type": "poetry"
+    }
+  ]
+}

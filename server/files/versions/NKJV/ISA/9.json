@@ -1,0 +1,421 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 9,
+  "verses": 21,
+  "content": [
+    {
+      "text": "The Government of the Promised Son",
+      "type": "heading"
+    },
+    {
+      "text": "Nevertheless the gloom will not be upon her who is distressed,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As when at first He lightly esteemed",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The land of Zebulun and the land of Naphtali,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And afterward more heavily oppressed her,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "By the way of the sea, beyond the Jordan,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In Galilee of the Gentiles.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The people who walked in darkness",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Have seen a great light;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who dwelt in the land of the shadow of death,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon them a light has shined.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You have multiplied the nation",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And increased its joy;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They rejoice before You",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "According to the joy of harvest,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "As men rejoice when they divide the spoil.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have broken the yoke of his burden",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And the staff of his shoulder,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The rod of his oppressor,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As in the day of Midian.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For every warrior’s sandal from the noisy battle,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And garments rolled in blood,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Will be used for burning and fuel of fire.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For unto us a Child is born,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Unto us a Son is given;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the government will be upon His shoulder.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And His name will be called",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Wonderful, Counselor, Mighty God,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Everlasting Father, Prince of Peace.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Of the increase of His government and peace",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "There will be no end,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon the throne of David and over His kingdom,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To order it and establish it with judgment and justice",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "From that time forward, even forever.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The zeal of the Lord of hosts will perform this.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Punishment of Samaria",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord sent a word against Jacob,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And it has fallen on Israel.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All the people will know—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim and the inhabitant of Samaria—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who say in pride and arrogance of heart:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“The bricks have fallen down,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But we will rebuild with hewn stones;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The sycamores are cut down,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But we will replace them with cedars.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the Lord shall set up",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The adversaries of Rezin against him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And spur his enemies on,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Syrians before and the Philistines behind;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall devour Israel with an open mouth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For all this His anger is not turned away,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But His hand is stretched out still.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For the people do not turn to Him who strikes them,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor do they seek the Lord of hosts.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the Lord will cut off head and tail from Israel,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Palm branch and bulrush in one day.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The elder and honorable, he is the head;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The prophet who teaches lies, he is the tail.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For the leaders of this people cause them to err,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who are led by them are destroyed.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the Lord will have no joy in their young men,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor have mercy on their fatherless and widows;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For everyone is a hypocrite and an evildoer,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And every mouth speaks folly.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For all this His anger is not turned away,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But His hand is stretched out still.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For wickedness burns as the fire;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "It shall devour the briers and thorns,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And kindle in the thickets of the forest;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall mount up like rising smoke.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Through the wrath of the Lord of hosts",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The land is burned up,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the people shall be as fuel for the fire;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "No man shall spare his brother.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shall snatch on the right hand",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And be hungry;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall devour on the left hand",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And not be satisfied;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Every man shall eat the flesh of his own arm.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Manasseh shall devour Ephraim, and Ephraim Manasseh;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Together they shall be against Judah.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For all this His anger is not turned away,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But His hand is stretched out still.",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

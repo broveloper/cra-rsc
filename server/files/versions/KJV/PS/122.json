@@ -1,0 +1,52 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 122,
+  "verses": 9,
+  "content": [
+    {
+      "text": "I was glad when they said unto me, Let us go into the house of the Lord.",
+      "verse": 1
+    },
+    {
+      "text": "Our feet shall stand within thy gates, O Jerusalem.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Jerusalem is builded as a city that is compact together:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Whither the tribes go up, the tribes of the Lord, unto the testimony of Israel, to give thanks unto the name of the Lord.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For there are set thrones of judgment, the thrones of the house of David.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Peace be within thy walls, and prosperity within thy palaces.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "For my brethren and companions' sakes, I will now say, Peace be within thee.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Because of the house of the Lord our God I will seek thy good.",
+      "verse": 9,
+      "type": "newline"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "book_id": "JOHN",
+  "book_name": "John",
+  "chapter": 20,
+  "verses": 31,
+  "content": [
+    {
+      "text": "The Empty Tomb",
+      "type": "heading"
+    },
+    {
+      "text": "Now the first day of the week Mary Magdalene went to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Then she ran and came to Simon Peter, and to the other disciple, whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we do not know where they have laid Him.”",
+      "verse": 2
+    },
+    {
+      "text": "Peter therefore went out, and the other disciple, and were going to the tomb. ",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "So they both ran together, and the other disciple outran Peter and came to the tomb first. ",
+      "verse": 4
+    },
+    {
+      "text": "And he, stooping down and looking in, saw the linen cloths lying there; yet he did not go in. ",
+      "verse": 5
+    },
+    {
+      "text": "Then Simon Peter came, following him, and went into the tomb; and he saw the linen cloths lying there, ",
+      "verse": 6
+    },
+    {
+      "text": "and the handkerchief that had been around His head, not lying with the linen cloths, but folded together in a place by itself. ",
+      "verse": 7
+    },
+    {
+      "text": "Then the other disciple, who came to the tomb first, went in also; and he saw and believed. ",
+      "verse": 8
+    },
+    {
+      "text": "For as yet they did not know the Scripture, that He must rise again from the dead. ",
+      "verse": 9
+    },
+    {
+      "text": "Then the disciples went away again to their own homes.",
+      "verse": 10
+    },
+    {
+      "text": "Mary Magdalene Sees the Risen Lord",
+      "type": "heading"
+    },
+    {
+      "text": "But Mary stood outside by the tomb weeping, and as she wept she stooped down and looked into the tomb. ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And she saw two angels in white sitting, one at the head and the other at the feet, where the body of Jesus had lain. ",
+      "verse": 12
+    },
+    {
+      "text": "Then they said to her, “Woman, why are you weeping?”",
+      "verse": 13
+    },
+    {
+      "text": "She said to them, “Because they have taken away my Lord, and I do not know where they have laid Him.”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Now when she had said this, she turned around and saw Jesus standing there, and did not know that it was Jesus. ",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus said to her, “Woman, why are you weeping? Whom are you seeking?”",
+      "verse": 15
+    },
+    {
+      "text": "She, supposing Him to be the gardener, said to Him, “Sir, if You have carried Him away, tell me where You have laid Him, and I will take Him away.”",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus said to her, “Mary!”",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "She turned and said to Him, “Rabboni!” (which is to say, Teacher).",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus said to her, “Do not cling to Me, for I have not yet ascended to My Father; but go to My brethren and say to them, ‘I am ascending to My Father and your Father, and to My God and your God.’ ”",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Mary Magdalene came and told the disciples that she had seen the Lord, and that He had spoken these things to her.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "The Apostles Commissioned",
+      "type": "heading"
+    },
+    {
+      "text": "Then, the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled, for fear of the Jews, Jesus came and stood in the midst, and said to them, “Peace be with you.” ",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "When He had said this, He showed them His hands and His side. Then the disciples were glad when they saw the Lord.",
+      "verse": 20
+    },
+    {
+      "text": "So Jesus said to them again, “Peace to you! As the Father has sent Me, I also send you.” ",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "And when He had said this, He breathed on them, and said to them, “Receive the Holy Spirit. ",
+      "verse": 22
+    },
+    {
+      "text": "If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.”",
+      "verse": 23
+    },
+    {
+      "text": "Seeing and Believing",
+      "type": "heading"
+    },
+    {
+      "text": "Now Thomas, called the Twin, one of the twelve, was not with them when Jesus came. ",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "The other disciples therefore said to him, “We have seen the Lord.”",
+      "verse": 25
+    },
+    {
+      "text": "So he said to them, “Unless I see in His hands the print of the nails, and put my finger into the print of the nails, and put my hand into His side, I will not believe.”",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "And after eight days His disciples were again inside, and Thomas with them. Jesus came, the doors being shut, and stood in the midst, and said, “Peace to you!” ",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "Then He said to Thomas, “Reach your finger here, and look at My hands; and reach your hand here, and put it into My side. Do not be unbelieving, but believing.”",
+      "verse": 27
+    },
+    {
+      "text": "And Thomas answered and said to Him, “My Lord and my God!”",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus said to him, “Thomas, because you have seen Me, you have believed. Blessed are those who have not seen and yet have believed.”",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "That You May Believe",
+      "type": "heading"
+    },
+    {
+      "text": "And truly Jesus did many other signs in the presence of His disciples, which are not written in this book; ",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in His name.",
+      "verse": 31
+    }
+  ]
+}

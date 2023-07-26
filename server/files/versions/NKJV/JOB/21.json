@@ -1,0 +1,367 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 21,
+  "verses": 34,
+  "content": [
+    {
+      "text": "Job’s Discourse on the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Listen carefully to my speech,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let this be your consolation.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Bear with me that I may speak,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And after I have spoken, keep mocking.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“As for me, is my complaint against man?",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And if it were, why should I not be impatient?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Look at me and be astonished;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Put your hand over your mouth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Even when I remember I am terrified,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And trembling takes hold of my flesh.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do the wicked live and become old,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, become mighty in power?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their descendants are established with them in their sight,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And their offspring before their eyes.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their houses are safe from fear,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Neither is the rod of God upon them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Their bull breeds without failure;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Their cow calves without miscarriage.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They send forth their little ones like a flock,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And their children dance.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They sing to the tambourine and harp,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And rejoice to the sound of the flute.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They spend their days in wealth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And in a moment go down to the grave.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they say to God, ‘Depart from us,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For we do not desire the knowledge of Your ways.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is the Almighty, that we should serve Him?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And what profit do we have if we pray to Him?’",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed their prosperity is not in their hand;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The counsel of the wicked is far from me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“How often is the lamp of the wicked put out?",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How often does their destruction come upon them,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The sorrows God distributes in His anger?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They are like straw before the wind,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And like chaff that a storm carries away.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They say, ‘God lays up one’s iniquity for his children’;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Him recompense him, that he may know it.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let his eyes see his destruction,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And let him drink of the wrath of the Almighty.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For what does he care about his household after him,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "When the number of his months is cut in half?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Can anyone teach God knowledge,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Since He judges those on high?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "One dies in his full strength,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Being wholly at ease and secure;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "His pails are full of milk,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And the marrow of his bones is moist.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Another man dies in the bitterness of his soul,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Never having eaten with pleasure.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They lie down alike in the dust,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And worms cover them.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“Look, I know your thoughts,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the schemes with which you would wrong me.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For you say,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Where is the house of the prince?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And where is the tent,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The dwelling place of the wicked?’",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you not asked those who travel the road?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And do you not know their signs?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "For the wicked are reserved for the day of doom;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be brought out on the day of wrath.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Who condemns his way to his face?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And who repays him for what he has done?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet he shall be brought to the grave,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And a vigil kept over the tomb.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The clods of the valley shall be sweet to him;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone shall follow him,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "As countless have gone before him.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "How then can you comfort me with empty words,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Since falsehood remains in your answers?”",
+      "verse": 34,
+      "type": "poetry"
+    }
+  ]
+}

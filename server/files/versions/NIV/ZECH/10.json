@@ -1,0 +1,287 @@
+{
+  "book_id": "ZECH",
+  "book_name": "Zechariah",
+  "chapter": 10,
+  "verses": 12,
+  "content": [
+    {
+      "text": "The Lord Will Care for Judah",
+      "type": "heading"
+    },
+    {
+      "text": "Ask the Lord for rain in the springtime;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "it is the Lord who sends the thunderstorms.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives showers of rain to all people,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and plants of the field to everyone.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The idols speak deceitfully,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "diviners see visions that lie;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they tell dreams that are false,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they give comfort in vain.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the people wander like sheep",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "oppressed for lack of a shepherd.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“My anger burns against the shepherds,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I will punish the leaders;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord Almighty will care",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for his flock, the people of Judah,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and make them like a proud horse in battle.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "From Judah will come the cornerstone,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "from him the tent peg,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "from him the battle bow,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "from him every ruler.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Together they will be like warriors in battle",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "trampling their enemy into the mud of the streets.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They will fight because the Lord is with them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will put the enemy horsemen to shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will strengthen Judah",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and save the tribes of Joseph.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will restore them",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "because I have compassion on them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be as though",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I had not rejected them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am the Lord their God",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will answer them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Ephraimites will become like warriors,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and their hearts will be glad as with wine.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their children will see it and be joyful;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their hearts will rejoice in the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will signal for them",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and gather them in.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely I will redeem them;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be as numerous as before.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I scatter them among the peoples,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "yet in distant lands they will remember me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They and their children will survive,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will return.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them back from Egypt",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and gather them from Assyria.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them to Gilead and Lebanon,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and there will not be room enough for them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They will pass through the sea of trouble;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the surging sea will be subdued",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the depths of the Nile will dry up.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Assyria’s pride will be brought down",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and Egypt’s scepter will pass away.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will strengthen them in the Lord",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and in his name they will live securely,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

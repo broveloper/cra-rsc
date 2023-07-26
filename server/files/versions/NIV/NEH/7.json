@@ -1,0 +1,553 @@
+{
+  "book_id": "NEH",
+  "book_name": "Nehemiah",
+  "chapter": 7,
+  "verses": 73,
+  "content": [
+    {
+      "text": "After the wall had been rebuilt and I had set the doors in place, the gatekeepers, the musicians and the Levites were appointed.",
+      "verse": 1
+    },
+    {
+      "text": "I put in charge of Jerusalem my brother Hanani, along with Hananiah the commander of the citadel, because he was a man of integrity and feared God more than most people do.",
+      "verse": 2
+    },
+    {
+      "text": "I said to them, “The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses.”",
+      "verse": 3
+    },
+    {
+      "text": "The List of the Exiles Who Returned",
+      "type": "heading"
+    },
+    {
+      "text": "Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "So my God put it into my heart to assemble the nobles, the officials and the common people for registration by families. I found the genealogical record of those who had been the first to return. This is what I found written there:",
+      "verse": 5
+    },
+    {
+      "text": "These are the people of the province who came up from the captivity of the exiles whom Nebuchadnezzar king of Babylon had taken captive (they returned to Jerusalem and Judah, each to his own town,",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "in company with Zerubbabel, Joshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum and Baanah):",
+      "verse": 7
+    },
+    {
+      "text": "The list of the men of Israel:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of Parosh",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "2,172",
+      "verse": 8
+    },
+    {
+      "text": "of Shephatiah",
+      "verse": 9
+    },
+    {
+      "text": "372",
+      "verse": 9
+    },
+    {
+      "text": "of Arah",
+      "verse": 10
+    },
+    {
+      "text": "652",
+      "verse": 10
+    },
+    {
+      "text": "of Pahath-Moab (through the line of Jeshua and Joab)",
+      "verse": 11
+    },
+    {
+      "text": "2,818",
+      "verse": 11
+    },
+    {
+      "text": "of Elam",
+      "verse": 12
+    },
+    {
+      "text": "1,254",
+      "verse": 12
+    },
+    {
+      "text": "of Zattu",
+      "verse": 13
+    },
+    {
+      "text": "845",
+      "verse": 13
+    },
+    {
+      "text": "of Zakkai",
+      "verse": 14
+    },
+    {
+      "text": "760",
+      "verse": 14
+    },
+    {
+      "text": "of Binnui",
+      "verse": 15
+    },
+    {
+      "text": "648",
+      "verse": 15
+    },
+    {
+      "text": "of Bebai",
+      "verse": 16
+    },
+    {
+      "text": "628",
+      "verse": 16
+    },
+    {
+      "text": "of Azgad",
+      "verse": 17
+    },
+    {
+      "text": "2,322",
+      "verse": 17
+    },
+    {
+      "text": "of Adonikam",
+      "verse": 18
+    },
+    {
+      "text": "667",
+      "verse": 18
+    },
+    {
+      "text": "of Bigvai",
+      "verse": 19
+    },
+    {
+      "text": "2,067",
+      "verse": 19
+    },
+    {
+      "text": "of Adin",
+      "verse": 20
+    },
+    {
+      "text": "655",
+      "verse": 20
+    },
+    {
+      "text": "of Ater (through Hezekiah)",
+      "verse": 21
+    },
+    {
+      "text": "98",
+      "verse": 21
+    },
+    {
+      "text": "of Hashum",
+      "verse": 22
+    },
+    {
+      "text": "328",
+      "verse": 22
+    },
+    {
+      "text": "of Bezai",
+      "verse": 23
+    },
+    {
+      "text": "324",
+      "verse": 23
+    },
+    {
+      "text": "of Hariph",
+      "verse": 24
+    },
+    {
+      "text": "112",
+      "verse": 24
+    },
+    {
+      "text": "of Gibeon",
+      "verse": 25
+    },
+    {
+      "text": "95",
+      "verse": 25
+    },
+    {
+      "text": "the men of Bethlehem and Netophah",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "188",
+      "verse": 26
+    },
+    {
+      "text": "of Anathoth",
+      "verse": 27
+    },
+    {
+      "text": "128",
+      "verse": 27
+    },
+    {
+      "text": "of Beth Azmaveth",
+      "verse": 28
+    },
+    {
+      "text": "42",
+      "verse": 28
+    },
+    {
+      "text": "of Kiriath Jearim, Kephirah and Beeroth",
+      "verse": 29
+    },
+    {
+      "text": "743",
+      "verse": 29
+    },
+    {
+      "text": "of Ramah and Geba",
+      "verse": 30
+    },
+    {
+      "text": "621",
+      "verse": 30
+    },
+    {
+      "text": "of Mikmash",
+      "verse": 31
+    },
+    {
+      "text": "122",
+      "verse": 31
+    },
+    {
+      "text": "of Bethel and Ai",
+      "verse": 32
+    },
+    {
+      "text": "123",
+      "verse": 32
+    },
+    {
+      "text": "of the other Nebo",
+      "verse": 33
+    },
+    {
+      "text": "52",
+      "verse": 33
+    },
+    {
+      "text": "of the other Elam",
+      "verse": 34
+    },
+    {
+      "text": "1,254",
+      "verse": 34
+    },
+    {
+      "text": "of Harim",
+      "verse": 35
+    },
+    {
+      "text": "320",
+      "verse": 35
+    },
+    {
+      "text": "of Jericho",
+      "verse": 36
+    },
+    {
+      "text": "345",
+      "verse": 36
+    },
+    {
+      "text": "of Lod, Hadid and Ono",
+      "verse": 37
+    },
+    {
+      "text": "721",
+      "verse": 37
+    },
+    {
+      "text": "of Senaah",
+      "verse": 38
+    },
+    {
+      "text": "3,930",
+      "verse": 38
+    },
+    {
+      "text": "The priests:",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of Jedaiah (through the family of Jeshua)",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "973",
+      "verse": 39
+    },
+    {
+      "text": "of Immer",
+      "verse": 40
+    },
+    {
+      "text": "1,052",
+      "verse": 40
+    },
+    {
+      "text": "of Pashhur",
+      "verse": 41
+    },
+    {
+      "text": "1,247",
+      "verse": 41
+    },
+    {
+      "text": "of Harim",
+      "verse": 42
+    },
+    {
+      "text": "1,017",
+      "verse": 42
+    },
+    {
+      "text": "The Levites:",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of Jeshua (through Kadmiel through the line of Hodaviah)",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "74",
+      "verse": 43
+    },
+    {
+      "text": "The musicians:",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of Asaph",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "148",
+      "verse": 44
+    },
+    {
+      "text": "The gatekeepers:",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "Shallum, Ater, Talmon, Akkub, Hatita and Shobai",
+      "verse": 45
+    },
+    {
+      "text": "138",
+      "verse": 45
+    },
+    {
+      "text": "The temple servants:",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "Ziha, Hasupha, Tabbaoth,",
+      "verse": 46
+    },
+    {
+      "text": "Keros, Sia, Padon,",
+      "verse": 47
+    },
+    {
+      "text": "Lebana, Hagaba, Shalmai,",
+      "verse": 48
+    },
+    {
+      "text": "Hanan, Giddel, Gahar,",
+      "verse": 49
+    },
+    {
+      "text": "Reaiah, Rezin, Nekoda,",
+      "verse": 50
+    },
+    {
+      "text": "Gazzam, Uzza, Paseah,",
+      "verse": 51
+    },
+    {
+      "text": "Besai, Meunim, Nephusim,",
+      "verse": 52
+    },
+    {
+      "text": "Bakbuk, Hakupha, Harhur,",
+      "verse": 53
+    },
+    {
+      "text": "Bazluth, Mehida, Harsha,",
+      "verse": 54
+    },
+    {
+      "text": "Barkos, Sisera, Temah,",
+      "verse": 55
+    },
+    {
+      "text": "Neziah and Hatipha",
+      "verse": 56
+    },
+    {
+      "text": "The descendants of the servants of Solomon:",
+      "verse": 57,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of",
+      "verse": 57,
+      "type": "newline"
+    },
+    {
+      "text": "Sotai, Sophereth, Perida,",
+      "verse": 57
+    },
+    {
+      "text": "Jaala, Darkon, Giddel,",
+      "verse": 58
+    },
+    {
+      "text": "Shephatiah, Hattil,",
+      "verse": 59
+    },
+    {
+      "text": "Pokereth-Hazzebaim and Amon",
+      "verse": 59
+    },
+    {
+      "text": "The temple servants and the descendants of the servants of Solomon",
+      "verse": 60,
+      "type": "newline"
+    },
+    {
+      "text": "392",
+      "verse": 60
+    },
+    {
+      "text": "The following came up from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer, but they could not show that their families were descended from Israel:",
+      "verse": 61,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of",
+      "verse": 62,
+      "type": "newline"
+    },
+    {
+      "text": "Delaiah, Tobiah and Nekoda",
+      "verse": 62
+    },
+    {
+      "text": "642",
+      "verse": 62
+    },
+    {
+      "text": "And from among the priests:",
+      "verse": 63,
+      "type": "newline"
+    },
+    {
+      "text": "the descendants of",
+      "verse": 63,
+      "type": "newline"
+    },
+    {
+      "text": "Hobaiah, Hakkoz and Barzillai (a man who had married a daughter of Barzillai the Gileadite and was called by that name).",
+      "verse": 63
+    },
+    {
+      "text": "These searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.",
+      "verse": 64,
+      "type": "newline"
+    },
+    {
+      "text": "The governor, therefore, ordered them not to eat any of the most sacred food until there should be a priest ministering with the Urim and Thummim.",
+      "verse": 65
+    },
+    {
+      "text": "The whole company numbered 42,360,",
+      "verse": 66,
+      "type": "newline"
+    },
+    {
+      "text": "besides their 7,337 male and female slaves; and they also had 245 male and female singers.",
+      "verse": 67
+    },
+    {
+      "text": "There were 736 horses, 245 mules,",
+      "verse": 68
+    },
+    {
+      "text": "435 camels and 6,720 donkeys.",
+      "verse": 69
+    },
+    {
+      "text": "Some of the heads of the families contributed to the work. The governor gave to the treasury 1,000 darics of gold, 50 bowls and 530 garments for priests.",
+      "verse": 70
+    },
+    {
+      "text": "Some of the heads of the families gave to the treasury for the work 20,000 darics of gold and 2,200 minas of silver.",
+      "verse": 71
+    },
+    {
+      "text": "The total given by the rest of the people was 20,000 darics of gold, 2,000 minas of silver and 67 garments for priests.",
+      "verse": 72
+    },
+    {
+      "text": "The priests, the Levites, the gatekeepers, the musicians and the temple servants, along with certain of the people and the rest of the Israelites, settled in their own towns.",
+      "verse": 73
+    },
+    {
+      "text": "Ezra Reads the Law",
+      "type": "heading"
+    },
+    {
+      "text": "When the seventh month came and the Israelites had settled in their towns,",
+      "verse": 73,
+      "type": "newline"
+    }
+  ]
+}

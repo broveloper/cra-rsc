@@ -1,0 +1,127 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 112,
+  "verses": 10,
+  "content": [
+    {
+      "text": "The Righteous Will Never Be Moved",
+      "type": "heading"
+    },
+    {
+      "text": " Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Blessed is the man who fears the Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "who greatly delights in his commandments!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "His offspring will be mighty in the land;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the generation of the upright will be blessed.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Wealth and riches are in his house,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and his righteousness endures forever.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Light dawns in the darkness for the upright;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he is gracious, merciful, and righteous.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "It is well with the man who deals generously and lends;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who conducts his affairs with justice.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For the righteous will never be moved;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he will be remembered forever.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He is not afraid of bad news;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "his heart is firm, trusting in the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "His heart is steady; he will not be afraid,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "until he looks in triumph on his adversaries.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He has distributed freely; he has given to the poor;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "his righteousness endures forever;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "his horn is exalted in honor.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked man sees it and is angry;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he gnashes his teeth and melts away;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the desire of the wicked will perish!",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

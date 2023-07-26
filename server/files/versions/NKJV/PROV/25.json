@@ -1,0 +1,317 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 25,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Further Wise Sayings of Solomon",
+      "type": "heading"
+    },
+    {
+      "text": "These also are proverbs of Solomon which the men of Hezekiah king of Judah copied:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "It is the glory of God to conceal a matter,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the glory of kings is to search out a matter.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "As the heavens for height and the earth for depth,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So the heart of kings is unsearchable.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Take away the dross from silver,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And it will go to the silversmith for jewelry.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Take away the wicked from before the king,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And his throne will be established in righteousness.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not exalt yourself in the presence of the king,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And do not stand in the place of the great;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is better that he say to you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come up here,”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Than that you should be put lower in the presence of the prince,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom your eyes have seen.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not go hastily to court;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For what will you do in the end,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "When your neighbor has put you to shame?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Debate your case with your neighbor,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not disclose the secret to another;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest he who hears it expose your shame,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And your reputation be ruined.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "A word fitly spoken is like apples of gold",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In settings of silver.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Like an earring of gold and an ornament of fine gold",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Is a wise rebuker to an obedient ear.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the cold of snow in time of harvest",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is a faithful messenger to those who send him,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For he refreshes the soul of his masters.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever falsely boasts of giving",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is like clouds and wind without rain.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "By long forbearance a ruler is persuaded,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a gentle tongue breaks a bone.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you found honey?",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Eat only as much as you need,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you be filled with it and vomit.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Seldom set foot in your neighbor’s house,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lest he become weary of you and hate you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "A man who bears false witness against his neighbor",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is like a club, a sword, and a sharp arrow.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Confidence in an unfaithful man in time of trouble",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is like a bad tooth and a foot out of joint.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Like one who takes away a garment in cold weather,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And like vinegar on soda,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Is one who sings songs to a heavy heart.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "If your enemy is hungry, give him bread to eat;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And if he is thirsty, give him water to drink;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For so you will heap coals of fire on his head,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Lord will reward you.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The north wind brings forth rain,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a backbiting tongue an angry countenance.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "It is better to dwell in a corner of a housetop,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than in a house shared with a contentious woman.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "As cold water to a weary soul,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So is good news from a far country.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "A righteous man who falters before the wicked",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is like a murky spring and a polluted well.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "It is not good to eat much honey;",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So to seek one’s own glory is not glory.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever has no rule over his own spirit",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is like a city broken down, without walls.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

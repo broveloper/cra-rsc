@@ -1,0 +1,88 @@
+{
+  "book_id": "2JOHN",
+  "book_name": "2 John",
+  "chapter": 1,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Greeting the Elect Lady",
+      "type": "heading"
+    },
+    {
+      "text": "The Elder,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "To the elect lady and her children, whom I love in truth, and not only I, but also all those who have known the truth, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "because of the truth which abides in us and will be with us forever:",
+      "verse": 2
+    },
+    {
+      "text": "Grace, mercy, and peace will be with you from God the Father and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Walk in Christ’s Commandments",
+      "type": "heading"
+    },
+    {
+      "text": "I rejoiced greatly that I have found some of your children walking in truth, as we received commandment from the Father. ",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "And now I plead with you, lady, not as though I wrote a new commandment to you, but that which we have had from the beginning: that we love one another. ",
+      "verse": 5
+    },
+    {
+      "text": "This is love, that we walk according to His commandments. This is the commandment, that as you have heard from the beginning, you should walk in it.",
+      "verse": 6
+    },
+    {
+      "text": "Beware of Antichrist Deceivers",
+      "type": "heading"
+    },
+    {
+      "text": "For many deceivers have gone out into the world who do not confess Jesus Christ as coming in the flesh. This is a deceiver and an antichrist. ",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Look to yourselves, that we do not lose those things we worked for, but that we may receive a full reward.",
+      "verse": 8
+    },
+    {
+      "text": "Whoever transgresses and does not abide in the doctrine of Christ does not have God. He who abides in the doctrine of Christ has both the Father and the Son. ",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "If anyone comes to you and does not bring this doctrine, do not receive him into your house nor greet him; ",
+      "verse": 10
+    },
+    {
+      "text": "for he who greets him shares in his evil deeds.",
+      "verse": 11
+    },
+    {
+      "text": "John’s Farewell Greeting",
+      "type": "heading"
+    },
+    {
+      "text": "Having many things to write to you, I did not wish to do so with paper and ink; but I hope to come to you and speak face to face, that our joy may be full.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "The children of your elect sister greet you. Amen.",
+      "verse": 13,
+      "type": "newline"
+    }
+  ]
+}

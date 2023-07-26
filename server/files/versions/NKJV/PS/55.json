@@ -1,0 +1,306 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 55,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Trust in God Concerning the Treachery of Friends",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. With stringed instruments. A Contemplation of David.",
+      "type": "title"
+    },
+    {
+      "text": "Give ear to my prayer, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And do not hide Yourself from my supplication.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Attend to me, and hear me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I am restless in my complaint, and moan noisily,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the voice of the enemy,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the oppression of the wicked;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For they bring down trouble upon me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And in wrath they hate me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart is severely pained within me,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the terrors of death have fallen upon me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Fearfulness and trembling have come upon me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And horror has overwhelmed me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "So I said, “Oh, that I had wings like a dove!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I would fly away and be at rest.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, I would wander far off,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And remain in the wilderness. Selah",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I would hasten my escape",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "From the windy storm and tempest.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Destroy, O Lord, and divide their tongues,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For I have seen violence and strife in the city.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Day and night they go around it on its walls;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Iniquity and trouble are also in the midst of it.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Destruction is in its midst;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Oppression and deceit do not depart from its streets.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is not an enemy who reproaches me;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Then I could bear it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor is it one who hates me who has exalted himself against me;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I could hide from him.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But it was you, a man my equal,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "My companion and my acquaintance.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "We took sweet counsel together,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And walked to the house of God in the throng.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let death seize them;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let them go down alive into hell,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For wickedness is in their dwellings and among them.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "As for me, I will call upon God,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the Lord shall save me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Evening and morning and at noon",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pray, and cry aloud,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall hear my voice.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He has redeemed my soul in peace from the battle that was against me,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For there were many against me.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "God will hear, and afflict them,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Even He who abides from of old. Selah",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they do not change,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore they do not fear God.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He has put forth his hands against those who were at peace with him;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has broken his covenant.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of his mouth were smoother than butter,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But war was in his heart;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "His words were softer than oil,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they were drawn swords.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Cast your burden on the Lord,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And He shall sustain you;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall never permit the righteous to be moved.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "But You, O God, shall bring them down to the pit of destruction;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Bloodthirsty and deceitful men shall not live out half their days;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will trust in You.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 50,
+  "verses": 11,
+  "content": [
+    {
+      "text": "The Servant, Israel’s Hope",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Where is the certificate of your mother’s divorce,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whom I have put away?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Or which of My creditors is it to whom I have sold you?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For your iniquities you have sold yourselves,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And for your transgressions your mother has been put away.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why, when I came, was there no man?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Why, when I called, was there none to answer?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Is My hand shortened at all that it cannot redeem?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Or have I no power to deliver?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed with My rebuke I dry up the sea,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I make the rivers a wilderness;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Their fish stink because there is no water,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And die of thirst.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I clothe the heavens with blackness,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And I make sackcloth their covering.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord God has given Me",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The tongue of the learned,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That I should know how to speak",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A word in season to him who is weary.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He awakens Me morning by morning,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He awakens My ear",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To hear as the learned.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord God has opened My ear;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And I was not rebellious,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor did I turn away.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I gave My back to those who struck Me,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And My cheeks to those who plucked out the beard;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I did not hide My face from shame and spitting.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“For the Lord God will help Me;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore I will not be disgraced;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I have set My face like a flint,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And I know that I will not be ashamed.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He is near who justifies Me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will contend with Me?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us stand together.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is My adversary?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him come near Me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the Lord God will help Me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is he who will condemn Me?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed they will all grow old like a garment;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The moth will eat them up.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who among you fears the Lord?",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who obeys the voice of His Servant?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Who walks in darkness",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And has no light?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him trust in the name of the Lord",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And rely upon his God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Look, all you who kindle a fire,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who encircle yourselves with sparks:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Walk in the light of your fire and in the sparks you have kindled—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "This you shall have from My hand:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall lie down in torment.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

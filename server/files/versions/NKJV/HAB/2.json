@@ -1,0 +1,400 @@
+{
+  "book_id": "HAB",
+  "book_name": "Habakkuk",
+  "chapter": 2,
+  "verses": 20,
+  "content": [
+    {
+      "text": "The Just Shall Live by Faith",
+      "type": "heading"
+    },
+    {
+      "text": "I will stand my watch",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And set myself on the rampart,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And watch to see what He will say to me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And what I will answer when I am corrected.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Just Live by Faith",
+      "type": "heading"
+    },
+    {
+      "text": "Then the Lord answered me and said:",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "“Write the vision",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And make it plain on tablets,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "That he may run who reads it.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the vision is yet for an appointed time;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But at the end it will speak, and it will not lie.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Though it tarries, wait for it;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because it will surely come,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "It will not tarry.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold the proud,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His soul is not upright in him;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But the just shall live by his faith.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "“Indeed, because he transgresses by wine,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He is a proud man,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And he does not stay at home.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he enlarges his desire as hell,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And he is like death, and cannot be satisfied,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He gathers to himself all nations",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And heaps up for himself all peoples.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Will not all these take up a proverb against him,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a taunting riddle against him, and say,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Woe to him who increases",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "What is not his—how long?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And to him who loads himself with many pledges’?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Will not your creditors rise up suddenly?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Will they not awaken who oppress you?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And you will become their booty.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have plundered many nations,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All the remnant of the people shall plunder you,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of men’s blood",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the violence of the land and the city,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And of all who dwell in it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to him who covets evil gain for his house,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That he may set his nest on high,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That he may be delivered from the power of disaster!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You give shameful counsel to your house,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Cutting off many peoples,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And sin against your soul.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For the stone will cry out from the wall,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the beam from the timbers will answer it.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to him who builds a town with bloodshed,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who establishes a city by iniquity!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, is it not of the Lord of hosts",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That the peoples labor to feed the fire,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And nations weary themselves in vain?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the earth will be filled",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "With the knowledge of the glory of the Lord,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "As the waters cover the sea.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to him who gives drink to his neighbor,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Pressing him to your bottle,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Even to make him drunk,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may look on his nakedness!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You are filled with shame instead of glory.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You also—drink!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And be exposed as uncircumcised!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The cup of the Lord’s right hand will be turned against you,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And utter shame will be on your glory.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the violence done to Lebanon will cover you,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And the plunder of beasts which made them afraid,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of men’s blood",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And the violence of the land and the city,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And of all who dwell in it.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“What profit is the image, that its maker should carve it,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The molded image, a teacher of lies,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "That the maker of its mold should trust in it,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "To make mute idols?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to him who says to wood, ‘Awake!’",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "To silent stone, ‘Arise! It shall teach!’",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, it is overlaid with gold and silver,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet in it there is no breath at all.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“But the Lord is in His holy temple.",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let all the earth keep silence before Him.”",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

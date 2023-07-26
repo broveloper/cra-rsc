@@ -1,0 +1,106 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 12,
+  "verses": 8,
+  "content": [
+    {
+      "text": "The Faithful Have Vanished",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: according to The Sheminith. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Save, O Lord, for the godly one is gone;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the faithful have vanished from among the children of man.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone utters lies to his neighbor;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "with flattering lips and a double heart they speak.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May the Lord cut off all flattering lips,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the tongue that makes great boasts,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "those who say, “With our tongue we will prevail,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "our lips are with us; who is master over us?”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because the poor are plundered, because the needy groan,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will now arise,” says the Lord;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will place him in the safety for which he longs.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of the Lord are pure words,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like silver refined in a furnace on the ground,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "purified seven times.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You, O Lord, will keep them;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you will guard us from this generation forever.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "On every side the wicked prowl,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "as vileness is exalted among the children of man.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

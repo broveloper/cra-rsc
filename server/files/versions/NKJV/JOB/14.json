@@ -1,0 +1,272 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 14,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Job Speaks of Life’s Woes",
+      "type": "heading"
+    },
+    {
+      "text": "“Man who is born of woman",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is of few days and full of trouble.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He comes forth like a flower and fades away;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He flees like a shadow and does not continue.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And do You open Your eyes on such a one,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And bring me to judgment with Yourself?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can bring a clean thing out of an unclean?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "No one!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Since his days are determined,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The number of his months is with You;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You have appointed his limits, so that he cannot pass.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Look away from him that he may rest,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Till like a hired man he finishes his day.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“For there is hope for a tree,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "If it is cut down, that it will sprout again,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And that its tender shoots will not cease.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Though its root may grow old in the earth,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And its stump may die in the ground,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet at the scent of water it will bud",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And bring forth branches like a plant.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But man dies and is laid away;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed he breathes his last",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And where is he?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As water disappears from the sea,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And a river becomes parched and dries up,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "So man lies down and does not rise.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Till the heavens are no more,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They will not awake",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor be roused from their sleep.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Oh, that You would hide me in the grave,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That You would conceal me until Your wrath is past,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That You would appoint me a set time, and remember me!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "If a man dies, shall he live again?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of my hard service I will wait,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Till my change comes.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall call, and I will answer You;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall desire the work of Your hands.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For now You number my steps,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But do not watch over my sin.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "My transgression is sealed up in a bag,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And You cover my iniquity.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“But as a mountain falls and crumbles away,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And as a rock is moved from its place;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As water wears away stones,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And as torrents wash away the soil of the earth;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "So You destroy the hope of man.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You prevail forever against him, and he passes on;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "You change his countenance and send him away.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "His sons come to honor, and he does not know it;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They are brought low, and he does not perceive it.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But his flesh will be in pain over it,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And his soul will mourn over it.”",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

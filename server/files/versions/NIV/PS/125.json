@@ -1,0 +1,86 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 125,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Psalm 125",
+      "type": "heading"
+    },
+    {
+      "text": "A song of ascents.",
+      "type": "title"
+    },
+    {
+      "text": "Those who trust in the Lord are like Mount Zion,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "which cannot be shaken but endures forever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "As the mountains surround Jerusalem,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "so the Lord surrounds his people",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "both now and forevermore.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The scepter of the wicked will not remain",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "over the land allotted to the righteous,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for then the righteous might use",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "their hands to do evil.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, do good to those who are good,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to those who are upright in heart.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But those who turn to crooked ways",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord will banish with the evildoers.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Peace be on Israel.",
+      "verse": 5,
+      "type": "poetry newline"
+    }
+  ]
+}

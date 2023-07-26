@@ -1,0 +1,282 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 55,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Invitation to the Thirsty",
+      "type": "heading"
+    },
+    {
+      "text": "“Come, all you who are thirsty,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "come to the waters;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and you who have no money,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "come, buy and eat!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, buy wine and milk",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "without money and without cost.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why spend money on what is not bread,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and your labor on what does not satisfy?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen, listen to me, and eat what is good,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will delight in the richest of fare.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Give ear and come to me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "listen, that you may live.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make an everlasting covenant with you,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my faithful love promised to David.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "See, I have made him a witness to the peoples,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "a ruler and commander of the peoples.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely you will summon nations you know not,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and nations you do not know will come running to you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the Lord your God,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the Holy One of Israel,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for he has endowed you with splendor.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek the Lord while he may be found;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "call on him while he is near.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the wicked forsake their ways",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the unrighteous their thoughts.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them turn to the Lord, and he will have mercy on them,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and to our God, for he will freely pardon.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“For my thoughts are not your thoughts,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "neither are your ways my ways,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“As the heavens are higher than the earth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "so are my ways higher than your ways",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and my thoughts than your thoughts.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "As the rain and the snow",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "come down from heaven,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not return to it",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "without watering the earth",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and making it bud and flourish,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "so that it yields seed for the sower and bread for the eater,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "so is my word that goes out from my mouth:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "It will not return to me empty,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "but will accomplish what I desire",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and achieve the purpose for which I sent it.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You will go out in joy",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and be led forth in peace;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the mountains and hills",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "will burst into song before you,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the trees of the field",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "will clap their hands.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Instead of the thornbush will grow the juniper,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and instead of briers the myrtle will grow.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "This will be for the Lord’s renown,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for an everlasting sign,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that will endure forever.”",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

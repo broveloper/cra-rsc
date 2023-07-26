@@ -1,0 +1,216 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 7,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Psalm 7",
+      "type": "heading"
+    },
+    {
+      "text": "A shiggaion of David, which he sang to the Lord concerning Cush, a Benjamite.",
+      "type": "title"
+    },
+    {
+      "text": "Lord my God, I take refuge in you;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "save and deliver me from all who pursue me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "or they will tear me apart like a lion",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and rip me to pieces with no one to rescue me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord my God, if I have done this",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and there is guilt on my hands—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have repaid my ally with evil",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "or without cause have robbed my foe—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "then let my enemy pursue and overtake me;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "let him trample my life to the ground",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and make me sleep in the dust.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, Lord, in your anger;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "rise up against the rage of my enemies.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, my God; decree justice.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the assembled peoples gather around you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "while you sit enthroned over them on high.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    Let the Lord judge the peoples.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Vindicate me, Lord, according to my righteousness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "according to my integrity, O Most High.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring to an end the violence of the wicked",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and make the righteous secure—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you, the righteous God",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who probes minds and hearts.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My shield is God Most High,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who saves the upright in heart.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "God is a righteous judge,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "a God who displays his wrath every day.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If he does not relent,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he will sharpen his sword;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he will bend and string his bow.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He has prepared his deadly weapons;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he makes ready his flaming arrows.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever is pregnant with evil",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "conceives trouble and gives birth to disillusionment.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever digs a hole and scoops it out",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "falls into the pit they have made.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The trouble they cause recoils on them;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "their violence comes down on their own heads.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give thanks to the Lord because of his righteousness;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing the praises of the name of the Lord Most High.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

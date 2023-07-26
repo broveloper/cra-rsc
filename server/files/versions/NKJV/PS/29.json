@@ -1,0 +1,131 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 29,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Praise to God in His Holiness and Majesty",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Give unto the Lord, O you mighty ones,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Give unto the Lord glory and strength.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Give unto the Lord the glory due to His name;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Worship the Lord in the beauty of holiness.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord is over the waters;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The God of glory thunders;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is over many waters.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord is powerful;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord is full of majesty.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord breaks the cedars,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, the Lord splinters the cedars of Lebanon.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes them also skip like a calf,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Lebanon and Sirion like a young wild ox.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord divides the flames of fire.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord shakes the wilderness;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord shakes the Wilderness of Kadesh.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord makes the deer give birth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And strips the forests bare;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And in His temple everyone says, “Glory!”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord sat enthroned at the Flood,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the Lord sits as King forever.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will give strength to His people;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will bless His people with peace.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

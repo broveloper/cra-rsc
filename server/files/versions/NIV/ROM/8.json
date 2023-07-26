@@ -1,0 +1,197 @@
+{
+  "book_id": "ROM",
+  "book_name": "Romans",
+  "chapter": 8,
+  "verses": 39,
+  "content": [
+    {
+      "text": "Life Through the Spirit",
+      "type": "heading"
+    },
+    {
+      "text": "Therefore, there is now no condemnation for those who are in Christ Jesus,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death.",
+      "verse": 2
+    },
+    {
+      "text": "For what the law was powerless to do because it was weakened by the flesh, God did by sending his own Son in the likeness of sinful flesh to be a sin offering. And so he condemned sin in the flesh,",
+      "verse": 3
+    },
+    {
+      "text": "in order that the righteous requirement of the law might be fully met in us, who do not live according to the flesh but according to the Spirit.",
+      "verse": 4
+    },
+    {
+      "text": "Those who live according to the flesh have their minds set on what the flesh desires; but those who live in accordance with the Spirit have their minds set on what the Spirit desires.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "The mind governed by the flesh is death, but the mind governed by the Spirit is life and peace.",
+      "verse": 6
+    },
+    {
+      "text": "The mind governed by the flesh is hostile to God; it does not submit to God’s law, nor can it do so.",
+      "verse": 7
+    },
+    {
+      "text": "Those who are in the realm of the flesh cannot please God.",
+      "verse": 8
+    },
+    {
+      "text": "You, however, are not in the realm of the flesh but are in the realm of the Spirit, if indeed the Spirit of God lives in you. And if anyone does not have the Spirit of Christ, they do not belong to Christ.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "But if Christ is in you, then even though your body is subject to death because of sin, the Spirit gives life because of righteousness.",
+      "verse": 10
+    },
+    {
+      "text": "And if the Spirit of him who raised Jesus from the dead is living in you, he who raised Christ from the dead will also give life to your mortal bodies because of his Spirit who lives in you.",
+      "verse": 11
+    },
+    {
+      "text": "Therefore, brothers and sisters, we have an obligation—but it is not to the flesh, to live according to it.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "For if you live according to the flesh, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live.",
+      "verse": 13
+    },
+    {
+      "text": "For those who are led by the Spirit of God are the children of God.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption to sonship. And by him we cry, “Abba, Father.”",
+      "verse": 15
+    },
+    {
+      "text": "The Spirit himself testifies with our spirit that we are God’s children.",
+      "verse": 16
+    },
+    {
+      "text": "Now if we are children, then we are heirs—heirs of God and co-heirs with Christ, if indeed we share in his sufferings in order that we may also share in his glory.",
+      "verse": 17
+    },
+    {
+      "text": "Present Suffering and Future Glory",
+      "type": "heading"
+    },
+    {
+      "text": "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "For the creation waits in eager expectation for the children of God to be revealed.",
+      "verse": 19
+    },
+    {
+      "text": "For the creation was subjected to frustration, not by its own choice, but by the will of the one who subjected it, in hope",
+      "verse": 20
+    },
+    {
+      "text": "that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God.",
+      "verse": 21
+    },
+    {
+      "text": "We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "Not only so, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for our adoption to sonship, the redemption of our bodies.",
+      "verse": 23
+    },
+    {
+      "text": "For in this hope we were saved. But hope that is seen is no hope at all. Who hopes for what they already have?",
+      "verse": 24
+    },
+    {
+      "text": "But if we hope for what we do not yet have, we wait for it patiently.",
+      "verse": 25
+    },
+    {
+      "text": "In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "And he who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God’s people in accordance with the will of God.",
+      "verse": 27
+    },
+    {
+      "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "For those God foreknew he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers and sisters.",
+      "verse": 29
+    },
+    {
+      "text": "And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.",
+      "verse": 30
+    },
+    {
+      "text": "More Than Conquerors",
+      "type": "heading"
+    },
+    {
+      "text": "What, then, shall we say in response to these things? If God is for us, who can be against us?",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things?",
+      "verse": 32
+    },
+    {
+      "text": "Who will bring any charge against those whom God has chosen? It is God who justifies.",
+      "verse": 33
+    },
+    {
+      "text": "Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us.",
+      "verse": 34
+    },
+    {
+      "text": "Who shall separate us from the love of Christ? Shall trouble or hardship or persecution or famine or nakedness or danger or sword?",
+      "verse": 35
+    },
+    {
+      "text": "As it is written:",
+      "verse": 36
+    },
+    {
+      "text": "“For your sake we face death all day long;",
+      "verse": 36,
+      "type": "poetry newline"
+    },
+    {
+      "text": "we are considered as sheep to be slaughtered.”",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "No, in all these things we are more than conquerors through him who loved us.",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers,",
+      "verse": 38
+    },
+    {
+      "text": "neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.",
+      "verse": 39
+    }
+  ]
+}

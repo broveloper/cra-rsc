@@ -1,0 +1,576 @@
+{
+  "book_id": "2SAM",
+  "book_name": "2 Samuel",
+  "chapter": 22,
+  "verses": 51,
+  "content": [
+    {
+      "text": "David’s Song of Praise",
+      "type": "heading"
+    },
+    {
+      "text": "David sang to the Lord the words of this song when the Lord delivered him from the hand of all his enemies and from the hand of Saul.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "He said:",
+      "verse": 2
+    },
+    {
+      "text": "“The Lord is my rock, my fortress and my deliverer;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    my God is my rock, in whom I take refuge,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my shield and the horn of my salvation.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He is my stronghold, my refuge and my savior—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "from violent people you save me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“I called to the Lord, who is worthy of praise,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and have been saved from my enemies.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The waves of death swirled about me;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the torrents of destruction overwhelmed me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The cords of the grave coiled around me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the snares of death confronted me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“In my distress I called to the Lord;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I called out to my God.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "From his temple he heard my voice;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "my cry came to his ears.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth trembled and quaked,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the foundations of the heavens shook;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they trembled because he was angry.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Smoke rose from his nostrils;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "consuming fire came from his mouth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "burning coals blazed out of it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He parted the heavens and came down;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "dark clouds were under his feet.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He mounted the cherubim and flew;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he soared on the wings of the wind.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He made darkness his canopy around him—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the dark rain clouds of the sky.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Out of the brightness of his presence",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "bolts of lightning blazed forth.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord thundered from heaven;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the voice of the Most High resounded.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He shot his arrows and scattered the enemy,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "with great bolts of lightning he routed them.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The valleys of the sea were exposed",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the foundations of the earth laid bare",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "at the rebuke of the Lord,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "at the blast of breath from his nostrils.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“He reached down from on high and took hold of me;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he drew me out of deep waters.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He rescued me from my powerful enemy,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "from my foes, who were too strong for me.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They confronted me in the day of my disaster,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "but the Lord was my support.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He brought me out into a spacious place;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "he rescued me because he delighted in me.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord has dealt with me according to my righteousness;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "according to the cleanness of my hands he has rewarded me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have kept the ways of the Lord;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I am not guilty of turning from my God.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "All his laws are before me;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not turned away from his decrees.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I have been blameless before him",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and have kept myself from sin.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has rewarded me according to my righteousness,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "according to my cleanness in his sight.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“To the faithful you show yourself faithful,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to the blameless you show yourself blameless,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "to the pure you show yourself pure,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "but to the devious you show yourself shrewd.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "You save the humble,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "but your eyes are on the haughty to bring them low.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "You, Lord, are my lamp;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord turns my darkness into light.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "With your help I can advance against a troop;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "with my God I can scale a wall.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "“As for God, his way is perfect:",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord’s word is flawless;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "he shields all who take refuge in him.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "For who is God besides the Lord?",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And who is the Rock except our God?",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "It is God who arms me with strength",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and keeps my way secure.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes my feet like the feet of a deer;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "he causes me to stand on the heights.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "He trains my hands for battle;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "my arms can bend a bow of bronze.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "You make your saving help my shield;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "your help has made me great.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "You provide a broad path for my feet,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "so that my ankles do not give way.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "“I pursued my enemies and crushed them;",
+      "verse": 38,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I did not turn back till they were destroyed.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "I crushed them completely, and they could not rise;",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "they fell beneath my feet.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "You armed me with strength for battle;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "you humbled my adversaries before me.",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "You made my enemies turn their backs in flight,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "and I destroyed my foes.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "They cried for help, but there was no one to save them—",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "to the Lord, but he did not answer.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "I beat them as fine as the dust of the earth;",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "I pounded and trampled them like mud in the streets.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "“You have delivered me from the attacks of the peoples;",
+      "verse": 44,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have preserved me as the head of nations.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "People I did not know now serve me,",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "    foreigners cower before me;",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "as soon as they hear of me, they obey me.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "They all lose heart;",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "they come trembling from their strongholds.",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord lives! Praise be to my Rock!",
+      "verse": 47,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Exalted be my God, the Rock, my Savior!",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "He is the God who avenges me,",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "who puts the nations under me,",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "    who sets me free from my enemies.",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "You exalted me above my foes;",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "from a violent man you rescued me.",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will praise you, Lord, among the nations;",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sing the praises of your name.",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "“He gives his king great victories;",
+      "verse": 51,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he shows unfailing kindness to his anointed,",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "to David and his descendants forever.”",
+      "verse": 51,
+      "type": "poetry"
+    }
+  ]
+}

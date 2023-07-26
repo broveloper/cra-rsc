@@ -1,0 +1,332 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 34,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Judgment on the Nations",
+      "type": "heading"
+    },
+    {
+      "text": "Draw near, O nations, to hear,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and give attention, O peoples!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the earth hear, and all that fills it;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "the world, and all that comes from it.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is enraged against all the nations,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and furious against all their host;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he has devoted them to destruction, has given them over for slaughter.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Their slain shall be cast out,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the stench of their corpses shall rise;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the mountains shall flow with their blood.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "All the host of heaven shall rot away,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the skies roll up like a scroll.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "All their host shall fall,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "as leaves fall from the vine,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like leaves falling from the fig tree.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For my sword has drunk its fill in the heavens;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "behold, it descends for judgment upon Edom,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "upon the people I have devoted to destruction.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has a sword; it is sated with blood;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "it is gorged with fat,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with the blood of lambs and goats,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with the fat of the kidneys of rams.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has a sacrifice in Bozrah,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a great slaughter in the land of Edom.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Wild oxen shall fall with them,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and young steers with the mighty bulls.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their land shall drink its fill of blood,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and their soil shall be gorged with fat.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has a day of vengeance,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a year of recompense for the cause of Zion.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the streams of Edom shall be turned into pitch,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and her soil into sulfur;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "her land shall become burning pitch.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Night and day it shall not be quenched;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "its smoke shall go up forever.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "From generation to generation it shall lie waste;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "none shall pass through it forever and ever.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But the hawk and the porcupine shall possess it,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the owl and the raven shall dwell in it.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall stretch the line of confusion over it,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and the plumb line of emptiness.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Its nobles—there is no one there to call it a kingdom,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and all its princes shall be nothing.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Thorns shall grow over its strongholds,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nettles and thistles in its fortresses.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall be the haunt of jackals,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "an abode for ostriches.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And wild animals shall meet with hyenas;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the wild goat shall cry to his fellow;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "indeed, there the night bird settles",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and finds for herself a resting place.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "There the owl nests and lays",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and hatches and gathers her young in her shadow;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "indeed, there the hawks are gathered,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "each one with her mate.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek and read from the book of the Lord:",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Not one of these shall be missing;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "none shall be without her mate.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the mouth of the Lord has commanded,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and his Spirit has gathered them.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He has cast the lot for them;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "his hand has portioned it out to them with the line;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall possess it forever;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "from generation to generation they shall dwell in it.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

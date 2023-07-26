@@ -1,0 +1,561 @@
+{
+  "book_id": "DEUT",
+  "book_name": "Deuteronomy",
+  "chapter": 33,
+  "verses": 29,
+  "content": [
+    {
+      "text": "Moses' Final Blessing on Israel",
+      "type": "heading"
+    },
+    {
+      "text": "This is the blessing with which Moses the man of God blessed the people of Israel before his death.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "He said,",
+      "verse": 2
+    },
+    {
+      "text": "“The Lord came from Sinai",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and dawned from Seir upon us;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he shone forth from Mount Paran;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he came from the ten thousands of holy ones,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "with flaming fire at his right hand.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, he loved his people,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "all his holy ones were in his hand;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "so they followed in your steps,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "receiving direction from you,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when Moses commanded us a law,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "as a possession for the assembly of Jacob.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus the Lord became king in Jeshurun,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "when the heads of the people were gathered,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "all the tribes of Israel together.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let Reuben live, and not die,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but let his men be few.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And this he said of Judah:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "“Hear, O Lord, the voice of Judah,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and bring him in to his people.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "With your hands contend for him,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and be a help against his adversaries.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And of Levi he said,",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“Give to Levi your Thummim,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and your Urim to your godly one,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whom you tested at Massah,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with whom you quarreled at the waters of Meribah;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who said of his father and mother,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I regard them not’;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he disowned his brothers",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and ignored his children.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For they observed your word",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and kept your covenant.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall teach Jacob your rules",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and Israel your law;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall put incense before you",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and whole burnt offerings on your altar.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Bless, O Lord, his substance,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and accept the work of his hands;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "crush the loins of his adversaries,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "of those who hate him, that they rise not again.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Of Benjamin he said,",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“The beloved of the Lord dwells in safety.",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The High God surrounds him all day long,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and dwells between his shoulders.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And of Joseph he said,",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“Blessed by the Lord be his land,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with the choicest gifts of heaven above,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and of the deep that crouches beneath,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "with the choicest fruits of the sun",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the rich yield of the months,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with the finest produce of the ancient mountains",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the abundance of the everlasting hills,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "with the best gifts of the earth and its fullness",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the favor of him who dwells in the bush.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "May these rest on the head of Joseph,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "on the pate of him who is prince among his brothers.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "A firstborn bull—he has majesty,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and his horns are the horns of a wild ox;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "with them he shall gore the peoples,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them, to the ends of the earth;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they are the ten thousands of Ephraim,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and they are the thousands of Manasseh.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And of Zebulun he said,",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "“Rejoice, Zebulun, in your going out,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and Issachar, in your tents.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall call peoples to their mountain;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "there they offer right sacrifices;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for they draw from the abundance of the seas",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hidden treasures of the sand.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And of Gad he said,",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "“Blessed be he who enlarges Gad!",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Gad crouches like a lion;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "he tears off arm and scalp.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He chose the best of the land for himself,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for there a commander's portion was reserved;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and he came with the heads of the people,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "with Israel he executed the justice of the Lord,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and his judgments for Israel.”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And of Dan he said,",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "“Dan is a lion's cub",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that leaps from Bashan.”",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And of Naphtali he said,",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "“O Naphtali, sated with favor,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and full of the blessing of the Lord,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "possess the lake and the south.”",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And of Asher he said,",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "“Most blessed of sons be Asher;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let him be the favorite of his brothers,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and let him dip his foot in oil.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Your bars shall be iron and bronze,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and as your days, so shall your strength be.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“There is none like God, O Jeshurun,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who rides through the heavens to your help,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "through the skies in his majesty.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The eternal God is your dwelling place,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and underneath are the everlasting arms.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And he thrust out the enemy before you",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and said, ‘Destroy.’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "So Israel lived in safety,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Jacob lived alone,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "in a land of grain and wine,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "whose heavens drop down dew.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Happy are you, O Israel! Who is like you,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "a people saved by the Lord,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the shield of your help,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sword of your triumph!",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Your enemies shall come fawning to you,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and you shall tread upon their backs.”",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

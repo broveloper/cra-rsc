@@ -1,0 +1,141 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 46,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 46",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. Of the Sons of Korah. According to alamoth. A song.",
+      "type": "title"
+    },
+    {
+      "text": "God is our refuge and strength,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "an ever-present help in trouble.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore we will not fear, though the earth give way",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the mountains fall into the heart of the sea,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "though its waters roar and foam",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the mountains quake with their surging.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "There is a river whose streams make glad the city of God,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the holy place where the Most High dwells.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "God is within her, she will not fall;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "God will help her at break of day.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Nations are in uproar, kingdoms fall;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he lifts his voice, the earth melts.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Almighty is with us;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the God of Jacob is our fortress.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Come and see what the Lord has done,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the desolations he has brought on the earth.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes wars cease",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to the ends of the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He breaks the bow and shatters the spear;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he burns the shields with fire.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He says, “Be still, and know that I am God;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will be exalted among the nations,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will be exalted in the earth.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Almighty is with us;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the God of Jacob is our fortress.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

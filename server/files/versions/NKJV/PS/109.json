@@ -1,0 +1,351 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 109,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Plea for Judgment of False Accusers",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Do not keep silent,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O God of my praise!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the mouth of the wicked and the mouth of the deceitful",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Have opened against me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They have spoken against me with a lying tongue.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They have also surrounded me with words of hatred,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And fought against me without a cause.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In return for my love they are my accusers,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But I give myself to prayer.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus they have rewarded me evil for good,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And hatred for my love.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Set a wicked man over him,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let an accuser stand at his right hand.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When he is judged, let him be found guilty,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And let his prayer become sin.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let his days be few,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And let another take his office.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let his children be fatherless,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And his wife a widow.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let his children continually be vagabonds, and beg;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them seek their bread also from their desolate places.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the creditor seize all that he has,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And let strangers plunder his labor.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let there be none to extend mercy to him,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor let there be any to favor his fatherless children.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let his posterity be cut off,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the generation following let their name be blotted out.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the iniquity of his fathers be remembered before the Lord,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let not the sin of his mother be blotted out.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be continually before the Lord,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "That He may cut off the memory of them from the earth;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he did not remember to show mercy,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But persecuted the poor and needy man,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "That he might even slay the broken in heart.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "As he loved cursing, so let it come to him;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "As he did not delight in blessing, so let it be far from him.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "As he clothed himself with cursing as with his garment,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "So let it enter his body like water,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And like oil into his bones.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Let it be to him like the garment which covers him,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And for a belt with which he girds himself continually.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let this be the Lord’s reward to my accusers,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And to those who speak evil against my person.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But You, O God the Lord,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Deal with me for Your name’s sake;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Because Your mercy is good, deliver me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am poor and needy,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And my heart is wounded within me.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I am gone like a shadow when it lengthens;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I am shaken off like a locust.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "My knees are weak through fasting,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And my flesh is feeble from lack of fatness.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I also have become a reproach to them;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "When they look at me, they shake their heads.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Help me, O Lord my God!",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Oh, save me according to Your mercy,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may know that this is Your hand—",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "That You, Lord, have done it!",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them curse, but You bless;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "When they arise, let them be ashamed,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "But let Your servant rejoice.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my accusers be clothed with shame,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And let them cover themselves with their own disgrace as with a mantle.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I will greatly praise the Lord with my mouth;",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, I will praise Him among the multitude.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For He shall stand at the right hand of the poor,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "To save him from those who condemn him.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

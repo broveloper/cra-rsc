@@ -1,0 +1,287 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 5,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Punishment Coming for Israel and Judah",
+      "type": "heading"
+    },
+    {
+      "text": "Hear this, O priests!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Pay attention, O house of Israel!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Give ear, O house of the king!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the judgment is for you;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for you have been a snare at Mizpah",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and a net spread upon Tabor.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the revolters have gone deep into slaughter,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but I will discipline all of them.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I know Ephraim,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and Israel is not hidden from me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for now, O Ephraim, you have played the whore;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel is defiled.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their deeds do not permit them",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to return to their God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For the spirit of whoredom is within them,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and they know not the Lord.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The pride of Israel testifies to his face;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Israel and Ephraim shall stumble in his guilt;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah also shall stumble with them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "With their flocks and herds they shall go",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to seek the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but they will not find him;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he has withdrawn from them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have dealt faithlessly with the Lord;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have borne alien children.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Now the new moon shall devour them with their fields.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Blow the horn in Gibeah,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the trumpet in Ramah.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Sound the alarm at Beth-aven;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "we follow you, O Benjamin!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim shall become a desolation",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in the day of punishment;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "among the tribes of Israel",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I make known what is sure.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The princes of Judah have become",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "like those who move the landmark;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "upon them I will pour out",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "my wrath like water.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is oppressed, crushed in judgment,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because he was determined to go after filth.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But I am like a moth to Ephraim,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and like dry rot to the house of Judah.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "When Ephraim saw his sickness,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and Judah his wound,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "then Ephraim went to Assyria,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and sent to the great king.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But he is not able to cure you",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "or heal your wound.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will be like a lion to Ephraim,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and like a young lion to the house of Judah.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I, even I, will tear and go away;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will carry off, and no one shall rescue.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will return again to my place,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "until they acknowledge their guilt and seek my face,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and in their distress earnestly seek me.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 54,
+  "verses": 17,
+  "content": [
+    {
+      "text": "The Eternal Covenant of Peace",
+      "type": "heading"
+    },
+    {
+      "text": "“Sing, O barren one, who did not bear;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "break forth into singing and cry aloud,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "you who have not been in labor!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the children of the desolate one will be more",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "than the children of her who is married,” says the Lord.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Enlarge the place of your tent,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and let the curtains of your habitations be stretched out;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "do not hold back; lengthen your cords",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and strengthen your stakes.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For you will spread abroad to the right and to the left,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and your offspring will possess the nations",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and will people the desolate cities.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Fear not, for you will not be ashamed;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "be not confounded, for you will not be disgraced;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for you will forget the shame of your youth,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the reproach of your widowhood you will remember no more.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For your Maker is your husband,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord of hosts is his name;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Holy One of Israel is your Redeemer,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the God of the whole earth he is called.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has called you",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like a wife deserted and grieved in spirit,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like a wife of youth when she is cast off,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "says your God.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For a brief moment I deserted you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but with great compassion I will gather you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In overflowing anger for a moment",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I hid my face from you,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but with everlasting love I will have compassion on you,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord, your Redeemer.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“This is like the days of Noah to me:",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as I swore that the waters of Noah",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "should no more go over the earth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "so I have sworn that I will not be angry with you,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and will not rebuke you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the mountains may depart",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hills be removed,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "but my steadfast love shall not depart from you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and my covenant of peace shall not be removed,”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord, who has compassion on you.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“O afflicted one, storm-tossed and not comforted,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "behold, I will set your stones in antimony,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay your foundations with sapphires.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make your pinnacles of agate,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "your gates of carbuncles,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and all your wall of precious stones.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "All your children shall be taught by the Lord,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and great shall be the peace of your children.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In righteousness you shall be established;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall be far from oppression, for you shall not fear;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and from terror, for it shall not come near you.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If anyone stirs up strife,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "it is not from me;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "whoever stirs up strife with you",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "shall fall because of you.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I have created the smith",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "who blows the fire of coals",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and produces a weapon for its purpose.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I have also created the ravager to destroy;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "    no weapon that is fashioned against you shall succeed,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and you shall refute every tongue that rises against you in judgment.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the heritage of the servants of the Lord",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and their vindication from me, declares the Lord.”",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

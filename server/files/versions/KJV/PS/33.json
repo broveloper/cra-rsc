@@ -1,0 +1,117 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 33,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Rejoice in the Lord, O ye righteous: for praise is comely for the upright.",
+      "verse": 1
+    },
+    {
+      "text": "Praise the Lord with harp: sing unto him with the psaltery and an instrument of ten strings.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Sing unto him a new song; play skilfully with a loud noise.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For the word of the Lord is right; and all his works are done in truth.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "He loveth righteousness and judgment: the earth is full of the goodness of the Lord.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "By the word of the Lord were the heavens made; and all the host of them by the breath of his mouth.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Let all the earth fear the Lord: let all the inhabitants of the world stand in awe of him.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "For he spake, and it was done; he commanded, and it stood fast.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord bringeth the counsel of the heathen to nought: he maketh the devices of the people of none effect.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "The counsel of the Lord standeth for ever, the thoughts of his heart to all generations.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Blessed is the nation whose God is the Lord; and the people whom he hath chosen for his own inheritance.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord looketh from heaven; he beholdeth all the sons of men.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "From the place of his habitation he looketh upon all the inhabitants of the earth.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "He fashioneth their hearts alike; he considereth all their works.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "There is no king saved by the multitude of an host: a mighty man is not delivered by much strength.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "An horse is a vain thing for safety: neither shall he deliver any by his great strength.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, the eye of the Lord is upon them that fear him, upon them that hope in his mercy;",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "To deliver their soul from death, and to keep them alive in famine.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Our soul waiteth for the Lord: he is our help and our shield.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "For our heart shall rejoice in him, because we have trusted in his holy name.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Let thy mercy, O Lord, be upon us, according as we hope in thee.",
+      "verse": 22,
+      "type": "newline"
+    }
+  ]
+}

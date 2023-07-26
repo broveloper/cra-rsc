@@ -1,0 +1,271 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 11,
+  "verses": 16,
+  "content": [
+    {
+      "text": "The Branch From Jesse",
+      "type": "heading"
+    },
+    {
+      "text": "A shoot will come up from the stump of Jesse;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from his roots a Branch will bear fruit.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Spirit of the Lord will rest on him—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the Spirit of wisdom and of understanding,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the Spirit of counsel and of might,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the Spirit of the knowledge and fear of the Lord—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and he will delight in the fear of the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not judge by what he sees with his eyes,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or decide by what he hears with his ears;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "but with righteousness he will judge the needy,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "with justice he will give decisions for the poor of the earth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He will strike the earth with the rod of his mouth;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "with the breath of his lips he will slay the wicked.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Righteousness will be his belt",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and faithfulness the sash around his waist.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The wolf will live with the lamb,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the leopard will lie down with the goat,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the calf and the lion and the yearling together;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and a little child will lead them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The cow will feed with the bear,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their young will lie down together,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the lion will eat straw like the ox.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The infant will play near the cobra’s den,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the young child will put its hand into the viper’s nest.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They will neither harm nor destroy",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "on all my holy mountain,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for the earth will be filled with the knowledge of the Lord",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as the waters cover the sea.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day the Root of Jesse will stand as a banner for the peoples; the nations will rally to him, and his resting place will be glorious.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people from Assyria, from Lower Egypt, from Upper Egypt, from Cush, from Elam, from Babylonia, from Hamath and from the islands of the Mediterranean.",
+      "verse": 11
+    },
+    {
+      "text": "He will raise a banner for the nations",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and gather the exiles of Israel;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he will assemble the scattered people of Judah",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "from the four quarters of the earth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim’s jealousy will vanish,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and Judah’s enemies will be destroyed;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim will not be jealous of Judah,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "nor Judah hostile toward Ephraim.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They will swoop down on the slopes of Philistia to the west;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "together they will plunder the people to the east.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They will subdue Edom and Moab,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Ammonites will be subject to them.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will dry up",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the gulf of the Egyptian sea;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "with a scorching wind he will sweep his hand",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "over the Euphrates River.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He will break it up into seven streams",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "so that anyone can cross over in sandals.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "There will be a highway for the remnant of his people",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "that is left from Assyria,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "as there was for Israel",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "when they came up from Egypt.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

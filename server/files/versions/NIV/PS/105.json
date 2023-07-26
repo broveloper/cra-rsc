@@ -1,0 +1,467 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 105,
+  "verses": 45,
+  "content": [
+    {
+      "text": "Psalm 105",
+      "type": "heading"
+    },
+    {
+      "text": "Give praise to the Lord, proclaim his name;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make known among the nations what he has done.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to him, sing praise to him;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "tell of all his wonderful acts.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Glory in his holy name;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "let the hearts of those who seek the Lord rejoice.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Look to the Lord and his strength;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "seek his face always.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember the wonders he has done,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his miracles, and the judgments he pronounced,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you his servants, the descendants of Abraham,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "his chosen ones, the children of Jacob.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He is the Lord our God;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "his judgments are in all the earth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He remembers his covenant forever,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the promise he made, for a thousand generations,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the covenant he made with Abraham,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the oath he swore to Isaac.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He confirmed it to Jacob as a decree,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to Israel as an everlasting covenant:",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“To you I will give the land of Canaan",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "as the portion you will inherit.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "When they were but few in number,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "few indeed, and strangers in it,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they wandered from nation to nation,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "from one kingdom to another.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He allowed no one to oppress them;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for their sake he rebuked kings:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Do not touch my anointed ones;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "do my prophets no harm.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He called down famine on the land",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and destroyed all their supplies of food;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and he sent a man before them—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Joseph, sold as a slave.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They bruised his feet with shackles,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "his neck was put in irons,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "till what he foretold came to pass,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "till the word of the Lord proved him true.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The king sent and released him,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the ruler of peoples set him free.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He made him master of his household,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "ruler over all he possessed,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "to instruct his princes as he pleased",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and teach his elders wisdom.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Israel entered Egypt;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Jacob resided as a foreigner in the land of Ham.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord made his people very fruitful;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "he made them too numerous for their foes,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "whose hearts he turned to hate his people,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "to conspire against his servants.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He sent Moses his servant,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and Aaron, whom he had chosen.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "They performed his signs among them,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "his wonders in the land of Ham.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He sent darkness and made the land dark—",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "for had they not rebelled against his words?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He turned their waters into blood,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "causing their fish to die.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Their land teemed with frogs,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "which went up into the bedrooms of their rulers.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "He spoke, and there came swarms of flies,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and gnats throughout their country.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "He turned their rain into hail,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "with lightning throughout their land;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "he struck down their vines and fig trees",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and shattered the trees of their country.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "He spoke, and the locusts came,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "grasshoppers without number;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "they ate up every green thing in their land,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "ate up the produce of their soil.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he struck down all the firstborn in their land,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "the firstfruits of all their manhood.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "He brought out Israel, laden with silver and gold,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "and from among their tribes no one faltered.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Egypt was glad when they left,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "because dread of Israel had fallen on them.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "He spread out a cloud as a covering,",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a fire to give light at night.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "They asked, and he brought them quail;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "he fed them well with the bread of heaven.",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "He opened the rock, and water gushed out;",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "it flowed like a river in the desert.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "For he remembered his holy promise",
+      "verse": 42,
+      "type": "poetry newline"
+    },
+    {
+      "text": "given to his servant Abraham.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "He brought out his people with rejoicing,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "his chosen ones with shouts of joy;",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "he gave them the lands of the nations,",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "and they fell heir to what others had toiled for—",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "that they might keep his precepts",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "and observe his laws.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord.",
+      "verse": 45,
+      "type": "poetry newline"
+    }
+  ]
+}

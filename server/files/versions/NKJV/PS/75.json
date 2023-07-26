@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 75,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Thanksgiving for God’s Righteous Judgment",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. Set to “Do Not Destroy.” A Psalm of Asaph. A Song.",
+      "type": "title"
+    },
+    {
+      "text": "We give thanks to You, O God, we give thanks!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For Your wondrous works declare that Your name is near.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“When I choose the proper time,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will judge uprightly.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth and all its inhabitants are dissolved;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I set up its pillars firmly. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“I said to the boastful, ‘Do not deal boastfully,’",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And to the wicked, ‘Do not lift up the horn.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not lift up your horn on high;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not speak with a stiff neck.’ ”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For exaltation comes neither from the east",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor from the west nor from the south.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But God is the Judge:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He puts down one,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And exalts another.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For in the hand of the Lord there is a cup,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the wine is red;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "It is fully mixed, and He pours it out;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely its dregs shall all the wicked of the earth",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Drain and drink down.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will declare forever,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing praises to the God of Jacob.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“All the horns of the wicked I will also cut off,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the horns of the righteous shall be exalted.”",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

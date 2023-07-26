@@ -1,0 +1,421 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 24,
+  "verses": 34,
+  "content": [
+    {
+      "text": "Saying 20",
+      "type": "title"
+    },
+    {
+      "text": "Do not envy the wicked,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not desire their company;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for their hearts plot violence,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and their lips talk about making trouble.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 21",
+      "type": "title"
+    },
+    {
+      "text": "By wisdom a house is built,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and through understanding it is established;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "through knowledge its rooms are filled",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "with rare and beautiful treasures.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 22",
+      "type": "title"
+    },
+    {
+      "text": "The wise prevail through great power,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and those who have knowledge muster their strength.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely you need guidance to wage war,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and victory is won through many advisers.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 23",
+      "type": "title"
+    },
+    {
+      "text": "Wisdom is too high for fools;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the assembly at the gate they must not open their mouths.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 24",
+      "type": "title"
+    },
+    {
+      "text": "Whoever plots evil",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will be known as a schemer.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The schemes of folly are sin,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and people detest a mocker.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 25",
+      "type": "title"
+    },
+    {
+      "text": "If you falter in a time of trouble,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "how small is your strength!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Rescue those being led away to death;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "hold back those staggering toward slaughter.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If you say, “But we knew nothing about this,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "does not he who weighs the heart perceive it?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Does not he who guards your life know it?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Will he not repay everyone according to what they have done?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 26",
+      "type": "title"
+    },
+    {
+      "text": "Eat honey, my son, for it is good;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "honey from the comb is sweet to your taste.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Know also that wisdom is like honey for you:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If you find it, there is a future hope for you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and your hope will not be cut off.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 27",
+      "type": "title"
+    },
+    {
+      "text": "Do not lurk like a thief near the house of the righteous,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not plunder their dwelling place;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for though the righteous fall seven times, they rise again,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "but the wicked stumble when calamity strikes.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 28",
+      "type": "title"
+    },
+    {
+      "text": "Do not gloat when your enemy falls;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when they stumble, do not let your heart rejoice,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "or the Lord will see and disapprove",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and turn his wrath away from them.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 29",
+      "type": "title"
+    },
+    {
+      "text": "Do not fret because of evildoers",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or be envious of the wicked,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for the evildoer has no future hope,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and the lamp of the wicked will be snuffed out.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 30",
+      "type": "title"
+    },
+    {
+      "text": "Fear the Lord and the king, my son,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do not join with rebellious officials,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for those two will send sudden destruction on them,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and who knows what calamities they can bring?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Further Sayings of the Wise",
+      "type": "heading"
+    },
+    {
+      "text": "These also are sayings of the wise:",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "To show partiality in judging is not good:",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whoever says to the guilty, “You are innocent,”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "will be cursed by peoples and denounced by nations.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "But it will go well with those who convict the guilty,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and rich blessing will come on them.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "An honest answer",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is like a kiss on the lips.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Put your outdoor work in order",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and get your fields ready;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "after that, build your house.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not testify against your neighbor without cause—",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "would you use your lips to mislead?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not say, “I’ll do to them as they have done to me;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I’ll pay them back for what they did.”",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I went past the field of a sluggard,",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "past the vineyard of someone who has no sense;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "thorns had come up everywhere,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "the ground was covered with weeds,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and the stone wall was in ruins.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "I applied my heart to what I observed",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and learned a lesson from what I saw:",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "A little sleep, a little slumber,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "a little folding of the hands to rest—",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and poverty will come on you like a thief",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "and scarcity like an armed man.",
+      "verse": 34,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 12,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Man’s Treachery and God’s Constancy",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. On an eight-stringed harp. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Help, Lord, for the godly man ceases!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the faithful disappear from among the sons of men.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They speak idly everyone with his neighbor;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "With flattering lips and a double heart they speak.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May the Lord cut off all flattering lips,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the tongue that speaks proud things,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have said,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“With our tongue we will prevail;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Our lips are our own;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is lord over us?”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“For the oppression of the poor, for the sighing of the needy,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Now I will arise,” says the Lord;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will set him in the safety for which he yearns.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of the Lord are pure words,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Like silver tried in a furnace of earth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Purified seven times.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall keep them, O Lord,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall preserve them from this generation forever.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked prowl on every side,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When vileness is exalted among the sons of men.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 2,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Value of Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "My son, if you receive my words",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and treasure up my commandments with you,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "making your ear attentive to wisdom",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and inclining your heart to understanding;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "yes, if you call out for insight",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and raise your voice for understanding,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "if you seek it like silver",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and search for it as for hidden treasures,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "then you will understand the fear of the Lord",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and find the knowledge of God.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord gives wisdom;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "from his mouth come knowledge and understanding;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he stores up sound wisdom for the upright;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he is a shield to those who walk in integrity,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "guarding the paths of justice",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and watching over the way of his saints.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will understand righteousness and justice",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and equity, every good path;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for wisdom will come into your heart,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and knowledge will be pleasant to your soul;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "discretion will watch over you,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "understanding will guard you,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "delivering you from the way of evil,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "from men of perverted speech,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "who forsake the paths of uprightness",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "to walk in the ways of darkness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who rejoice in doing evil",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and delight in the perverseness of evil,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "men whose paths are crooked,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and who are devious in their ways.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "So you will be delivered from the forbidden woman,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from the adulteress with her smooth words,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "who forsakes the companion of her youth",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and forgets the covenant of her God;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for her house sinks down to death,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and her paths to the departed;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "none who go to her come back,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "nor do they regain the paths of life.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "So you will walk in the way of the good",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and keep to the paths of the righteous.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the upright will inhabit the land,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and those with integrity will remain in it,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "but the wicked will be cut off from the land,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and the treacherous will be rooted out of it.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

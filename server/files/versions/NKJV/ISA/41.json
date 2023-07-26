@@ -1,0 +1,571 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 41,
+  "verses": 29,
+  "content": [
+    {
+      "text": "Israel Assured of God’s Help",
+      "type": "heading"
+    },
+    {
+      "text": "“Keep silence before Me, O coastlands,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let the people renew their strength!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them come near, then let them speak;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us come near together for judgment.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who raised up one from the east?",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who in righteousness called him to His feet?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who gave the nations before him,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And made him rule over kings?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who gave them as the dust to his sword,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "As driven stubble to his bow?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who pursued them, and passed safely",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "By the way that he had not gone with his feet?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has performed and done it,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Calling the generations from the beginning?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I, the Lord, am the first;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And with the last I am He.’ ”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The coastlands saw it and feared,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The ends of the earth were afraid;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They drew near and came.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone helped his neighbor,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And said to his brother,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Be of good courage!”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "So the craftsman encouraged the goldsmith;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who smooths with the hammer inspired him who strikes the anvil,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying, “It is ready for the soldering”;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he fastened it with pegs,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "That it might not totter.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“But you, Israel, are My servant,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Jacob whom I have chosen,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The descendants of Abraham My friend.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You whom I have taken from the ends of the earth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And called from its farthest regions,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And said to you,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "‘You are My servant,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I have chosen you and have not cast you away:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear not, for I am with you;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Be not dismayed, for I am your God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will strengthen you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, I will help you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will uphold you with My righteous right hand.’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, all those who were incensed against you",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shall be ashamed and disgraced;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be as nothing,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who strive with you shall perish.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall seek them and not find them—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who contended with you.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who war against you",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be as nothing,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "As a nonexistent thing.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For I, the Lord your God, will hold your right hand,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying to you, ‘Fear not, I will help you.’",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Fear not, you worm Jacob,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You men of Israel!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will help you,” says the Lord",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And your Redeemer, the Holy One of Israel.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I will make you into a new threshing sledge with sharp teeth;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall thresh the mountains and beat them small,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And make the hills like chaff.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall winnow them, the wind shall carry them away,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And the whirlwind shall scatter them;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall rejoice in the Lord,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And glory in the Holy One of Israel.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“The poor and needy seek water, but there is none,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Their tongues fail for thirst.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the Lord, will hear them;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the God of Israel, will not forsake them.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I will open rivers in desolate heights,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And fountains in the midst of the valleys;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make the wilderness a pool of water,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And the dry land springs of water.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will plant in the wilderness the cedar and the acacia tree,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The myrtle and the oil tree;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I will set in the desert the cypress tree and the pine",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the box tree together,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may see and know,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And consider and understand together,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "That the hand of the Lord has done this,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Holy One of Israel has created it.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The Futility of Idols",
+      "type": "heading"
+    },
+    {
+      "text": "“Present your case,” says the Lord.",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Bring forth your strong reasons,” says the King of Jacob.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let them bring forth and show us what will happen;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them show the former things, what they were,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "That we may consider them,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And know the latter end of them;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Or declare to us things to come.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Show the things that are to come hereafter,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "That we may know that you are gods;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, do good or do evil,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "That we may be dismayed and see it together.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed you are nothing,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And your work is nothing;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "He who chooses you is an abomination.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have raised up one from the north,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he shall come;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "From the rising of the sun he shall call on My name;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shall come against princes as though mortar,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "As the potter treads clay.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has declared from the beginning, that we may know?",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And former times, that we may say, ‘He is righteous’?",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely there is no one who shows,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely there is no one who declares,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely there is no one who hears your words.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The first time I said to Zion,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Look, there they are!’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will give to Jerusalem one who brings good tidings.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For I looked, and there was no man;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I looked among them, but there was no counselor,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Who, when I asked of them, could answer a word.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed they are all worthless;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Their works are nothing;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Their molded images are wind and confusion.",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 19,
+  "verses": 29,
+  "content": [
+    {
+      "text": "Job Replies: My Redeemer Lives",
+      "type": "heading"
+    },
+    {
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“How long will you torment me",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and break me in pieces with words?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "These ten times you have cast reproach upon me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "are you not ashamed to wrong me?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And even if it be true that I have erred,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "my error remains with myself.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If indeed you magnify yourselves against me",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and make my disgrace an argument against me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "know then that God has put me in the wrong",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and closed his net about me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I cry out, ‘Violence!’ but I am not answered;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I call for help, but there is no justice.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He has walled up my way, so that I cannot pass,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and he has set darkness upon my paths.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He has stripped from me my glory",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and taken the crown from my head.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He breaks me down on every side, and I am gone,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and my hope has he pulled up like a tree.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He has kindled his wrath against me",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and counts me as his adversary.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His troops come on together;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they have cast up their siege ramp against me",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and encamp around my tent.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“He has put my brothers far from me,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and those who knew me are wholly estranged from me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "My relatives have failed me,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "my close friends have forgotten me.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The guests in my house and my maidservants count me as a stranger;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I have become a foreigner in their eyes.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I call to my servant, but he gives me no answer;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I must plead with him with my mouth for mercy.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "My breath is strange to my wife,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and I am a stench to the children of my own mother.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Even young children despise me;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "when I rise they talk against me.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "All my intimate friends abhor me,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and those whom I loved have turned against me.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "My bones stick to my skin and to my flesh,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and I have escaped by the skin of my teeth.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Have mercy on me, have mercy on me, O you my friends,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for the hand of God has touched me!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you, like God, pursue me?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are you not satisfied with my flesh?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“Oh that my words were written!",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Oh that they were inscribed in a book!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh that with an iron pen and lead",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "they were engraved in the rock forever!",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For I know that my Redeemer lives,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and at the last he will stand upon the earth.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And after my skin has been thus destroyed,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "yet in my flesh I shall see God,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "whom I shall see for myself,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and my eyes shall behold, and not another.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart faints within me!",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "If you say, ‘How we will pursue him!’",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and, ‘The root of the matter is found in him,’",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "be afraid of the sword,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "for wrath brings the punishment of the sword,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "that you may know there is a judgment.”",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

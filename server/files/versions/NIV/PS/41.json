@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 41,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Psalm 41",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Blessed are those who have regard for the weak;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord delivers them in times of trouble.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord protects and preserves them—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they are counted among the blessed in the land—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he does not give them over to the desire of their foes.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord sustains them on their sickbed",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and restores them from their bed of illness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “Have mercy on me, Lord;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "heal me, for I have sinned against you.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My enemies say of me in malice,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“When will he die and his name perish?”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "When one of them comes to see me,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he speaks falsely, while his heart gathers slander;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "then he goes out and spreads it around.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All my enemies whisper together against me;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they imagine the worst for me, saying,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“A vile disease has afflicted him;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he will never get up from the place where he lies.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Even my close friend,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "someone I trusted,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "one who shared my bread,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "has turned against me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But may you have mercy on me, Lord;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "raise me up, that I may repay them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I know that you are pleased with me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for my enemy does not triumph over me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of my integrity you uphold me",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and set me in your presence forever.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise be to the Lord, the God of Israel,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from everlasting to everlasting.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Amen and Amen.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

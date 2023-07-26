@@ -1,0 +1,381 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 26,
+  "verses": 21,
+  "content": [
+    {
+      "text": "A Song of Salvation",
+      "type": "heading"
+    },
+    {
+      "text": "In that day this song will be sung in the land of Judah:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“We have a strong city;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "God will appoint salvation for walls and bulwarks.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Open the gates,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "That the righteous nation which keeps the truth may enter in.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You will keep him in perfect peace,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose mind is stayed on You,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he trusts in You.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Trust in the Lord forever,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For in Yah, the Lord, is everlasting strength.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For He brings down those who dwell on high,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The lofty city;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He lays it low,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He lays it low to the ground,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He brings it down to the dust.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The foot shall tread it down—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The feet of the poor",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the steps of the needy.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of the just is uprightness;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Most Upright,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You weigh the path of the just.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, in the way of Your judgments,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, we have waited for You;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The desire of our soul is for Your name",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And for the remembrance of You.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "With my soul I have desired You in the night,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, by my spirit within me I will seek You early;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For when Your judgments are in the earth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The inhabitants of the world will learn righteousness.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let grace be shown to the wicked,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yet he will not learn righteousness;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In the land of uprightness he will deal unjustly,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And will not behold the majesty of the Lord.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, when Your hand is lifted up, they will not see.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But they will see and be ashamed",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For their envy of people;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, the fire of Your enemies shall devour them.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, You will establish peace for us,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For You have also done all our works in us.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord our God, masters besides You",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Have had dominion over us;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But by You only we make mention of Your name.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They are dead, they will not live;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They are deceased, they will not rise.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore You have punished and destroyed them,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And made all their memory to perish.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You have increased the nation, O Lord,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You have increased the nation;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You are glorified;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You have expanded all the borders of the land.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, in trouble they have visited You,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They poured out a prayer when Your chastening was upon them.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "As a woman with child",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Is in pain and cries out in her pangs,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When she draws near the time of her delivery,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "So have we been in Your sight, O Lord.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "We have been with child, we have been in pain;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "We have, as it were, brought forth wind;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "We have not accomplished any deliverance in the earth,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor have the inhabitants of the world fallen.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your dead shall live;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Together with my dead body they shall arise.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake and sing, you who dwell in dust;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For your dew is like the dew of herbs,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the earth shall cast out the dead.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Take Refuge from the Coming Judgment",
+      "type": "heading"
+    },
+    {
+      "text": "Come, my people, enter your chambers,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And shut your doors behind you;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide yourself, as it were, for a little moment,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Until the indignation is past.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, the Lord comes out of His place",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "To punish the inhabitants of the earth for their iniquity;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth will also disclose her blood,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And will no more cover her slain.",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

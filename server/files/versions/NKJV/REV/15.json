@@ -1,0 +1,83 @@
+{
+  "book_id": "REV",
+  "book_name": "Revelation",
+  "chapter": 15,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Prelude to the Bowl Judgments",
+      "type": "heading"
+    },
+    {
+      "text": "Then I saw another sign in heaven, great and marvelous: seven angels having the seven last plagues, for in them the wrath of God is complete.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And I saw something like a sea of glass mingled with fire, and those who have the victory over the beast, over his image and over his mark and over the number of his name, standing on the sea of glass, having harps of God. ",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "They sing the song of Moses, the servant of God, and the song of the Lamb, saying:",
+      "verse": 3
+    },
+    {
+      "text": "“Great and marvelous are Your works,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lord God Almighty!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Just and true are Your ways,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "O King of the saints!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who shall not fear You, O Lord, and glorify Your name?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For You alone are holy.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For all nations shall come and worship before You,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your judgments have been manifested.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "After these things I looked, and behold, the temple of the tabernacle of the testimony in heaven was opened. ",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "And out of the temple came the seven angels having the seven plagues, clothed in pure bright linen, and having their chests girded with golden bands. ",
+      "verse": 6
+    },
+    {
+      "text": "Then one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever. ",
+      "verse": 7
+    },
+    {
+      "text": "The temple was filled with smoke from the glory of God and from His power, and no one was able to enter the temple till the seven plagues of the seven angels were completed.",
+      "verse": 8
+    }
+  ]
+}

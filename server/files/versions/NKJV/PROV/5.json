@@ -1,0 +1,257 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 5,
+  "verses": 23,
+  "content": [
+    {
+      "text": "The Peril of Adultery",
+      "type": "heading"
+    },
+    {
+      "text": "My son, pay attention to my wisdom;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lend your ear to my understanding,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may preserve discretion,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And your lips may keep knowledge.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the lips of an immoral woman drip honey,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And her mouth is smoother than oil;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But in the end she is bitter as wormwood,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Sharp as a two-edged sword.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Her feet go down to death,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Her steps lay hold of hell.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you ponder her path of life—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Her ways are unstable;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You do not know them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore hear me now, my children,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And do not depart from the words of my mouth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove your way far from her,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not go near the door of her house,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you give your honor to others,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And your years to the cruel one;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest aliens be filled with your wealth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And your labors go to the house of a foreigner;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And you mourn at last,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "When your flesh and your body are consumed,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And say:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“How I have hated instruction,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And my heart despised correction!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not obeyed the voice of my teachers,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor inclined my ear to those who instructed me!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I was on the verge of total ruin,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of the assembly and congregation.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Drink water from your own cistern,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And running water from your own well.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Should your fountains be dispersed abroad,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Streams of water in the streets?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be only your own,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And not for strangers with you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your fountain be blessed,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And rejoice with the wife of your youth.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As a loving deer and a graceful doe,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let her breasts satisfy you at all times;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And always be enraptured with her love.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For why should you, my son, be enraptured by an immoral woman,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And be embraced in the arms of a seductress?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the ways of man are before the eyes of the Lord,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And He ponders all his paths.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "His own iniquities entrap the wicked man,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And he is caught in the cords of his sin.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall die for lack of instruction,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the greatness of his folly he shall go astray.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

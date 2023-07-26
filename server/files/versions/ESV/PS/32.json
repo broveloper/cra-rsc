@@ -1,0 +1,156 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 32,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Blessed Are the Forgiven",
+      "type": "heading"
+    },
+    {
+      "text": "A Maskil of David.",
+      "type": "title"
+    },
+    {
+      "text": "Blessed is the one whose transgression is forgiven,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whose sin is covered.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man against whom the Lord counts no iniquity,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and in whose spirit there is no deceit.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For when I kept silent, my bones wasted away",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "through my groaning all day long.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For day and night your hand was heavy upon me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "my strength was dried up as by the heat of summer. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I acknowledged my sin to you,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I did not cover my iniquity;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “I will confess my transgressions to the Lord,”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and you forgave the iniquity of my sin. Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore let everyone who is godly",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "offer prayer to you at a time when you may be found;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "surely in the rush of great waters,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall not reach him.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You are a hiding place for me;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you preserve me from trouble;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you surround me with shouts of deliverance. Selah",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will instruct you and teach you in the way you should go;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will counsel you with my eye upon you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Be not like a horse or a mule, without understanding,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "which must be curbed with bit and bridle,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "or it will not stay near you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Many are the sorrows of the wicked,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but steadfast love surrounds the one who trusts in the Lord.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Be glad in the Lord, and rejoice, O righteous,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and shout for joy, all you upright in heart!",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

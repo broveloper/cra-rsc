@@ -1,0 +1,204 @@
+{
+  "book_id": "ROM",
+  "book_name": "Romans",
+  "chapter": 3,
+  "verses": 31,
+  "content": [
+    {
+      "text": "God’s Faithfulness",
+      "type": "heading"
+    },
+    {
+      "text": "What advantage, then, is there in being a Jew, or what value is there in circumcision?",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Much in every way! First of all, the Jews have been entrusted with the very words of God.",
+      "verse": 2
+    },
+    {
+      "text": "What if some were unfaithful? Will their unfaithfulness nullify God’s faithfulness?",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Not at all! Let God be true, and every human being a liar. As it is written:",
+      "verse": 4
+    },
+    {
+      "text": "“So that you may be proved right when you speak",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and prevail when you judge.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But if our unrighteousness brings out God’s righteousness more clearly, what shall we say? That God is unjust in bringing his wrath on us? (I am using a human argument.)",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Certainly not! If that were so, how could God judge the world?",
+      "verse": 6
+    },
+    {
+      "text": "Someone might argue, “If my falsehood enhances God’s truthfulness and so increases his glory, why am I still condemned as a sinner?”",
+      "verse": 7
+    },
+    {
+      "text": "Why not say—as some slanderously claim that we say—“Let us do evil that good may result”? Their condemnation is just!",
+      "verse": 8
+    },
+    {
+      "text": "No One Is Righteous",
+      "type": "heading"
+    },
+    {
+      "text": "What shall we conclude then? Do we have any advantage? Not at all! For we have already made the charge that Jews and Gentiles alike are all under the power of sin.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "As it is written:",
+      "verse": 10
+    },
+    {
+      "text": "“There is no one righteous, not even one;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    there is no one who understands;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no one who seeks God.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "All have turned away,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they have together become worthless;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no one who does good,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "not even one.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Their throats are open graves;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "their tongues practice deceit.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“The poison of vipers is on their lips.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "    “Their mouths are full of cursing and bitterness.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Their feet are swift to shed blood;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "    ruin and misery mark their ways,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the way of peace they do not know.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "    “There is no fear of God before their eyes.”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore no one will be declared righteous in God’s sight by the works of the law; rather, through the law we become conscious of our sin.",
+      "verse": 20
+    },
+    {
+      "text": "Righteousness Through Faith",
+      "type": "heading"
+    },
+    {
+      "text": "But now apart from the law the righteousness of God has been made known, to which the Law and the Prophets testify.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile,",
+      "verse": 22
+    },
+    {
+      "text": "for all have sinned and fall short of the glory of God,",
+      "verse": 23
+    },
+    {
+      "text": "and all are justified freely by his grace through the redemption that came by Christ Jesus.",
+      "verse": 24
+    },
+    {
+      "text": "God presented Christ as a sacrifice of atonement, through the shedding of his blood—to be received by faith. He did this to demonstrate his righteousness, because in his forbearance he had left the sins committed beforehand unpunished—",
+      "verse": 25
+    },
+    {
+      "text": "he did it to demonstrate his righteousness at the present time, so as to be just and the one who justifies those who have faith in Jesus.",
+      "verse": 26
+    },
+    {
+      "text": "Where, then, is boasting? It is excluded. Because of what law? The law that requires works? No, because of the law that requires faith.",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "For we maintain that a person is justified by faith apart from the works of the law.",
+      "verse": 28
+    },
+    {
+      "text": "Or is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too,",
+      "verse": 29
+    },
+    {
+      "text": "since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith.",
+      "verse": 30
+    },
+    {
+      "text": "Do we, then, nullify the law by this faith? Not at all! Rather, we uphold the law.",
+      "verse": 31
+    }
+  ]
+}

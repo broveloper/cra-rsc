@@ -1,0 +1,442 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 31,
+  "verses": 40,
+  "content": [
+    {
+      "text": "Job Defends His Righteousness",
+      "type": "heading"
+    },
+    {
+      "text": "“I have made a covenant with my eyes;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why then should I look upon a young woman?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For what is the allotment of God from above,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And the inheritance of the Almighty from on high?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not destruction for the wicked,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And disaster for the workers of iniquity?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Does He not see my ways,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And count all my steps?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have walked with falsehood,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or if my foot has hastened to deceit,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me be weighed on honest scales,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That God may know my integrity.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "If my step has turned from the way,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Or my heart walked after my eyes,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Or if any spot adheres to my hands,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then let me sow, and another eat;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, let my harvest be rooted out.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“If my heart has been enticed by a woman,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or if I have lurked at my neighbor’s door,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Then let my wife grind for another,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And let others bow down over her.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For that would be wickedness;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, it would be iniquity deserving of judgment.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For that would be a fire that consumes to destruction,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And would root out all my increase.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have despised the cause of my male or female servant",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When they complained against me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "What then shall I do when God rises up?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "When He punishes, how shall I answer Him?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Did not He who made me in the womb make them?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Did not the same One fashion us in the womb?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have kept the poor from their desire,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or caused the eyes of the widow to fail,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Or eaten my morsel by myself,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "So that the fatherless could not eat of it",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "(But from my youth I reared him as a father,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And from my mother’s womb I guided the widow);",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "If I have seen anyone perish for lack of clothing,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Or any poor man without covering;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "If his heart has not blessed me,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And if he was not warmed with the fleece of my sheep;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "If I have raised my hand against the fatherless,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "When I saw I had help in the gate;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Then let my arm fall from my shoulder,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my arm be torn from the socket.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For destruction from God is a terror to me,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And because of His magnificence I cannot endure.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have made gold my hope,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or said to fine gold, ‘You are my confidence’;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "If I have rejoiced because my wealth was great,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And because my hand had gained much;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "If I have observed the sun when it shines,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Or the moon moving in brightness,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "So that my heart has been secretly enticed,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And my mouth has kissed my hand;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "This also would be an iniquity deserving of judgment,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "For I would have denied God who is above.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have rejoiced at the destruction of him who hated me,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or lifted myself up when evil found him",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "(Indeed I have not allowed my mouth to sin",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "By asking for a curse on his soul);",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "If the men of my tent have not said,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Who is there that has not been satisfied with his meat?’",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "(But no sojourner had to lodge in the street,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have opened my doors to the traveler);",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "If I have covered my transgressions as Adam,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "By hiding my iniquity in my bosom,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I feared the great multitude,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And dreaded the contempt of families,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "So that I kept silence",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And did not go out of the door—",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that I had one to hear me!",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Here is my mark.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that the Almighty would answer me,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "That my Prosecutor had written a book!",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely I would carry it on my shoulder,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "And bind it on me like a crown;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "I would declare to Him the number of my steps;",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a prince I would approach Him.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "“If my land cries out against me,",
+      "verse": 38,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And its furrows weep together;",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "If I have eaten its fruit without money,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "Or caused its owners to lose their lives;",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "Then let thistles grow instead of wheat,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "And weeds instead of barley.”",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of Job are ended.",
+      "verse": 40,
+      "type": "newline"
+    }
+  ]
+}

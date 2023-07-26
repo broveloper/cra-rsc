@@ -1,0 +1,246 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 80,
+  "verses": 19,
+  "content": [
+    {
+      "text": "Prayer for Israel’s Restoration",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. Set to “The Lilies.” A Testimony of Asaph. A Psalm.",
+      "type": "title"
+    },
+    {
+      "text": "Give ear, O Shepherd of Israel,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You who lead Joseph like a flock;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You who dwell between the cherubim, shine forth!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Before Ephraim, Benjamin, and Manasseh,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Stir up Your strength,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And come and save us!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore us, O God;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Cause Your face to shine,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And we shall be saved!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord God of hosts,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How long will You be angry",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Against the prayer of Your people?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You have fed them with the bread of tears,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And given them tears to drink in great measure.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made us a strife to our neighbors,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And our enemies laugh among themselves.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore us, O God of hosts;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Cause Your face to shine,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And we shall be saved!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have brought a vine out of Egypt;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have cast out the nations, and planted it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You prepared room for it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And caused it to take deep root,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And it filled the land.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The hills were covered with its shadow,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the mighty cedars with its boughs.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "She sent out her boughs to the Sea,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And her branches to the River.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Why have You broken down her hedges,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So that all who pass by the way pluck her fruit?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The boar out of the woods uproots it,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And the wild beast of the field devours it.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Return, we beseech You, O God of hosts;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Look down from heaven and see,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And visit this vine",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And the vineyard which Your right hand has planted,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And the branch that You made strong for Yourself.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "It is burned with fire, it is cut down;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They perish at the rebuke of Your countenance.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Your hand be upon the man of Your right hand,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon the son of man whom You made strong for Yourself.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then we will not turn back from You;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive us, and we will call upon Your name.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore us, O Lord God of hosts;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Cause Your face to shine,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And we shall be saved!",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

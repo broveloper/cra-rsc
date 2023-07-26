@@ -1,0 +1,218 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 5,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Fear God, Keep Your Vows",
+      "type": "heading"
+    },
+    {
+      "text": "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Do not be rash with your mouth,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let not your heart utter anything hastily before God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For God is in heaven, and you on earth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore let your words be few.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For a dream comes through much activity,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And a fool’s voice is known by his many words.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "When you make a vow to God, do not delay to pay it;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For He has no pleasure in fools.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Pay what you have vowed—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Better not to vow than to vow and not pay.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let your mouth cause your flesh to sin, nor say before the messenger of God that it was an error. Why should God be angry at your excuse and destroy the work of your hands? ",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "For in the multitude of dreams and many words there is also vanity. But fear God.",
+      "verse": 7
+    },
+    {
+      "text": "The Vanity of Gain and Honor",
+      "type": "heading"
+    },
+    {
+      "text": "If you see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for high official watches over high official, and higher officials are over them.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Moreover the profit of the land is for all; even the king is served from the field.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "He who loves silver will not be satisfied with silver;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor he who loves abundance, with increase.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "This also is vanity.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When goods increase,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They increase who eat them;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "So what profit have the owners",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Except to see them with their eyes?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The sleep of a laboring man is sweet,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whether he eats little or much;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But the abundance of the rich will not permit him to sleep.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "There is a severe evil which I have seen under the sun:",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Riches kept for their owner to his hurt.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But those riches perish through misfortune;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "When he begets a son, there is nothing in his hand.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "As he came from his mother’s womb, naked shall he return,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "To go as he came;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shall take nothing from his labor",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Which he may carry away in his hand.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And this also is a severe evil—",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Just exactly as he came, so shall he go.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And what profit has he who has labored for the wind?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "All his days he also eats in darkness,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And he has much sorrow and sickness and anger.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Here is what I have seen: It is good and fitting for one to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; for it is his heritage. ",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "As for every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor—this is the gift of God. ",
+      "verse": 19
+    },
+    {
+      "text": "For he will not dwell unduly on the days of his life, because God keeps him busy with the joy of his heart.",
+      "verse": 20
+    }
+  ]
+}

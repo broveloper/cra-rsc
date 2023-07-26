@@ -1,0 +1,426 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 2,
+  "verses": 23,
+  "content": [
+    {
+      "text": "“Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’",
+      "verse": 1
+    },
+    {
+      "text": "Israel Punished and Restored",
+      "type": "heading"
+    },
+    {
+      "text": "“Rebuke your mother, rebuke her,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for she is not my wife,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and I am not her husband.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let her remove the adulterous look from her face",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the unfaithfulness from between her breasts.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Otherwise I will strip her naked",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and make her as bare as on the day she was born;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make her like a desert,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "turn her into a parched land,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and slay her with thirst.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not show my love to her children,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "because they are the children of adultery.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Their mother has been unfaithful",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and has conceived them in disgrace.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "She said, ‘I will go after my lovers,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who give me my food and my water,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my wool and my linen, my olive oil and my drink.’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will block her path with thornbushes;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will wall her in so that she cannot find her way.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "She will chase after her lovers but not catch them;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "she will look for them but not find them.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then she will say,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will go back to my husband as at first,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for then I was better off than now.’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "She has not acknowledged that I was the one",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who gave her the grain, the new wine and oil,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who lavished on her the silver and gold—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "which they used for Baal.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I will take away my grain when it ripens,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my new wine when it is ready.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take back my wool and my linen,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "intended to cover her naked body.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "So now I will expose her lewdness",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "before the eyes of her lovers;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "no one will take her out of my hands.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will stop all her celebrations:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "her yearly festivals, her New Moons,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "her Sabbath days—all her appointed festivals.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will ruin her vines and her fig trees,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "which she said were her pay from her lovers;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make them a thicket,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and wild animals will devour them.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will punish her for the days",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "she burned incense to the Baals;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "she decked herself with rings and jewelry,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and went after her lovers,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but me she forgot,”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I am now going to allure her;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will lead her into the wilderness",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and speak tenderly to her.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "There I will give her back her vineyards,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and will make the Valley of Achor a door of hope.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "There she will respond as in the days of her youth,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "as in the day she came up out of Egypt.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“In that day,” declares the Lord,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“you will call me ‘my husband’;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you will no longer call me ‘my master.’",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will remove the names of the Baals from her lips;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "no longer will their names be invoked.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day I will make a covenant for them",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "with the beasts of the field, the birds in the sky",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and the creatures that move along the ground.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Bow and sword and battle",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will abolish from the land,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "so that all may lie down in safety.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will betroth you to me forever;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I will betroth you in righteousness and justice,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "in love and compassion.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I will betroth you in faithfulness,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will acknowledge the Lord.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“In that day I will respond,”",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "declares the Lord—",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will respond to the skies,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will respond to the earth;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and the earth will respond to the grain,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the new wine and the olive oil,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will respond to Jezreel.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will plant her for myself in the land;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will show my love to the one I called ‘Not my loved one.’",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will say to those called ‘Not my people,’ ‘You are my people’;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will say, ‘You are my God.’”",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 15,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "verse": 1
+    },
+    {
+      "text": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.",
+      "verse": 5,
+      "type": "newline"
+    }
+  ]
+}

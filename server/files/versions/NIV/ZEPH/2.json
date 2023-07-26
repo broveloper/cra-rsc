@@ -1,0 +1,402 @@
+{
+  "book_id": "ZEPH",
+  "book_name": "Zephaniah",
+  "chapter": 2,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Judah and Jerusalem Judged Along With the Nations",
+      "type": "heading"
+    },
+    {
+      "text": "Judah Summoned to Repent",
+      "type": "title"
+    },
+    {
+      "text": "Gather together, gather yourselves together,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you shameful nation,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "before the decree takes effect",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and that day passes like windblown chaff,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "before the Lord’s fierce anger",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "comes upon you,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "before the day of the Lord’s wrath",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "comes upon you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek the Lord, all you humble of the land,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you who do what he commands.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek righteousness, seek humility;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "perhaps you will be sheltered",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "on the day of the Lord’s anger.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Philistia",
+      "type": "title"
+    },
+    {
+      "text": "Gaza will be abandoned",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and Ashkelon left in ruins.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "At midday Ashdod will be emptied",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and Ekron uprooted.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to you who live by the sea,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you Kerethite people;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the word of the Lord is against you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Canaan, land of the Philistines.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He says, “I will destroy you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and none will be left.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The land by the sea will become pastures",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "having wells for shepherds",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and pens for flocks.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That land will belong",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to the remnant of the people of Judah;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "there they will find pasture.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In the evening they will lie down",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "in the houses of Ashkelon.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord their God will care for them;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he will restore their fortunes.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab and Ammon",
+      "type": "title"
+    },
+    {
+      "text": "“I have heard the insults of Moab",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the taunts of the Ammonites,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who insulted my people",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and made threats against their land.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, as surely as I live,”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord Almighty,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the God of Israel,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“surely Moab will become like Sodom,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the Ammonites like Gomorrah—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "a place of weeds and salt pits,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "a wasteland forever.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The remnant of my people will plunder them;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the survivors of my nation will inherit their land.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what they will get in return for their pride,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for insulting and mocking",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the people of the Lord Almighty.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will be awesome to them",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "when he destroys all the gods of the earth.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Distant nations will bow down to him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them in their own lands.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Cush",
+      "type": "title"
+    },
+    {
+      "text": "“You Cushites, too,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will be slain by my sword.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Assyria",
+      "type": "title"
+    },
+    {
+      "text": "He will stretch out his hand against the north",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and destroy Assyria,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "leaving Nineveh utterly desolate",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and dry as the desert.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Flocks and herds will lie down there,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "creatures of every kind.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The desert owl and the screech owl",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "will roost on her columns.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Their hooting will echo through the windows,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "rubble will fill the doorways,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the beams of cedar will be exposed.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the city of revelry",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "that lived in safety.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "She said to herself,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am the one! And there is none besides me.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "What a ruin she has become,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "a lair for wild beasts!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "All who pass by her scoff",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and shake their fists.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

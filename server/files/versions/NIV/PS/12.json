@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 12,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 12",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. According to sheminith. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Help, Lord, for no one is faithful anymore;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "those who are loyal have vanished from the human race.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone lies to their neighbor;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they flatter with their lips",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but harbor deception in their hearts.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May the Lord silence all flattering lips",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and every boastful tongue—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "those who say,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“By our tongues we will prevail;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "our own lips will defend us—who is lord over us?”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because the poor are plundered and the needy groan,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will now arise,” says the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will protect them from those who malign them.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the words of the Lord are flawless,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like silver purified in a crucible,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like gold refined seven times.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You, Lord, will keep the needy safe",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and will protect us forever from the wicked,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "who freely strut about",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when what is vile is honored by the human race.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

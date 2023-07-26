@@ -1,0 +1,367 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 15,
+  "verses": 35,
+  "content": [
+    {
+      "text": "Eliphaz",
+      "type": "heading"
+    },
+    {
+      "text": "Then Eliphaz the Temanite replied:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Would a wise person answer with empty notions",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or fill their belly with the hot east wind?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Would they argue with useless words,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "with speeches that have no value?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But you even undermine piety",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and hinder devotion to God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your sin prompts your mouth;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you adopt the tongue of the crafty.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your own mouth condemns you, not mine;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "your own lips testify against you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Are you the first man ever born?",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Were you brought forth before the hills?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you listen in on God’s council?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you have a monopoly on wisdom?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "What do you know that we do not know?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "What insights do you have that we do not have?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The gray-haired and the aged are on our side,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "men even older than your father.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Are God’s consolations not enough for you,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "words spoken gently to you?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Why has your heart carried you away,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and why do your eyes flash,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "so that you vent your rage against God",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and pour out such words from your mouth?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“What are mortals, that they could be pure,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or those born of woman, that they could be righteous?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If God places no trust in his holy ones,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "if even the heavens are not pure in his eyes,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "how much less mortals, who are vile and corrupt,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "who drink up evil like water!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Listen to me and I will explain to you;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let me tell you what I have seen,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "what the wise have declared,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "hiding nothing received from their ancestors",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "(to whom alone the land was given",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "when no foreigners moved among them):",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "All his days the wicked man suffers torment,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the ruthless man through all the years stored up for him.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Terrifying sounds fill his ears;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "when all seems well, marauders attack him.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He despairs of escaping the realm of darkness;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "he is marked for the sword.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He wanders about for food like a vulture;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "he knows the day of darkness is at hand.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Distress and anguish fill him with terror;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "troubles overwhelm him, like a king poised to attack,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "because he shakes his fist at God",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and vaunts himself against the Almighty,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "defiantly charging against him",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "with a thick, strong shield.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“Though his face is covered with fat",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and his waist bulges with flesh,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "he will inhabit ruined towns",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and houses where no one lives,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "houses crumbling to rubble.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He will no longer be rich and his wealth will not endure,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will his possessions spread over the land.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not escape the darkness;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "a flame will wither his shoots,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and the breath of God’s mouth will carry him away.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him not deceive himself by trusting what is worthless,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "for he will get nothing in return.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Before his time he will wither,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and his branches will not flourish.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "He will be like a vine stripped of its unripe grapes,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "like an olive tree shedding its blossoms.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "For the company of the godless will be barren,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "and fire will consume the tents of those who love bribes.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "They conceive trouble and give birth to evil;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "their womb fashions deceit.”",
+      "verse": 35,
+      "type": "poetry"
+    }
+  ]
+}

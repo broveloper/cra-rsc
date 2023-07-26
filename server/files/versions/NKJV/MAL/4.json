@@ -1,0 +1,132 @@
+{
+  "book_id": "MAL",
+  "book_name": "Malachi",
+  "chapter": 4,
+  "verses": 6,
+  "content": [
+    {
+      "text": "The Great Day of God",
+      "type": "heading"
+    },
+    {
+      "text": "“For behold, the day is coming,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Burning like an oven,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And all the proud, yes, all who do wickedly will be stubble.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the day which is coming shall burn them up,”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“That will leave them neither root nor branch.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But to you who fear My name",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sun of Righteousness shall arise",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "With healing in His wings;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall go out",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And grow fat like stall-fed calves.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall trample the wicked,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For they shall be ashes under the soles of your feet",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "On the day that I do this,”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Remember the Law of Moses, My servant,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Which I commanded him in Horeb for all Israel,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With the statutes and judgments.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I will send you Elijah the prophet",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the coming of the great and dreadful day of the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And he will turn",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The hearts of the fathers to the children,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the hearts of the children to their fathers,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest I come and strike the earth with a curse.”",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

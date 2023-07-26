@@ -1,0 +1,101 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 82,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 82",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "God presides in the great assembly;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he renders judgment among the “gods”:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“How long will you defend the unjust",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and show partiality to the wicked?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Defend the weak and the fatherless;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "uphold the cause of the poor and the oppressed.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Rescue the weak and the needy;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "deliver them from the hand of the wicked.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“The ‘gods’ know nothing, they understand nothing.",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They walk about in darkness;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "all the foundations of the earth are shaken.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I said, ‘You are “gods”;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you are all sons of the Most High.’",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But you will die like mere mortals;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you will fall like every other ruler.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Rise up, O God, judge the earth,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for all the nations are your inheritance.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

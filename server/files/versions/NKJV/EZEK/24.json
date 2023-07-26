@@ -1,0 +1,341 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 24,
+  "verses": 27,
+  "content": [
+    {
+      "text": "Symbol of the Cooking Pot",
+      "type": "heading"
+    },
+    {
+      "text": "Again, in the ninth year, in the tenth month, on the tenth day of the month, the word of the Lord came to me, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, write down the name of the day, this very day—the king of Babylon started his siege against Jerusalem this very day. ",
+      "verse": 2
+    },
+    {
+      "text": "And utter a parable to the rebellious house, and say to them, ‘Thus says the Lord God:",
+      "verse": 3
+    },
+    {
+      "text": "“Put on a pot, set it on,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And also pour water into it.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Gather pieces of meat in it,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Every good piece,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The thigh and the shoulder.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Fill it with choice cuts;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Take the choice of the flock.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Also pile fuel bones under it,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Make it boil well,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And let the cuts simmer in it.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Therefore thus says the Lord God:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“Woe to the bloody city,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To the pot whose scum is in it,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And whose scum is not gone from it!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring it out piece by piece,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "On which no lot has fallen.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For her blood is in her midst;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "She set it on top of a rock;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "She did not pour it on the ground,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To cover it with dust.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "That it may raise up fury and take vengeance,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I have set her blood on top of a rock,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That it may not be covered.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Therefore thus says the Lord God:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“Woe to the bloody city!",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I too will make the pyre great.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Heap on the wood,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Kindle the fire;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Cook the meat well,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Mix in the spices,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And let the cuts be burned up.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Then set the pot empty on the coals,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That it may become hot and its bronze may burn,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That its filthiness may be melted in it,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That its scum may be consumed.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "She has grown weary with lies,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And her great scum has not gone from her.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let her scum be in the fire!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "In your filthiness is lewdness.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I have cleansed you, and you were not cleansed,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You will not be cleansed of your filthiness anymore,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Till I have caused My fury to rest upon you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the Lord, have spoken it;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall come to pass, and I will do it;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not hold back,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will I spare,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will I relent;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "According to your ways",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And according to your deeds",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They will judge you,”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.’ ”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The Prophet’s Wife Dies",
+      "type": "heading"
+    },
+    {
+      "text": "Also the word of the Lord came to me, saying, ",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, behold, I take away from you the desire of your eyes with one stroke; yet you shall neither mourn nor weep, nor shall your tears run down. ",
+      "verse": 16
+    },
+    {
+      "text": "Sigh in silence, make no mourning for the dead; bind your turban on your head, and put your sandals on your feet; do not cover your lips, and do not eat man’s bread of sorrow.”",
+      "verse": 17
+    },
+    {
+      "text": "So I spoke to the people in the morning, and at evening my wife died; and the next morning I did as I was commanded.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "And the people said to me, “Will you not tell us what these things signify to us, that you behave so?”",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Then I answered them, “The word of the Lord came to me, saying, ",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "‘Speak to the house of Israel, “Thus says the Lord God: ‘Behold, I will profane My sanctuary, your arrogant boast, the desire of your eyes, the delight of your soul; and your sons and daughters whom you left behind shall fall by the sword. ",
+      "verse": 21
+    },
+    {
+      "text": "And you shall do as I have done; you shall not cover your lips nor eat man’s bread of sorrow. ",
+      "verse": 22
+    },
+    {
+      "text": "Your turbans shall be on your heads and your sandals on your feet; you shall neither mourn nor weep, but you shall pine away in your iniquities and mourn with one another. ",
+      "verse": 23
+    },
+    {
+      "text": "Thus Ezekiel is a sign to you; according to all that he has done you shall do; and when this comes, you shall know that I am the Lord God.’ ”",
+      "verse": 24
+    },
+    {
+      "text": "‘And you, son of man—will it not be in the day when I take from them their stronghold, their joy and their glory, the desire of their eyes, and that on which they set their minds, their sons and their daughters: ",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "that on that day one who escapes will come to you to let you hear it with your ears? ",
+      "verse": 26
+    },
+    {
+      "text": "On that day your mouth will be opened to him who has escaped; you shall speak and no longer be mute. Thus you will be a sign to them, and they shall know that I am the Lord.’ ”",
+      "verse": 27
+    }
+  ]
+}

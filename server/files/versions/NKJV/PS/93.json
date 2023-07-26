@@ -1,0 +1,87 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 93,
+  "verses": 5,
+  "content": [
+    {
+      "text": "The Eternal Reign of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord reigns, He is clothed with majesty;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord is clothed,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He has girded Himself with strength.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the world is established, so that it cannot be moved.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your throne is established from of old;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You are from everlasting.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The floods have lifted up, O Lord,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The floods have lifted up their voice;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The floods lift up their waves.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord on high is mightier",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Than the noise of many waters,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Than the mighty waves of the sea.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your testimonies are very sure;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Holiness adorns Your house,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, forever.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 2,
+  "verses": 37,
+  "content": [
+    {
+      "text": "Israel Forsakes the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came to me, saying,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Go and proclaim in the hearing of Jerusalem, Thus says the Lord,",
+      "verse": 2
+    },
+    {
+      "text": "“I remember the devotion of your youth,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your love as a bride,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "how you followed me in the wilderness,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in a land not sown.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel was holy to the Lord,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the firstfruits of his harvest.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "All who ate of it incurred guilt;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "disaster came upon them,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear the word of the Lord, O house of Jacob, and all the clans of the house of Israel.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 5
+    },
+    {
+      "text": "“What wrong did your fathers find in me",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that they went far from me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and went after worthlessness, and became worthless?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They did not say, ‘Where is the Lord",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who brought us up from the land of Egypt,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who led us in the wilderness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in a land of deserts and pits,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in a land of drought and deep darkness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in a land that none passes through,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "where no man dwells?’",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And I brought you into a plentiful land",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to enjoy its fruits and its good things.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But when you came in, you defiled my land",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and made my heritage an abomination.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The priests did not say, ‘Where is the Lord?’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who handle the law did not know me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the shepherds transgressed against me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the prophets prophesied by Baal",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and went after things that do not profit.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I still contend with you,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "declares the Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and with your children's children I will contend.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For cross to the coasts of Cyprus and see,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "or send to Kedar and examine with care;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "see if there has been such a thing.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Has a nation changed its gods,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "even though they are no gods?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But my people have changed their glory",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for that which does not profit.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Be appalled, O heavens, at this;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "be shocked, be utterly desolate,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for my people have committed two evils:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they have forsaken me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the fountain of living waters,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and hewed out cisterns for themselves,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "broken cisterns that can hold no water.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is Israel a slave? Is he a homeborn servant?",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why then has he become a prey?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The lions have roared against him;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "they have roared loudly.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They have made his land a waste;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "his cities are in ruins, without inhabitant.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Moreover, the men of Memphis and Tahpanhes",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "have shaved the crown of your head.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you not brought this upon yourself",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "by forsaking the Lord your God,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "when he led you in the way?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And now what do you gain by going to Egypt",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "to drink the waters of the Nile?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Or what do you gain by going to Assyria",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "to drink the waters of the Euphrates?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your evil will chastise you,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and your apostasy will reprove you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Know and see that it is evil and bitter",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for you to forsake the Lord your God;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the fear of me is not in you,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord God of hosts.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“For long ago I broke your yoke",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and burst your bonds;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "but you said, ‘I will not serve.’",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, on every high hill",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and under every green tree",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "you bowed down like a whore.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I planted you a choice vine,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "wholly of pure seed.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "How then have you turned degenerate",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and become a wild vine?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Though you wash yourself with lye",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and use much soap,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the stain of your guilt is still before me,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord God.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "How can you say, ‘I am not unclean,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not gone after the Baals’?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Look at your way in the valley;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "know what you have done—",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "a restless young camel running here and there,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "    a wild donkey used to the wilderness,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "in her heat sniffing the wind!",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can restrain her lust?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "None who seek her need weary themselves;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "in her month they will find her.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep your feet from going unshod",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and your throat from thirst.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "But you said, ‘It is hopeless,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "for I have loved foreigners,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and after them I will go.’",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“As a thief is shamed when caught,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so the house of Israel shall be shamed:",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "they, their kings, their officials,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "their priests, and their prophets,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "who say to a tree, ‘You are my father,’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and to a stone, ‘You gave me birth.’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have turned their back to me,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and not their face.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "But in the time of their trouble they say,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Arise and save us!’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "But where are your gods",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "that you made for yourself?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them arise, if they can save you,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "in your time of trouble;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "for as many as your cities",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "are your gods, O Judah.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why do you contend with me?",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have all transgressed against me,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "In vain have I struck your children;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "they took no correction;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "your own sword devoured your prophets",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "like a ravening lion.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And you, O generation, behold the word of the Lord.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Have I been a wilderness to Israel,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "or a land of thick darkness?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Why then do my people say, ‘We are free,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "we will come no more to you’?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Can a virgin forget her ornaments,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "or a bride her attire?",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet my people have forgotten me",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "days without number.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "“How well you direct your course",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to seek love!",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "So that even to wicked women",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "you have taught your ways.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Also on your skirts is found",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "the lifeblood of the guiltless poor;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "you did not find them breaking in.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet in spite of all these things",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "you say, ‘I am innocent;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "surely his anger has turned from me.’",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I will bring you to judgment",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "for saying, ‘I have not sinned.’",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "How much you go about,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "changing your way!",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall be put to shame by Egypt",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "as you were put to shame by Assyria.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "From it too you will come away",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "with your hands on your head,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord has rejected those in whom you trust,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will not prosper by them.",
+      "verse": 37,
+      "type": "poetry"
+    }
+  ]
+}

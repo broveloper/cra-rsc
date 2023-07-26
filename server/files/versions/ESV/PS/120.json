@@ -1,0 +1,96 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 120,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Deliver Me, O Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "In my distress I called to the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he answered me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me, O Lord,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "from lying lips,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "from a deceitful tongue.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "What shall be given to you,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and what more shall be done to you,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you deceitful tongue?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A warrior's sharp arrows,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "with glowing coals of the broom tree!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to me, that I sojourn in Meshech,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that I dwell among the tents of Kedar!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Too long have I had my dwelling",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "among those who hate peace.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I am for peace,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but when I speak, they are for war!",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

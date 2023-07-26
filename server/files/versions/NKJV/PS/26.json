@@ -1,0 +1,146 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 26,
+  "verses": 12,
+  "content": [
+    {
+      "text": "A Prayer for Divine Scrutiny and Redemption",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Vindicate me, O Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For I have walked in my integrity.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I have also trusted in the Lord;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall not slip.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Examine me, O Lord, and prove me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Try my mind and my heart.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your lovingkindness is before my eyes,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And I have walked in Your truth.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not sat with idolatrous mortals,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will I go in with hypocrites.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have hated the assembly of evildoers,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And will not sit with the wicked.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will wash my hands in innocence;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So I will go about Your altar, O Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may proclaim with the voice of thanksgiving,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And tell of all Your wondrous works.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, I have loved the habitation of Your house,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the place where Your glory dwells.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not gather my soul with sinners,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor my life with bloodthirsty men,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In whose hands is a sinister scheme,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And whose right hand is full of bribes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But as for me, I will walk in my integrity;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Redeem me and be merciful to me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My foot stands in an even place;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "In the congregations I will bless the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

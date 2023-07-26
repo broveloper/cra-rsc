@@ -1,0 +1,272 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 8,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Israel to Reap the Whirlwind",
+      "type": "heading"
+    },
+    {
+      "text": "“Put the trumpet to your lips!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "An eagle is over the house of the Lord",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "because the people have broken my covenant",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and rebelled against my law.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel cries out to me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Our God, we acknowledge you!’",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But Israel has rejected what is good;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "an enemy will pursue him.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They set up kings without my consent;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they choose princes without my approval.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With their silver and gold",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they make idols for themselves",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to their own destruction.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Samaria, throw out your calf-idol!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My anger burns against them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will they be incapable of purity?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    They are from Israel!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "This calf—a metalworker has made it;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "it is not God.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be broken in pieces,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that calf of Samaria.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“They sow the wind",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and reap the whirlwind.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The stalk has no head;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "it will produce no flour.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Were it to yield grain,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "foreigners would swallow it up.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel is swallowed up;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "now she is among the nations",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "like something no one wants.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have gone up to Assyria",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "like a wild donkey wandering alone.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim has sold herself to lovers.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Although they have sold themselves among the nations,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will now gather them together.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They will begin to waste away",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "under the oppression of the mighty king.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Though Ephraim built many altars for sin offerings,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "these have become altars for sinning.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I wrote for them the many things of my law,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but they regarded them as something foreign.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they offer sacrifices as gifts to me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and though they eat the meat,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord is not pleased with them.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Now he will remember their wickedness",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and punish their sins:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They will return to Egypt.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel has forgotten their Maker",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and built palaces;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah has fortified many towns.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will send fire on their cities",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume their fortresses.”",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 58,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
+      "verse": 1
+    },
+    {
+      "text": "Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Their poison is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Which will not hearken to the voice of charmers, charming never so wisely.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O Lord.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.",
+      "verse": 11,
+      "type": "newline"
+    }
+  ]
+}

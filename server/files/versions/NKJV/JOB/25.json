@@ -1,0 +1,67 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 25,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Bildad: How Can Man Be Righteous?",
+      "type": "heading"
+    },
+    {
+      "text": "Then Bildad the Shuhite answered and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Dominion and fear belong to Him;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He makes peace in His high places.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Is there any number to His armies?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon whom does His light not rise?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How then can man be righteous before God?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Or how can he be pure who is born of a woman?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If even the moon does not shine,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the stars are not pure in His sight,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "How much less man, who is a maggot,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And a son of man, who is a worm?”",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

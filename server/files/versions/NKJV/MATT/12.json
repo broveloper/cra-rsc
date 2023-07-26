@@ -1,0 +1,293 @@
+{
+  "book_id": "MATT",
+  "book_name": "Matthew",
+  "chapter": 12,
+  "verses": 50,
+  "content": [
+    {
+      "text": "Jesus Is Lord of the Sabbath",
+      "type": "heading"
+    },
+    {
+      "text": "At that time Jesus went through the grainfields on the Sabbath. And His disciples were hungry, and began to pluck heads of grain and to eat. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And when the Pharisees saw it, they said to Him, “Look, Your disciples are doing what is not lawful to do on the Sabbath!”",
+      "verse": 2
+    },
+    {
+      "text": "But He said to them, “Have you not read what David did when he was hungry, he and those who were with him: ",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "how he entered the house of God and ate the showbread which was not lawful for him to eat, nor for those who were with him, but only for the priests? ",
+      "verse": 4
+    },
+    {
+      "text": "Or have you not read in the law that on the Sabbath the priests in the temple profane the Sabbath, and are blameless? ",
+      "verse": 5
+    },
+    {
+      "text": "Yet I say to you that in this place there is One greater than the temple. ",
+      "verse": 6
+    },
+    {
+      "text": "But if you had known what this means, ‘I desire mercy and not sacrifice,’ you would not have condemned the guiltless. ",
+      "verse": 7
+    },
+    {
+      "text": "For the Son of Man is Lord even of the Sabbath.”",
+      "verse": 8
+    },
+    {
+      "text": "Healing on the Sabbath",
+      "type": "heading"
+    },
+    {
+      "text": "Now when He had departed from there, He went into their synagogue. ",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And behold, there was a man who had a withered hand. And they asked Him, saying, “Is it lawful to heal on the Sabbath?”—that they might accuse Him.",
+      "verse": 10
+    },
+    {
+      "text": "Then He said to them, “What man is there among you who has one sheep, and if it falls into a pit on the Sabbath, will not lay hold of it and lift it out? ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Of how much more value then is a man than a sheep? Therefore it is lawful to do good on the Sabbath.” ",
+      "verse": 12
+    },
+    {
+      "text": "Then He said to the man, “Stretch out your hand.” And he stretched it out, and it was restored as whole as the other. ",
+      "verse": 13
+    },
+    {
+      "text": "Then the Pharisees went out and plotted against Him, how they might destroy Him.",
+      "verse": 14
+    },
+    {
+      "text": "Behold, My Servant",
+      "type": "heading"
+    },
+    {
+      "text": "But when Jesus knew it, He withdrew from there. And great multitudes followed Him, and He healed them all. ",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Yet He warned them not to make Him known, ",
+      "verse": 16
+    },
+    {
+      "text": "that it might be fulfilled which was spoken by Isaiah the prophet, saying:",
+      "verse": 17
+    },
+    {
+      "text": "“Behold! My Servant whom I have chosen,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My Beloved in whom My soul is well pleased!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put My Spirit upon Him,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And He will declare justice to the Gentiles.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not quarrel nor cry out,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will anyone hear His voice in the streets.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "A bruised reed He will not break,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And smoking flax He will not quench,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Till He sends forth justice to victory;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And in His name Gentiles will trust.”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A House Divided Cannot Stand",
+      "type": "heading"
+    },
+    {
+      "text": "Then one was brought to Him who was demon-possessed, blind and mute; and He healed him, so that the blind and mute man both spoke and saw. ",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "And all the multitudes were amazed and said, “Could this be the Son of David?”",
+      "verse": 23
+    },
+    {
+      "text": "Now when the Pharisees heard it they said, “This fellow does not cast out demons except by Beelzebub, the ruler of the demons.”",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "But Jesus knew their thoughts, and said to them: “Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand. ",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "If Satan casts out Satan, he is divided against himself. How then will his kingdom stand? ",
+      "verse": 26
+    },
+    {
+      "text": "And if I cast out demons by Beelzebub, by whom do your sons cast them out? Therefore they shall be your judges. ",
+      "verse": 27
+    },
+    {
+      "text": "But if I cast out demons by the Spirit of God, surely the kingdom of God has come upon you. ",
+      "verse": 28
+    },
+    {
+      "text": "Or how can one enter a strong man’s house and plunder his goods, unless he first binds the strong man? And then he will plunder his house. ",
+      "verse": 29
+    },
+    {
+      "text": "He who is not with Me is against Me, and he who does not gather with Me scatters abroad.",
+      "verse": 30
+    },
+    {
+      "text": "The Unpardonable Sin",
+      "type": "heading"
+    },
+    {
+      "text": "“Therefore I say to you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven men. ",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "Anyone who speaks a word against the Son of Man, it will be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, either in this age or in the age to come.",
+      "verse": 32
+    },
+    {
+      "text": "A Tree Known by Its Fruit",
+      "type": "heading"
+    },
+    {
+      "text": "“Either make the tree good and its fruit good, or else make the tree bad and its fruit bad; for a tree is known by its fruit. ",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "Brood of vipers! How can you, being evil, speak good things? For out of the abundance of the heart the mouth speaks. ",
+      "verse": 34
+    },
+    {
+      "text": "A good man out of the good treasure of his heart brings forth good things, and an evil man out of the evil treasure brings forth evil things. ",
+      "verse": 35
+    },
+    {
+      "text": "But I say to you that for every idle word men may speak, they will give account of it in the day of judgment. ",
+      "verse": 36
+    },
+    {
+      "text": "For by your words you will be justified, and by your words you will be condemned.”",
+      "verse": 37
+    },
+    {
+      "text": "The Scribes and Pharisees Ask for a Sign",
+      "type": "heading"
+    },
+    {
+      "text": "Then some of the scribes and Pharisees answered, saying, “Teacher, we want to see a sign from You.”",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "But He answered and said to them, “An evil and adulterous generation seeks after a sign, and no sign will be given to it except the sign of the prophet Jonah. ",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "For as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth. ",
+      "verse": 40
+    },
+    {
+      "text": "The men of Nineveh will rise up in the judgment with this generation and condemn it, because they repented at the preaching of Jonah; and indeed a greater than Jonah is here. ",
+      "verse": 41
+    },
+    {
+      "text": "The queen of the South will rise up in the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and indeed a greater than Solomon is here.",
+      "verse": 42
+    },
+    {
+      "text": "An Unclean Spirit Returns",
+      "type": "heading"
+    },
+    {
+      "text": "“When an unclean spirit goes out of a man, he goes through dry places, seeking rest, and finds none. ",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "Then he says, ‘I will return to my house from which I came.’ And when he comes, he finds it empty, swept, and put in order. ",
+      "verse": 44
+    },
+    {
+      "text": "Then he goes and takes with him seven other spirits more wicked than himself, and they enter and dwell there; and the last state of that man is worse than the first. So shall it also be with this wicked generation.”",
+      "verse": 45
+    },
+    {
+      "text": "Jesus’ Mother and Brothers Send for Him",
+      "type": "heading"
+    },
+    {
+      "text": "While He was still talking to the multitudes, behold, His mother and brothers stood outside, seeking to speak with Him. ",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "Then one said to Him, “Look, Your mother and Your brothers are standing outside, seeking to speak with You.”",
+      "verse": 47
+    },
+    {
+      "text": "But He answered and said to the one who told Him, “Who is My mother and who are My brothers?” ",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "And He stretched out His hand toward His disciples and said, “Here are My mother and My brothers! ",
+      "verse": 49
+    },
+    {
+      "text": "For whoever does the will of My Father in heaven is My brother and sister and mother.”",
+      "verse": 50
+    }
+  ]
+}

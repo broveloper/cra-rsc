@@ -1,0 +1,247 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 94,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Psalm 94",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord is a God who avenges.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O God who avenges, shine forth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Rise up, Judge of the earth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "pay back to the proud what they deserve.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, Lord, will the wicked,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "how long will the wicked be jubilant?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They pour out arrogant words;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all the evildoers are full of boasting.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They crush your people, Lord;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they oppress your inheritance.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They slay the widow and the foreigner;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they murder the fatherless.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They say, “The Lord does not see;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the God of Jacob takes no notice.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Take notice, you senseless ones among the people;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you fools, when will you become wise?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Does he who fashioned the ear not hear?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Does he who formed the eye not see?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Does he who disciplines nations not punish?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Does he who teaches mankind lack knowledge?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord knows all human plans;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he knows that they are futile.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the one you discipline, Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the one you teach from your law;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "you grant them relief from days of trouble,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "till a pit is dug for the wicked.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will not reject his people;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "he will never forsake his inheritance.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment will again be founded on righteousness,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the upright in heart will follow it.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will rise up for me against the wicked?",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who will take a stand for me against evildoers?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless the Lord had given me help,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I would soon have dwelt in the silence of death.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When I said, “My foot is slipping,”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "your unfailing love, Lord, supported me.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "When anxiety was great within me,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "your consolation brought me joy.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Can a corrupt throne be allied with you—",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a throne that brings on misery by its decrees?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked band together against the righteous",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and condemn the innocent to death.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord has become my fortress,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and my God the rock in whom I take refuge.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He will repay them for their sins",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and destroy them for their wickedness;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord our God will destroy them.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

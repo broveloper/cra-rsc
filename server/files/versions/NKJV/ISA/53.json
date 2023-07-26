@@ -1,0 +1,257 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 53,
+  "verses": 12,
+  "content": [
+    {
+      "text": "The Sin-Bearing Messiah",
+      "type": "heading"
+    },
+    {
+      "text": "Who has believed our report?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And to whom has the arm of the Lord been revealed?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For He shall grow up before Him as a tender plant,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And as a root out of dry ground.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He has no form or comeliness;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And when we see Him,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no beauty that we should desire Him.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He is despised and rejected by men,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A Man of sorrows and acquainted with grief.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And we hid, as it were, our faces from Him;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He was despised, and we did not esteem Him.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely He has borne our griefs",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And carried our sorrows;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet we esteemed Him stricken,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Smitten by God, and afflicted.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But He was wounded for our transgressions,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He was bruised for our iniquities;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The chastisement for our peace was upon Him,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And by His stripes we are healed.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "All we like sheep have gone astray;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "We have turned, every one, to his own way;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Lord has laid on Him the iniquity of us all.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He was oppressed and He was afflicted,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yet He opened not His mouth;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He was led as a lamb to the slaughter,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And as a sheep before its shearers is silent,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "So He opened not His mouth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He was taken from prison and from judgment,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And who will declare His generation?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For He was cut off from the land of the living;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For the transgressions of My people He was stricken.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And they made His grave with the wicked—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But with the rich at His death,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because He had done no violence,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor was any deceit in His mouth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet it pleased the Lord to bruise Him;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has put Him to grief.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When You make His soul an offering for sin,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall see His seed, He shall prolong His days,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the pleasure of the Lord shall prosper in His hand.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall see the labor of His soul, and be satisfied.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "By His knowledge My righteous Servant shall justify many,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For He shall bear their iniquities.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will divide Him a portion with the great,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall divide the spoil with the strong,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Because He poured out His soul unto death,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And He was numbered with the transgressors,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And He bore the sin of many,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And made intercession for the transgressors.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

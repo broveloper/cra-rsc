@@ -1,0 +1,311 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 44,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Psalm 44",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. Of the Sons of Korah. A maskil.",
+      "type": "title"
+    },
+    {
+      "text": "We have heard it with our ears, O God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "our ancestors have told us",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "what you did in their days,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "in days long ago.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "With your hand you drove out the nations",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and planted our ancestors;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "you crushed the peoples",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and made our ancestors flourish.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "It was not by their sword that they won the land,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "nor did their arm bring them victory;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "it was your right hand, your arm,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the light of your face, for you loved them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my King and my God,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who decrees victories for Jacob.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Through you we push back our enemies;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "through your name we trample our foes.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I put no trust in my bow,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "my sword does not bring me victory;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but you give us victory over our enemies,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you put our adversaries to shame.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In God we make our boast all day long,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and we will praise your name forever.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But now you have rejected and humbled us;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you no longer go out with our armies.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You made us retreat before the enemy,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and our adversaries have plundered us.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You gave us up to be devoured like sheep",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and have scattered us among the nations.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You sold your people for a pittance,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "gaining nothing from their sale.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made us a reproach to our neighbors,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the scorn and derision of those around us.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made us a byword among the nations;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the peoples shake their heads at us.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I live in disgrace all day long,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and my face is covered with shame",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "at the taunts of those who reproach and revile me,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the enemy, who is bent on revenge.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "All this came upon us,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "though we had not forgotten you;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "we had not been false to your covenant.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Our hearts had not turned back;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "our feet had not strayed from your path.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But you crushed us and made us a haunt for jackals;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "you covered us over with deep darkness.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "If we had forgotten the name of our God",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or spread out our hands to a foreign god,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "would not God have discovered it,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "since he knows the secrets of the heart?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet for your sake we face death all day long;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "we are considered as sheep to be slaughtered.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, Lord! Why do you sleep?",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Rouse yourself! Do not reject us forever.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you hide your face",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and forget our misery and oppression?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "We are brought down to the dust;",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "our bodies cling to the ground.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Rise up and help us;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "rescue us because of your unfailing love.",
+      "verse": 26,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 88,
+  "verses": 18,
+  "content": [
+    {
+      "text": "I Cry Out Day and Night Before You",
+      "type": "heading"
+    },
+    {
+      "text": "A Song. A Psalm of the Sons of Korah. To the choirmaster: according to Mahalath Leannoth. A Maskil of Heman the Ezrahite.",
+      "type": "title"
+    },
+    {
+      "text": "O Lord, God of my salvation,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I cry out day and night before you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my prayer come before you;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "incline your ear to my cry!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For my soul is full of troubles,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my life draws near to Sheol.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I am counted among those who go down to the pit;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I am a man who has no strength,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like one set loose among the dead,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like the slain that lie in the grave,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like those whom you remember no more,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for they are cut off from your hand.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You have put me in the depths of the pit,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in the regions dark and deep.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wrath lies heavy upon me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and you overwhelm me with all your waves. Selah",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have caused my companions to shun me;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have made me a horror to them.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I am shut in so that I cannot escape;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "    my eye grows dim through sorrow.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Every day I call upon you, O Lord;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I spread out my hands to you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you work wonders for the dead?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Do the departed rise up to praise you? Selah",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Is your steadfast love declared in the grave,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "or your faithfulness in Abaddon?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Are your wonders known in the darkness,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "or your righteousness in the land of forgetfulness?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But I, O Lord, cry to you;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the morning my prayer comes before you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, why do you cast my soul away?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you hide your face from me?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Afflicted and close to death from my youth up,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I suffer your terrors; I am helpless.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wrath has swept over me;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "your dreadful assaults destroy me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They surround me like a flood all day long;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they close in on me together.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "You have caused my beloved and my friend to shun me;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "my companions have become darkness.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

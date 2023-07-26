@@ -1,0 +1,242 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 9,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Death Comes to All",
+      "type": "heading"
+    },
+    {
+      "text": "For I considered all this in my heart, so that I could declare it all: that the righteous and the wise and their works are in the hand of God. People know neither love nor hatred by anything they see before them. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "All things come alike to all:",
+      "verse": 2
+    },
+    {
+      "text": "One event happens to the righteous and the wicked;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To the good, the clean, and the unclean;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To him who sacrifices and him who does not sacrifice.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "As is the good, so is the sinner;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He who takes an oath as he who fears an oath.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "This is an evil in all that is done under the sun: that one thing happens to all. Truly the hearts of the sons of men are full of evil; madness is in their hearts while they live, and after that they go to the dead. ",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "But for him who is joined to all the living there is hope, for a living dog is better than a dead lion.",
+      "verse": 4
+    },
+    {
+      "text": "For the living know that they will die;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the dead know nothing,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And they have no more reward,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For the memory of them is forgotten.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Also their love, their hatred, and their envy have now perished;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nevermore will they have a share",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In anything done under the sun.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Go, eat your bread with joy,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And drink your wine with a merry heart;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For God has already accepted your works.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your garments always be white,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And let your head lack no oil.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, all your days of vanity; for that is your portion in life, and in the labor which you perform under the sun.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Whatever your hand finds to do, do it with your might; for there is no work or device or knowledge or wisdom in the grave where you are going.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "I returned and saw under the sun that—",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "The race is not to the swift,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor the battle to the strong,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor bread to the wise,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor riches to men of understanding,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor favor to men of skill;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But time and chance happen to them all.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For man also does not know his time:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Like fish taken in a cruel net,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Like birds caught in a snare,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "So the sons of men are snared in an evil time,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "When it falls suddenly upon them.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom Superior to Folly",
+      "type": "heading"
+    },
+    {
+      "text": "This wisdom I have also seen under the sun, and it seemed great to me: ",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "There was a little city with few men in it; and a great king came against it, besieged it, and built great snares around it. ",
+      "verse": 14
+    },
+    {
+      "text": "Now there was found in it a poor wise man, and he by his wisdom delivered the city. Yet no one remembered that same poor man.",
+      "verse": 15
+    },
+    {
+      "text": "Then I said:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“Wisdom is better than strength.",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nevertheless the poor man’s wisdom is despised,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And his words are not heard.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Words of the wise, spoken quietly, should be heard",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Rather than the shout of a ruler of fools.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom is better than weapons of war;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But one sinner destroys much good.”",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

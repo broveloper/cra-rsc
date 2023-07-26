@@ -1,0 +1,271 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 72,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Glory and Universality of the Messiah’s Reign",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of Solomon.",
+      "type": "title"
+    },
+    {
+      "text": "Give the king Your judgments, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Your righteousness to the king’s Son.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He will judge Your people with righteousness,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your poor with justice.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains will bring peace to the people,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And the little hills, by righteousness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He will bring justice to the poor of the people;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He will save the children of the needy,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And will break in pieces the oppressor.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall fear You",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As long as the sun and moon endure,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Throughout all generations.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall come down like rain upon the grass before mowing,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like showers that water the earth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In His days the righteous shall flourish,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And abundance of peace,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Until the moon is no more.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall have dominion also from sea to sea,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And from the River to the ends of the earth.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who dwell in the wilderness will bow before Him,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And His enemies will lick the dust.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The kings of Tarshish and of the isles",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will bring presents;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The kings of Sheba and Seba",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will offer gifts.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, all kings shall fall down before Him;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "All nations shall serve Him.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For He will deliver the needy when he cries,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The poor also, and him who has no helper.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He will spare the poor and needy,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And will save the souls of the needy.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He will redeem their life from oppression and violence;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And precious shall be their blood in His sight.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall live;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the gold of Sheba will be given to Him;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Prayer also will be made for Him continually,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And daily He shall be praised.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "There will be an abundance of grain in the earth,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "On the top of the mountains;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Its fruit shall wave like Lebanon;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And those of the city shall flourish like grass of the earth.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "His name shall endure forever;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His name shall continue as long as the sun.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And men shall be blessed in Him;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "All nations shall call Him blessed.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord God, the God of Israel,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who only does wondrous things!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And blessed be His glorious name forever!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And let the whole earth be filled with His glory.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Amen and Amen.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The prayers of David the son of Jesse are ended.",
+      "verse": 20,
+      "type": "poetry newline"
+    }
+  ]
+}

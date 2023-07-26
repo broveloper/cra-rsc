@@ -1,0 +1,151 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 21,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Joy in the Salvation of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The king shall have joy in Your strength, O Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And in Your salvation how greatly shall he rejoice!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have given him his heart’s desire,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And have not withheld the request of his lips. Selah",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For You meet him with the blessings of goodness;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You set a crown of pure gold upon his head.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He asked life from You, and You gave it to him—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Length of days forever and ever.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "His glory is great in Your salvation;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Honor and majesty You have placed upon him.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have made him most blessed forever;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made him exceedingly glad with Your presence.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For the king trusts in the Lord,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And through the mercy of the Most High he shall not be moved.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Your hand will find all Your enemies;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your right hand will find those who hate You.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall make them as a fiery oven in the time of Your anger;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord shall swallow them up in His wrath,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fire shall devour them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Their offspring You shall destroy from the earth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And their descendants from among the sons of men.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For they intended evil against You;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They devised a plot which they are not able to perform.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore You will make them turn their back;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You will make ready Your arrows on Your string toward their faces.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O Lord, in Your own strength!",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "We will sing and praise Your power.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

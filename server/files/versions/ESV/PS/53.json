@@ -1,0 +1,121 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 53,
+  "verses": 6,
+  "content": [
+    {
+      "text": "There Is None Who Does Good",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: according to Mahalath. A Maskil of David.",
+      "type": "title"
+    },
+    {
+      "text": "The fool says in his heart, “There is no God.”",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They are corrupt, doing abominable iniquity;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "there is none who does good.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "God looks down from heaven",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "on the children of man",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to see if there are any who understand,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who seek after God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They have all fallen away;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "together they have become corrupt;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "there is none who does good,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "not even one.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Have those who work evil no knowledge,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who eat up my people as they eat bread,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not call upon God?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "There they are, in great terror,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "where there is no terror!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For God scatters the bones of him who encamps against you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you put them to shame, for God has rejected them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that salvation for Israel would come out of Zion!",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When God restores the fortunes of his people,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "let Jacob rejoice, let Israel be glad.",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

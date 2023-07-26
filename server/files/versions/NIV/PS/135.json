@@ -1,0 +1,247 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 135,
+  "verses": 21,
+  "content": [
+    {
+      "text": "Psalm 135",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Praise the name of the Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "praise him, you servants of the Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "you who minister in the house of the Lord,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in the courts of the house of our God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord, for the Lord is good;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "sing praise to his name, for that is pleasant.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has chosen Jacob to be his own,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel to be his treasured possession.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I know that the Lord is great,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that our Lord is greater than all gods.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord does whatever pleases him,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in the heavens and on the earth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in the seas and all their depths.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes clouds rise from the ends of the earth;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he sends lightning with the rain",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and brings out the wind from his storehouses.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He struck down the firstborn of Egypt,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the firstborn of people and animals.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He sent his signs and wonders into your midst, Egypt,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "against Pharaoh and all his servants.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He struck down many nations",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and killed mighty kings—",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Sihon king of the Amorites,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Og king of Bashan,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the kings of Canaan—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and he gave their land as an inheritance,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "an inheritance to his people Israel.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Your name, Lord, endures forever,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your renown, Lord, through all generations.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will vindicate his people",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and have compassion on his servants.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The idols of the nations are silver and gold,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "made by human hands.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They have mouths, but cannot speak,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "eyes, but cannot see.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They have ears, but cannot hear,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "nor is there breath in their mouths.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who make them will be like them,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and so will all who trust in them.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "All you Israelites, praise the Lord;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "house of Aaron, praise the Lord;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "house of Levi, praise the Lord;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "you who fear him, praise the Lord.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise be to the Lord from Zion,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who dwells in Jerusalem.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord.",
+      "verse": 21,
+      "type": "poetry newline"
+    }
+  ]
+}

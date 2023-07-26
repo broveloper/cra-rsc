@@ -1,0 +1,162 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 2,
+  "verses": 12,
+  "content": [
+    {
+      "text": "The Messiah’s Triumph and Kingdom",
+      "type": "heading"
+    },
+    {
+      "text": "Why do the nations rage,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the people plot a vain thing?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The kings of the earth set themselves,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And the rulers take counsel together,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Against the Lord and against His Anointed, saying,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let us break Their bonds in pieces",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And cast away Their cords from us.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He who sits in the heavens shall laugh;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord shall hold them in derision.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then He shall speak to them in His wrath,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And distress them in His deep displeasure:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet I have set My King",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "On My holy hill of Zion.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will declare the decree:",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord has said to Me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘You are My Son,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Today I have begotten You.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Ask of Me, and I will give You",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The nations for Your inheritance,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the ends of the earth for Your possession.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall break them with a rod of iron;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall dash them to pieces like a potter’s vessel.’ ”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Now therefore, be wise, O kings;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Be instructed, you judges of the earth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Serve the Lord with fear,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And rejoice with trembling.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Kiss the Son, lest He be angry,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And you perish in the way,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "When His wrath is kindled but a little.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are all those who put their trust in Him.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

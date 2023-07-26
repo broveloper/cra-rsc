@@ -1,0 +1,241 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 51,
+  "verses": 19,
+  "content": [
+    {
+      "text": "A Prayer of Repentance",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David when Nathan the prophet went to him, after he had gone in to Bathsheba.",
+      "type": "title"
+    },
+    {
+      "text": "Have mercy upon me, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "According to Your lovingkindness;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "According to the multitude of Your tender mercies,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Blot out my transgressions.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Wash me thoroughly from my iniquity,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And cleanse me from my sin.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For I acknowledge my transgressions,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And my sin is always before me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Against You, You only, have I sinned,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And done this evil in Your sight—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That You may be found just when You speak,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And blameless when You judge.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I was brought forth in iniquity,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And in sin my mother conceived me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, You desire truth in the inward parts,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the hidden part You will make me to know wisdom.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Purge me with hyssop, and I shall be clean;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Wash me, and I shall be whiter than snow.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Make me hear joy and gladness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That the bones You have broken may rejoice.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide Your face from my sins,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And blot out all my iniquities.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Create in me a clean heart, O God,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And renew a steadfast spirit within me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not cast me away from Your presence,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not take Your Holy Spirit from me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore to me the joy of Your salvation,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And uphold me by Your generous Spirit.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will teach transgressors Your ways,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And sinners shall be converted to You.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me from the guilt of bloodshed, O God,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The God of my salvation,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And my tongue shall sing aloud of Your righteousness.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, open my lips,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And my mouth shall show forth Your praise.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For You do not desire sacrifice, or else I would give it;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You do not delight in burnt offering.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The sacrifices of God are a broken spirit,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "A broken and a contrite heart—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "These, O God, You will not despise.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Do good in Your good pleasure to Zion;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Build the walls of Jerusalem.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Then You shall be pleased with the sacrifices of righteousness,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "With burnt offering and whole burnt offering;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they shall offer bulls on Your altar.",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

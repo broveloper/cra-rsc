@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 57,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 57",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam. When he had fled from Saul into the cave.",
+      "type": "title"
+    },
+    {
+      "text": "Have mercy on me, my God, have mercy on me,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for in you I take refuge.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take refuge in the shadow of your wings",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "until the disaster has passed.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I cry out to God Most High,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to God, who vindicates me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He sends from heaven and saves me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "rebuking those who hotly pursue me—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "God sends forth his love and his faithfulness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I am in the midst of lions;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I am forced to dwell among ravenous beasts—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "men whose teeth are spears and arrows,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "whose tongues are sharp swords.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O God, above the heavens;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let your glory be over all the earth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They spread a net for my feet—",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I was bowed down in distress.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They dug a pit in my path—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but they have fallen into it themselves.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart, O God, is steadfast,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my heart is steadfast;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sing and make music.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, my soul!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, harp and lyre!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will awaken the dawn.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise you, Lord, among the nations;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing of you among the peoples.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For great is your love, reaching to the heavens;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "your faithfulness reaches to the skies.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O God, above the heavens;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let your glory be over all the earth.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

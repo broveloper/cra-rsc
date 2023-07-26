@@ -1,0 +1,272 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 5,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Impending Judgment on Israel and Judah",
+      "type": "heading"
+    },
+    {
+      "text": "“Hear this, O priests!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Take heed, O house of Israel!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Give ear, O house of the king!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For yours is the judgment,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have been a snare to Mizpah",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And a net spread on Tabor.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The revolters are deeply involved in slaughter,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I rebuke them all.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I know Ephraim,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And Israel is not hidden from Me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For now, O Ephraim, you commit harlotry;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel is defiled.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“They do not direct their deeds",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Toward turning to their God,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For the spirit of harlotry is in their midst,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And they do not know the Lord.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The pride of Israel testifies to his face;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore Israel and Ephraim stumble in their iniquity;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah also stumbles with them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“With their flocks and herds",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They shall go to seek the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But they will not find Him;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He has withdrawn Himself from them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have dealt treacherously with the Lord,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have begotten pagan children.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Now a New Moon shall devour them and their heritage.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Blow the ram’s horn in Gibeah,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The trumpet in Ramah!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Cry aloud at Beth Aven,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Look behind you, O Benjamin!’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim shall be desolate in the day of rebuke;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the tribes of Israel I make known what is sure.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“The princes of Judah are like those who remove a landmark;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will pour out My wrath on them like water.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is oppressed and broken in judgment,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he willingly walked by human precept.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will be to Ephraim like a moth,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the house of Judah like rottenness.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“When Ephraim saw his sickness,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Judah saw his wound,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Ephraim went to Assyria",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And sent to King Jareb;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet he cannot cure you,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor heal you of your wound.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will be like a lion to Ephraim,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And like a young lion to the house of Judah.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I, even I, will tear them and go away;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take them away, and no one shall rescue.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will return again to My place",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Till they acknowledge their offense.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they will seek My face;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "In their affliction they will earnestly seek Me.”",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

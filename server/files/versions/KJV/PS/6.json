@@ -1,0 +1,57 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 6,
+  "verses": 10,
+  "content": [
+    {
+      "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+      "verse": 1
+    },
+    {
+      "text": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "My soul is also sore vexed: but thou, O Lord, how long?",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Return, O Lord, deliver my soul: oh save me for thy mercies' sake.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Depart from me, all ye workers of iniquity; for the Lord hath heard the voice of my weeping.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord hath heard my supplication; the Lord will receive my prayer.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.",
+      "verse": 10,
+      "type": "newline"
+    }
+  ]
+}

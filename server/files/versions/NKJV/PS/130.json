@@ -1,0 +1,106 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 130,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Waiting for the Redemption of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "Out of the depths I have cried to You, O Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lord, hear my voice!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Your ears be attentive",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To the voice of my supplications.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "If You, Lord, should mark iniquities,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Lord, who could stand?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But there is forgiveness with You,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That You may be feared.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I wait for the Lord, my soul waits,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And in His word I do hope.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul waits for the Lord",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "More than those who watch for the morning—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, more than those who watch for the morning.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "O Israel, hope in the Lord;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For with the Lord there is mercy,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And with Him is abundant redemption.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall redeem Israel",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "From all his iniquities.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "book_id": "HAB",
+  "book_name": "Habakkuk",
+  "chapter": 3,
+  "verses": 19,
+  "content": [
+    {
+      "text": "Habakkuk's Prayer",
+      "type": "heading"
+    },
+    {
+      "text": "A prayer of Habakkuk the prophet, according to Shigionoth.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "O Lord, I have heard the report of you,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and your work, O Lord, do I fear.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of the years revive it;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in the midst of the years make it known;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in wrath remember mercy.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "God came from Teman,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Holy One from Mount Paran. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "His splendor covered the heavens,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the earth was full of his praise.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "His brightness was like the light;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "rays flashed from his hand;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and there he veiled his power.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Before him went pestilence,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and plague followed at his heels.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He stood and measured the earth;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he looked and shook the nations;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "then the eternal mountains were scattered;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the everlasting hills sank low.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "His were the everlasting ways.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I saw the tents of Cushan in affliction;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the curtains of the land of Midian did tremble.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Was your wrath against the rivers, O Lord?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Was your anger against the rivers,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "or your indignation against the sea,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when you rode on your horses,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "on your chariot of salvation?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You stripped the sheath from your bow,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "calling for many arrows. Selah",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You split the earth with rivers.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains saw you and writhed;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the raging waters swept on;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the deep gave forth its voice;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "it lifted its hands on high.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun and moon stood still in their place",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "at the light of your arrows as they sped,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "at the flash of your glittering spear.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You marched through the earth in fury;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "you threshed the nations in anger.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You went out for the salvation of your people,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for the salvation of your anointed.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You crushed the head of the house of the wicked,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "laying him bare from thigh to neck. Selah",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You pierced with his own arrows the heads of his warriors,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "who came like a whirlwind to scatter me,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "rejoicing as if to devour the poor in secret.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You trampled the sea with your horses,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the surging of mighty waters.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I hear, and my body trembles;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my lips quiver at the sound;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "rottenness enters into my bones;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "my legs tremble beneath me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I will quietly wait for the day of trouble",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "to come upon people who invade us.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Habakkuk Rejoices in the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "Though the fig tree should not blossom,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor fruit be on the vines,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the produce of the olive fail",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fields yield no food,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the flock be cut off from the fold",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and there be no herd in the stalls,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "yet I will rejoice in the Lord;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take joy in the God of my salvation.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "God, the Lord, is my strength;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "he makes my feet like the deer's;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "he makes me tread on my high places.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "To the choirmaster: with stringed instruments.",
+      "verse": 19,
+      "type": "poetry newline"
+    }
+  ]
+}

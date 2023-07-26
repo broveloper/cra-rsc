@@ -1,0 +1,137 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 95,
+  "verses": 11,
+  "content": [
+    {
+      "text": "A Call to Worship and Obedience",
+      "type": "heading"
+    },
+    {
+      "text": "Oh come, let us sing to the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let us shout joyfully to the Rock of our salvation.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us come before His presence with thanksgiving;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us shout joyfully to Him with psalms.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is the great God,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And the great King above all gods.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In His hand are the deep places of the earth;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The heights of the hills are His also.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The sea is His, for He made it;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And His hands formed the dry land.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh come, let us worship and bow down;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let us kneel before the Lord our Maker.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For He is our God,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And we are the people of His pasture,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And the sheep of His hand.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Today, if you will hear His voice:",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Do not harden your hearts, as in the rebellion,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "As in the day of trial in the wilderness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "When your fathers tested Me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They tried Me, though they saw My work.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For forty years I was grieved with that generation,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And said, ‘It is a people who go astray in their hearts,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And they do not know My ways.’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "So I swore in My wrath,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "‘They shall not enter My rest.’ ”",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

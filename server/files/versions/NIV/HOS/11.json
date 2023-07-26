@@ -1,0 +1,256 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 11,
+  "verses": 12,
+  "content": [
+    {
+      "text": "God’s Love for Israel",
+      "type": "heading"
+    },
+    {
+      "text": "“When Israel was a child, I loved him,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and out of Egypt I called my son.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But the more they were called,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the more they went away from me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They sacrificed to the Baals",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and they burned incense to images.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "It was I who taught Ephraim to walk,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "taking them by the arms;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "but they did not realize",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "it was I who healed them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I led them with cords of human kindness,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "with ties of love.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To them I was like one who lifts",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "a little child to the cheek,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and I bent down to feed them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Will they not return to Egypt",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and will not Assyria rule over them",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because they refuse to repent?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A sword will flash in their cities;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "it will devour their false prophets",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and put an end to their plans.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My people are determined to turn from me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Even though they call me God Most High,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will by no means exalt them.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“How can I give you up, Ephraim?",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How can I hand you over, Israel?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I treat you like Admah?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I make you like Zeboyim?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart is changed within me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all my compassion is aroused.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not carry out my fierce anger,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will I devastate Ephraim again.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am God, and not a man—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the Holy One among you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not come against their cities.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They will follow the Lord;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he will roar like a lion.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When he roars,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "his children will come trembling from the west.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They will come from Egypt,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "trembling like sparrows,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "from Assyria, fluttering like doves.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will settle them in their homes,”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel’s Sin",
+      "type": "heading"
+    },
+    {
+      "text": "Ephraim has surrounded me with lies,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Israel with deceit.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And Judah is unruly against God,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "even against the faithful Holy One.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

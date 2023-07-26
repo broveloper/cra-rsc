@@ -1,0 +1,246 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 80,
+  "verses": 19,
+  "content": [
+    {
+      "text": "Psalm 80",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. To the tune of “The Lilies of the Covenant.” Of Asaph. A psalm.",
+      "type": "title"
+    },
+    {
+      "text": "Hear us, Shepherd of Israel,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you who lead Joseph like a flock.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You who sit enthroned between the cherubim,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "shine forth",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "before Ephraim, Benjamin and Manasseh.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Awaken your might;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "come and save us.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore us, O God;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make your face shine on us,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may be saved.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, Lord God Almighty,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will your anger smolder",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "against the prayers of your people?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You have fed them with the bread of tears;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you have made them drink tears by the bowlful.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made us an object of derision to our neighbors,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and our enemies mock us.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore us, God Almighty;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make your face shine on us,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may be saved.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You transplanted a vine from Egypt;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you drove out the nations and planted it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You cleared the ground for it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and it took root and filled the land.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains were covered with its shade,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the mighty cedars with its branches.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Its branches reached as far as the Sea,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "its shoots as far as the River.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Why have you broken down its walls",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so that all who pass by pick its grapes?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Boars from the forest ravage it,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and insects from the fields feed on it.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Return to us, God Almighty!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Look down from heaven and see!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Watch over this vine,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "    the root your right hand has planted,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the son you have raised up for yourself.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Your vine is cut down, it is burned with fire;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "at your rebuke your people perish.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your hand rest on the man at your right hand,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the son of man you have raised up for yourself.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then we will not turn away from you;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "revive us, and we will call on your name.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore us, Lord God Almighty;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make your face shine on us,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may be saved.",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

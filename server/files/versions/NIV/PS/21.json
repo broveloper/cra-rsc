@@ -1,0 +1,161 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 21,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Psalm 21",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The king rejoices in your strength, Lord.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How great is his joy in the victories you give!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have granted him his heart’s desire",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and have not withheld the request of his lips.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You came to greet him with rich blessings",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and placed a crown of pure gold on his head.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He asked you for life, and you gave it to him—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "length of days, for ever and ever.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Through the victories you gave, his glory is great;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you have bestowed on him splendor and majesty.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely you have granted him unending blessings",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and made him glad with the joy of your presence.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For the king trusts in the Lord;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "through the unfailing love of the Most High",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he will not be shaken.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Your hand will lay hold on all your enemies;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your right hand will seize your foes.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "When you appear for battle,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you will burn them up as in a blazing furnace.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will swallow them up in his wrath,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and his fire will consume them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You will destroy their descendants from the earth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "their posterity from mankind.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they plot evil against you",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and devise wicked schemes, they cannot succeed.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You will make them turn their backs",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "when you aim at them with drawn bow.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted in your strength, Lord;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "we will sing and praise your might.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

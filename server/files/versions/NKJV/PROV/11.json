@@ -1,0 +1,327 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 11,
+  "verses": 31,
+  "content": [
+    {
+      "text": "The Folly of Wickedness",
+      "type": "heading"
+    },
+    {
+      "text": "Dishonest scales are an abomination to the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a just weight is His delight.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When pride comes, then comes shame;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But with the humble is wisdom.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The integrity of the upright will guide them,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the perversity of the unfaithful will destroy them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Riches do not profit in the day of wrath,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But righteousness delivers from death.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteousness of the blameless will direct his way aright,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wicked will fall by his own wickedness.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteousness of the upright will deliver them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But the unfaithful will be caught by their lust.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When a wicked man dies, his expectation will perish,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the hope of the unjust perishes.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous is delivered from trouble,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And it comes to the wicked instead.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The hypocrite with his mouth destroys his neighbor,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But through knowledge the righteous will be delivered.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "When it goes well with the righteous, the city rejoices;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And when the wicked perish, there is jubilation.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "By the blessing of the upright the city is exalted,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But it is overthrown by the mouth of the wicked.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He who is devoid of wisdom despises his neighbor,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a man of understanding holds his peace.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A talebearer reveals secrets,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who is of a faithful spirit conceals a matter.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Where there is no counsel, the people fall;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But in the multitude of counselors there is safety.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He who is surety for a stranger will suffer,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But one who hates being surety is secure.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A gracious woman retains honor,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But ruthless men retain riches.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The merciful man does good for his own soul,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But he who is cruel troubles his own flesh.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked man does deceptive work,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But he who sows righteousness will have a sure reward.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As righteousness leads to life,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "So he who pursues evil pursues it to his own death.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who are of a perverse heart are an abomination to the Lord,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But the blameless in their ways are His delight.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they join forces, the wicked will not go unpunished;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But the posterity of the righteous will be delivered.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "As a ring of gold in a swine’s snout,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So is a lovely woman who lacks discretion.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The desire of the righteous is only good,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the expectation of the wicked is wrath.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "There is one who scatters, yet increases more;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And there is one who withholds more than is right,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "But it leads to poverty.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The generous soul will be made rich,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And he who waters will also be watered himself.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The people will curse him who withholds grain,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "But blessing will be on the head of him who sells it.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "He who earnestly seeks good finds favor,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But trouble will come to him who seeks evil.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He who trusts in his riches will fall,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the righteous will flourish like foliage.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He who troubles his own house will inherit the wind,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the fool will be servant to the wise of heart.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The fruit of the righteous is a tree of life,",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who wins souls is wise.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "If the righteous will be recompensed on the earth,",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How much more the ungodly and the sinner.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

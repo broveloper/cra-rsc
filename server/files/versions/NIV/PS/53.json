@@ -1,0 +1,121 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 53,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Psalm 53",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. According to mahalath. A maskil of David.",
+      "type": "title"
+    },
+    {
+      "text": "The fool says in his heart,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“There is no God.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They are corrupt, and their ways are vile;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no one who does good.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "God looks down from heaven",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "on all mankind",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to see if there are any who understand,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "any who seek God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone has turned away, all have become corrupt;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no one who does good,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "not even one.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do all these evildoers know nothing?",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They devour my people as though eating bread;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they never call on God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But there they are, overwhelmed with dread,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "where there was nothing to dread.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "God scattered the bones of those who attacked you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you put them to shame, for God despised them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that salvation for Israel would come out of Zion!",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When God restores his people,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "let Jacob rejoice and Israel be glad!",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

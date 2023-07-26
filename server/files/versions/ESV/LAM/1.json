@@ -1,0 +1,682 @@
+{
+  "book_id": "LAM",
+  "book_name": "Lamentations",
+  "chapter": 1,
+  "verses": 22,
+  "content": [
+    {
+      "text": "How Lonely Sits the City",
+      "type": "heading"
+    },
+    {
+      "text": "How lonely sits the city",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that was full of people!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "How like a widow has she become,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "she who was great among the nations!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "She who was a princess among the provinces",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "has become a slave.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "She weeps bitterly in the night,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with tears on her cheeks;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "among all her lovers",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she has none to comfort her;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "all her friends have dealt treacherously with her;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they have become her enemies.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah has gone into exile because of affliction",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and hard servitude;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "she dwells now among the nations,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "but finds no resting place;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "her pursuers have all overtaken her",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "in the midst of her distress.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The roads to Zion mourn,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for none come to the festival;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "all her gates are desolate;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "her priests groan;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "her virgins have been afflicted,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and she herself suffers bitterly.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Her foes have become the head;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "her enemies prosper,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because the Lord has afflicted her",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for the multitude of her transgressions;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "her children have gone away,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "captives before the foe.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "From the daughter of Zion",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all her majesty has departed.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Her princes have become like deer",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that find no pasture;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they fled without strength",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "before the pursuer.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem remembers",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the days of her affliction and wandering",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "all the precious things",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that were hers from days of old.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "When her people fell into the hand of the foe,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and there was none to help her,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "her foes gloated over her;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they mocked at her downfall.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem sinned grievously;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "therefore she became filthy;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all who honored her despise her,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have seen her nakedness;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "she herself groans",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and turns her face away.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Her uncleanness was in her skirts;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she took no thought of her future;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore her fall is terrible;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "she has no comforter.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“O Lord, behold my affliction,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for the enemy has triumphed!”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The enemy has stretched out his hands",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "over all her precious things;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for she has seen the nations",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "enter her sanctuary,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "those whom you forbade",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to enter your congregation.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "All her people groan",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as they search for bread;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they trade their treasures for food",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "to revive their strength.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Look, O Lord, and see,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am despised.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is it nothing to you, all you who pass by?",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Look and see",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "if there is any sorrow like my sorrow,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "which was brought upon me,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "which the Lord inflicted",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "on the day of his fierce anger.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“From on high he sent fire;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "into my bones he made it descend;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he spread a net for my feet;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he turned me back;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he has left me stunned,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "faint all the day long.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“My transgressions were bound into a yoke;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "by his hand they were fastened together;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they were set upon my neck;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "he caused my strength to fail;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord gave me into the hands",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "of those whom I cannot withstand.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord rejected",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all my mighty men in my midst;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he summoned an assembly against me",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "to crush my young men;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord has trodden as in a winepress",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the virgin daughter of Judah.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“For these things I weep;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my eyes flow with tears;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "for a comforter is far from me,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "one to revive my spirit;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "my children are desolate,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "for the enemy has prevailed.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Zion stretches out her hands,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but there is none to comfort her;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord has commanded against Jacob",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "that his neighbors should be his foes;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem has become",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a filthy thing among them.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord is in the right,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I have rebelled against his word;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "but hear, all you peoples,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and see my suffering;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "my young women and my young men",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "have gone into captivity.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“I called to my lovers,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but they deceived me;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "my priests and elders",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "perished in the city,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "while they sought food",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "to revive their strength.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Look, O Lord, for I am in distress;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my stomach churns;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "my heart is wrung within me,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "because I have been very rebellious.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "In the street the sword bereaves;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "in the house it is like death.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“They heard my groaning,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "yet there is no one to comfort me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "All my enemies have heard of my trouble;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "they are glad that you have done it.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "You have brought the day you announced;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "now let them be as I am.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let all their evildoing come before you,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and deal with them",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "as you have dealt with me",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "because of all my transgressions;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "for my groans are many,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and my heart is faint.”",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

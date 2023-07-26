@@ -1,0 +1,277 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 38,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Hezekiah’s Life Extended",
+      "type": "heading"
+    },
+    {
+      "text": "In those days Hezekiah was sick and near death. And Isaiah the prophet, the son of Amoz, went to him and said to him, “Thus says the Lord: ‘Set your house in order, for you shall die and not live.’ ”",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Then Hezekiah turned his face toward the wall, and prayed to the Lord, ",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "and said, “Remember now, O Lord, I pray, how I have walked before You in truth and with a loyal heart, and have done what is good in Your sight.” And Hezekiah wept bitterly.",
+      "verse": 3
+    },
+    {
+      "text": "And the word of the Lord came to Isaiah, saying, ",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“Go and tell Hezekiah, ‘Thus says the Lord, the God of David your father: “I have heard your prayer, I have seen your tears; surely I will add to your days fifteen years. ",
+      "verse": 5
+    },
+    {
+      "text": "I will deliver you and this city from the hand of the king of Assyria, and I will defend this city.” ’ ",
+      "verse": 6
+    },
+    {
+      "text": "And this is the sign to you from the Lord, that the Lord will do this thing which He has spoken: ",
+      "verse": 7
+    },
+    {
+      "text": "Behold, I will bring the shadow on the sundial, which has gone down with the sun on the sundial of Ahaz, ten degrees backward.” So the sun returned ten degrees on the dial by which it had gone down.",
+      "verse": 8
+    },
+    {
+      "text": "This is the writing of Hezekiah king of Judah, when he had been sick and had recovered from his sickness:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "I said,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“In the prime of my life",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall go to the gates of Sheol;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I am deprived of the remainder of my years.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I said,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“I shall not see Yah,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord in the land of the living;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall observe man no more among the inhabitants of the world.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My life span is gone,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Taken from me like a shepherd’s tent;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I have cut off my life like a weaver.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He cuts me off from the loom;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "From day until night You make an end of me.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I have considered until morning—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a lion,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So He breaks all my bones;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "From day until night You make an end of me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a crane or a swallow, so I chattered;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I mourned like a dove;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes fail from looking upward.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, I am oppressed;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Undertake for me!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“What shall I say?",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has both spoken to me,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And He Himself has done it.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall walk carefully all my years",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "In the bitterness of my soul.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, by these things men live;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And in all these things is the life of my spirit;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "So You will restore me and make me live.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed it was for my own peace",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "That I had great bitterness;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But You have lovingly delivered my soul from the pit of corruption,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have cast all my sins behind Your back.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For Sheol cannot thank You,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Death cannot praise You;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who go down to the pit cannot hope for Your truth.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The living, the living man, he shall praise You,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "As I do this day;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The father shall make known Your truth to the children.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord was ready to save me;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore we will sing my songs with stringed instruments",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of our life, in the house of the Lord.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Now Isaiah had said, “Let them take a lump of figs, and apply it as a poultice on the boil, and he shall recover.”",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "And Hezekiah had said, “What is the sign that I shall go up to the house of the Lord?”",
+      "verse": 22,
+      "type": "newline"
+    }
+  ]
+}

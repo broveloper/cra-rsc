@@ -1,0 +1,500 @@
+{
+  "book_id": "ZEPH",
+  "book_name": "Zephaniah",
+  "chapter": 3,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Jerusalem",
+      "type": "title"
+    },
+    {
+      "text": "Woe to the city of oppressors,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "rebellious and defiled!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "She obeys no one,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she accepts no correction.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "She does not trust in the Lord,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she does not draw near to her God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Her officials within her",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "are roaring lions;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "her rulers are evening wolves,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who leave nothing for the morning.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Her prophets are unprincipled;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they are treacherous people.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Her priests profane the sanctuary",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and do violence to the law.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord within her is righteous;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he does no wrong.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Morning by morning he dispenses his justice,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and every new day he does not fail,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "yet the unrighteous know no shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem Remains Unrepentant",
+      "type": "title"
+    },
+    {
+      "text": "“I have destroyed nations;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "their strongholds are demolished.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I have left their streets deserted,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with no one passing through.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Their cities are laid waste;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they are deserted and empty.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Of Jerusalem I thought,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Surely you will fear me",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and accept correction!’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then her place of refuge would not be destroyed,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "nor all my punishments come upon her.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But they were still eager",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to act corruptly in all they did.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore wait for me,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“for the day I will stand up to testify.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I have decided to assemble the nations,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to gather the kingdoms",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and to pour out my wrath on them—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all my fierce anger.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The whole world will be consumed",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "by the fire of my jealous anger.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Restoration of Israel’s Remnant",
+      "type": "heading"
+    },
+    {
+      "text": "“Then I will purify the lips of the peoples,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that all of them may call on the name of the Lord",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and serve him shoulder to shoulder.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "From beyond the rivers of Cush",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "my worshipers, my scattered people,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "will bring me offerings.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "On that day you, Jerusalem, will not be put to shame",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for all the wrongs you have done to me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because I will remove from you",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "your arrogant boasters.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Never again will you be haughty",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "on my holy hill.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will leave within you",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the meek and humble.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The remnant of Israel",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "will trust in the name of the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They will do no wrong;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they will tell no lies.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "A deceitful tongue",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "will not be found in their mouths.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They will eat and lie down",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and no one will make them afraid.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing, Daughter Zion;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "shout aloud, Israel!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Be glad and rejoice with all your heart,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Daughter Jerusalem!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has taken away your punishment,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he has turned back your enemy.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord, the King of Israel, is with you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "never again will you fear any harm.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "On that day",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they will say to Jerusalem,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Do not fear, Zion;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "do not let your hands hang limp.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord your God is with you,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the Mighty Warrior who saves.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He will take great delight in you;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "in his love he will no longer rebuke you,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "but will rejoice over you with singing.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will remove from you",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all who mourn over the loss of your appointed festivals,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "which is a burden and reproach for you.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "At that time I will deal",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "with all who oppressed you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I will rescue the lame;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I will gather the exiles.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give them praise and honor",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "in every land where they have suffered shame.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "At that time I will gather you;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "at that time I will bring you home.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give you honor and praise",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "among all the peoples of the earth",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "when I restore your fortunes",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "before your very eyes,”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

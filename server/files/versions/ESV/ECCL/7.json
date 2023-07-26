@@ -1,0 +1,228 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 7,
+  "verses": 29,
+  "content": [
+    {
+      "text": "The Contrast of Wisdom and Folly",
+      "type": "heading"
+    },
+    {
+      "text": "A good name is better than precious ointment,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the day of death than the day of birth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "It is better to go to the house of mourning",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "than to go to the house of feasting,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for this is the end of all mankind,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the living will lay it to heart.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Sorrow is better than laughter,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for by sadness of face the heart is made glad.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The heart of the wise is in the house of mourning,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but the heart of fools is in the house of mirth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "It is better for a man to hear the rebuke of the wise",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "than to hear the song of fools.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For as the crackling of thorns under a pot,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "so is the laughter of the fools;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "this also is vanity.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely oppression drives the wise into madness,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and a bribe corrupts the heart.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Better is the end of a thing than its beginning,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the patient in spirit is better than the proud in spirit.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Be not quick in your spirit to become angry,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for anger lodges in the heart of fools.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Say not, “Why were the former days better than these?”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is not from wisdom that you ask this.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom is good with an inheritance,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "an advantage to those who see the sun.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For the protection of wisdom is like the protection of money,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the advantage of knowledge is that wisdom preserves the life of him who has it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Consider the work of God:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who can make straight what he has made crooked?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of prosperity be joyful, and in the day of adversity consider: God has made the one as well as the other, so that man may not find out anything that will be after him.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "In my vain life I have seen everything. There is a righteous man who perishes in his righteousness, and there is a wicked man who prolongs his life in his evildoing.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Be not overly righteous, and do not make yourself too wise. Why should you destroy yourself?",
+      "verse": 16
+    },
+    {
+      "text": "Be not overly wicked, neither be a fool. Why should you die before your time?",
+      "verse": 17
+    },
+    {
+      "text": "It is good that you should take hold of this, and from that withhold not your hand, for the one who fears God shall come out from both of them.",
+      "verse": 18
+    },
+    {
+      "text": "Wisdom gives strength to the wise man more than ten rulers who are in a city.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Surely there is not a righteous man on earth who does good and never sins.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Do not take to heart all the things that people say, lest you hear your servant cursing you.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Your heart knows that many times you yourself have cursed others.",
+      "verse": 22
+    },
+    {
+      "text": "All this I have tested by wisdom. I said, “I will be wise,” but it was far from me.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "That which has been is far off, and deep, very deep; who can find it out?",
+      "verse": 24
+    },
+    {
+      "text": "I turned my heart to know and to search out and to seek wisdom and the scheme of things, and to know the wickedness of folly and the foolishness that is madness.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "And I find something more bitter than death: the woman whose heart is snares and nets, and whose hands are fetters. He who pleases God escapes her, but the sinner is taken by her.",
+      "verse": 26
+    },
+    {
+      "text": "Behold, this is what I found, says the Preacher, while adding one thing to another to find the scheme of things—",
+      "verse": 27
+    },
+    {
+      "text": "which my soul has sought repeatedly, but I have not found. One man among a thousand I found, but a woman among all these I have not found.",
+      "verse": 28
+    },
+    {
+      "text": "See, this alone I found, that God made man upright, but they have sought out many schemes.",
+      "verse": 29
+    }
+  ]
+}

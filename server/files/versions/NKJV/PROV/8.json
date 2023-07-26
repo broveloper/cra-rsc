@@ -1,0 +1,392 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 8,
+  "verses": 36,
+  "content": [
+    {
+      "text": "The Excellence of Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "Does not wisdom cry out,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And understanding lift up her voice?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "She takes her stand on the top of the high hill,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Beside the way, where the paths meet.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "She cries out by the gates, at the entry of the city,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "At the entrance of the doors:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“To you, O men, I call,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And my voice is to the sons of men.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "O you simple ones, understand prudence,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And you fools, be of an understanding heart.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen, for I will speak of excellent things,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And from the opening of my lips will come right things;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For my mouth will speak truth;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Wickedness is an abomination to my lips.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All the words of my mouth are with righteousness;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Nothing crooked or perverse is in them.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They are all plain to him who understands,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And right to those who find knowledge.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Receive my instruction, and not silver,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And knowledge rather than choice gold;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For wisdom is better than rubies,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And all the things one may desire cannot be compared with her.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“I, wisdom, dwell with prudence,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And find out knowledge and discretion.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is to hate evil;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Pride and arrogance and the evil way",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And the perverse mouth I hate.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Counsel is mine, and sound wisdom;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I am understanding, I have strength.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "By me kings reign,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And rulers decree justice.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "By me princes rule, and nobles,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "All the judges of the earth.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I love those who love me,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who seek me diligently will find me.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Riches and honor are with me,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Enduring riches and righteousness.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "My fruit is better than gold, yes, than fine gold,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And my revenue than choice silver.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I traverse the way of righteousness,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of the paths of justice,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may cause those who love me to inherit wealth,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may fill their treasuries.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord possessed me at the beginning of His way,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Before His works of old.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I have been established from everlasting,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "From the beginning, before there was ever an earth.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "When there were no depths I was brought forth,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "When there were no fountains abounding with water.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the mountains were settled,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the hills, I was brought forth;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "While as yet He had not made the earth or the fields,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Or the primal dust of the world.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "When He prepared the heavens, I was there,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "When He drew a circle on the face of the deep,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "When He established the clouds above,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "When He strengthened the fountains of the deep,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "When He assigned to the sea its limit,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "So that the waters would not transgress His command,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "When He marked out the foundations of the earth,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I was beside Him as a master craftsman;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And I was daily His delight,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoicing always before Him,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoicing in His inhabited world,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And my delight was with the sons of men.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "“Now therefore, listen to me, my children,",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For blessed are those who keep my ways.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear instruction and be wise,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not disdain it.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man who listens to me,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Watching daily at my gates,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Waiting at the posts of my doors.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "For whoever finds me finds life,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "And obtains favor from the Lord;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "But he who sins against me wrongs his own soul;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "All those who hate me love death.”",
+      "verse": 36,
+      "type": "poetry"
+    }
+  ]
+}

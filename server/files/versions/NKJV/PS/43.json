@@ -1,0 +1,107 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 43,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Prayer to God in Time of Trouble",
+      "type": "heading"
+    },
+    {
+      "text": "Vindicate me, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And plead my cause against an ungodly nation;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, deliver me from the deceitful and unjust man!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For You are the God of my strength;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do You cast me off?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do I go mourning because of the oppression of the enemy?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, send out Your light and Your truth!",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let them lead me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them bring me to Your holy hill",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And to Your tabernacle.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will go to the altar of God,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To God my exceeding joy;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And on the harp I will praise You,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, my God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are you cast down, O my soul?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And why are you disquieted within me?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Hope in God;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For I shall yet praise Him,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The help of my countenance and my God.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

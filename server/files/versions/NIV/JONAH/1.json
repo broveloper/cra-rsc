@@ -1,0 +1,99 @@
+{
+  "book_id": "JONAH",
+  "book_name": "Jonah",
+  "chapter": 1,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Jonah Flees From the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came to Jonah son of Amittai:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.”",
+      "verse": 2
+    },
+    {
+      "text": "But Jonah ran away from the Lord and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the Lord.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "All the sailors were afraid and each cried out to his own god. And they threw the cargo into the sea to lighten the ship.",
+      "verse": 5
+    },
+    {
+      "text": "But Jonah had gone below deck, where he lay down and fell into a deep sleep.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "The captain went to him and said, “How can you sleep? Get up and call on your god! Maybe he will take notice of us so that we will not perish.”",
+      "verse": 6
+    },
+    {
+      "text": "Then the sailors said to each other, “Come, let us cast lots to find out who is responsible for this calamity.” They cast lots and the lot fell on Jonah.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "So they asked him, “Tell us, who is responsible for making all this trouble for us? What kind of work do you do? Where do you come from? What is your country? From what people are you?”",
+      "verse": 8
+    },
+    {
+      "text": "He answered, “I am a Hebrew and I worship the Lord, the God of heaven, who made the sea and the dry land.”",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "This terrified them and they asked, “What have you done?” (They knew he was running away from the Lord, because he had already told them so.)",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "The sea was getting rougher and rougher. So they asked him, “What should we do to you to make the sea calm down for us?”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“Pick me up and throw me into the sea,” he replied, “and it will become calm. I know that it is my fault that this great storm has come upon you.”",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Instead, the men did their best to row back to land. But they could not, for the sea grew even wilder than before.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Then they cried out to the Lord, “Please, Lord, do not let us die for taking this man’s life. Do not hold us accountable for killing an innocent man, for you, Lord, have done as you pleased.”",
+      "verse": 14
+    },
+    {
+      "text": "Then they took Jonah and threw him overboard, and the raging sea grew calm.",
+      "verse": 15
+    },
+    {
+      "text": "At this the men greatly feared the Lord, and they offered a sacrifice to the Lord and made vows to him.",
+      "verse": 16
+    },
+    {
+      "text": "Jonah’s Prayer",
+      "type": "heading"
+    },
+    {
+      "text": "Now the Lord provided a huge fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.",
+      "verse": 17,
+      "type": "newline"
+    }
+  ]
+}

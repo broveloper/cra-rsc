@@ -1,0 +1,397 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 13,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Judgment of Babylon",
+      "type": "heading"
+    },
+    {
+      "text": "The oracle concerning Babylon which Isaiah the son of Amoz saw.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "On a bare hill raise a signal;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "cry aloud to them;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "wave the hand for them to enter",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the gates of the nobles.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I myself have commanded my consecrated ones,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and have summoned my mighty men to execute my anger,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my proudly exulting ones.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The sound of a tumult is on the mountains",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as of a great multitude!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The sound of an uproar of kingdoms,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "of nations gathering together!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord of hosts is mustering",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "a host for battle.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They come from a distant land,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "from the end of the heavens,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord and the weapons of his indignation,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "to destroy the whole land.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Wail, for the day of the Lord is near;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as destruction from the Almighty it will come!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore all hands will be feeble,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and every human heart will melt.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be dismayed:",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "pangs and agony will seize them;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be in anguish like a woman in labor.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They will look aghast at one another;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "their faces will be aflame.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the day of the Lord comes,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "cruel, with wrath and fierce anger,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to make the land a desolation",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and to destroy its sinners from it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the stars of the heavens and their constellations",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "will not give their light;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the sun will be dark at its rising,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the moon will not shed its light.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will punish the world for its evil,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and the wicked for their iniquity;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put an end to the pomp of the arrogant,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay low the pompous pride of the ruthless.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make people more rare than fine gold,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and mankind than the gold of Ophir.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will make the heavens tremble,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and the earth will be shaken out of its place,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "at the wrath of the Lord of hosts",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "in the day of his fierce anger.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And like a hunted gazelle,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "or like sheep with none to gather them,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "each will turn to his own people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and each will flee to his own land.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever is found will be thrust through,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and whoever is caught will fall by the sword.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Their infants will be dashed in pieces",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "before their eyes;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "their houses will be plundered",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and their wives ravished.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I am stirring up the Medes against them,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who have no regard for silver",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not delight in gold.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Their bows will slaughter the young men;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "they will have no mercy on the fruit of the womb;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "their eyes will not pity children.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And Babylon, the glory of kingdoms,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the splendor and pomp of the Chaldeans,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "will be like Sodom and Gomorrah",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "when God overthrew them.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "It will never be inhabited",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "or lived in for all generations;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "no Arab will pitch his tent there;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "no shepherds will make their flocks lie down there.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But wild animals will lie down there,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and their houses will be full of howling creatures;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "there ostriches will dwell,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and there wild goats will dance.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Hyenas will cry in its towers,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and jackals in the pleasant palaces;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "its time is close at hand",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and its days will not be prolonged.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

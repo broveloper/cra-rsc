@@ -1,0 +1,391 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 2,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Mountain of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "This is what Isaiah son of Amoz saw concerning Judah and Jerusalem:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "In the last days",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "the mountain of the Lord’s temple will be established",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as the highest of the mountains;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "it will be exalted above the hills,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and all nations will stream to it.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Many peoples will come and say,",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“Come, let us go up to the mountain of the Lord,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to the temple of the God of Jacob.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He will teach us his ways,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "so that we may walk in his paths.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The law will go out from Zion,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the word of the Lord from Jerusalem.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He will judge between the nations",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and will settle disputes for many peoples.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They will beat their swords into plowshares",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and their spears into pruning hooks.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Nation will not take up sword against nation,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will they train for war anymore.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, descendants of Jacob,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let us walk in the light of the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Day of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "You, Lord, have abandoned your people,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the descendants of Jacob.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They are full of superstitions from the East;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they practice divination like the Philistines",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and embrace pagan customs.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Their land is full of silver and gold;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no end to their treasures.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their land is full of horses;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no end to their chariots.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their land is full of idols;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they bow down to the work of their hands,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to what their fingers have made.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "So people will be brought low",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and everyone humbled—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "do not forgive them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Go into the rocks, hide in the ground",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from the fearful presence of the Lord",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the splendor of his majesty!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The eyes of the arrogant will be humbled",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and human pride brought low;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord alone will be exalted in that day.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Almighty has a day in store",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for all the proud and lofty,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for all that is exalted",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "(and they will be humbled),",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for all the cedars of Lebanon, tall and lofty,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the oaks of Bashan,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for all the towering mountains",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the high hills,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for every lofty tower",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and every fortified wall,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for every trading ship",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and every stately vessel.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The arrogance of man will be brought low",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and human pride humbled;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord alone will be exalted in that day,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "    and the idols will totally disappear.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "People will flee to caves in the rocks",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and to holes in the ground",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "from the fearful presence of the Lord",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and the splendor of his majesty,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "when he rises to shake the earth.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day people will throw away",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to the moles and bats",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "their idols of silver and idols of gold,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "which they made to worship.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They will flee to caverns in the rocks",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and to the overhanging crags",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "from the fearful presence of the Lord",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and the splendor of his majesty,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "when he rises to shake the earth.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Stop trusting in mere humans,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who have but a breath in their nostrils.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Why hold them in esteem?",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

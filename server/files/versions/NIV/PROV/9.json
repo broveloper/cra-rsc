@@ -1,0 +1,192 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 9,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Invitations of Wisdom and Folly",
+      "type": "heading"
+    },
+    {
+      "text": "Wisdom has built her house;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she has set up its seven pillars.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "She has prepared her meat and mixed her wine;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she has also set her table.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "She has sent out her servants, and she calls",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "from the highest point of the city,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "    “Let all who are simple come to my house!”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To those who have no sense she says,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "    “Come, eat my food",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and drink the wine I have mixed.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Leave your simple ways and you will live;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "walk in the way of insight.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever corrects a mocker invites insults;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whoever rebukes the wicked incurs abuse.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not rebuke mockers or they will hate you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "rebuke the wise and they will love you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Instruct the wise and they will be wiser still;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "teach the righteous and they will add to their learning.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is the beginning of wisdom,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and knowledge of the Holy One is understanding.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For through wisdom your days will be many,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and years will be added to your life.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If you are wise, your wisdom will reward you;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "if you are a mocker, you alone will suffer.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Folly is an unruly woman;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she is simple and knows nothing.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "She sits at the door of her house,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "on a seat at the highest point of the city,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "calling out to those who pass by,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who go straight on their way,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "    “Let all who are simple come to my house!”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "To those who have no sense she says,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "    “Stolen water is sweet;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "food eaten in secret is delicious!”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But little do they know that the dead are there,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "that her guests are deep in the realm of the dead.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

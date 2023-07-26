@@ -1,0 +1,305 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 2,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Judgment on Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of Moab, and for four,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he burned the bones of the king of Edom to lime.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will send a fire upon Moab,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall devour the palaces of Kerioth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab shall die with tumult,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "With shouting and trumpet sound.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will cut off the judge from its midst,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And slay all its princes with him,”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Judah",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of Judah, and for four,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they have despised the law of the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And have not kept His commandments.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Their lies lead them astray,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Lies which their fathers followed.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will send a fire upon Judah,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall devour the palaces of Jerusalem.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of Israel, and for four,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they sell the righteous for silver,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the poor for a pair of sandals.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They pant after the dust of the earth which is on the head of the poor,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And pervert the way of the humble.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A man and his father go in to the same girl,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To defile My holy name.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They lie down by every altar on clothes taken in pledge,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And drink the wine of the condemned in the house of their god.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet it was I who destroyed the Amorite before them,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whose height was like the height of the cedars,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And he was as strong as the oaks;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I destroyed his fruit above",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And his roots beneath.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Also it was I who brought you up from the land of Egypt,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And led you forty years through the wilderness,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "To possess the land of the Amorite.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I raised up some of your sons as prophets,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And some of your young men as Nazirites.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not so, O you children of Israel?”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“But you gave the Nazirites wine to drink,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And commanded the prophets saying,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Do not prophesy!’",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I am weighed down by you,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As a cart full of sheaves is weighed down.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore flight shall perish from the swift,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The strong shall not strengthen his power,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall the mighty deliver himself;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall not stand who handles the bow,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The swift of foot shall not escape,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall he who rides a horse deliver himself.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The most courageous men of might",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall flee naked in that day,”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

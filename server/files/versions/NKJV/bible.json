@@ -1,0 +1,403 @@
+{
+  "id": "NKJV",
+  "name": "New King James Version",
+  "copyright": "Scripture taken from the New King James Version®.\nCopyright © 1982 by Thomas Nelson. Used by permission.\nAll rights reserved.",
+  "books": {
+    "Genesis": {
+      "book_id": "GEN",
+      "book_name": "Genesis",
+      "chapters": 50,
+      "testament": "OT"
+    },
+    "Exodus": {
+      "book_id": "EXOD",
+      "book_name": "Exodus",
+      "chapters": 40,
+      "testament": "OT"
+    },
+    "Leviticus": {
+      "book_id": "LEV",
+      "book_name": "Leviticus",
+      "chapters": 27,
+      "testament": "OT"
+    },
+    "Numbers": {
+      "book_id": "NUM",
+      "book_name": "Numbers",
+      "chapters": 36,
+      "testament": "OT"
+    },
+    "Deuteronomy": {
+      "book_id": "DEUT",
+      "book_name": "Deuteronomy",
+      "chapters": 34,
+      "testament": "OT"
+    },
+    "Joshua": {
+      "book_id": "JOSH",
+      "book_name": "Joshua",
+      "chapters": 24,
+      "testament": "OT"
+    },
+    "Judges": {
+      "book_id": "JUDG",
+      "book_name": "Judges",
+      "chapters": 21,
+      "testament": "OT"
+    },
+    "Ruth": {
+      "book_id": "RUTH",
+      "book_name": "Ruth",
+      "chapters": 4,
+      "testament": "OT"
+    },
+    "1 Samuel": {
+      "book_id": "1SAM",
+      "book_name": "1 Samuel",
+      "chapters": 31,
+      "testament": "OT"
+    },
+    "2 Samuel": {
+      "book_id": "2SAM",
+      "book_name": "2 Samuel",
+      "chapters": 24,
+      "testament": "OT"
+    },
+    "1 Kings": {
+      "book_id": "1KGS",
+      "book_name": "1 Kings",
+      "chapters": 22,
+      "testament": "OT"
+    },
+    "2 Kings": {
+      "book_id": "2KGS",
+      "book_name": "2 Kings",
+      "chapters": 25,
+      "testament": "OT"
+    },
+    "1 Chronicles": {
+      "book_id": "1CHR",
+      "book_name": "1 Chronicles",
+      "chapters": 29,
+      "testament": "OT"
+    },
+    "2 Chronicles": {
+      "book_id": "2CHR",
+      "book_name": "2 Chronicles",
+      "chapters": 36,
+      "testament": "OT"
+    },
+    "Ezra": {
+      "book_id": "EZRA",
+      "book_name": "Ezra",
+      "chapters": 10,
+      "testament": "OT"
+    },
+    "Nehemiah": {
+      "book_id": "NEH",
+      "book_name": "Nehemiah",
+      "chapters": 13,
+      "testament": "OT"
+    },
+    "Esther": {
+      "book_id": "ESTH",
+      "book_name": "Esther",
+      "chapters": 10,
+      "testament": "OT"
+    },
+    "Job": {
+      "book_id": "JOB",
+      "book_name": "Job",
+      "chapters": 42,
+      "testament": "OT"
+    },
+    "Psalm": {
+      "book_id": "PS",
+      "book_name": "Psalm",
+      "chapters": 150,
+      "testament": "OT"
+    },
+    "Proverbs": {
+      "book_id": "PROV",
+      "book_name": "Proverbs",
+      "chapters": 31,
+      "testament": "OT"
+    },
+    "Ecclesiastes": {
+      "book_id": "ECCL",
+      "book_name": "Ecclesiastes",
+      "chapters": 12,
+      "testament": "OT"
+    },
+    "Song of Solomon": {
+      "book_id": "SONG",
+      "book_name": "Song of Solomon",
+      "chapters": 8,
+      "testament": "OT"
+    },
+    "Isaiah": {
+      "book_id": "ISA",
+      "book_name": "Isaiah",
+      "chapters": 66,
+      "testament": "OT"
+    },
+    "Jeremiah": {
+      "book_id": "JER",
+      "book_name": "Jeremiah",
+      "chapters": 52,
+      "testament": "OT"
+    },
+    "Lamentations": {
+      "book_id": "LAM",
+      "book_name": "Lamentations",
+      "chapters": 5,
+      "testament": "OT"
+    },
+    "Ezekiel": {
+      "book_id": "EZEK",
+      "book_name": "Ezekiel",
+      "chapters": 48,
+      "testament": "OT"
+    },
+    "Daniel": {
+      "book_id": "DAN",
+      "book_name": "Daniel",
+      "chapters": 12,
+      "testament": "OT"
+    },
+    "Hosea": {
+      "book_id": "HOS",
+      "book_name": "Hosea",
+      "chapters": 14,
+      "testament": "OT"
+    },
+    "Joel": {
+      "book_id": "JOEL",
+      "book_name": "Joel",
+      "chapters": 3,
+      "testament": "OT"
+    },
+    "Amos": {
+      "book_id": "AMOS",
+      "book_name": "Amos",
+      "chapters": 9,
+      "testament": "OT"
+    },
+    "Obadiah": {
+      "book_id": "OBAD",
+      "book_name": "Obadiah",
+      "chapters": 1,
+      "testament": "OT"
+    },
+    "Jonah": {
+      "book_id": "JONAH",
+      "book_name": "Jonah",
+      "chapters": 4,
+      "testament": "OT"
+    },
+    "Micah": {
+      "book_id": "MIC",
+      "book_name": "Micah",
+      "chapters": 7,
+      "testament": "OT"
+    },
+    "Nahum": {
+      "book_id": "NAH",
+      "book_name": "Nahum",
+      "chapters": 3,
+      "testament": "OT"
+    },
+    "Habakkuk": {
+      "book_id": "HAB",
+      "book_name": "Habakkuk",
+      "chapters": 3,
+      "testament": "OT"
+    },
+    "Zephaniah": {
+      "book_id": "ZEPH",
+      "book_name": "Zephaniah",
+      "chapters": 3,
+      "testament": "OT"
+    },
+    "Haggai": {
+      "book_id": "HAG",
+      "book_name": "Haggai",
+      "chapters": 2,
+      "testament": "OT"
+    },
+    "Zechariah": {
+      "book_id": "ZECH",
+      "book_name": "Zechariah",
+      "chapters": 14,
+      "testament": "OT"
+    },
+    "Malachi": {
+      "book_id": "MAL",
+      "book_name": "Malachi",
+      "chapters": 4,
+      "testament": "OT"
+    },
+    "Matthew": {
+      "book_id": "MATT",
+      "book_name": "Matthew",
+      "chapters": 28,
+      "testament": "NT"
+    },
+    "Mark": {
+      "book_id": "MARK",
+      "book_name": "Mark",
+      "chapters": 16,
+      "testament": "NT"
+    },
+    "Luke": {
+      "book_id": "LUKE",
+      "book_name": "Luke",
+      "chapters": 24,
+      "testament": "NT"
+    },
+    "John": {
+      "book_id": "JOHN",
+      "book_name": "John",
+      "chapters": 21,
+      "testament": "NT"
+    },
+    "Acts": {
+      "book_id": "ACTS",
+      "book_name": "Acts",
+      "chapters": 28,
+      "testament": "NT"
+    },
+    "Romans": {
+      "book_id": "ROM",
+      "book_name": "Romans",
+      "chapters": 16,
+      "testament": "NT"
+    },
+    "1 Corinthians": {
+      "book_id": "1COR",
+      "book_name": "1 Corinthians",
+      "chapters": 16,
+      "testament": "NT"
+    },
+    "2 Corinthians": {
+      "book_id": "2COR",
+      "book_name": "2 Corinthians",
+      "chapters": 13,
+      "testament": "NT"
+    },
+    "Galatians": {
+      "book_id": "GAL",
+      "book_name": "Galatians",
+      "chapters": 6,
+      "testament": "NT"
+    },
+    "Ephesians": {
+      "book_id": "EPH",
+      "book_name": "Ephesians",
+      "chapters": 6,
+      "testament": "NT"
+    },
+    "Philippians": {
+      "book_id": "PHIL",
+      "book_name": "Philippians",
+      "chapters": 4,
+      "testament": "NT"
+    },
+    "Colossians": {
+      "book_id": "COL",
+      "book_name": "Colossians",
+      "chapters": 4,
+      "testament": "NT"
+    },
+    "1 Thessalonians": {
+      "book_id": "1THESS",
+      "book_name": "1 Thessalonians",
+      "chapters": 5,
+      "testament": "NT"
+    },
+    "2 Thessalonians": {
+      "book_id": "2THESS",
+      "book_name": "2 Thessalonians",
+      "chapters": 3,
+      "testament": "NT"
+    },
+    "1 Timothy": {
+      "book_id": "1TIM",
+      "book_name": "1 Timothy",
+      "chapters": 6,
+      "testament": "NT"
+    },
+    "2 Timothy": {
+      "book_id": "2TIM",
+      "book_name": "2 Timothy",
+      "chapters": 4,
+      "testament": "NT"
+    },
+    "Titus": {
+      "book_id": "TITUS",
+      "book_name": "Titus",
+      "chapters": 3,
+      "testament": "NT"
+    },
+    "Philemon": {
+      "book_id": "PHLM",
+      "book_name": "Philemon",
+      "chapters": 1,
+      "testament": "NT"
+    },
+    "Hebrews": {
+      "book_id": "HEB",
+      "book_name": "Hebrews",
+      "chapters": 13,
+      "testament": "NT"
+    },
+    "James": {
+      "book_id": "JAS",
+      "book_name": "James",
+      "chapters": 5,
+      "testament": "NT"
+    },
+    "1 Peter": {
+      "book_id": "1PET",
+      "book_name": "1 Peter",
+      "chapters": 5,
+      "testament": "NT"
+    },
+    "2 Peter": {
+      "book_id": "2PET",
+      "book_name": "2 Peter",
+      "chapters": 3,
+      "testament": "NT"
+    },
+    "1 John": {
+      "book_id": "1JOHN",
+      "book_name": "1 John",
+      "chapters": 5,
+      "testament": "NT"
+    },
+    "2 John": {
+      "book_id": "2JOHN",
+      "book_name": "2 John",
+      "chapters": 1,
+      "testament": "NT"
+    },
+    "3 John": {
+      "book_id": "3JOHN",
+      "book_name": "3 John",
+      "chapters": 1,
+      "testament": "NT"
+    },
+    "Jude": {
+      "book_id": "JUDE",
+      "book_name": "Jude",
+      "chapters": 1,
+      "testament": "NT"
+    },
+    "Revelation": {
+      "book_id": "REV",
+      "book_name": "Revelation",
+      "chapters": 22,
+      "testament": "NT"
+    }
+  }
+}

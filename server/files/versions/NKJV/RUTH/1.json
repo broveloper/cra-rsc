@@ -1,0 +1,165 @@
+{
+  "book_id": "RUTH",
+  "book_name": "Ruth",
+  "chapter": 1,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Elimelech’s Family Goes to Moab",
+      "type": "heading"
+    },
+    {
+      "text": "Now it came to pass, in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehem, Judah, went to dwell in the country of Moab, he and his wife and his two sons. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "The name of the man was Elimelech, the name of his wife was Naomi, and the names of his two sons were Mahlon and Chilion—Ephrathites of Bethlehem, Judah. And they went to the country of Moab and remained there. ",
+      "verse": 2
+    },
+    {
+      "text": "Then Elimelech, Naomi’s husband, died; and she was left, and her two sons. ",
+      "verse": 3
+    },
+    {
+      "text": "Now they took wives of the women of Moab: the name of the one was Orpah, and the name of the other Ruth. And they dwelt there about ten years. ",
+      "verse": 4
+    },
+    {
+      "text": "Then both Mahlon and Chilion also died; so the woman survived her two sons and her husband.",
+      "verse": 5
+    },
+    {
+      "text": "Naomi Returns with Ruth",
+      "type": "heading"
+    },
+    {
+      "text": "Then she arose with her daughters-in-law that she might return from the country of Moab, for she had heard in the country of Moab that the Lord had visited His people by giving them bread. ",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore she went out from the place where she was, and her two daughters-in-law with her; and they went on the way to return to the land of Judah. ",
+      "verse": 7
+    },
+    {
+      "text": "And Naomi said to her two daughters-in-law, “Go, return each to her mother’s house. The Lord deal kindly with you, as you have dealt with the dead and with me. ",
+      "verse": 8
+    },
+    {
+      "text": "The Lord grant that you may find rest, each in the house of her husband.”",
+      "verse": 9
+    },
+    {
+      "text": "So she kissed them, and they lifted up their voices and wept. ",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And they said to her, “Surely we will return with you to your people.”",
+      "verse": 10
+    },
+    {
+      "text": "But Naomi said, “Turn back, my daughters; why will you go with me? Are there still sons in my womb, that they may be your husbands? ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Turn back, my daughters, go—for I am too old to have a husband. If I should say I have hope, if I should have a husband tonight and should also bear sons, ",
+      "verse": 12
+    },
+    {
+      "text": "would you wait for them till they were grown? Would you restrain yourselves from having husbands? No, my daughters; for it grieves me very much for your sakes that the hand of the Lord has gone out against me!”",
+      "verse": 13
+    },
+    {
+      "text": "Then they lifted up their voices and wept again; and Orpah kissed her mother-in-law, but Ruth clung to her.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "And she said, “Look, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law.”",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "But Ruth said:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“Entreat me not to leave you,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or to turn back from following after you;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For wherever you go, I will go;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And wherever you lodge, I will lodge;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Your people shall be my people,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And your God, my God.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Where you die, I will die,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And there will I be buried.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord do so to me, and more also,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "If anything but death parts you and me.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When she saw that she was determined to go with her, she stopped speaking to her.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Now the two of them went until they came to Bethlehem. And it happened, when they had come to Bethlehem, that all the city was excited because of them; and the women said, “Is this Naomi?”",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "But she said to them, “Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me. ",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "I went out full, and the Lord has brought me home again empty. Why do you call me Naomi, since the Lord has testified against me, and the Almighty has afflicted me?”",
+      "verse": 21
+    },
+    {
+      "text": "So Naomi returned, and Ruth the Moabitess her daughter-in-law with her, who returned from the country of Moab. Now they came to Bethlehem at the beginning of barley harvest.",
+      "verse": 22,
+      "type": "newline"
+    }
+  ]
+}

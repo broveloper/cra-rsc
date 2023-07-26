@@ -1,0 +1,232 @@
+{
+  "book_id": "LAM",
+  "book_name": "Lamentations",
+  "chapter": 5,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Prayer for Restoration",
+      "type": "heading"
+    },
+    {
+      "text": "Remember, O Lord, what has come upon us;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Look, and behold our reproach!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Our inheritance has been turned over to aliens,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And our houses to foreigners.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "We have become orphans and waifs,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Our mothers are like widows.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "We pay for the water we drink,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And our wood comes at a price.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They pursue at our heels;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "We labor and have no rest.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "We have given our hand to the Egyptians",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Assyrians, to be satisfied with bread.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Our fathers sinned and are no more,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But we bear their iniquities.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Servants rule over us;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "There is none to deliver us from their hand.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "We get our bread at the risk of our lives,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the sword in the wilderness.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Our skin is hot as an oven,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because of the fever of famine.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They ravished the women in Zion,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The maidens in the cities of Judah.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Princes were hung up by their hands,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And elders were not respected.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Young men ground at the millstones;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Boys staggered under loads of wood.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The elders have ceased gathering at the gate,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And the young men from their music.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The joy of our heart has ceased;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Our dance has turned into mourning.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The crown has fallen from our head.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to us, for we have sinned!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of this our heart is faint;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of these things our eyes grow dim;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of Mount Zion which is desolate,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "With foxes walking about on it.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You, O Lord, remain forever;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your throne from generation to generation.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do You forget us forever,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And forsake us for so long a time?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn us back to You, O Lord, and we will be restored;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Renew our days as of old,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless You have utterly rejected us,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And are very angry with us!",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

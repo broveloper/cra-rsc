@@ -1,0 +1,272 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 62,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Assurance of Zion’s Salvation",
+      "type": "heading"
+    },
+    {
+      "text": "For Zion’s sake I will not hold My peace,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And for Jerusalem’s sake I will not rest,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Until her righteousness goes forth as brightness,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And her salvation as a lamp that burns.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Gentiles shall see your righteousness,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And all kings your glory.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall be called by a new name,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Which the mouth of the Lord will name.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall also be a crown of glory",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the hand of the Lord,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And a royal diadem",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the hand of your God.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall no longer be termed Forsaken,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall your land any more be termed Desolate;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But you shall be called Hephzibah, and your land Beulah;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord delights in you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And your land shall be married.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For as a young man marries a virgin,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall your sons marry you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And as the bridegroom rejoices over the bride,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall your God rejoice over you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I have set watchmen on your walls, O Jerusalem;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They shall never hold their peace day or night.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You who make mention of the Lord, do not keep silent,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And give Him no rest till He establishes",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And till He makes Jerusalem a praise in the earth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has sworn by His right hand",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And by the arm of His strength:",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely I will no longer give your grain",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "As food for your enemies;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the sons of the foreigner shall not drink your new wine,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For which you have labored.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But those who have gathered it shall eat it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And praise the Lord;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who have brought it together shall drink it in My holy courts.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Go through,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Go through the gates!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Prepare the way for the people;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Build up,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Build up the highway!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Take out the stones,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up a banner for the peoples!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed the Lord has proclaimed",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To the end of the world:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Say to the daughter of Zion,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Surely your salvation is coming;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, His reward is with Him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And His work before Him.’ ”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall call them The Holy People,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Redeemed of the Lord;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall be called Sought Out,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A City Not Forsaken.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

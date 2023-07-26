@@ -1,0 +1,231 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 49,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Why Should I Fear in Times of Trouble?",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of the Sons of Korah.",
+      "type": "title"
+    },
+    {
+      "text": "Hear this, all peoples!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Give ear, all inhabitants of the world,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "both low and high,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "rich and poor together!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My mouth shall speak wisdom;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the meditation of my heart shall be understanding.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will incline my ear to a proverb;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will solve my riddle to the music of the lyre.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should I fear in times of trouble,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when the iniquity of those who cheat me surrounds me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "those who trust in their wealth",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and boast of the abundance of their riches?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Truly no man can ransom another,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "or give to God the price of his life,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for the ransom of their life is costly",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and can never suffice,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "that he should live on forever",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and never see the pit.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For he sees that even the wise die;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the fool and the stupid alike must perish",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and leave their wealth to others.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Their graves are their homes forever,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "their dwelling places to all generations,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "though they called lands by their own names.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Man in his pomp will not remain;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he is like the beasts that perish.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the path of those who have foolish confidence;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "yet after them people approve of their boasts. Selah",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like sheep they are appointed for Sheol;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "death shall be their shepherd,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the upright shall rule over them in the morning.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Their form shall be consumed in Sheol, with no place to dwell.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But God will ransom my soul from the power of Sheol,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for he will receive me. Selah",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Be not afraid when a man becomes rich,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when the glory of his house increases.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For when he dies he will carry nothing away;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "his glory will not go down after him.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For though, while he lives, he counts himself blessed",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "—and though you get praise when you do well for yourself—",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "his soul will go to the generation of his fathers,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "who will never again see light.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Man in his pomp yet without understanding is like the beasts that perish.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

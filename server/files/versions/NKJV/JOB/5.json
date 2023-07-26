@@ -1,0 +1,307 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 5,
+  "verses": 27,
+  "content": [
+    {
+      "text": "Eliphaz: Job Is Chastened by God",
+      "type": "heading"
+    },
+    {
+      "text": "“Call out now;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is there anyone who will answer you?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And to which of the holy ones will you turn?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For wrath kills a foolish man,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And envy slays a simple one.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen the foolish taking root,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But suddenly I cursed his dwelling place.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "His sons are far from safety,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They are crushed in the gate,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And there is no deliverer.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because the hungry eat up his harvest,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Taking it even from the thorns,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And a snare snatches their substance.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For affliction does not come from the dust,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does trouble spring from the ground;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet man is born to trouble,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "As the sparks fly upward.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“But as for me, I would seek God,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And to God I would commit my cause—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who does great things, and unsearchable,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Marvelous things without number.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives rain on the earth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And sends waters on the fields.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He sets on high those who are lowly,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who mourn are lifted to safety.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He frustrates the devices of the crafty,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "So that their hands cannot carry out their plans.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He catches the wise in their own craftiness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And the counsel of the cunning comes quickly upon them.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They meet with darkness in the daytime,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And grope at noontime as in the night.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But He saves the needy from the sword,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "From the mouth of the mighty,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And from their hand.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "So the poor have hope,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And injustice shuts her mouth.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, happy is the man whom God corrects;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore do not despise the chastening of the Almighty.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For He bruises, but He binds up;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He wounds, but His hands make whole.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall deliver you in six troubles,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, in seven no evil shall touch you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "In famine He shall redeem you from death,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And in war from the power of the sword.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall be hidden from the scourge of the tongue,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall not be afraid of destruction when it comes.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall laugh at destruction and famine,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall not be afraid of the beasts of the earth.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For you shall have a covenant with the stones of the field,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And the beasts of the field shall be at peace with you.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall know that your tent is in peace;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall visit your dwelling and find nothing amiss.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall also know that your descendants shall be many,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And your offspring like the grass of the earth.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall come to the grave at a full age,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "As a sheaf of grain ripens in its season.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, this we have searched out;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "It is true.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear it, and know for yourself.”",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

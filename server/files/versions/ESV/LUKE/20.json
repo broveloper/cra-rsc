@@ -1,0 +1,250 @@
+{
+  "book_id": "LUKE",
+  "book_name": "Luke",
+  "chapter": 20,
+  "verses": 47,
+  "content": [
+    {
+      "text": "The Authority of Jesus Challenged",
+      "type": "heading"
+    },
+    {
+      "text": "One day, as Jesus was teaching the people in the temple and preaching the gospel, the chief priests and the scribes with the elders came up",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "and said to him, “Tell us by what authority you do these things, or who it is that gave you this authority.”",
+      "verse": 2
+    },
+    {
+      "text": "He answered them, “I also will ask you a question. Now tell me,",
+      "verse": 3
+    },
+    {
+      "text": "was the baptism of John from heaven or from man?”",
+      "verse": 4
+    },
+    {
+      "text": "And they discussed it with one another, saying, “If we say, ‘From heaven,’ he will say, ‘Why did you not believe him?’",
+      "verse": 5
+    },
+    {
+      "text": "But if we say, ‘From man,’ all the people will stone us to death, for they are convinced that John was a prophet.”",
+      "verse": 6
+    },
+    {
+      "text": "So they answered that they did not know where it came from.",
+      "verse": 7
+    },
+    {
+      "text": "And Jesus said to them, “Neither will I tell you by what authority I do these things.”",
+      "verse": 8
+    },
+    {
+      "text": "The Parable of the Wicked Tenants",
+      "type": "heading"
+    },
+    {
+      "text": "And he began to tell the people this parable: “A man planted a vineyard and let it out to tenants and went into another country for a long while.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "When the time came, he sent a servant to the tenants, so that they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.",
+      "verse": 10
+    },
+    {
+      "text": "And he sent another servant. But they also beat and treated him shamefully, and sent him away empty-handed.",
+      "verse": 11
+    },
+    {
+      "text": "And he sent yet a third. This one also they wounded and cast out.",
+      "verse": 12
+    },
+    {
+      "text": "Then the owner of the vineyard said, ‘What shall I do? I will send my beloved son; perhaps they will respect him.’",
+      "verse": 13
+    },
+    {
+      "text": "But when the tenants saw him, they said to themselves, ‘This is the heir. Let us kill him, so that the inheritance may be ours.’",
+      "verse": 14
+    },
+    {
+      "text": "And they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?",
+      "verse": 15
+    },
+    {
+      "text": "He will come and destroy those tenants and give the vineyard to others.” When they heard this, they said, “Surely not!”",
+      "verse": 16
+    },
+    {
+      "text": "But he looked directly at them and said, “What then is this that is written:",
+      "verse": 17
+    },
+    {
+      "text": "“‘The stone that the builders rejected",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "has become the cornerstone’?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone who falls on that stone will be broken to pieces, and when it falls on anyone, it will crush him.”",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Paying Taxes to Caesar",
+      "type": "heading"
+    },
+    {
+      "text": "The scribes and the chief priests sought to lay hands on him at that very hour, for they perceived that he had told this parable against them, but they feared the people.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "So they watched him and sent spies, who pretended to be sincere, that they might catch him in something he said, so as to deliver him up to the authority and jurisdiction of the governor.",
+      "verse": 20
+    },
+    {
+      "text": "So they asked him, “Teacher, we know that you speak and teach rightly, and show no partiality, but truly teach the way of God.",
+      "verse": 21
+    },
+    {
+      "text": "Is it lawful for us to give tribute to Caesar, or not?”",
+      "verse": 22
+    },
+    {
+      "text": "But he perceived their craftiness, and said to them,",
+      "verse": 23
+    },
+    {
+      "text": "“Show me a denarius. Whose likeness and inscription does it have?” They said, “Caesar's.”",
+      "verse": 24
+    },
+    {
+      "text": "He said to them, “Then render to Caesar the things that are Caesar's, and to God the things that are God's.”",
+      "verse": 25
+    },
+    {
+      "text": "And they were not able in the presence of the people to catch him in what he said, but marveling at his answer they became silent.",
+      "verse": 26
+    },
+    {
+      "text": "Sadducees Ask About the Resurrection",
+      "type": "heading"
+    },
+    {
+      "text": "There came to him some Sadducees, those who deny that there is a resurrection,",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "and they asked him a question, saying, “Teacher, Moses wrote for us that if a man's brother dies, having a wife but no children, the man must take the widow and raise up offspring for his brother.",
+      "verse": 28
+    },
+    {
+      "text": "Now there were seven brothers. The first took a wife, and died without children.",
+      "verse": 29
+    },
+    {
+      "text": "And the second",
+      "verse": 30
+    },
+    {
+      "text": "and the third took her, and likewise all seven left no children and died.",
+      "verse": 31
+    },
+    {
+      "text": "Afterward the woman also died.",
+      "verse": 32
+    },
+    {
+      "text": "In the resurrection, therefore, whose wife will the woman be? For the seven had her as wife.”",
+      "verse": 33
+    },
+    {
+      "text": "And Jesus said to them, “The sons of this age marry and are given in marriage,",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "but those who are considered worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage,",
+      "verse": 35
+    },
+    {
+      "text": "for they cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection.",
+      "verse": 36
+    },
+    {
+      "text": "But that the dead are raised, even Moses showed, in the passage about the bush, where he calls the Lord the God of Abraham and the God of Isaac and the God of Jacob.",
+      "verse": 37
+    },
+    {
+      "text": "Now he is not God of the dead, but of the living, for all live to him.”",
+      "verse": 38
+    },
+    {
+      "text": "Then some of the scribes answered, “Teacher, you have spoken well.”",
+      "verse": 39
+    },
+    {
+      "text": "For they no longer dared to ask him any question.",
+      "verse": 40
+    },
+    {
+      "text": "Whose Son Is the Christ?",
+      "type": "heading"
+    },
+    {
+      "text": "But he said to them, “How can they say that the Christ is David's son?",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "For David himself says in the Book of Psalms,",
+      "verse": 42
+    },
+    {
+      "text": "“‘The Lord said to my Lord,",
+      "verse": 42,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Sit at my right hand,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "    until I make your enemies your footstool.”’",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "David thus calls him Lord, so how is he his son?”",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "Beware of the Scribes",
+      "type": "heading"
+    },
+    {
+      "text": "And in the hearing of all the people he said to his disciples,",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "“Beware of the scribes, who like to walk around in long robes, and love greetings in the marketplaces and the best seats in the synagogues and the places of honor at feasts,",
+      "verse": 46
+    },
+    {
+      "text": "who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.”",
+      "verse": 47
+    }
+  ]
+}

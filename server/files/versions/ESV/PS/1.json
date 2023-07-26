@@ -1,0 +1,101 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 1,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Book One",
+      "type": "heading"
+    },
+    {
+      "text": "The Way of the Righteous and the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "Blessed is the man",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who walks not in the counsel of the wicked,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "nor stands in the way of sinners,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "nor sits in the seat of scoffers;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "but his delight is in the law of the Lord,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and on his law he meditates day and night.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He is like a tree",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "planted by streams of water",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "that yields its fruit in its season,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and its leaf does not wither.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In all that he does, he prospers.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked are not so,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but are like chaff that the wind drives away.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the wicked will not stand in the judgment,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor sinners in the congregation of the righteous;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord knows the way of the righteous,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but the way of the wicked will perish.",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 136,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Thanksgiving to God for His Enduring Mercy",
+      "type": "heading"
+    },
+    {
+      "text": "Oh, give thanks to the Lord, for He is good!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, give thanks to the God of gods!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, give thanks to the Lord of lords!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who alone does great wonders,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who by wisdom made the heavens,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who laid out the earth above the waters,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who made great lights,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun to rule by day,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The moon and stars to rule by night,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who struck Egypt in their firstborn,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And brought out Israel from among them,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "With a strong hand, and with an outstretched arm,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who divided the Red Sea in two,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And made Israel pass through the midst of it,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But overthrew Pharaoh and his army in the Red Sea,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who led His people through the wilderness,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him who struck down great kings,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And slew famous kings,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever—",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Sihon king of the Amorites,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And Og king of Bashan,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever—",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And gave their land as a heritage,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A heritage to Israel His servant,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Who remembered us in our lowly state,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And rescued us from our enemies,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Who gives food to all flesh,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, give thanks to the God of heaven!",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 26,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 127,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Laboring and Prospering with the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents. Of Solomon.",
+      "type": "title"
+    },
+    {
+      "text": "Unless the Lord builds the house,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They labor in vain who build it;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless the Lord guards the city,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The watchman stays awake in vain.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "It is vain for you to rise up early,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To sit up late,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To eat the bread of sorrows;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For so He gives His beloved sleep.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, children are a heritage from the Lord,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The fruit of the womb is a reward.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Like arrows in the hand of a warrior,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "So are the children of one’s youth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Happy is the man who has his quiver full of them;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not be ashamed,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But shall speak with their enemies in the gate.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

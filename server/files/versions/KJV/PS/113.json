@@ -1,0 +1,52 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 113,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Praise ye the Lord. Praise, O ye servants of the Lord, praise the name of the Lord.",
+      "verse": 1
+    },
+    {
+      "text": "Blessed be the name of the Lord from this time forth and for evermore.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "From the rising of the sun unto the going down of the same the Lord's name is to be praised.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord is high above all nations, and his glory above the heavens.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Who is like unto the Lord our God, who dwelleth on high,",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Who humbleth himself to behold the things that are in heaven, and in the earth!",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "He raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "That he may set him with princes, even with the princes of his people.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the Lord.",
+      "verse": 9,
+      "type": "newline"
+    }
+  ]
+}

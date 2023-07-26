@@ -1,0 +1,422 @@
+{
+  "book_id": "NAH",
+  "book_name": "Nahum",
+  "chapter": 3,
+  "verses": 19,
+  "content": [
+    {
+      "text": "Woe to Nineveh",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to the bloody city,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all full of lies and plunder—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "no end to the prey!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The crack of the whip, and rumble of the wheel,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "galloping horse and bounding chariot!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Horsemen charging,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "flashing sword and glittering spear,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "hosts of slain,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "heaps of corpses,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "dead bodies without end—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they stumble over the bodies!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And all for the countless whorings of the prostitute,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "graceful and of deadly charms,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who betrays nations with her whorings,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and peoples with her charms.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I am against you,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "declares the Lord of hosts,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and will lift up your skirts over your face;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will make nations look at your nakedness",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and kingdoms at your shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will throw filth at you",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and treat you with contempt",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and make you a spectacle.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And all who look at you will shrink from you and say,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Wasted is Nineveh; who will grieve for her?”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Where shall I seek comforters for you?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Are you better than Thebes",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that sat by the Nile,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with water around her,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "her rampart a sea,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and water her wall?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Cush was her strength;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Egypt too, and that without limit;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Put and the Libyans were her helpers.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet she became an exile;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she went into captivity;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "her infants were dashed in pieces",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "at the head of every street;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for her honored men lots were cast,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and all her great men were bound in chains.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You also will be drunken;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you will go into hiding;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you will seek a refuge from the enemy.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "All your fortresses are like fig trees",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "with first-ripe figs—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "if shaken they fall",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "into the mouth of the eater.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, your troops",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "are women in your midst.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The gates of your land",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "are wide open to your enemies;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "fire has devoured your bars.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Draw water for the siege;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "strengthen your forts;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "go into the clay;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "tread the mortar;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "take hold of the brick mold!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "There will the fire devour you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the sword will cut you off.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "It will devour you like the locust.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Multiply yourselves like the locust;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "multiply like the grasshopper!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You increased your merchants",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "more than the stars of the heavens.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The locust spreads its wings and flies away.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Your princes are like grasshoppers,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your scribes like clouds of locusts",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "settling on the fences",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "in a day of cold—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "when the sun rises, they fly away;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "no one knows where they are.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Your shepherds are asleep,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O king of Assyria;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "your nobles slumber.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your people are scattered on the mountains",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "with none to gather them.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no easing your hurt;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "your wound is grievous.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "All who hear the news about you",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "clap their hands over you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For upon whom has not come",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "your unceasing evil?",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

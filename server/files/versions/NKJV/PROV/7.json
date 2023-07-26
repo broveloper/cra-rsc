@@ -1,0 +1,301 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 7,
+  "verses": 27,
+  "content": [
+    {
+      "text": "The Wiles of a Harlot",
+      "type": "heading"
+    },
+    {
+      "text": "My son, keep my words,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And treasure my commands within you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep my commands and live,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And my law as the apple of your eye.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Bind them on your fingers;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Write them on the tablet of your heart.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Say to wisdom, “You are my sister,”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And call understanding your nearest kin,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may keep you from the immoral woman,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "From the seductress who flatters with her words.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Crafty Harlot",
+      "type": "heading"
+    },
+    {
+      "text": "For at the window of my house",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I looked through my lattice,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And saw among the simple,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I perceived among the youths,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A young man devoid of understanding,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Passing along the street near her corner;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And he took the path to her house",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In the twilight, in the evening,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In the black and dark night.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And there a woman met him,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With the attire of a harlot, and a crafty heart.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "She was loud and rebellious,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Her feet would not stay at home.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "At times she was outside, at times in the open square,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Lurking at every corner.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "So she caught him and kissed him;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "With an impudent face she said to him:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have peace offerings with me;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Today I have paid my vows.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So I came out to meet you,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Diligently to seek your face,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And I have found you.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I have spread my bed with tapestry,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Colored coverings of Egyptian linen.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I have perfumed my bed",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "With myrrh, aloes, and cinnamon.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, let us take our fill of love until morning;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us delight ourselves with love.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For my husband is not at home;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He has gone on a long journey;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He has taken a bag of money with him,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And will come home on the appointed day.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "With her enticing speech she caused him to yield,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With her flattering lips she seduced him.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Immediately he went after her, as an ox goes to the slaughter,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Or as a fool to the correction of the stocks,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Till an arrow struck his liver.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "As a bird hastens to the snare,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He did not know it would cost his life.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Now therefore, listen to me, my children;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Pay attention to the words of my mouth:",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let your heart turn aside to her ways,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not stray into her paths;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For she has cast down many wounded,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And all who were slain by her were strong men.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Her house is the way to hell,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Descending to the chambers of death.",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

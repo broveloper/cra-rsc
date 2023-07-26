@@ -1,0 +1,540 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 14,
+  "verses": 32,
+  "content": [
+    {
+      "text": "Mercy on Jacob",
+      "type": "heading"
+    },
+    {
+      "text": "For the Lord will have mercy on Jacob, and will still choose Israel, and settle them in their own land. The strangers will be joined with them, and they will cling to the house of Jacob. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Then people will take them and bring them to their place, and the house of Israel will possess them for servants and maids in the land of the Lord; they will take them captive whose captives they were, and rule over their oppressors.",
+      "verse": 2
+    },
+    {
+      "text": "Fall of the King of Babylon",
+      "type": "heading"
+    },
+    {
+      "text": "It shall come to pass in the day the Lord gives you rest from your sorrow, and from your fear and the hard bondage in which you were made to serve, ",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "that you will take up this proverb against the king of Babylon, and say:",
+      "verse": 4
+    },
+    {
+      "text": "“How the oppressor has ceased,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The golden city ceased!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has broken the staff of the wicked,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The scepter of the rulers;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He who struck the people in wrath with a continual stroke,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He who ruled the nations in anger,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is persecuted and no one hinders.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The whole earth is at rest and quiet;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They break forth into singing.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed the cypress trees rejoice over you,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the cedars of Lebanon,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying, ‘Since you were cut down,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "No woodsman has come up against us.’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hell from beneath is excited about you,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To meet you at your coming;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "It stirs up the dead for you,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All the chief ones of the earth;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "It has raised up from their thrones",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All the kings of the nations.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They all shall speak and say to you:",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Have you also become as weak as we?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you become like us?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your pomp is brought down to Sheol,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the sound of your stringed instruments;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The maggot is spread under you,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And worms cover you.’",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Fall of Lucifer",
+      "type": "heading"
+    },
+    {
+      "text": "“How you are fallen from heaven,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Lucifer, son of the morning!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "How you are cut down to the ground,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You who weakened the nations!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have said in your heart:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will ascend into heaven,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will exalt my throne above the stars of God;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also sit on the mount of the congregation",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "On the farthest sides of the north;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will ascend above the heights of the clouds,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will be like the Most High.’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you shall be brought down to Sheol,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "To the lowest depths of the Pit.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Those who see you will gaze at you,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And consider you, saying:",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Is this the man who made the earth tremble,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Who shook kingdoms,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Who made the world as a wilderness",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And destroyed its cities,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Who did not open the house of his prisoners?’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“All the kings of the nations,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All of them, sleep in glory,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone in his own house;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But you are cast out of your grave",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Like an abominable branch,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the garment of those who are slain,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Thrust through with a sword,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Who go down to the stones of the pit,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a corpse trodden underfoot.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You will not be joined with them in burial,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have destroyed your land",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And slain your people.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The brood of evildoers shall never be named.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Prepare slaughter for his children",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the iniquity of their fathers,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest they rise up and possess the land,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And fill the face of the world with cities.”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Babylon Destroyed",
+      "type": "heading"
+    },
+    {
+      "text": "“For I will rise up against them,” says the Lord of hosts,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“And cut off from Babylon the name and remnant,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And offspring and posterity,” says the Lord.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will also make it a possession for the porcupine,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And marshes of muddy water;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sweep it with the broom of destruction,” says the Lord of hosts.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Assyria Destroyed",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord of hosts has sworn, saying,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Surely, as I have thought, so it shall come to pass,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And as I have purposed, so it shall stand:",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "That I will break the Assyrian in My land,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And on My mountains tread him underfoot.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Then his yoke shall be removed from them,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And his burden removed from their shoulders.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the purpose that is purposed against the whole earth,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And this is the hand that is stretched out over all the nations.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord of hosts has purposed,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And who will annul it?",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "His hand is stretched out,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And who will turn it back?”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Philistia Destroyed",
+      "type": "heading"
+    },
+    {
+      "text": "This is the burden which came in the year that King Ahaz died.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "“Do not rejoice, all you of Philistia,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because the rod that struck you is broken;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "For out of the serpent’s roots will come forth a viper,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And its offspring will be a fiery flying serpent.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The firstborn of the poor will feed,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And the needy will lie down in safety;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "I will kill your roots with famine,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And it will slay your remnant.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Wail, O gate! Cry, O city!",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "All you of Philistia are dissolved;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "For smoke will come from the north,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And no one will be alone in his appointed times.”",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "What will they answer the messengers of the nation?",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That the Lord has founded Zion,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And the poor of His people shall take refuge in it.",
+      "verse": 32,
+      "type": "poetry"
+    }
+  ]
+}

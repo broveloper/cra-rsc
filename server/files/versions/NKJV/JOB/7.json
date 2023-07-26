@@ -1,0 +1,272 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 7,
+  "verses": 21,
+  "content": [
+    {
+      "text": "Job: My Suffering Is Comfortless",
+      "type": "heading"
+    },
+    {
+      "text": "“Is there not a time of hard service for man on earth?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Are not his days also like the days of a hired man?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a servant who earnestly desires the shade,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And like a hired man who eagerly looks for his wages,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "So I have been allotted months of futility,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And wearisome nights have been appointed to me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "When I lie down, I say, ‘When shall I arise,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And the night be ended?’",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have had my fill of tossing till dawn.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My flesh is caked with worms and dust,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My skin is cracked and breaks out afresh.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“My days are swifter than a weaver’s shuttle,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And are spent without hope.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, remember that my life is a breath!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "My eye will never again see good.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The eye of him who sees me will see me no more;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "While your eyes are upon me, I shall no longer be.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "As the cloud disappears and vanishes away,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "So he who goes down to the grave does not come up.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall never return to his house,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall his place know him anymore.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I will not restrain my mouth;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will speak in the anguish of my spirit;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will complain in the bitterness of my soul.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Am I a sea, or a sea serpent,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "That You set a guard over me?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "When I say, ‘My bed will comfort me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "My couch will ease my complaint,’",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then You scare me with dreams",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And terrify me with visions,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So that my soul chooses strangling",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And death rather than my body.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I loathe my life;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I would not live forever.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me alone,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For my days are but a breath.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“What is man, that You should exalt him,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That You should set Your heart on him,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "That You should visit him every morning,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And test him every moment?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "How long?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Will You not look away from me,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And let me alone till I swallow my saliva?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Have I sinned?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "What have I done to You, O watcher of men?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Why have You set me as Your target,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "So that I am a burden to myself?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Why then do You not pardon my transgression,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And take away my iniquity?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For now I will lie down in the dust,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And You will seek me diligently,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will no longer be.”",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

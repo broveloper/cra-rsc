@@ -1,0 +1,71 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 123,
+  "verses": 4,
+  "content": [
+    {
+      "text": "Prayer for Relief from Contempt",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "Unto You I lift up my eyes,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O You who dwell in the heavens.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, as the eyes of servants look to the hand of their masters,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "As the eyes of a maid to the hand of her mistress,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "So our eyes look to the Lord our God,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Until He has mercy on us.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Have mercy on us, O Lord, have mercy on us!",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For we are exceedingly filled with contempt.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Our soul is exceedingly filled",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With the scorn of those who are at ease,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With the contempt of the proud.",
+      "verse": 4,
+      "type": "poetry"
+    }
+  ]
+}

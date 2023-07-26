@@ -1,0 +1,77 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 48,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Great is the Lord, and greatly to be praised in the city of our God, in the mountain of his holiness.",
+      "verse": 1
+    },
+    {
+      "text": "Beautiful for situation, the joy of the whole earth, is mount Zion, on the sides of the north, the city of the great King.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "God is known in her palaces for a refuge.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For, lo, the kings were assembled, they passed by together.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "They saw it, and so they marvelled; they were troubled, and hasted away.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Fear took hold upon them there, and pain, as of a woman in travail.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Thou breakest the ships of Tarshish with an east wind.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "As we have heard, so have we seen in the city of the Lord of hosts, in the city of our God: God will establish it for ever. Selah.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "We have thought of thy lovingkindness, O God, in the midst of thy temple.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "According to thy name, O God, so is thy praise unto the ends of the earth: thy right hand is full of righteousness.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Walk about Zion, and go round about her: tell the towers thereof.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Mark ye well her bulwarks, consider her palaces; that ye may tell it to the generation following.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "For this God is our God for ever and ever: he will be our guide even unto death.",
+      "verse": 14,
+      "type": "newline"
+    }
+  ]
+}

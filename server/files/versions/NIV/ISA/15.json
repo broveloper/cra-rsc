@@ -1,0 +1,202 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 15,
+  "verses": 9,
+  "content": [
+    {
+      "text": "A Prophecy Against Moab",
+      "type": "heading"
+    },
+    {
+      "text": "A prophecy against Moab:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Ar in Moab is ruined,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "destroyed in a night!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Kir in Moab is ruined,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "destroyed in a night!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Dibon goes up to its temple,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to its high places to weep;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab wails over Nebo and Medeba.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Every head is shaved",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and every beard cut off.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In the streets they wear sackcloth;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "on the roofs and in the public squares",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they all wail,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "prostrate with weeping.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Heshbon and Elealeh cry out,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "their voices are heard all the way to Jahaz.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the armed men of Moab cry out,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and their hearts are faint.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart cries out over Moab;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "her fugitives flee as far as Zoar,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "as far as Eglath Shelishiyah.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They go up the hill to Luhith,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "weeping as they go;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "on the road to Horonaim",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they lament their destruction.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters of Nimrim are dried up",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the grass is withered;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the vegetation is gone",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and nothing green is left.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "So the wealth they have acquired and stored up",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they carry away over the Ravine of the Poplars.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their outcry echoes along the border of Moab;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "their wailing reaches as far as Eglaim,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "their lamentation as far as Beer Elim.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters of Dimon are full of blood,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "but I will bring still more upon Dimon—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "a lion upon the fugitives of Moab",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and upon those who remain in the land.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

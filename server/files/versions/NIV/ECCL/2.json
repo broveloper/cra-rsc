@@ -1,0 +1,230 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 2,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Pleasures Are Meaningless",
+      "type": "heading"
+    },
+    {
+      "text": "I said to myself, “Come now, I will test you with pleasure to find out what is good.” But that also proved to be meaningless.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Laughter,” I said, “is madness. And what does pleasure accomplish?”",
+      "verse": 2
+    },
+    {
+      "text": "I tried cheering myself with wine, and embracing folly—my mind still guiding me with wisdom. I wanted to see what was good for people to do under the heavens during the few days of their lives.",
+      "verse": 3
+    },
+    {
+      "text": "I undertook great projects: I built houses for myself and planted vineyards.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "I made gardens and parks and planted all kinds of fruit trees in them.",
+      "verse": 5
+    },
+    {
+      "text": "I made reservoirs to water groves of flourishing trees.",
+      "verse": 6
+    },
+    {
+      "text": "I bought male and female slaves and had other slaves who were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me.",
+      "verse": 7
+    },
+    {
+      "text": "I amassed silver and gold for myself, and the treasure of kings and provinces. I acquired male and female singers, and a harem as well—the delights of a man’s heart.",
+      "verse": 8
+    },
+    {
+      "text": "I became greater by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.",
+      "verse": 9
+    },
+    {
+      "text": "I denied myself nothing my eyes desired;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I refused my heart no pleasure.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart took delight in all my labor,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and this was the reward for all my toil.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet when I surveyed all that my hands had done",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and what I had toiled to achieve,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "everything was meaningless, a chasing after the wind;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "nothing was gained under the sun.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom and Folly Are Meaningless",
+      "type": "heading"
+    },
+    {
+      "text": "Then I turned my thoughts to consider wisdom,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and also madness and folly.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "What more can the king’s successor do",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "than what has already been done?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I saw that wisdom is better than folly,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "just as light is better than darkness.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The wise have eyes in their heads,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "while the fool walks in the darkness;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but I came to realize",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that the same fate overtakes them both.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I said to myself,",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“The fate of the fool will overtake me also.",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "What then do I gain by being wise?”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I said to myself,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“This too is meaningless.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For the wise, like the fool, will not be long remembered;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the days have already come when both have been forgotten.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the fool, the wise too must die!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Toil Is Meaningless",
+      "type": "heading"
+    },
+    {
+      "text": "So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me.",
+      "verse": 18
+    },
+    {
+      "text": "And who knows whether that person will be wise or foolish? Yet they will have control over all the fruit of my toil into which I have poured my effort and skill under the sun. This too is meaningless.",
+      "verse": 19
+    },
+    {
+      "text": "So my heart began to despair over all my toilsome labor under the sun.",
+      "verse": 20
+    },
+    {
+      "text": "For a person may labor with wisdom, knowledge and skill, and then they must leave all they own to another who has not toiled for it. This too is meaningless and a great misfortune.",
+      "verse": 21
+    },
+    {
+      "text": "What do people get for all the toil and anxious striving with which they labor under the sun?",
+      "verse": 22
+    },
+    {
+      "text": "All their days their work is grief and pain; even at night their minds do not rest. This too is meaningless.",
+      "verse": 23
+    },
+    {
+      "text": "A person can do nothing better than to eat and drink and find satisfaction in their own toil. This too, I see, is from the hand of God,",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "for without him, who can eat or find enjoyment?",
+      "verse": 25
+    },
+    {
+      "text": "To the person who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.",
+      "verse": 26
+    }
+  ]
+}

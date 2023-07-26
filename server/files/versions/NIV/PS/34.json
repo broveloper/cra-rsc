@@ -1,0 +1,236 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 34,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Psalm 34",
+      "type": "heading"
+    },
+    {
+      "text": "Of David. When he pretended to be insane before Abimelek, who drove him away, and he left.",
+      "type": "title"
+    },
+    {
+      "text": "I will extol the Lord at all times;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his praise will always be on my lips.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will glory in the Lord;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "let the afflicted hear and rejoice.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Glorify the Lord with me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "let us exalt his name together.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I sought the Lord, and he answered me;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he delivered me from all my fears.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who look to him are radiant;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "their faces are never covered with shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "This poor man called, and the Lord heard him;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he saved him out of all his troubles.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The angel of the Lord encamps around those who fear him,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and he delivers them.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Taste and see that the Lord is good;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "blessed is the one who takes refuge in him.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear the Lord, you his holy people,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for those who fear him lack nothing.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The lions may grow weak and hungry,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "but those who seek the Lord lack no good thing.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, my children, listen to me;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will teach you the fear of the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever of you loves life",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and desires to see many good days,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "keep your tongue from evil",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and your lips from telling lies.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn from evil and do good;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "seek peace and pursue it.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The eyes of the Lord are on the righteous,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and his ears are attentive to their cry;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "but the face of the Lord is against those who do evil,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "to blot out their name from the earth.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous cry out, and the Lord hears them;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he delivers them from all their troubles.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is close to the brokenhearted",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and saves those who are crushed in spirit.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous person may have many troubles,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but the Lord delivers him from them all;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "he protects all his bones,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "not one of them will be broken.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Evil will slay the wicked;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the foes of the righteous will be condemned.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will rescue his servants;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "no one who takes refuge in him will be condemned.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 49,
+  "verses": 26,
+  "content": [
+    {
+      "text": "The Servant of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "Listen to me, O coastlands,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and give attention, you peoples from afar.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord called me from the womb,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "from the body of my mother he named my name.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He made my mouth like a sharp sword;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in the shadow of his hand he hid me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he made me a polished arrow;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in his quiver he hid me away.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And he said to me, “You are my servant,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel, in whom I will be glorified.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But I said, “I have labored in vain;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have spent my strength for nothing and vanity;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "yet surely my right is with the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and my recompense with my God.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And now the Lord says,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he who formed me from the womb to be his servant,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "to bring Jacob back to him;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and that Israel might be gathered to him—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am honored in the eyes of the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and my God has become my strength—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he says:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“It is too light a thing that you should be my servant",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to raise up the tribes of Jacob",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and to bring back the preserved of Israel;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make you as a light for the nations,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that my salvation may reach to the end of the earth.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Redeemer of Israel and his Holy One,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to one deeply despised, abhorred by the nation,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the servant of rulers:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Kings shall see and arise;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "princes, and they shall prostrate themselves;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the Lord, who is faithful,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the Holy One of Israel, who has chosen you.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Restoration of Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“In a time of favor I have answered you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "in a day of salvation I have helped you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will keep you and give you",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "as a covenant to the people,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to establish the land,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to apportion the desolate heritages,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "saying to the prisoners, ‘Come out,’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to those who are in darkness, ‘Appear.’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall feed along the ways;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "on all bare heights shall be their pasture;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall not hunger or thirst,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "neither scorching wind nor sun shall strike them,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for he who has pity on them will lead them,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and by springs of water will guide them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will make all my mountains a road,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and my highways shall be raised up.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, these shall come from afar,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and behold, these from the north and from the west,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and these from the land of Syene.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing for joy, O heavens, and exult, O earth;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "break forth, O mountains, into singing!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has comforted his people",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and will have compassion on his afflicted.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But Zion said, “The Lord has forsaken me;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my Lord has forgotten me.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Can a woman forget her nursing child,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that she should have no compassion on the son of her womb?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Even these may forget,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "yet I will not forget you.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I have engraved you on the palms of my hands;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "your walls are continually before me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Your builders make haste;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "your destroyers and those who laid you waste go out from you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your eyes around and see;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "they all gather, they come to you.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As I live, declares the Lord,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall put them all on as an ornament;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall bind them on as a bride does.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely your waste and your desolate places",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and your devastated land—",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "surely now you will be too narrow for your inhabitants,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and those who swallowed you up will be far away.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The children of your bereavement",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "will yet say in your ears:",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "‘The place is too narrow for me;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "make room for me to dwell in.’",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will say in your heart:",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Who has borne me these?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I was bereaved and barren,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "exiled and put away,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "but who has brought up these?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I was left alone;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "from where have these come?’”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord God:",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Behold, I will lift up my hand to the nations,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and raise my signal to the peoples;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall bring your sons in their arms,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and your daughters shall be carried on their shoulders.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Kings shall be your foster fathers,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and their queens your nursing mothers.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "With their faces to the ground they shall bow down to you,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and lick the dust of your feet.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will know that I am the Lord;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "those who wait for me shall not be put to shame.”",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Can the prey be taken from the mighty,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or the captives of a tyrant be rescued?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord:",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“Even the captives of the mighty shall be taken,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and the prey of the tyrant be rescued,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "for I will contend with those who contend with you,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will save your children.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make your oppressors eat their own flesh,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall be drunk with their own blood as with wine.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Then all flesh shall know",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "that I am the Lord your Savior,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and your Redeemer, the Mighty One of Jacob.”",
+      "verse": 26,
+      "type": "poetry"
+    }
+  ]
+}

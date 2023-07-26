@@ -1,0 +1,96 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 15,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Psalm 15",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, who may dwell in your sacred tent?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who may live on your holy mountain?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The one whose walk is blameless,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who does what is righteous,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who speaks the truth from their heart;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "whose tongue utters no slander,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who does no wrong to a neighbor,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and casts no slur on others;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who despises a vile person",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but honors those who fear the Lord;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who keeps an oath even when it hurts,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and does not change their mind;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who lends money to the poor without interest;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who does not accept a bribe against the innocent.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever does these things",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will never be shaken.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

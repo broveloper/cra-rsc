@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 141,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Psalm 141",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "I call to you, Lord, come quickly to me;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "hear me when I call to you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "May my prayer be set before you like incense;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "may the lifting up of my hands be like the evening sacrifice.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Set a guard over my mouth, Lord;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "keep watch over the door of my lips.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let my heart be drawn to what is evil",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "so that I take part in wicked deeds",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "along with those who are evildoers;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "do not let me eat their delicacies.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let a righteous man strike me—that is a kindness;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let him rebuke me—that is oil on my head.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My head will not refuse it,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for my prayer will still be against the deeds of evildoers.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Their rulers will be thrown down from the cliffs,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the wicked will learn that my words were well spoken.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They will say, “As one plows and breaks up the earth,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "so our bones have been scattered at the mouth of the grave.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But my eyes are fixed on you, Sovereign Lord;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in you I take refuge—do not give me over to death.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep me safe from the traps set by evildoers,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "from the snares they have laid for me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the wicked fall into their own nets,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "while I pass by in safety.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

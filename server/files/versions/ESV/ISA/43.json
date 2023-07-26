@@ -1,0 +1,492 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 43,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Israel's Only Savior",
+      "type": "heading"
+    },
+    {
+      "text": "But now thus says the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he who created you, O Jacob,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "he who formed you, O Israel:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Fear not, for I have redeemed you;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I have called you by name, you are mine.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When you pass through the waters, I will be with you;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and through the rivers, they shall not overwhelm you;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when you walk through fire you shall not be burned,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the flame shall not consume you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am the Lord your God,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the Holy One of Israel, your Savior.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I give Egypt as your ransom,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Cush and Seba in exchange for you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you are precious in my eyes,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and honored, and I love you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I give men in return for you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "peoples in exchange for your life.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear not, for I am with you;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring your offspring from the east,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the west I will gather you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will say to the north, Give up,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and to the south, Do not withhold;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "bring my sons from afar",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and my daughters from the end of the earth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "everyone who is called by my name,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "whom I created for my glory,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "whom I formed and made.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring out the people who are blind, yet have eyes,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who are deaf, yet have ears!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All the nations gather together,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and the peoples assemble.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who among them can declare this,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and show us the former things?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them bring their witnesses to prove them right,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and let them hear and say, It is true.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“You are my witnesses,” declares the Lord,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“and my servant whom I have chosen,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "that you may know and believe me",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and understand that I am he.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Before me no god was formed,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "nor shall there be any after me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I, I am the Lord,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and besides me there is no savior.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I declared and saved and proclaimed,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "when there was no strange god among you;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and you are my witnesses,” declares the Lord, “and I am God.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Also henceforth I am he;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "there is none who can deliver from my hand;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I work, and who can turn it back?”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your Redeemer, the Holy One of Israel:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“For your sake I send to Babylon",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and bring them all down as fugitives,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "even the Chaldeans, in the ships in which they rejoice.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I am the Lord, your Holy One,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the Creator of Israel, your King.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who makes a way in the sea,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "a path in the mighty waters,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "who brings forth chariot and horse,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "army and warrior;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they lie down, they cannot rise,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they are extinguished, quenched like a wick:",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“Remember not the former things,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "nor consider the things of old.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I am doing a new thing;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "now it springs forth, do you not perceive it?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make a way in the wilderness",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and rivers in the desert.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The wild beasts will honor me,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the jackals and the ostriches,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "for I give water in the wilderness,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "rivers in the desert,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to give drink to my chosen people,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "    the people whom I formed for myself",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "that they might declare my praise.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet you did not call upon me, O Jacob;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but you have been weary of me, O Israel!",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "You have not brought me your sheep for burnt offerings,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "or honored me with your sacrifices.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not burdened you with offerings,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "or wearied you with frankincense.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "You have not bought me sweet cane with money,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "or satisfied me with the fat of your sacrifices.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "But you have burdened me with your sins;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "you have wearied me with your iniquities.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“I, I am he",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who blots out your transgressions for my own sake,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will not remember your sins.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Put me in remembrance; let us argue together;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "set forth your case, that you may be proved right.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Your first father sinned,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and your mediators transgressed against me.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will profane the princes of the sanctuary,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and deliver Jacob to utter destruction",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and Israel to reviling.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

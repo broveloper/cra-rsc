@@ -1,0 +1,81 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 123,
+  "verses": 4,
+  "content": [
+    {
+      "text": "Our Eyes Look to the Lord Our God",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "To you I lift up my eyes,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O you who are enthroned in the heavens!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, as the eyes of servants",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "look to the hand of their master,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as the eyes of a maidservant",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to the hand of her mistress,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "so our eyes look to the Lord our God,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "till he has mercy upon us.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Have mercy upon us, O Lord, have mercy upon us,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for we have had more than enough of contempt.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Our soul has had more than enough",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "of the scorn of those who are at ease,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "of the contempt of the proud.",
+      "verse": 4,
+      "type": "poetry"
+    }
+  ]
+}

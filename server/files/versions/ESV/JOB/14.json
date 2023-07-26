@@ -1,0 +1,262 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 14,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Job Continues: Death Comes Soon to All",
+      "type": "heading"
+    },
+    {
+      "text": "“Man who is born of a woman",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is few of days and full of trouble.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He comes out like a flower and withers;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he flees like a shadow and continues not.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And do you open your eyes on such a one",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and bring me into judgment with you?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can bring a clean thing out of an unclean?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "There is not one.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Since his days are determined,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the number of his months is with you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and you have appointed his limits that he cannot pass,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "look away from him and leave him alone,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that he may enjoy, like a hired hand, his day.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“For there is hope for a tree,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "if it be cut down, that it will sprout again,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and that its shoots will not cease.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Though its root grow old in the earth,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and its stump die in the soil,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "yet at the scent of water it will bud",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and put out branches like a young plant.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But a man dies and is laid low;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "man breathes his last, and where is he?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As waters fail from a lake",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and a river wastes away and dries up,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "so a man lies down and rises not again;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "till the heavens are no more he will not awake",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "or be roused out of his sleep.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh that you would hide me in Sheol,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that you would conceal me until your wrath be past,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that you would appoint me a set time, and remember me!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "If a man dies, shall he live again?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of my service I would wait,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "till my renewal should come.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You would call, and I would answer you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you would long for the work of your hands.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For then you would number my steps;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you would not keep watch over my sin;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "my transgression would be sealed up in a bag,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and you would cover over my iniquity.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“But the mountain falls and crumbles away,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the rock is removed from its place;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "the waters wear away the stones;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the torrents wash away the soil of the earth;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "so you destroy the hope of man.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You prevail forever against him, and he passes;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "you change his countenance, and send him away.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "His sons come to honor, and he does not know it;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "they are brought low, and he perceives it not.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He feels only the pain of his own body,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and he mourns only for himself.”",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

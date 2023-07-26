@@ -1,0 +1,321 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 22,
+  "verses": 29,
+  "content": [
+    {
+      "text": "The Value of a Good Name",
+      "type": "heading"
+    },
+    {
+      "text": "A good name is to be chosen rather than great riches,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Loving favor rather than silver and gold.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The rich and the poor have this in common,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord is the maker of them all.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A prudent man foresees evil and hides himself,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the simple pass on and are punished.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "By humility and the fear of the Lord",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Are riches and honor and life.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Thorns and snares are in the way of the perverse;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He who guards his soul will be far from them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Train up a child in the way he should go,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And when he is old he will not depart from it.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The rich rules over the poor,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the borrower is servant to the lender.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who sows iniquity will reap sorrow,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the rod of his anger will fail.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He who has a generous eye will be blessed,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For he gives of his bread to the poor.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Cast out the scoffer, and contention will leave;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, strife and reproach will cease.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He who loves purity of heart",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And has grace on his lips,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The king will be his friend.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The eyes of the Lord preserve knowledge,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But He overthrows the words of the faithless.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The lazy man says, “There is a lion outside!",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I shall be slain in the streets!”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The mouth of an immoral woman is a deep pit;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He who is abhorred by the Lord will fall there.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Foolishness is bound up in the heart of a child;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The rod of correction will drive it far from him.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He who oppresses the poor to increase his riches,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who gives to the rich, will surely come to poverty.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Sayings of the Wise",
+      "type": "heading"
+    },
+    {
+      "text": "Incline your ear and hear the words of the wise,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And apply your heart to my knowledge;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is a pleasant thing if you keep them within you;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them all be fixed upon your lips,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "So that your trust may be in the Lord;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I have instructed you today, even you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Have I not written to you excellent things",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Of counsels and knowledge,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may make you know the certainty of the words of truth,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may answer words of truth",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "To those who send to you?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not rob the poor because he is poor,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor oppress the afflicted at the gate;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will plead their cause,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And plunder the soul of those who plunder them.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Make no friendship with an angry man,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And with a furious man do not go,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you learn his ways",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And set a snare for your soul.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be one of those who shakes hands in a pledge,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "One of those who is surety for debts;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "If you have nothing with which to pay,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should he take away your bed from under you?",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not remove the ancient landmark",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Which your fathers have set.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you see a man who excels in his work?",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He will stand before kings;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not stand before unknown men.",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 1,
+  "verses": 18,
+  "content": [
+    {
+      "text": "The Vanity of Life",
+      "type": "heading"
+    },
+    {
+      "text": "The words of the Preacher, the son of David, king in Jerusalem.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Vanity of vanities,” says the Preacher;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Vanity of vanities, all is vanity.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "What profit has a man from all his labor",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In which he toils under the sun?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "One generation passes away, and another generation comes;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But the earth abides forever.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun also rises, and the sun goes down,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And hastens to the place where it arose.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The wind goes toward the south,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And turns around to the north;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The wind whirls about continually,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And comes again on its circuit.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All the rivers run into the sea,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet the sea is not full;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To the place from which the rivers come,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "There they return again.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All things are full of labor;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Man cannot express it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The eye is not satisfied with seeing,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor the ear filled with hearing.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That which has been is what will be,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That which is done is what will be done,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And there is nothing new under the sun.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Is there anything of which it may be said,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“See, this is new”?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "It has already been in ancient times before us.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no remembrance of former things,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will there be any remembrance of things that are to come",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "By those who will come after.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Grief of Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "I, the Preacher, was king over Israel in Jerusalem. ",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised. ",
+      "verse": 13
+    },
+    {
+      "text": "I have seen all the works that are done under the sun; and indeed, all is vanity and grasping for the wind.",
+      "verse": 14
+    },
+    {
+      "text": "What is crooked cannot be made straight,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And what is lacking cannot be numbered.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.” ",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind.",
+      "verse": 17
+    },
+    {
+      "text": "For in much wisdom is much grief,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who increases knowledge increases sorrow.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

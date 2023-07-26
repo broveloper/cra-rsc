@@ -1,0 +1,87 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 5,
+  "verses": 16,
+  "content": [
+    {
+      "text": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+      "verse": 1
+    },
+    {
+      "text": "I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "My beloved put in his hand by the hole of the door, and my bowels were moved for him.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "My beloved is white and ruddy, the chiefest among ten thousand.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "His head is as the most fine gold, his locks are bushy, and black as a raven.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.",
+      "verse": 16,
+      "type": "newline"
+    }
+  ]
+}

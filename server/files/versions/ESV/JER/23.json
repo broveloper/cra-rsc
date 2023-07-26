@@ -1,0 +1,414 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 23,
+  "verses": 40,
+  "content": [
+    {
+      "text": "The Righteous Branch",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to the shepherds who destroy and scatter the sheep of my pasture!” declares the Lord.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore thus says the Lord, the God of Israel, concerning the shepherds who care for my people: “You have scattered my flock and have driven them away, and you have not attended to them. Behold, I will attend to you for your evil deeds, declares the Lord.",
+      "verse": 2
+    },
+    {
+      "text": "Then I will gather the remnant of my flock out of all the countries where I have driven them, and I will bring them back to their fold, and they shall be fruitful and multiply.",
+      "verse": 3
+    },
+    {
+      "text": "I will set shepherds over them who will care for them, and they shall fear no more, nor be dismayed, neither shall any be missing, declares the Lord.",
+      "verse": 4
+    },
+    {
+      "text": "“Behold, the days are coming, declares the Lord, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "In his days Judah will be saved, and Israel will dwell securely. And this is the name by which he will be called: ‘The Lord is our righteousness.’",
+      "verse": 6
+    },
+    {
+      "text": "“Therefore, behold, the days are coming, declares the Lord, when they shall no longer say, ‘As the Lord lives who brought up the people of Israel out of the land of Egypt,’",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "but ‘As the Lord lives who brought up and led the offspring of the house of Israel out of the north country and out of all the countries where he had driven them.’ Then they shall dwell in their own land.”",
+      "verse": 8
+    },
+    {
+      "text": "Lying Prophets",
+      "type": "heading"
+    },
+    {
+      "text": "Concerning the prophets:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "My heart is broken within me;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all my bones shake;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I am like a drunken man,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "like a man overcome by wine,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the Lord",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and because of his holy words.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the land is full of adulterers;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the curse the land mourns,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the pastures of the wilderness are dried up.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Their course is evil,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and their might is not right.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Both prophet and priest are ungodly;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "even in my house I have found their evil,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore their way shall be to them",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "like slippery paths in the darkness,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "into which they shall be driven and fall,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for I will bring disaster upon them",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "in the year of their punishment,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "In the prophets of Samaria",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I saw an unsavory thing:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they prophesied by Baal",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and led my people Israel astray.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But in the prophets of Jerusalem",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen a horrible thing:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they commit adultery and walk in lies;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they strengthen the hands of evildoers,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "so that no one turns from his evil;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them have become like Sodom to me,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and its inhabitants like Gomorrah.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord of hosts concerning the prophets:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I will feed them with bitter food",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and give them poisoned water to drink,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for from the prophets of Jerusalem",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "ungodliness has gone out into all the land.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord of hosts: “Do not listen to the words of the prophets who prophesy to you, filling you with vain hopes. They speak visions of their own minds, not from the mouth of the Lord.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "They say continually to those who despise the word of the Lord, ‘It shall be well with you’; and to everyone who stubbornly follows his own heart, they say, ‘No disaster shall come upon you.’”",
+      "verse": 17
+    },
+    {
+      "text": "For who among them has stood in the council of the Lord",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to see and to hear his word,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "or who has paid attention to his word and listened?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the storm of the Lord!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Wrath has gone forth,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "a whirling tempest;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "it will burst upon the head of the wicked.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The anger of the Lord will not turn back",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "until he has executed and accomplished",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the intents of his heart.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "In the latter days you will understand it clearly.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“I did not send the prophets,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "yet they ran;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I did not speak to them,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "yet they prophesied.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But if they had stood in my council,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "then they would have proclaimed my words to my people,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and they would have turned them from their evil way,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the evil of their deeds.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“Am I a God at hand, declares the Lord, and not a God far away?",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "Can a man hide himself in secret places so that I cannot see him? declares the Lord. Do I not fill heaven and earth? declares the Lord.",
+      "verse": 24
+    },
+    {
+      "text": "I have heard what the prophets have said who prophesy lies in my name, saying, ‘I have dreamed, I have dreamed!’",
+      "verse": 25
+    },
+    {
+      "text": "How long shall there be lies in the heart of the prophets who prophesy lies, and who prophesy the deceit of their own heart,",
+      "verse": 26
+    },
+    {
+      "text": "who think to make my people forget my name by their dreams that they tell one another, even as their fathers forgot my name for Baal?",
+      "verse": 27
+    },
+    {
+      "text": "Let the prophet who has a dream tell the dream, but let him who has my word speak my word faithfully. What has straw in common with wheat? declares the Lord.",
+      "verse": 28
+    },
+    {
+      "text": "Is not my word like fire, declares the Lord, and like a hammer that breaks the rock in pieces?",
+      "verse": 29
+    },
+    {
+      "text": "Therefore, behold, I am against the prophets, declares the Lord, who steal my words from one another.",
+      "verse": 30
+    },
+    {
+      "text": "Behold, I am against the prophets, declares the Lord, who use their tongues and declare, ‘declares the Lord.’",
+      "verse": 31
+    },
+    {
+      "text": "Behold, I am against those who prophesy lying dreams, declares the Lord, and who tell them and lead my people astray by their lies and their recklessness, when I did not send them or charge them. So they do not profit this people at all, declares the Lord.",
+      "verse": 32
+    },
+    {
+      "text": "“When one of this people, or a prophet or a priest asks you, ‘What is the burden of the Lord?’ you shall say to them, ‘You are the burden, and I will cast you off, declares the Lord.’",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "And as for the prophet, priest, or one of the people who says, ‘The burden of the Lord,’ I will punish that man and his household.",
+      "verse": 34
+    },
+    {
+      "text": "Thus shall you say, every one to his neighbor and every one to his brother, ‘What has the Lord answered?’ or ‘What has the Lord spoken?’",
+      "verse": 35
+    },
+    {
+      "text": "But ‘the burden of the Lord’ you shall mention no more, for the burden is every man's own word, and you pervert the words of the living God, the Lord of hosts, our God.",
+      "verse": 36
+    },
+    {
+      "text": "Thus you shall say to the prophet, ‘What has the Lord answered you?’ or ‘What has the Lord spoken?’",
+      "verse": 37
+    },
+    {
+      "text": "But if you say, ‘The burden of the Lord,’ thus says the Lord, ‘Because you have said these words, “The burden of the Lord,” when I sent to you, saying, “You shall not say, ‘The burden of the Lord,’”",
+      "verse": 38
+    },
+    {
+      "text": "therefore, behold, I will surely lift you up and cast you away from my presence, you and the city that I gave to you and your fathers.",
+      "verse": 39
+    },
+    {
+      "text": "And I will bring upon you everlasting reproach and perpetual shame, which shall not be forgotten.’”",
+      "verse": 40
+    }
+  ]
+}

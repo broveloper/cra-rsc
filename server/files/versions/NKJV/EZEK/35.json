@@ -1,0 +1,102 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 35,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Judgment on Mount Seir",
+      "type": "heading"
+    },
+    {
+      "text": "Moreover the word of the Lord came to me, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, set your face against Mount Seir and prophesy against it, ",
+      "verse": 2
+    },
+    {
+      "text": "and say to it, ‘Thus says the Lord God:",
+      "verse": 3
+    },
+    {
+      "text": "“Behold, O Mount Seir, I am against you;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will stretch out My hand against you,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And make you most desolate;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall lay your cities waste,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall be desolate.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you shall know that I am the Lord.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because you have had an ancient hatred, and have shed the blood of the children of Israel by the power of the sword at the time of their calamity, when their iniquity came to an end, ",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "therefore, as I live,” says the Lord God, “I will prepare you for blood, and blood shall pursue you; since you have not hated blood, therefore blood shall pursue you. ",
+      "verse": 6
+    },
+    {
+      "text": "Thus I will make Mount Seir most desolate, and cut off from it the one who leaves and the one who returns. ",
+      "verse": 7
+    },
+    {
+      "text": "And I will fill its mountains with the slain; on your hills and in your valleys and in all your ravines those who are slain by the sword shall fall. ",
+      "verse": 8
+    },
+    {
+      "text": "I will make you perpetually desolate, and your cities shall be uninhabited; then you shall know that I am the Lord.",
+      "verse": 9
+    },
+    {
+      "text": "“Because you have said, ‘These two nations and these two countries shall be mine, and we will possess them,’ although the Lord was there, ",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "therefore, as I live,” says the Lord God, “I will do according to your anger and according to the envy which you showed in your hatred against them; and I will make Myself known among them when I judge you. ",
+      "verse": 11
+    },
+    {
+      "text": "Then you shall know that I am the Lord. I have heard all your blasphemies which you have spoken against the mountains of Israel, saying, ‘They are desolate; they are given to us to consume.’ ",
+      "verse": 12
+    },
+    {
+      "text": "Thus with your mouth you have boasted against Me and multiplied your words against Me; I have heard them.”",
+      "verse": 13
+    },
+    {
+      "text": "‘Thus says the Lord God: “The whole earth will rejoice when I make you desolate. ",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "As you rejoiced because the inheritance of the house of Israel was desolate, so I will do to you; you shall be desolate, O Mount Seir, as well as all of Edom—all of it! Then they shall know that I am the Lord.” ’",
+      "verse": 15
+    }
+  ]
+}

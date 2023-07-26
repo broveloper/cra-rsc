@@ -1,0 +1,485 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 42,
+  "verses": 25,
+  "content": [
+    {
+      "text": "The Servant of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "“Here is my servant, whom I uphold,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my chosen one in whom I delight;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put my Spirit on him,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and he will bring justice to the nations.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not shout or cry out,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "or raise his voice in the streets.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A bruised reed he will not break,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and a smoldering wick he will not snuff out.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In faithfulness he will bring forth justice;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "    he will not falter or be discouraged",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "till he establishes justice on earth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In his teaching the islands will put their hope.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what God the Lord says—",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Creator of the heavens, who stretches them out,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who spreads out the earth with all that springs from it,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who gives breath to its people,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and life to those who walk on it:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I, the Lord, have called you in righteousness;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take hold of your hand.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will keep you and will make you",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to be a covenant for the people",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and a light for the Gentiles,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to open eyes that are blind,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to free captives from prison",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and to release from the dungeon those who sit in darkness.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am the Lord; that is my name!",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not yield my glory to another",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "or my praise to idols.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "See, the former things have taken place,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and new things I declare;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "before they spring into being",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I announce them to you.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Song of Praise to the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "Sing to the Lord a new song,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his praise from the ends of the earth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you who go down to the sea, and all that is in it,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you islands, and all who live in them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the wilderness and its towns raise their voices;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "let the settlements where Kedar lives rejoice.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the people of Sela sing for joy;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "let them shout from the mountaintops.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them give glory to the Lord",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and proclaim his praise in the islands.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will march out like a champion,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "like a warrior he will stir up his zeal;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "with a shout he will raise the battle cry",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and will triumph over his enemies.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“For a long time I have kept silent,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have been quiet and held myself back.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But now, like a woman in childbirth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I cry out, I gasp and pant.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lay waste the mountains and hills",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and dry up all their vegetation;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn rivers into islands",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and dry up the pools.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lead the blind by ways they have not known,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "along unfamiliar paths I will guide them;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn the darkness into light before them",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and make the rough places smooth.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "These are the things I will do;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not forsake them.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But those who trust in idols,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "who say to images, ‘You are our gods,’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "will be turned back in utter shame.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel Blind and Deaf",
+      "type": "heading"
+    },
+    {
+      "text": "“Hear, you deaf;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "look, you blind, and see!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is blind but my servant,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and deaf like the messenger I send?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is blind like the one in covenant with me,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "blind like the servant of the Lord?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You have seen many things, but you pay no attention;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "your ears are open, but you do not listen.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "It pleased the Lord",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for the sake of his righteousness",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "to make his law great and glorious.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But this is a people plundered and looted,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them trapped in pits",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "or hidden away in prisons.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "They have become plunder,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "with no one to rescue them;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "they have been made loot,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "with no one to say, “Send them back.”",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Which of you will listen to this",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or pay close attention in time to come?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Who handed Jacob over to become loot,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and Israel to the plunderers?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Was it not the Lord,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "against whom we have sinned?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For they would not follow his ways;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "they did not obey his law.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "So he poured out on them his burning anger,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "the violence of war.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "It enveloped them in flames, yet they did not understand;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "it consumed them, but they did not take it to heart.",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

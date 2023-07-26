@@ -1,0 +1,111 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 23,
+  "verses": 6,
+  "content": [
+    {
+      "text": "The Lord Is My Shepherd",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The Lord is my shepherd; I shall not want.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    He makes me lie down in green pastures.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He leads me beside still waters.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "    He restores my soul.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He leads me in paths of righteousness",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for his name's sake.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Even though I walk through the valley of the shadow of death,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will fear no evil,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are with me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "your rod and your staff,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they comfort me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You prepare a table before me",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the presence of my enemies;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you anoint my head with oil;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my cup overflows.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely goodness and mercy shall follow me",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "all the days of my life,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and I shall dwell in the house of the Lord",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "forever.",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

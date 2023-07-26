@@ -1,0 +1,301 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 1,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Judgments on Israel’s Neighbors",
+      "type": "heading"
+    },
+    {
+      "text": "The words of Amos, who was among the sheepbreeders of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And he said:",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "“The Lord roars from Zion,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And utters His voice from Jerusalem;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The pastures of the shepherds mourn,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And the top of Carmel withers.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on the Nations",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of Damascus, and for four,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they have threshed Gilead with implements of iron.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will send a fire into the house of Hazael,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Which shall devour the palaces of Ben-Hadad.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also break the gate bar of Damascus,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And cut off the inhabitant from the Valley of Aven,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the one who holds the scepter from Beth Eden.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The people of Syria shall go captive to Kir,”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of Gaza, and for four,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they took captive the whole captivity",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "To deliver them up to Edom.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will send a fire upon the wall of Gaza,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Which shall devour its palaces.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cut off the inhabitant from Ashdod,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the one who holds the scepter from Ashkelon;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn My hand against Ekron,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the remnant of the Philistines shall perish,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of Tyre, and for four,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they delivered up the whole captivity to Edom,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And did not remember the covenant of brotherhood.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will send a fire upon the wall of Tyre,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Which shall devour its palaces.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of Edom, and for four,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he pursued his brother with the sword,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And cast off all pity;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His anger tore perpetually,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And he kept his wrath forever.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will send a fire upon Teman,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Which shall devour the palaces of Bozrah.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“For three transgressions of the people of Ammon, and for four,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will not turn away its punishment,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they ripped open the women with child in Gilead,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That they might enlarge their territory.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will kindle a fire in the wall of Rabbah,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall devour its palaces,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Amid shouting in the day of battle,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And a tempest in the day of the whirlwind.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Their king shall go into captivity,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He and his princes together,”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

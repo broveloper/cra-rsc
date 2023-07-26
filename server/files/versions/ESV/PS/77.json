@@ -1,0 +1,246 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 77,
+  "verses": 20,
+  "content": [
+    {
+      "text": "In the Day of Trouble I Seek the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: according to Jeduthun. A Psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "I cry aloud to God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "aloud to God, and he will hear me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of my trouble I seek the Lord;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in the night my hand is stretched out without wearying;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "my soul refuses to be comforted.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I remember God, I moan;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when I meditate, my spirit faints. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You hold my eyelids open;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I am so troubled that I cannot speak.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I consider the days of old,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the years long ago.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “Let me remember my song in the night;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "let me meditate in my heart.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then my spirit made a diligent search:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Will the Lord spurn forever,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and never again be favorable?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Has his steadfast love forever ceased?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Are his promises at an end for all time?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Has God forgotten to be gracious?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Has he in anger shut up his compassion?” Selah",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I said, “I will appeal to this,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to the years of the right hand of the Most High.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will remember the deeds of the Lord;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "yes, I will remember your wonders of old.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will ponder all your work,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and meditate on your mighty deeds.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Your way, O God, is holy.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "What god is great like our God?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You are the God who works wonders;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "you have made known your might among the peoples.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You with your arm redeemed your people,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the children of Jacob and Joseph. Selah",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "When the waters saw you, O God,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when the waters saw you, they were afraid;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "indeed, the deep trembled.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The clouds poured out water;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the skies gave forth thunder;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "your arrows flashed on every side.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The crash of your thunder was in the whirlwind;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "your lightnings lighted up the world;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth trembled and shook.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your way was through the sea,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "your path through the great waters;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "yet your footprints were unseen.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You led your people like a flock",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "by the hand of Moses and Aaron.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

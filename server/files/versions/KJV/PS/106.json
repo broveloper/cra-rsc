@@ -1,0 +1,247 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 106,
+  "verses": 48,
+  "content": [
+    {
+      "text": "Praise ye the Lord. O give thanks unto the Lord; for he is good: for his mercy endureth for ever.",
+      "verse": 1
+    },
+    {
+      "text": "Who can utter the mighty acts of the Lord? who can shew forth all his praise?",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Blessed are they that keep judgment, and he that doeth righteousness at all times.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Remember me, O Lord, with the favour that thou bearest unto thy people: O visit me with thy salvation;",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked him at the sea, even at the Red sea.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Nevertheless he saved them for his name's sake, that he might make his mighty power to be known.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And he saved them from the hand of him that hated them, and redeemed them from the hand of the enemy.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "And the waters covered their enemies: there was not one of them left.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Then believed they his words; they sang his praise.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "They soon forgat his works; they waited not for his counsel:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "But lusted exceedingly in the wilderness, and tempted God in the desert.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "And he gave them their request; but sent leanness into their soul.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "They envied Moses also in the camp, and Aaron the saint of the Lord.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "The earth opened and swallowed up Dathan and covered the company of Abiram.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "And a fire was kindled in their company; the flame burned up the wicked.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "They made a calf in Horeb, and worshipped the molten image.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Thus they changed their glory into the similitude of an ox that eateth grass.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "They forgat God their saviour, which had done great things in Egypt;",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Wondrous works in the land of Ham, and terrible things by the Red sea.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "Yea, they despised the pleasant land, they believed not his word:",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "But murmured in their tents, and hearkened not unto the voice of the Lord.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore he lifted up his hand against them, to overthrow them in the wilderness:",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "To overthrow their seed also among the nations, and to scatter them in the lands.",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "They joined themselves also unto Baalpeor, and ate the sacrifices of the dead.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "Thus they provoked him to anger with their inventions: and the plague brake in upon them.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "Then stood up Phinehas, and executed judgment: and so the plague was stayed.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "And that was counted unto him for righteousness unto all generations for evermore.",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "They angered him also at the waters of strife, so that it went ill with Moses for their sakes:",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "Because they provoked his spirit, so that he spake unadvisedly with his lips.",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "They did not destroy the nations, concerning whom the Lord commanded them:",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "But were mingled among the heathen, and learned their works.",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "And they served their idols: which were a snare unto them.",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "Yea, they sacrificed their sons and their daughters unto devils,",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "Thus were they defiled with their own works, and went a whoring with their own inventions.",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore was the wrath of the Lord kindled against his people, insomuch that he abhorred his own inheritance.",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "And he gave them into the hand of the heathen; and they that hated them ruled over them.",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "Their enemies also oppressed them, and they were brought into subjection under their hand.",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity.",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "Nevertheless he regarded their affliction, when he heard their cry:",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "And he remembered for them his covenant, and repented according to the multitude of his mercies.",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "He made them also to be pitied of all those that carried them captives.",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "Save us, O Lord our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.",
+      "verse": 47,
+      "type": "newline"
+    },
+    {
+      "text": "Blessed be the Lord God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the Lord.",
+      "verse": 48,
+      "type": "newline"
+    }
+  ]
+}

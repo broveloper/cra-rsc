@@ -1,0 +1,126 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 8,
+  "verses": 9,
+  "content": [
+    {
+      "text": "The Glory of the Lord in Creation",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. On the instrument of Gath. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "O Lord, our Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How excellent is Your name in all the earth,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have set Your glory above the heavens!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Out of the mouth of babes and nursing infants",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have ordained strength,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of Your enemies,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "That You may silence the enemy and the avenger.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I consider Your heavens, the work of Your fingers,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The moon and the stars, which You have ordained,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "What is man that You are mindful of him,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And the son of man that You visit him?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have made him a little lower than the angels,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And You have crowned him with glory and honor.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made him to have dominion over the works of Your hands;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have put all things under his feet,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All sheep and oxen—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the beasts of the field,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The birds of the air,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fish of the sea",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That pass through the paths of the seas.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, our Lord,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How excellent is Your name in all the earth!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

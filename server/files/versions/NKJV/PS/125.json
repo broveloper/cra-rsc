@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 125,
+  "verses": 5,
+  "content": [
+    {
+      "text": "The Lord the Strength of His People",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "Those who trust in the Lord",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Are like Mount Zion,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Which cannot be moved, but abides forever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "As the mountains surround Jerusalem,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "So the Lord surrounds His people",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "From this time forth and forever.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the scepter of wickedness shall not rest",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "On the land allotted to the righteous,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest the righteous reach out their hands to iniquity.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do good, O Lord, to those who are good,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And to those who are upright in their hearts.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As for such as turn aside to their crooked ways,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord shall lead them away",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "With the workers of iniquity.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Peace be upon Israel!",
+      "verse": 5,
+      "type": "poetry newline"
+    }
+  ]
+}

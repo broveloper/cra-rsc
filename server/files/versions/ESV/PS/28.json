@@ -1,0 +1,161 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 28,
+  "verses": 9,
+  "content": [
+    {
+      "text": "The Lord Is My Strength and My Shield",
+      "type": "heading"
+    },
+    {
+      "text": "Of David.",
+      "type": "title"
+    },
+    {
+      "text": "To you, O Lord, I call;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my rock, be not deaf to me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "lest, if you be silent to me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I become like those who go down to the pit.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear the voice of my pleas for mercy,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when I cry to you for help,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when I lift up my hands",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "toward your most holy sanctuary.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not drag me off with the wicked,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with the workers of evil,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who speak peace with their neighbors",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "while evil is in their hearts.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Give to them according to their work",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and according to the evil of their deeds;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "give to them according to the work of their hands;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "render them their due reward.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they do not regard the works of the Lord",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "or the work of his hands,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he will tear them down and build them up no more.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord!",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For he has heard the voice of my pleas for mercy.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is my strength and my shield;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "in him my heart trusts, and I am helped;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "my heart exults,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and with my song I give thanks to him.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is the strength of his people;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he is the saving refuge of his anointed.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, save your people and bless your heritage!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Be their shepherd and carry them forever.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

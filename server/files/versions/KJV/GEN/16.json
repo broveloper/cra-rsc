@@ -1,0 +1,87 @@
+{
+  "book_id": "GEN",
+  "book_name": "Genesis",
+  "chapter": 16,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",
+      "verse": 1
+    },
+    {
+      "text": "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "But Abram said unto Sarai, Behold, thy maid is in thine hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "And the angel of the Lord found her by a fountain of water in the wilderness, by the fountain in the way to Shur.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And he said, Hagar, Sarai's maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "And the angel of the Lord said unto her, Return to thy mistress, and submit thyself under her hands.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And the angel of the Lord said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "And the angel of the Lord said unto her, Behold, thou art with child and shalt bear a son, and shalt call his name Ishmael; because the Lord hath heard thy affliction.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And she called the name of the Lord that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.",
+      "verse": 16,
+      "type": "newline"
+    }
+  ]
+}

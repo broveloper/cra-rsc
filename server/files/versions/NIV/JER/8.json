@@ -1,0 +1,469 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 8,
+  "verses": 22,
+  "content": [
+    {
+      "text": "“‘At that time, declares the Lord, the bones of the kings and officials of Judah, the bones of the priests and prophets, and the bones of the people of Jerusalem will be removed from their graves.",
+      "verse": 1
+    },
+    {
+      "text": "They will be exposed to the sun and the moon and all the stars of the heavens, which they have loved and served and which they have followed and consulted and worshiped. They will not be gathered up or buried, but will be like dung lying on the ground.",
+      "verse": 2
+    },
+    {
+      "text": "Wherever I banish them, all the survivors of this evil nation will prefer death to life, declares the Lord Almighty.’",
+      "verse": 3
+    },
+    {
+      "text": "Sin and Punishment",
+      "type": "heading"
+    },
+    {
+      "text": "“Say to them, ‘This is what the Lord says:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“‘When people fall down, do they not get up?",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When someone turns away, do they not return?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why then have these people turned away?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Why does Jerusalem always turn away?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They cling to deceit;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they refuse to return.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I have listened attentively,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but they do not say what is right.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "None of them repent of their wickedness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, “What have I done?”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Each pursues their own course",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like a horse charging into battle.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the stork in the sky",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "knows her appointed seasons,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the dove, the swift and the thrush",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "observe the time of their migration.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But my people do not know",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the requirements of the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘How can you say, “We are wise,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for we have the law of the Lord,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when actually the lying pen of the scribes",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "has handled it falsely?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The wise will be put to shame;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be dismayed and trapped.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Since they have rejected the word of the Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "what kind of wisdom do they have?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will give their wives to other men",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and their fields to new owners.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "From the least to the greatest,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "all are greedy for gain;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "prophets and priests alike,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "all practice deceit.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They dress the wound of my people",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "as though it were not serious.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Peace, peace,” they say,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "when there is no peace.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Are they ashamed of their detestable conduct?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "No, they have no shame at all;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they do not even know how to blush.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "So they will fall among the fallen;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be brought down when they are punished,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘I will take away their harvest,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "There will be no grapes on the vine.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "There will be no figs on the tree,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and their leaves will wither.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "What I have given them",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "will be taken from them.’”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are we sitting here?",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Gather together!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us flee to the fortified cities",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and perish there!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord our God has doomed us to perish",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and given us poisoned water to drink,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "because we have sinned against him.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "We hoped for peace",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "but no good has come,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for a time of healing",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "but there is only terror.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The snorting of the enemy’s horses",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "is heard from Dan;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "at the neighing of their stallions",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the whole land trembles.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They have come to devour",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the land and everything in it,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the city and all who live there.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“See, I will send venomous snakes among you,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "vipers that cannot be charmed,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will bite you,”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "You who are my Comforter in sorrow,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my heart is faint within me.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen to the cry of my people",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "from a land far away:",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is the Lord not in Zion?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Is her King no longer there?”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why have they aroused my anger with their images,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with their worthless foreign idols?”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“The harvest is past,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the summer has ended,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and we are not saved.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Since my people are crushed, I am crushed;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I mourn, and horror grips me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Is there no balm in Gilead?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Is there no physician there?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Why then is there no healing",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "for the wound of my people?",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "book_id": "LAM",
+  "book_name": "Lamentations",
+  "chapter": 3,
+  "verses": 66,
+  "content": [
+    {
+      "text": "The Prophet’s Anguish and Hope",
+      "type": "heading"
+    },
+    {
+      "text": "I am the man who has seen affliction by the rod of His wrath.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has led me and made me walk",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In darkness and not in light.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely He has turned His hand against me",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Time and time again throughout the day.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He has aged my flesh and my skin,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And broken my bones.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He has besieged me",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And surrounded me with bitterness and woe.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He has set me in dark places",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the dead of long ago.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He has hedged me in so that I cannot get out;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has made my chain heavy.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Even when I cry and shout,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He shuts out my prayer.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He has blocked my ways with hewn stone;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He has made my paths crooked.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He has been to me a bear lying in wait,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Like a lion in ambush.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He has turned aside my ways and torn me in pieces;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He has made me desolate.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He has bent His bow",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And set me up as a target for the arrow.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He has caused the arrows of His quiver",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To pierce my loins.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I have become the ridicule of all my people—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Their taunting song all the day.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He has filled me with bitterness,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He has made me drink wormwood.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He has also broken my teeth with gravel,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And covered me with ashes.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You have moved my soul far from peace;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I have forgotten prosperity.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And I said, “My strength and my hope",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Have perished from the Lord.”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember my affliction and roaming,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The wormwood and the gall.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul still remembers",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And sinks within me.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "This I recall to my mind,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I have hope.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Through the Lord’s mercies we are not consumed,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because His compassions fail not.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "They are new every morning;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Great is Your faithfulness.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord is my portion,” says my soul,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I hope in Him!”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is good to those who wait for Him,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To the soul who seeks Him.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "It is good that one should hope and wait quietly",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "For the salvation of the Lord.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "It is good for a man to bear",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The yoke in his youth.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him sit alone and keep silent,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because God has laid it on him;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him put his mouth in the dust—",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "There may yet be hope.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him give his cheek to the one who strikes him,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And be full of reproach.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will not cast off forever.",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Though He causes grief,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet He will show compassion",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "According to the multitude of His mercies.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "For He does not afflict willingly,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor grieve the children of men.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "To crush under one’s feet",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All the prisoners of the earth,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "To turn aside the justice due a man",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the face of the Most High,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Or subvert a man in his cause—",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord does not approve.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is he who speaks and it comes to pass,",
+      "verse": 37,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When the Lord has not commanded it?",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not from the mouth of the Most High",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "That woe and well-being proceed?",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should a living man complain,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "A man for the punishment of his sins?",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us search out and examine our ways,",
+      "verse": 40,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And turn back to the Lord;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us lift our hearts and hands",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "To God in heaven.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "We have transgressed and rebelled;",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "You have not pardoned.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "You have covered Yourself with anger",
+      "verse": 43,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And pursued us;",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "You have slain and not pitied.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "You have covered Yourself with a cloud,",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "That prayer should not pass through.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made us an offscouring and refuse",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of the peoples.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "All our enemies",
+      "verse": 46,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Have opened their mouths against us.",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear and a snare have come upon us,",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "Desolation and destruction.",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes overflow with rivers of water",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "For the destruction of the daughter of my people.",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes flow and do not cease,",
+      "verse": 49,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Without interruption,",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "Till the Lord from heaven",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "Looks down and sees.",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes bring suffering to my soul",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of all the daughters of my city.",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "My enemies without cause",
+      "verse": 52,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Hunted me down like a bird.",
+      "verse": 52,
+      "type": "poetry"
+    },
+    {
+      "text": "They silenced my life in the pit",
+      "verse": 53,
+      "type": "poetry"
+    },
+    {
+      "text": "And threw stones at me.",
+      "verse": 53,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters flowed over my head;",
+      "verse": 54,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “I am cut off!”",
+      "verse": 54,
+      "type": "poetry"
+    },
+    {
+      "text": "I called on Your name, O Lord,",
+      "verse": 55,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From the lowest pit.",
+      "verse": 55,
+      "type": "poetry"
+    },
+    {
+      "text": "You have heard my voice:",
+      "verse": 56,
+      "type": "poetry"
+    },
+    {
+      "text": "“Do not hide Your ear",
+      "verse": 56,
+      "type": "poetry"
+    },
+    {
+      "text": "From my sighing, from my cry for help.”",
+      "verse": 56,
+      "type": "poetry"
+    },
+    {
+      "text": "You drew near on the day I called on You,",
+      "verse": 57,
+      "type": "poetry"
+    },
+    {
+      "text": "And said, “Do not fear!”",
+      "verse": 57,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, You have pleaded the case for my soul;",
+      "verse": 58,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have redeemed my life.",
+      "verse": 58,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, You have seen how I am wronged;",
+      "verse": 59,
+      "type": "poetry"
+    },
+    {
+      "text": "Judge my case.",
+      "verse": 59,
+      "type": "poetry"
+    },
+    {
+      "text": "You have seen all their vengeance,",
+      "verse": 60,
+      "type": "poetry"
+    },
+    {
+      "text": "All their schemes against me.",
+      "verse": 60,
+      "type": "poetry"
+    },
+    {
+      "text": "You have heard their reproach, O Lord,",
+      "verse": 61,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All their schemes against me,",
+      "verse": 61,
+      "type": "poetry"
+    },
+    {
+      "text": "The lips of my enemies",
+      "verse": 62,
+      "type": "poetry"
+    },
+    {
+      "text": "And their whispering against me all the day.",
+      "verse": 62,
+      "type": "poetry"
+    },
+    {
+      "text": "Look at their sitting down and their rising up;",
+      "verse": 63,
+      "type": "poetry"
+    },
+    {
+      "text": "I am their taunting song.",
+      "verse": 63,
+      "type": "poetry"
+    },
+    {
+      "text": "Repay them, O Lord,",
+      "verse": 64,
+      "type": "poetry newline"
+    },
+    {
+      "text": "According to the work of their hands.",
+      "verse": 64,
+      "type": "poetry"
+    },
+    {
+      "text": "Give them a veiled heart;",
+      "verse": 65,
+      "type": "poetry"
+    },
+    {
+      "text": "Your curse be upon them!",
+      "verse": 65,
+      "type": "poetry"
+    },
+    {
+      "text": "In Your anger,",
+      "verse": 66,
+      "type": "poetry"
+    },
+    {
+      "text": "Pursue and destroy them",
+      "verse": 66,
+      "type": "poetry"
+    },
+    {
+      "text": "From under the heavens of the Lord.",
+      "verse": 66,
+      "type": "poetry"
+    }
+  ]
+}

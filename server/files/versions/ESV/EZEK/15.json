@@ -1,0 +1,45 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 15,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Jerusalem, a Useless Vine",
+      "type": "heading"
+    },
+    {
+      "text": "And the word of the Lord came to me:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, how does the wood of the vine surpass any wood, the vine branch that is among the trees of the forest?",
+      "verse": 2
+    },
+    {
+      "text": "Is wood taken from it to make anything? Do people take a peg from it to hang any vessel on it?",
+      "verse": 3
+    },
+    {
+      "text": "Behold, it is given to the fire for fuel. When the fire has consumed both ends of it, and the middle of it is charred, is it useful for anything?",
+      "verse": 4
+    },
+    {
+      "text": "Behold, when it was whole, it was used for nothing. How much less, when the fire has consumed it and it is charred, can it ever be used for anything!",
+      "verse": 5
+    },
+    {
+      "text": "Therefore thus says the Lord God: Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so have I given up the inhabitants of Jerusalem.",
+      "verse": 6
+    },
+    {
+      "text": "And I will set my face against them. Though they escape from the fire, the fire shall yet consume them, and you will know that I am the Lord, when I set my face against them.",
+      "verse": 7
+    },
+    {
+      "text": "And I will make the land desolate, because they have acted faithlessly, declares the Lord God.”",
+      "verse": 8
+    }
+  ]
+}

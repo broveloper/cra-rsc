@@ -1,0 +1,131 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 75,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Psalm 75",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. To the tune of “Do Not Destroy.” A psalm of Asaph. A song.",
+      "type": "title"
+    },
+    {
+      "text": "We praise you, God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "we praise you, for your Name is near;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "people tell of your wonderful deeds.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You say, “I choose the appointed time;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "it is I who judge with equity.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When the earth and all its people quake,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "it is I who hold its pillars firm.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "To the arrogant I say, ‘Boast no more,’",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and to the wicked, ‘Do not lift up your horns.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not lift your horns against heaven;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "do not speak so defiantly.’”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "No one from the east or the west",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or from the desert can exalt themselves.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It is God who judges:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He brings one down, he exalts another.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In the hand of the Lord is a cup",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "full of foaming wine mixed with spices;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he pours it out, and all the wicked of the earth",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "drink it down to its very dregs.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "As for me, I will declare this forever;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing praise to the God of Jacob,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who says, “I will cut off the horns of all the wicked,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "but the horns of the righteous will be lifted up.”",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

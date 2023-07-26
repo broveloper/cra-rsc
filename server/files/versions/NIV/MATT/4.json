@@ -1,0 +1,178 @@
+{
+  "book_id": "MATT",
+  "book_name": "Matthew",
+  "chapter": 4,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Jesus Is Tested in the Wilderness",
+      "type": "heading"
+    },
+    {
+      "text": "Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "After fasting forty days and forty nights, he was hungry.",
+      "verse": 2
+    },
+    {
+      "text": "The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.”",
+      "verse": 3
+    },
+    {
+      "text": "Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Then the devil took him to the holy city and had him stand on the highest point of the temple.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“If you are the Son of God,” he said, “throw yourself down. For it is written:",
+      "verse": 6
+    },
+    {
+      "text": "“‘He will command his angels concerning you,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and they will lift you up in their hands,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "so that you will not strike your foot against a stone.’”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Jesus answered him, “It is also written: ‘Do not put the Lord your God to the test.’”",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendor.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“All this I will give you,” he said, “if you will bow down and worship me.”",
+      "verse": 9
+    },
+    {
+      "text": "Jesus said to him, “Away from me, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’”",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Then the devil left him, and angels came and attended him.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus Begins to Preach",
+      "type": "heading"
+    },
+    {
+      "text": "When Jesus heard that John had been put in prison, he withdrew to Galilee.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Leaving Nazareth, he went and lived in Capernaum, which was by the lake in the area of Zebulun and Naphtali—",
+      "verse": 13
+    },
+    {
+      "text": "to fulfill what was said through the prophet Isaiah:",
+      "verse": 14
+    },
+    {
+      "text": "“Land of Zebulun and land of Naphtali,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Way of the Sea, beyond the Jordan,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Galilee of the Gentiles—",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the people living in darkness",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "have seen a great light;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "on those living in the land of the shadow of death",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "a light has dawned.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "From that time on Jesus began to preach, “Repent, for the kingdom of heaven has come near.”",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus Calls His First Disciples",
+      "type": "heading"
+    },
+    {
+      "text": "As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "“Come, follow me,” Jesus said, “and I will send you out to fish for people.”",
+      "verse": 19
+    },
+    {
+      "text": "At once they left their nets and followed him.",
+      "verse": 20
+    },
+    {
+      "text": "Going on from there, he saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, preparing their nets. Jesus called them,",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "and immediately they left the boat and their father and followed him.",
+      "verse": 22
+    },
+    {
+      "text": "Jesus Heals the Sick",
+      "type": "heading"
+    },
+    {
+      "text": "Jesus went throughout Galilee, teaching in their synagogues, proclaiming the good news of the kingdom, and healing every disease and sickness among the people.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "News about him spread all over Syria, and people brought to him all who were ill with various diseases, those suffering severe pain, the demon-possessed, those having seizures, and the paralyzed; and he healed them.",
+      "verse": 24
+    },
+    {
+      "text": "Large crowds from Galilee, the Decapolis, Jerusalem, Judea and the region across the Jordan followed him.",
+      "verse": 25
+    }
+  ]
+}

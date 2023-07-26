@@ -1,0 +1,96 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 127,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Psalm 127",
+      "type": "heading"
+    },
+    {
+      "text": "A song of ascents. Of Solomon.",
+      "type": "title"
+    },
+    {
+      "text": "Unless the Lord builds the house,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the builders labor in vain.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless the Lord watches over the city,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "the guards stand watch in vain.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In vain you rise early",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and stay up late,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "toiling for food to eat—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for he grants sleep to those he loves.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Children are a heritage from the Lord,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "offspring a reward from him.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Like arrows in the hands of a warrior",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "are children born in one’s youth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "whose quiver is full of them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They will not be put to shame",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "when they contend with their opponents in court.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

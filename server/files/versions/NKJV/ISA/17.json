@@ -1,0 +1,277 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 17,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Proclamation Against Syria and Israel",
+      "type": "heading"
+    },
+    {
+      "text": "The burden against Damascus.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Behold, Damascus will cease from being a city,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And it will be a ruinous heap.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The cities of Aroer are forsaken;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be for flocks",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Which lie down, and no one will make them afraid.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The fortress also will cease from Ephraim,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The kingdom from Damascus,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And the remnant of Syria;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be as the glory of the children of Israel,”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“In that day it shall come to pass",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That the glory of Jacob will wane,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fatness of his flesh grow lean.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall be as when the harvester gathers the grain,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And reaps the heads with his arm;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall be as he who gathers heads of grain",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In the Valley of Rephaim.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet gleaning grapes will be left in it,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the shaking of an olive tree,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Two or three olives at the top of the uppermost bough,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Four or five in its most fruitful branches,”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God of Israel.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day a man will look to his Maker,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his eyes will have respect for the Holy One of Israel.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not look to the altars,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The work of his hands;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not respect what his fingers have made,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor the wooden images nor the incense altars.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day his strong cities will be as a forsaken bough",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And an uppermost branch,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Which they left because of the children of Israel;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And there will be desolation.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have forgotten the God of your salvation,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And have not been mindful of the Rock of your stronghold,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore you will plant pleasant plants",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And set out foreign seedlings;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day you will make your plant to grow,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the morning you will make your seed to flourish;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But the harvest will be a heap of ruins",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of grief and desperate sorrow.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to the multitude of many people",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who make a noise like the roar of the seas,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the rushing of nations",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "That make a rushing like the rushing of mighty waters!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The nations will rush like the rushing of many waters;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But God will rebuke them and they will flee far away,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And be chased like the chaff of the mountains before the wind,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a rolling thing before the whirlwind.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then behold, at eventide, trouble!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And before the morning, he is no more.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the portion of those who plunder us,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And the lot of those who rob us.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

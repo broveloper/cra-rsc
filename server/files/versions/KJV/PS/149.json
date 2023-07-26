@@ -1,0 +1,52 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 149,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.",
+      "verse": 1
+    },
+    {
+      "text": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For the Lord taketh pleasure in his people: he will beautify the meek with salvation.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Let the saints be joyful in glory: let them sing aloud upon their beds.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Let the high praises of God be in their mouth, and a two-edged sword in their hand;",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "To execute vengeance upon the heathen, and punishments upon the people;",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "To bind their kings with chains, and their nobles with fetters of iron;",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord.",
+      "verse": 9,
+      "type": "newline"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 5,
+  "verses": 27,
+  "content": [
+    {
+      "text": "A Lament and Call to Repentance",
+      "type": "heading"
+    },
+    {
+      "text": "Hear this word, Israel, this lament I take up concerning you:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Fallen is Virgin Israel,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "never to rise again,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "deserted in her own land,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "with no one to lift her up.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Sovereign Lord says to Israel:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“Your city that marches out a thousand strong",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will have only a hundred left;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "your town that marches out a hundred strong",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "will have only ten left.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says to Israel:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“Seek me and live;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    do not seek Bethel,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "do not go to Gilgal,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "do not journey to Beersheba.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For Gilgal will surely go into exile,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and Bethel will be reduced to nothing.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek the Lord and live,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "or he will sweep through the tribes of Joseph like a fire;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "it will devour them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and Bethel will have no one to quench it.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "There are those who turn justice into bitterness",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and cast righteousness to the ground.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who made the Pleiades and Orion,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who turns midnight into dawn",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and darkens day into night,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who calls for the waters of the sea",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and pours them out over the face of the land—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord is his name.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "With a blinding flash he destroys the stronghold",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and brings the fortified city to ruin.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "There are those who hate the one who upholds justice in court",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and detest the one who tells the truth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You levy a straw tax on the poor",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and impose a tax on their grain.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, though you have built stone mansions,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you will not live in them;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "though you have planted lush vineyards,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you will not drink their wine.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For I know how many are your offenses",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and how great your sins.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "There are those who oppress the innocent and take bribes",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and deprive the poor of justice in the courts.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the prudent keep quiet in such times,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for the times are evil.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek good, not evil,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that you may live.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the Lord God Almighty will be with you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "just as you say he is.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Hate evil, love good;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "maintain justice in the courts.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Perhaps the Lord God Almighty will have mercy",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "on the remnant of Joseph.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore this is what the Lord, the Lord God Almighty, says:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“There will be wailing in all the streets",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and cries of anguish in every public square.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The farmers will be summoned to weep",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the mourners to wail.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "There will be wailing in all the vineyards,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for I will pass through your midst,”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The Day of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to you who long",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the day of the Lord!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you long for the day of the Lord?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "That day will be darkness, not light.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be as though a man fled from a lion",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "only to meet a bear,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "as though he entered his house",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and rested his hand on the wall",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "only to have a snake bite him.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Will not the day of the Lord be darkness, not light—",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "pitch-dark, without a ray of brightness?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“I hate, I despise your religious festivals;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your assemblies are a stench to me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Even though you bring me burnt offerings and grain offerings,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not accept them.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Though you bring choice fellowship offerings,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will have no regard for them.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Away with the noise of your songs!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not listen to the music of your harps.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "But let justice roll on like a river,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "righteousness like a never-failing stream!",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“Did you bring me sacrifices and offerings",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "forty years in the wilderness, people of Israel?",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "You have lifted up the shrine of your king,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "the pedestal of your idols,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "the star of your god—",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "which you made for yourselves.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will send you into exile beyond Damascus,”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord, whose name is God Almighty.",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

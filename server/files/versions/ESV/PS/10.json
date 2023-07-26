@@ -1,0 +1,217 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 10,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Why Do You Hide Yourself?",
+      "type": "heading"
+    },
+    {
+      "text": "Why, O Lord, do you stand far away?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why do you hide yourself in times of trouble?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In arrogance the wicked hotly pursue the poor;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let them be caught in the schemes that they have devised.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the wicked boasts of the desires of his soul,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the one greedy for gain curses and renounces the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the pride of his face the wicked does not seek him;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "all his thoughts are, “There is no God.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "His ways prosper at all times;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "your judgments are on high, out of his sight;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "as for all his foes, he puffs at them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He says in his heart, “I shall not be moved;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "throughout all generations I shall not meet adversity.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "His mouth is filled with cursing and deceit and oppression;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "under his tongue are mischief and iniquity.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He sits in ambush in the villages;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "in hiding places he murders the innocent.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "His eyes stealthily watch for the helpless;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "    he lurks in ambush like a lion in his thicket;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he lurks that he may seize the poor;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he seizes the poor when he draws him into his net.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The helpless are crushed, sink down,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and fall by his might.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He says in his heart, “God has forgotten,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he has hidden his face, he will never see it.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O Lord; O God, lift up your hand;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "forget not the afflicted.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Why does the wicked renounce God",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and say in his heart, “You will not call to account”?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But you do see, for you note mischief and vexation,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that you may take it into your hands;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to you the helpless commits himself;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "you have been the helper of the fatherless.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Break the arm of the wicked and evildoer;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "call his wickedness to account till you find none.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is king forever and ever;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the nations perish from his land.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, you hear the desire of the afflicted;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you will strengthen their heart; you will incline your ear",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "to do justice to the fatherless and the oppressed,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "so that man who is of the earth may strike terror no more.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 19,
+  "verses": 29,
+  "content": [
+    {
+      "text": "The Fear of the Lord Leads to Life",
+      "type": "heading"
+    },
+    {
+      "text": "Better is the poor who walks in his integrity",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than one who is perverse in his lips, and is a fool.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Also it is not good for a soul to be without knowledge,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he sins who hastens with his feet.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The foolishness of a man twists his way,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his heart frets against the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Wealth makes many friends,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the poor is separated from his friend.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A false witness will not go unpunished,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who speaks lies will not escape.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Many entreat the favor of the nobility,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And every man is a friend to one who gives gifts.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All the brothers of the poor hate him;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "How much more do his friends go far from him!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He may pursue them with words, yet they abandon him.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who gets wisdom loves his own soul;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He who keeps understanding will find good.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "A false witness will not go unpunished,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who speaks lies shall perish.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Luxury is not fitting for a fool,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Much less for a servant to rule over princes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The discretion of a man makes him slow to anger,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his glory is to overlook a transgression.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The king’s wrath is like the roaring of a lion,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But his favor is like dew on the grass.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A foolish son is the ruin of his father,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the contentions of a wife are a continual dripping.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Houses and riches are an inheritance from fathers,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a prudent wife is from the Lord.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Laziness casts one into a deep sleep,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And an idle person will suffer hunger.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He who keeps the commandment keeps his soul,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who is careless of his ways will die.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He who has pity on the poor lends to the Lord,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And He will pay back what he has given.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Chasten your son while there is hope,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And do not set your heart on his destruction.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "A man of great wrath will suffer punishment;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For if you rescue him, you will have to do it again.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen to counsel and receive instruction,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That you may be wise in your latter days.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "There are many plans in a man’s heart,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nevertheless the Lord’s counsel—that will stand.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "What is desired in a man is kindness,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a poor man is better than a liar.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord leads to life,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who has it will abide in satisfaction;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not be visited with evil.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "A lazy man buries his hand in the bowl,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And will not so much as bring it to his mouth again.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Strike a scoffer, and the simple will become wary;",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Rebuke one who has understanding, and he will discern knowledge.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He who mistreats his father and chases away his mother",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is a son who causes shame and brings reproach.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Cease listening to instruction, my son,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And you will stray from the words of knowledge.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "A disreputable witness scorns justice,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the mouth of the wicked devours iniquity.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgments are prepared for scoffers,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And beatings for the backs of fools.",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

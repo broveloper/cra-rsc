@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 16,
+  "verses": 11,
+  "content": [
+    {
+      "text": "The Hope of the Faithful, and the Messiah’s Victory",
+      "type": "heading"
+    },
+    {
+      "text": "A Michtam of David.",
+      "type": "title"
+    },
+    {
+      "text": "Preserve me, O God, for in You I put my trust.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O my soul, you have said to the Lord,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“You are my Lord,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My goodness is nothing apart from You.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "As for the saints who are on the earth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“They are the excellent ones, in whom is all my delight.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their sorrows shall be multiplied who hasten after another god;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Their drink offerings of blood I will not offer,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor take up their names on my lips.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, You are the portion of my inheritance and my cup;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You maintain my lot.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The lines have fallen to me in pleasant places;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, I have a good inheritance.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bless the Lord who has given me counsel;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My heart also instructs me in the night seasons.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I have set the Lord always before me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Because He is at my right hand I shall not be moved.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore my heart is glad, and my glory rejoices;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My flesh also will rest in hope.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For You will not leave my soul in Sheol,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will You allow Your Holy One to see corruption.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You will show me the path of life;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In Your presence is fullness of joy;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "At Your right hand are pleasures forevermore.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

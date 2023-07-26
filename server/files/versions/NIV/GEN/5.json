@@ -1,0 +1,156 @@
+{
+  "book_id": "GEN",
+  "book_name": "Genesis",
+  "chapter": 5,
+  "verses": 32,
+  "content": [
+    {
+      "text": "From Adam to Noah",
+      "type": "heading"
+    },
+    {
+      "text": "This is the written account of Adam’s family line.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "When God created mankind, he made them in the likeness of God.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "He created them male and female and blessed them. And he named them “Mankind” when they were created.",
+      "verse": 2
+    },
+    {
+      "text": "When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "After Seth was born, Adam lived 800 years and had other sons and daughters.",
+      "verse": 4
+    },
+    {
+      "text": "Altogether, Adam lived a total of 930 years, and then he died.",
+      "verse": 5
+    },
+    {
+      "text": "When Seth had lived 105 years, he became the father of Enosh.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "After he became the father of Enosh, Seth lived 807 years and had other sons and daughters.",
+      "verse": 7
+    },
+    {
+      "text": "Altogether, Seth lived a total of 912 years, and then he died.",
+      "verse": 8
+    },
+    {
+      "text": "When Enosh had lived 90 years, he became the father of Kenan.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "After he became the father of Kenan, Enosh lived 815 years and had other sons and daughters.",
+      "verse": 10
+    },
+    {
+      "text": "Altogether, Enosh lived a total of 905 years, and then he died.",
+      "verse": 11
+    },
+    {
+      "text": "When Kenan had lived 70 years, he became the father of Mahalalel.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "After he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.",
+      "verse": 13
+    },
+    {
+      "text": "Altogether, Kenan lived a total of 910 years, and then he died.",
+      "verse": 14
+    },
+    {
+      "text": "When Mahalalel had lived 65 years, he became the father of Jared.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "After he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters.",
+      "verse": 16
+    },
+    {
+      "text": "Altogether, Mahalalel lived a total of 895 years, and then he died.",
+      "verse": 17
+    },
+    {
+      "text": "When Jared had lived 162 years, he became the father of Enoch.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "After he became the father of Enoch, Jared lived 800 years and had other sons and daughters.",
+      "verse": 19
+    },
+    {
+      "text": "Altogether, Jared lived a total of 962 years, and then he died.",
+      "verse": 20
+    },
+    {
+      "text": "When Enoch had lived 65 years, he became the father of Methuselah.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "After he became the father of Methuselah, Enoch walked faithfully with God 300 years and had other sons and daughters.",
+      "verse": 22
+    },
+    {
+      "text": "Altogether, Enoch lived a total of 365 years.",
+      "verse": 23
+    },
+    {
+      "text": "Enoch walked faithfully with God; then he was no more, because God took him away.",
+      "verse": 24
+    },
+    {
+      "text": "When Methuselah had lived 187 years, he became the father of Lamech.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "After he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters.",
+      "verse": 26
+    },
+    {
+      "text": "Altogether, Methuselah lived a total of 969 years, and then he died.",
+      "verse": 27
+    },
+    {
+      "text": "When Lamech had lived 182 years, he had a son.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "He named him Noah and said, “He will comfort us in the labor and painful toil of our hands caused by the ground the Lord has cursed.”",
+      "verse": 29
+    },
+    {
+      "text": "After Noah was born, Lamech lived 595 years and had other sons and daughters.",
+      "verse": 30
+    },
+    {
+      "text": "Altogether, Lamech lived a total of 777 years, and then he died.",
+      "verse": 31
+    },
+    {
+      "text": "After Noah was 500 years old, he became the father of Shem, Ham and Japheth.",
+      "verse": 32,
+      "type": "newline"
+    }
+  ]
+}

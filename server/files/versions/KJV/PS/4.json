@@ -1,0 +1,47 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 4,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Hear me when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.",
+      "verse": 1
+    },
+    {
+      "text": "O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "But know that the Lord hath set apart him that is godly for himself: the Lord will hear when I call unto him.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Offer the sacrifices of righteousness, and put your trust in the Lord.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "There be many that say, Who will shew us any good? Lord, lift thou up the light of thy countenance upon us.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety.",
+      "verse": 8,
+      "type": "newline"
+    }
+  ]
+}

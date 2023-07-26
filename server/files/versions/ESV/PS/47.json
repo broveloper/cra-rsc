@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 47,
+  "verses": 9,
+  "content": [
+    {
+      "text": "God Is King over All the Earth",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of the Sons of Korah.",
+      "type": "title"
+    },
+    {
+      "text": "Clap your hands, all peoples!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shout to God with loud songs of joy!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord, the Most High, is to be feared,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a great king over all the earth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He subdued peoples under us,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and nations under our feet.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He chose our heritage for us,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the pride of Jacob whom he loves. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "God has gone up with a shout,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord with the sound of a trumpet.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing praises to God, sing praises!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing praises to our King, sing praises!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For God is the King of all the earth;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "sing praises with a psalm!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "God reigns over the nations;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "God sits on his holy throne.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The princes of the peoples gather",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as the people of the God of Abraham.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the shields of the earth belong to God;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he is highly exalted!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

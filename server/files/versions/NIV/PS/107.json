@@ -1,0 +1,450 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 107,
+  "verses": 43,
+  "content": [
+    {
+      "text": "BOOK V",
+      "type": "heading"
+    },
+    {
+      "text": "Psalms 107–150",
+      "type": "title"
+    },
+    {
+      "text": "Psalm 107",
+      "type": "heading"
+    },
+    {
+      "text": "Give thanks to the Lord, for he is good;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his love endures forever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the redeemed of the Lord tell their story—",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "those he redeemed from the hand of the foe,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "those he gathered from the lands,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "from east and west, from north and south.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Some wandered in desert wastelands,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "finding no way to a city where they could settle.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They were hungry and thirsty,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and their lives ebbed away.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cried out to the Lord in their trouble,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and he delivered them from their distress.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He led them by a straight way",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to a city where they could settle.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them give thanks to the Lord for his unfailing love",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and his wonderful deeds for mankind,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for he satisfies the thirsty",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and fills the hungry with good things.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Some sat in darkness, in utter darkness,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "prisoners suffering in iron chains,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "because they rebelled against God’s commands",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and despised the plans of the Most High.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "So he subjected them to bitter labor;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they stumbled, and there was no one to help.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cried to the Lord in their trouble,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and he saved them from their distress.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He brought them out of darkness, the utter darkness,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and broke away their chains.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them give thanks to the Lord for his unfailing love",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and his wonderful deeds for mankind,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for he breaks down gates of bronze",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and cuts through bars of iron.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Some became fools through their rebellious ways",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and suffered affliction because of their iniquities.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They loathed all food",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and drew near the gates of death.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cried to the Lord in their trouble,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and he saved them from their distress.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He sent out his word and healed them;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "he rescued them from the grave.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them give thanks to the Lord for his unfailing love",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and his wonderful deeds for mankind.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them sacrifice thank offerings",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and tell of his works with songs of joy.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Some went out on the sea in ships;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they were merchants on the mighty waters.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They saw the works of the Lord,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "his wonderful deeds in the deep.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For he spoke and stirred up a tempest",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "that lifted high the waves.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They mounted up to the heavens and went down to the depths;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "in their peril their courage melted away.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "They reeled and staggered like drunkards;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "they were at their wits’ end.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cried out to the Lord in their trouble,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and he brought them out of their distress.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He stilled the storm to a whisper;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the waves of the sea were hushed.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "They were glad when it grew calm,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and he guided them to their desired haven.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them give thanks to the Lord for his unfailing love",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and his wonderful deeds for mankind.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them exalt him in the assembly of the people",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and praise him in the council of the elders.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "He turned rivers into a desert,",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "flowing springs into thirsty ground,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and fruitful land into a salt waste,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the wickedness of those who lived there.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "He turned the desert into pools of water",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "and the parched ground into flowing springs;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "there he brought the hungry to live,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "and they founded a city where they could settle.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "They sowed fields and planted vineyards",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "that yielded a fruitful harvest;",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "he blessed them, and their numbers greatly increased,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "and he did not let their herds diminish.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Then their numbers decreased, and they were humbled",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "by oppression, calamity and sorrow;",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "he who pours contempt on nobles",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "made them wander in a trackless waste.",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "But he lifted the needy out of their affliction",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "and increased their families like flocks.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "The upright see and rejoice,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "but all the wicked shut their mouths.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the one who is wise heed these things",
+      "verse": 43,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and ponder the loving deeds of the Lord.",
+      "verse": 43,
+      "type": "poetry"
+    }
+  ]
+}

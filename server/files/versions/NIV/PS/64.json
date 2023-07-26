@@ -1,0 +1,141 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 64,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Psalm 64",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear me, my God, as I voice my complaint;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "protect my life from the threat of the enemy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide me from the conspiracy of the wicked,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from the plots of evildoers.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They sharpen their tongues like swords",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and aim cruel words like deadly arrows.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They shoot from ambush at the innocent;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they shoot suddenly, without fear.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They encourage each other in evil plans,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they talk about hiding their snares;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they say, “Who will see it?”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They plot injustice and say,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“We have devised a perfect plan!”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the human mind and heart are cunning.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But God will shoot them with his arrows;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they will suddenly be struck down.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He will turn their own tongues against them",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and bring them to ruin;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all who see them will shake their heads in scorn.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All people will fear;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they will proclaim the works of God",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and ponder what he has done.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous will rejoice in the Lord",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and take refuge in him;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "all the upright in heart will glory in him!",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

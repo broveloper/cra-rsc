@@ -1,0 +1,460 @@
+{
+  "book_id": "ZECH",
+  "book_name": "Zechariah",
+  "chapter": 8,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Jerusalem, Holy City of the Future",
+      "type": "heading"
+    },
+    {
+      "text": "Again the word of the Lord of hosts came, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 2
+    },
+    {
+      "text": "‘I am zealous for Zion with great zeal;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With great fervor I am zealous for her.’",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "‘I will return to Zion,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And dwell in the midst of Jerusalem.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem shall be called the City of Truth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Mountain of the Lord of hosts,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Holy Mountain.’",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "‘Old men and old women shall again sit",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In the streets of Jerusalem,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Each one with his staff in his hand",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of great age.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The streets of the city",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be full of boys and girls",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Playing in its streets.’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "‘If it is marvelous in the eyes of the remnant of this people in these days,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will it also be marvelous in My eyes?’",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "‘Behold, I will save My people from the land of the east",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And from the land of the west;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them back,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall dwell in the midst of Jerusalem.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be My people",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will be their God,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In truth and righteousness.’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "‘Let your hands be strong,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You who have been hearing in these days",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "These words by the mouth of the prophets,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who spoke in the day the foundation was laid",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the house of the Lord of hosts,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That the temple might be built.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For before these days",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "There were no wages for man nor any hire for beast;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "There was no peace from the enemy for whoever went out or came in;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For I set all men, everyone, against his neighbor.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But now I will not treat the remnant of this people as in the former days,’ says the Lord of hosts.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "‘For the seed shall be prosperous,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The vine shall give its fruit,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The ground shall give her increase,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And the heavens shall give their dew—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cause the remnant of this people",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "To possess all these.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall come to pass",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That just as you were a curse among the nations,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "O house of Judah and house of Israel,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So I will save you, and you shall be a blessing.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not fear,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your hands be strong.’",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“For thus says the Lord of hosts:",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "‘Just as I determined to punish you",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When your fathers provoked Me to wrath,’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "‘And I would not relent,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So again in these days",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I am determined to do good",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "To Jerusalem and to the house of Judah.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not fear.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "These are the things you shall do:",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Speak each man the truth to his neighbor;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Give judgment in your gates for truth, justice, and peace;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Let none of you think evil in your heart against your neighbor;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not love a false oath.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For all these are things that I hate,’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the word of the Lord of hosts came to me, saying, ",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 19
+    },
+    {
+      "text": "‘The fast of the fourth month,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The fast of the fifth,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The fast of the seventh,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fast of the tenth,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be joy and gladness and cheerful feasts",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For the house of Judah.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore love truth and peace.’",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "‘Peoples shall yet come,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Inhabitants of many cities;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The inhabitants of one city shall go to another, saying,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let us continue to go and pray before the Lord,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And seek the Lord of hosts.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I myself will go also.”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, many peoples and strong nations",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall come to seek the Lord of hosts in Jerusalem,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And to pray before the Lord.’",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord of hosts: ‘In those days ten men from every language of the nations shall grasp the sleeve of a Jewish man, saying, “Let us go with you, for we have heard that God is with you.” ’ ”",
+      "verse": 23,
+      "type": "newline"
+    }
+  ]
+}

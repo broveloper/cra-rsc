@@ -1,0 +1,300 @@
+{
+  "book_id": "MIC",
+  "book_name": "Micah",
+  "chapter": 2,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Woe to Evildoers",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to those who devise iniquity,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And work out evil on their beds!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "At morning light they practice it,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because it is in the power of their hand.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They covet fields and take them by violence,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Also houses, and seize them.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "So they oppress a man and his house,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A man and his inheritance.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“Behold, against this family I am devising disaster,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From which you cannot remove your necks;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall you walk haughtily,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For this is an evil time.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day one shall take up a proverb against you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And lament with a bitter lamentation, saying:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "‘We are utterly destroyed!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He has changed the heritage of my people;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "How He has removed it from me!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To a turncoat He has divided our fields.’ ”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore you will have no one to determine boundaries by lot",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In the assembly of the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Lying Prophets",
+      "type": "heading"
+    },
+    {
+      "text": "“Do not prattle,” you say to those who prophesy.",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So they shall not prophesy to you;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not return insult for insult.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You who are named the house of Jacob:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is the Spirit of the Lord restricted?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Are these His doings?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not My words do good",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To him who walks uprightly?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Lately My people have risen up as an enemy—",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You pull off the robe with the garment",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "From those who trust you, as they pass by,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Like men returned from war.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The women of My people you cast out",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "From their pleasant houses;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "From their children",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You have taken away My glory forever.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Arise and depart,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For this is not your rest;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Because it is defiled, it shall destroy,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, with utter destruction.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "If a man should walk in a false spirit",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And speak a lie, saying,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will prophesy to you of wine and drink,’",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Even he would be the prattler of this people.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel Restored",
+      "type": "heading"
+    },
+    {
+      "text": "“I will surely assemble all of you, O Jacob,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will surely gather the remnant of Israel;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put them together like sheep of the fold,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a flock in the midst of their pasture;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall make a loud noise because of so many people.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The one who breaks open will come up before them;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They will break out,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Pass through the gate,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And go out by it;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Their king will pass before them,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "With the Lord at their head.”",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

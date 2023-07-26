@@ -1,0 +1,101 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 82,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Rescue the Weak and Needy",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "God has taken his place in the divine council;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the midst of the gods he holds judgment:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“How long will you judge unjustly",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and show partiality to the wicked? Selah",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Give justice to the weak and the fatherless;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "maintain the right of the afflicted and the destitute.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Rescue the weak and the needy;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "deliver them from the hand of the wicked.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They have neither knowledge nor understanding,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they walk about in darkness;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "all the foundations of the earth are shaken.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “You are gods,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "sons of the Most High, all of you;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "nevertheless, like men you shall die,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and fall like any prince.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O God, judge the earth;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for you shall inherit all the nations!",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

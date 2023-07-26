@@ -1,0 +1,172 @@
+{
+  "book_id": "ROM",
+  "book_name": "Romans",
+  "chapter": 9,
+  "verses": 33,
+  "content": [
+    {
+      "text": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,",
+      "verse": 1
+    },
+    {
+      "text": "That I have great heaviness and continual sorrow in my heart.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "For this is the word of promise, At this time will I come, and Sarah shall have a son.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And not only this; but when Rebecca also had conceived by one, even by our father Isaac;",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "It was said unto her, The elder shall serve the younger.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "As it is written, Jacob have I loved, but Esau have I hated.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "What shall we say then? Is there unrighteousness with God? God forbid.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "Even us, whom he hath called, not of the Jews only, but also of the Gentiles?",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.",
+      "verse": 33,
+      "type": "newline"
+    }
+  ]
+}

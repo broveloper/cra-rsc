@@ -1,0 +1,206 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 39,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Psalm 39",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. For Jeduthun. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "I said, “I will watch my ways",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and keep my tongue from sin;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put a muzzle on my mouth",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "while in the presence of the wicked.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "So I remained utterly silent,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "not even saying anything good.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But my anguish increased;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "    my heart grew hot within me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "While I meditated, the fire burned;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "then I spoke with my tongue:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Show me, Lord, my life’s end",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the number of my days;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "let me know how fleeting my life is.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made my days a mere handbreadth;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the span of my years is as nothing before you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone is but a breath,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "even those who seem secure.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely everyone goes around like a mere phantom;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in vain they rush about, heaping up wealth",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "without knowing whose it will finally be.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“But now, Lord, what do I look for?",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My hope is in you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Save me from all my transgressions;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "do not make me the scorn of fools.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I was silent; I would not open my mouth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are the one who has done this.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove your scourge from me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I am overcome by the blow of your hand.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When you rebuke and discipline anyone for their sin,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you consume their wealth like a moth—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "surely everyone is but a breath.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear my prayer, Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "listen to my cry for help;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "do not be deaf to my weeping.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I dwell with you as a foreigner,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "a stranger, as all my ancestors were.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Look away from me, that I may enjoy life again",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "before I depart and am no more.”",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 37,
+  "verses": 40,
+  "content": [
+    {
+      "text": "The Heritage of the Righteous and the Calamity of the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Do not fret because of evildoers,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor be envious of the workers of iniquity.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For they shall soon be cut down like the grass,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And wither as the green herb.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Trust in the Lord, and do good;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Dwell in the land, and feed on His faithfulness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Delight yourself also in the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall give you the desires of your heart.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Commit your way to the Lord,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Trust also in Him,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall bring it to pass.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall bring forth your righteousness as the light,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And your justice as the noonday.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Rest in the Lord, and wait patiently for Him;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not fret because of him who prospers in his way,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the man who brings wicked schemes to pass.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Cease from anger, and forsake wrath;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not fret—it only causes harm.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For evildoers shall be cut off;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But those who wait on the Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall inherit the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For yet a little while and the wicked shall be no more;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, you will look carefully for his place,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But it shall be no more.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But the meek shall inherit the earth,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall delight themselves in the abundance of peace.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked plots against the just,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And gnashes at him with his teeth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord laughs at him,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For He sees that his day is coming.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked have drawn the sword",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And have bent their bow,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "To cast down the poor and needy,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "To slay those who are of upright conduct.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Their sword shall enter their own heart,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And their bows shall be broken.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A little that a righteous man has",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is better than the riches of many wicked.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the arms of the wicked shall be broken,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord upholds the righteous.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord knows the days of the upright,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And their inheritance shall be forever.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not be ashamed in the evil time,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the days of famine they shall be satisfied.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wicked shall perish;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And the enemies of the Lord,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the splendor of the meadows, shall vanish.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Into smoke they shall vanish away.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked borrows and does not repay,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the righteous shows mercy and gives.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For those blessed by Him shall inherit the earth,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "But those cursed by Him shall be cut off.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The steps of a good man are ordered by the Lord,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And He delights in his way.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Though he fall, he shall not be utterly cast down;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord upholds him with His hand.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I have been young, and now am old;",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yet I have not seen the righteous forsaken,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor his descendants begging bread.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He is ever merciful, and lends;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And his descendants are blessed.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Depart from evil, and do good;",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And dwell forevermore.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord loves justice,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And does not forsake His saints;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "They are preserved forever,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "But the descendants of the wicked shall be cut off.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous shall inherit the land,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And dwell in it forever.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The mouth of the righteous speaks wisdom,",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his tongue talks of justice.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The law of his God is in his heart;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "None of his steps shall slide.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked watches the righteous,",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And seeks to slay him.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will not leave him in his hand,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor condemn him when he is judged.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Wait on the Lord,",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And keep His way,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall exalt you to inherit the land;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "When the wicked are cut off, you shall see it.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen the wicked in great power,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "And spreading himself like a native green tree.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet he passed away, and behold, he was no more;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed I sought him, but he could not be found.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Mark the blameless man, and observe the upright;",
+      "verse": 37,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the future of that man is peace.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "But the transgressors shall be destroyed together;",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "The future of the wicked shall be cut off.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "But the salvation of the righteous is from the Lord;",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He is their strength in the time of trouble.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Lord shall help them and deliver them;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall deliver them from the wicked,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "And save them,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they trust in Him.",
+      "verse": 40,
+      "type": "poetry"
+    }
+  ]
+}

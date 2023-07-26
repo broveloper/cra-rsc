@@ -1,0 +1,367 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 78,
+  "verses": 72,
+  "content": [
+    {
+      "text": "Give ear, O my people, to my law: incline your ears to the words of my mouth.",
+      "verse": 1
+    },
+    {
+      "text": "I will open my mouth in a parable: I will utter dark sayings of old:",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Which we have heard and known, and our fathers have told us.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "That they might set their hope in God, and not forget the works of God, but keep his commandments:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "They kept not the covenant of God, and refused to walk in his law;",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "And forgat his works, and his wonders that he had shewed them.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "In the daytime also he led them with a cloud, and all the night with a light of fire.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "He clave the rocks in the wilderness, and gave them drink as out of the great depths.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "He brought streams also out of the rock, and caused waters to run down like rivers.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And they sinned yet more against him by provoking the most High in the wilderness.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "And they tempted God in their heart by asking meat for their lust.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore the Lord heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Because they believed not in God, and trusted not in his salvation:",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "Though he had commanded the clouds from above, and opened the doors of heaven,",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "And had rained down manna upon them to eat, and had given them of the corn of heaven.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "Man did eat angels' food: he sent them meat to the full.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "And he let it fall in the midst of their camp, round about their habitations.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "So they did eat, and were well filled: for he gave them their own desire;",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "They were not estranged from their lust. But while their meat was yet in their mouths,",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "For all this they sinned still, and believed not for his wondrous works.",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore their days did he consume in vanity, and their years in trouble.",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "When he slew them, then they sought him: and they returned and enquired early after God.",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "And they remembered that God was their rock, and the high God their redeemer.",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "For their heart was not right with him, neither were they stedfast in his covenant.",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "For he remembered that they were but flesh; a wind that passeth away, and cometh not again.",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "How oft did they provoke him in the wilderness, and grieve him in the desert!",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "Yea, they turned back and tempted God, and limited the Holy One of Israel.",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "They remembered not his hand, nor the day when he delivered them from the enemy.",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan.",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "And had turned their rivers into blood; and their floods, that they could not drink.",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "He gave also their increase unto the caterpiller, and their labour unto the locust.",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "He destroyed their vines with hail, and their sycomore trees with frost.",
+      "verse": 47,
+      "type": "newline"
+    },
+    {
+      "text": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts.",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.",
+      "verse": 49,
+      "type": "newline"
+    },
+    {
+      "text": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;",
+      "verse": 50,
+      "type": "newline"
+    },
+    {
+      "text": "And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:",
+      "verse": 51,
+      "type": "newline"
+    },
+    {
+      "text": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock.",
+      "verse": 52,
+      "type": "newline"
+    },
+    {
+      "text": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.",
+      "verse": 53,
+      "type": "newline"
+    },
+    {
+      "text": "And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased.",
+      "verse": 54,
+      "type": "newline"
+    },
+    {
+      "text": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.",
+      "verse": 55,
+      "type": "newline"
+    },
+    {
+      "text": "Yet they tempted and provoked the most high God, and kept not his testimonies:",
+      "verse": 56,
+      "type": "newline"
+    },
+    {
+      "text": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.",
+      "verse": 57,
+      "type": "newline"
+    },
+    {
+      "text": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images.",
+      "verse": 58,
+      "type": "newline"
+    },
+    {
+      "text": "When God heard this, he was wroth, and greatly abhorred Israel:",
+      "verse": 59,
+      "type": "newline"
+    },
+    {
+      "text": "So that he forsook the tabernacle of Shiloh, the tent which he placed among men;",
+      "verse": 60,
+      "type": "newline"
+    },
+    {
+      "text": "And delivered his strength into captivity, and his glory into the enemy's hand.",
+      "verse": 61,
+      "type": "newline"
+    },
+    {
+      "text": "He gave his people over also unto the sword; and was wroth with his inheritance.",
+      "verse": 62,
+      "type": "newline"
+    },
+    {
+      "text": "The fire consumed their young men; and their maidens were not given to marriage.",
+      "verse": 63,
+      "type": "newline"
+    },
+    {
+      "text": "Their priests fell by the sword; and their widows made no lamentation.",
+      "verse": 64,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.",
+      "verse": 65,
+      "type": "newline"
+    },
+    {
+      "text": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach.",
+      "verse": 66,
+      "type": "newline"
+    },
+    {
+      "text": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:",
+      "verse": 67,
+      "type": "newline"
+    },
+    {
+      "text": "But chose the tribe of Judah, the mount Zion which he loved.",
+      "verse": 68,
+      "type": "newline"
+    },
+    {
+      "text": "And he built his sanctuary like high palaces, like the earth which he hath established for ever.",
+      "verse": 69,
+      "type": "newline"
+    },
+    {
+      "text": "He chose David also his servant, and took him from the sheepfolds:",
+      "verse": 70,
+      "type": "newline"
+    },
+    {
+      "text": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.",
+      "verse": 71,
+      "type": "newline"
+    },
+    {
+      "text": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.",
+      "verse": 72,
+      "type": "newline"
+    }
+  ]
+}

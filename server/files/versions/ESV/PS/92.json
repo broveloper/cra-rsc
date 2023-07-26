@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 92,
+  "verses": 15,
+  "content": [
+    {
+      "text": "How Great Are Your Works",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm. A Song for the Sabbath.",
+      "type": "title"
+    },
+    {
+      "text": "It is good to give thanks to the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to sing praises to your name, O Most High;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to declare your steadfast love in the morning,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and your faithfulness by night,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to the music of the lute and the harp,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "to the melody of the lyre.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For you, O Lord, have made me glad by your work;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "at the works of your hands I sing for joy.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "How great are your works, O Lord!",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your thoughts are very deep!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The stupid man cannot know;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the fool cannot understand this:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that though the wicked sprout like grass",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and all evildoers flourish,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they are doomed to destruction forever;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    but you, O Lord, are on high forever.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, your enemies, O Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for behold, your enemies shall perish;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "all evildoers shall be scattered.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But you have exalted my horn like that of the wild ox;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have poured over me fresh oil.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes have seen the downfall of my enemies;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "my ears have heard the doom of my evil assailants.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous flourish like the palm tree",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and grow like a cedar in Lebanon.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They are planted in the house of the Lord;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they flourish in the courts of our God.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They still bear fruit in old age;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they are ever full of sap and green,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to declare that the Lord is upright;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he is my rock, and there is no unrighteousness in him.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

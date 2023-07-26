@@ -1,0 +1,769 @@
+{
+  "book_id": "DEUT",
+  "book_name": "Deuteronomy",
+  "chapter": 32,
+  "verses": 52,
+  "content": [
+    {
+      "text": "The Song of Moses",
+      "type": "heading"
+    },
+    {
+      "text": "“Give ear, O heavens, and I will speak;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And hear, O earth, the words of my mouth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my teaching drop as the rain,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My speech distill as the dew,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "As raindrops on the tender herb,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And as showers on the grass.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For I proclaim the name of the Lord:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Ascribe greatness to our God.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He is the Rock, His work is perfect;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For all His ways are justice,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A God of truth and without injustice;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Righteous and upright is He.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“They have corrupted themselves;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They are not His children,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of their blemish:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A perverse and crooked generation.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you thus deal with the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "O foolish and unwise people?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is He not your Father, who bought you?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Has He not made you and established you?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Remember the days of old,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Consider the years of many generations.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Ask your father, and he will show you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Your elders, and they will tell you:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "When the Most High divided their inheritance to the nations,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "When He separated the sons of Adam,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He set the boundaries of the peoples",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "According to the number of the children of Israel.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord’s portion is His people;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Jacob is the place of His inheritance.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“He found him in a desert land",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And in the wasteland, a howling wilderness;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He encircled him, He instructed him,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He kept him as the apple of His eye.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As an eagle stirs up its nest,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Hovers over its young,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Spreading out its wings, taking them up,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Carrying them on its wings,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "So the Lord alone led him,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And there was no foreign god with him.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“He made him ride in the heights of the earth,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That he might eat the produce of the fields;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He made him draw honey from the rock,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And oil from the flinty rock;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Curds from the cattle, and milk of the flock,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "With fat of lambs;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And rams of the breed of Bashan, and goats,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "With the choicest wheat;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And you drank wine, the blood of the grapes.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“But Jeshurun grew fat and kicked;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You grew fat, you grew thick,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You are obese!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he forsook God who made him,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And scornfully esteemed the Rock of his salvation.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They provoked Him to jealousy with foreign gods;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "With abominations they provoked Him to anger.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They sacrificed to demons, not to God,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "To gods they did not know,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "To new gods, new arrivals",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "That your fathers did not fear.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Of the Rock who begot you, you are unmindful,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And have forgotten the God who fathered you.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“And when the Lord saw it, He spurned them,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because of the provocation of His sons and His daughters.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And He said: ‘I will hide My face from them,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I will see what their end will be,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For they are a perverse generation,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Children in whom is no faith.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They have provoked Me to jealousy by what is not God;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They have moved Me to anger by their foolish idols.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will provoke them to jealousy by those who are not a nation;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I will move them to anger by a foolish nation.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For a fire is kindled in My anger,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall burn to the lowest hell;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall consume the earth with her increase,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And set on fire the foundations of the mountains.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will heap disasters on them;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will spend My arrows on them.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be wasted with hunger,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Devoured by pestilence and bitter destruction;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also send against them the teeth of beasts,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "With the poison of serpents of the dust.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The sword shall destroy outside;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "There shall be terror within",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For the young man and virgin,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The nursing child with the man of gray hairs.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I would have said, “I will dash them in pieces,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make the memory of them to cease from among men,”",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Had I not feared the wrath of the enemy,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest their adversaries should misunderstand,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest they should say, “Our hand is high;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And it is not the Lord who has done all this.” ’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“For they are a nation void of counsel,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor is there any understanding in them.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that they were wise, that they understood this,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "That they would consider their latter end!",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "How could one chase a thousand,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And two put ten thousand to flight,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless their Rock had sold them,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Lord had surrendered them?",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For their rock is not like our Rock,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Even our enemies themselves being judges.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "For their vine is of the vine of Sodom",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And of the fields of Gomorrah;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Their grapes are grapes of gall,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Their clusters are bitter.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Their wine is the poison of serpents,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "And the cruel venom of cobras.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Is this not laid up in store with Me,",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Sealed up among My treasures?",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Vengeance is Mine, and recompense;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Their foot shall slip in due time;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "For the day of their calamity is at hand,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "And the things to come hasten upon them.’",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "“For the Lord will judge His people",
+      "verse": 36,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And have compassion on His servants,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "When He sees that their power is gone,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "And there is no one remaining, bond or free.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "He will say: ‘Where are their gods,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "The rock in which they sought refuge?",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Who ate the fat of their sacrifices,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "And drank the wine of their drink offering?",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them rise and help you,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "And be your refuge.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Now see that I, even I, am He,",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And there is no God besides Me;",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "I kill and I make alive;",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "I wound and I heal;",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor is there any who can deliver from My hand.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "For I raise My hand to heaven,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "And say, “As I live forever,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "If I whet My glittering sword,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "And My hand takes hold on judgment,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "I will render vengeance to My enemies,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "And repay those who hate Me.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make My arrows drunk with blood,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "And My sword shall devour flesh,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "With the blood of the slain and the captives,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "From the heads of the leaders of the enemy.” ’",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "“Rejoice, O Gentiles, with His people;",
+      "verse": 43,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For He will avenge the blood of His servants,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "And render vengeance to His adversaries;",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "He will provide atonement for His land and His people.”",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "So Moses came with Joshua the son of Nun and spoke all the words of this song in the hearing of the people. ",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "Moses finished speaking all these words to all Israel, ",
+      "verse": 45
+    },
+    {
+      "text": "and he said to them: “Set your hearts on all the words which I testify among you today, which you shall command your children to be careful to observe—all the words of this law. ",
+      "verse": 46
+    },
+    {
+      "text": "For it is not a futile thing for you, because it is your life, and by this word you shall prolong your days in the land which you cross over the Jordan to possess.”",
+      "verse": 47
+    },
+    {
+      "text": "Moses to Die on Mount Nebo",
+      "type": "heading"
+    },
+    {
+      "text": "Then the Lord spoke to Moses that very same day, saying: ",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "“Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, across from Jericho; view the land of Canaan, which I give to the children of Israel as a possession; ",
+      "verse": 49
+    },
+    {
+      "text": "and die on the mountain which you ascend, and be gathered to your people, just as Aaron your brother died on Mount Hor and was gathered to his people; ",
+      "verse": 50
+    },
+    {
+      "text": "because you trespassed against Me among the children of Israel at the waters of Meribah Kadesh, in the Wilderness of Zin, because you did not hallow Me in the midst of the children of Israel. ",
+      "verse": 51
+    },
+    {
+      "text": "Yet you shall see the land before you, though you shall not go there, into the land which I am giving to the children of Israel.”",
+      "verse": 52
+    }
+  ]
+}

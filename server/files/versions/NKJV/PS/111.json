@@ -1,0 +1,127 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 111,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Praise to God for His Faithfulness and Justice",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will praise the Lord with my whole heart,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In the assembly of the upright and in the congregation.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The works of the Lord are great,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Studied by all who have pleasure in them.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "His work is honorable and glorious,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And His righteousness endures forever.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He has made His wonderful works to be remembered;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is gracious and full of compassion.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He has given food to those who fear Him;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He will ever be mindful of His covenant.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He has declared to His people the power of His works,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In giving them the heritage of the nations.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The works of His hands are verity and justice;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All His precepts are sure.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They stand fast forever and ever,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And are done in truth and uprightness.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He has sent redemption to His people;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He has commanded His covenant forever:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Holy and awesome is His name.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is the beginning of wisdom;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A good understanding have all those who do His commandments.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "His praise endures forever.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 62,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Truly my soul waiteth upon God: from him cometh my salvation.",
+      "verse": 1
+    },
+    {
+      "text": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "My soul, wait thou only upon God; for my expectation is from him.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "He only is my rock and my salvation: he is my defence; I shall not be moved.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "God hath spoken once; twice have I heard this; that power belongeth unto God.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Also unto thee, O Lord, belongeth mercy: for thou renderest to every man according to his work.",
+      "verse": 12,
+      "type": "newline"
+    }
+  ]
+}

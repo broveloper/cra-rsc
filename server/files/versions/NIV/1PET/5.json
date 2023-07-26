@@ -1,0 +1,94 @@
+{
+  "book_id": "1PET",
+  "book_name": "1 Peter",
+  "chapter": 5,
+  "verses": 14,
+  "content": [
+    {
+      "text": "To the Elders and the Flock",
+      "type": "heading"
+    },
+    {
+      "text": "To the elders among you, I appeal as a fellow elder and a witness of Christ’s sufferings who also will share in the glory to be revealed:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Be shepherds of God’s flock that is under your care, watching over them—not because you must, but because you are willing, as God wants you to be; not pursuing dishonest gain, but eager to serve;",
+      "verse": 2
+    },
+    {
+      "text": "not lording it over those entrusted to you, but being examples to the flock.",
+      "verse": 3
+    },
+    {
+      "text": "And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.",
+      "verse": 4
+    },
+    {
+      "text": "In the same way, you who are younger, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another, because,",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“God opposes the proud",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but shows favor to the humble.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Humble yourselves, therefore, under God’s mighty hand, that he may lift you up in due time.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Cast all your anxiety on him because he cares for you.",
+      "verse": 7
+    },
+    {
+      "text": "Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Resist him, standing firm in the faith, because you know that the family of believers throughout the world is undergoing the same kind of sufferings.",
+      "verse": 9
+    },
+    {
+      "text": "And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "To him be the power for ever and ever. Amen.",
+      "verse": 11
+    },
+    {
+      "text": "Final Greetings",
+      "type": "heading"
+    },
+    {
+      "text": "With the help of Silas, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand fast in it.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "She who is in Babylon, chosen together with you, sends you her greetings, and so does my son Mark.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Greet one another with a kiss of love.",
+      "verse": 14
+    },
+    {
+      "text": "Peace to all of you who are in Christ.",
+      "verse": 14,
+      "type": "newline"
+    }
+  ]
+}

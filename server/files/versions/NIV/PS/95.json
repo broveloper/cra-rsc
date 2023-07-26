@@ -1,0 +1,137 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 95,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 95",
+      "type": "heading"
+    },
+    {
+      "text": "Come, let us sing for joy to the Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let us shout aloud to the Rock of our salvation.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us come before him with thanksgiving",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and extol him with music and song.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is the great God,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the great King above all gods.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In his hand are the depths of the earth,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the mountain peaks belong to him.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The sea is his, for he made it,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and his hands formed the dry land.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, let us bow down in worship,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let us kneel before the Lord our Maker;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for he is our God",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and we are the people of his pasture,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the flock under his care.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Today, if only you would hear his voice,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Do not harden your hearts as you did at Meribah,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "as you did that day at Massah in the wilderness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "where your ancestors tested me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they tried me, though they had seen what I did.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For forty years I was angry with that generation;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, ‘They are a people whose hearts go astray,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and they have not known my ways.’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "So I declared on oath in my anger,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "‘They shall never enter my rest.’”",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 2,
+  "verses": 17,
+  "content": [
+    {
+      "text": "I am a rose of Sharon,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "a lily of the valleys.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He",
+      "type": "title"
+    },
+    {
+      "text": "As a lily among brambles,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so is my love among the young women.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "As an apple tree among the trees of the forest,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so is my beloved among the young men.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "With great delight I sat in his shadow,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and his fruit was sweet to my taste.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He brought me to the banqueting house,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and his banner over me was love.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Sustain me with raisins;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "refresh me with apples,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am sick with love.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "His left hand is under my head,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and his right hand embraces me!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I adjure you, O daughters of Jerusalem,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "by the gazelles or the does of the field,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that you not stir up or awaken love",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "until it pleases.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Bride Adores Her Beloved",
+      "type": "heading"
+    },
+    {
+      "text": "The voice of my beloved!",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Behold, he comes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "leaping over the mountains,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "bounding over the hills.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved is like a gazelle",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "or a young stag.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, there he stands",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "behind our wall,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "gazing through the windows,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "looking through the lattice.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved speaks and says to me:",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Arise, my love, my beautiful one,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and come away,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for behold, the winter is past;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the rain is over and gone.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The flowers appear on the earth,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the time of singing has come,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the voice of the turtledove",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "is heard in our land.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The fig tree ripens its figs,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and the vines are in blossom;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they give forth fragrance.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, my love, my beautiful one,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and come away.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "O my dove, in the clefts of the rock,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "in the crannies of the cliff,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "let me see your face,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "let me hear your voice,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for your voice is sweet,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and your face is lovely.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Catch the foxes for us,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the little foxes",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "that spoil the vineyards,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for our vineyards are in blossom.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved is mine, and I am his;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he grazes among the lilies.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Until the day breathes",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the shadows flee,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "turn, my beloved, be like a gazelle",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "or a young stag on cleft mountains.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 13,
+  "verses": 16,
+  "content": [
+    {
+      "text": "The Lord’s Anger Against Israel",
+      "type": "heading"
+    },
+    {
+      "text": "When Ephraim spoke, people trembled;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he was exalted in Israel.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But he became guilty of Baal worship and died.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Now they sin more and more;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they make idols for themselves from their silver,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "cleverly fashioned images,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them the work of craftsmen.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "It is said of these people,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“They offer human sacrifices!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They kiss calf-idols!”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore they will be like the morning mist,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like the early dew that disappears,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like chaff swirling from a threshing floor,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like smoke escaping through a window.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“But I have been the Lord your God",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ever since you came out of Egypt.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall acknowledge no God but me,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "no Savior except me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I cared for you in the wilderness,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in the land of burning heat.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "When I fed them, they were satisfied;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "when they were satisfied, they became proud;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "then they forgot me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "So I will be like a lion to them,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "like a leopard I will lurk by the path.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a bear robbed of her cubs,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will attack them and rip them open;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "like a lion I will devour them—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "a wild animal will tear them apart.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“You are destroyed, Israel,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because you are against me, against your helper.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is your king, that he may save you?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Where are your rulers in all your towns,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "of whom you said,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Give me a king and princes’?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "So in my anger I gave you a king,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and in my wrath I took him away.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The guilt of Ephraim is stored up,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "his sins are kept on record.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Pains as of a woman in childbirth come to him,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but he is a child without wisdom;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "when the time arrives,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he doesn’t have the sense to come out of the womb.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will deliver this people from the power of the grave;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will redeem them from death.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Where, O death, are your plagues?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Where, O grave, is your destruction?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will have no compassion,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    even though he thrives among his brothers.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "An east wind from the Lord will come,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "blowing in from the desert;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "his spring will fail",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and his well dry up.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "His storehouse will be plundered",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "of all its treasures.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The people of Samaria must bear their guilt,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have rebelled against their God.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They will fall by the sword;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "their little ones will be dashed to the ground,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "their pregnant women ripped open.”",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

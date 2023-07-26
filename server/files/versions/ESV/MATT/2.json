@@ -1,0 +1,153 @@
+{
+  "book_id": "MATT",
+  "book_name": "Matthew",
+  "chapter": 2,
+  "verses": 23,
+  "content": [
+    {
+      "text": "The Visit of the Wise Men",
+      "type": "heading"
+    },
+    {
+      "text": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "saying, “Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him.”",
+      "verse": 2
+    },
+    {
+      "text": "When Herod the king heard this, he was troubled, and all Jerusalem with him;",
+      "verse": 3
+    },
+    {
+      "text": "and assembling all the chief priests and scribes of the people, he inquired of them where the Christ was to be born.",
+      "verse": 4
+    },
+    {
+      "text": "They told him, “In Bethlehem of Judea, for so it is written by the prophet:",
+      "verse": 5
+    },
+    {
+      "text": "“‘And you, O Bethlehem, in the land of Judah,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "are by no means least among the rulers of Judah;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for from you shall come a ruler",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who will shepherd my people Israel.’”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Herod summoned the wise men secretly and ascertained from them what time the star had appeared.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And he sent them to Bethlehem, saying, “Go and search diligently for the child, and when you have found him, bring me word, that I too may come and worship him.”",
+      "verse": 8
+    },
+    {
+      "text": "After listening to the king, they went on their way. And behold, the star that they had seen when it rose went before them until it came to rest over the place where the child was.",
+      "verse": 9
+    },
+    {
+      "text": "When they saw the star, they rejoiced exceedingly with great joy.",
+      "verse": 10
+    },
+    {
+      "text": "And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh.",
+      "verse": 11
+    },
+    {
+      "text": "And being warned in a dream not to return to Herod, they departed to their own country by another way.",
+      "verse": 12
+    },
+    {
+      "text": "The Flight to Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream and said, “Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him.”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "And he rose and took the child and his mother by night and departed to Egypt",
+      "verse": 14
+    },
+    {
+      "text": "and remained there until the death of Herod. This was to fulfill what the Lord had spoken by the prophet, “Out of Egypt I called my son.”",
+      "verse": 15
+    },
+    {
+      "text": "Herod Kills the Children",
+      "type": "heading"
+    },
+    {
+      "text": "Then Herod, when he saw that he had been tricked by the wise men, became furious, and he sent and killed all the male children in Bethlehem and in all that region who were two years old or under, according to the time that he had ascertained from the wise men.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Then was fulfilled what was spoken by the prophet Jeremiah:",
+      "verse": 17
+    },
+    {
+      "text": "“A voice was heard in Ramah,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "weeping and loud lamentation,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Rachel weeping for her children;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "she refused to be comforted, because they are no more.”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The Return to Nazareth",
+      "type": "heading"
+    },
+    {
+      "text": "But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt,",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "saying, “Rise, take the child and his mother and go to the land of Israel, for those who sought the child's life are dead.”",
+      "verse": 20
+    },
+    {
+      "text": "And he rose and took the child and his mother and went to the land of Israel.",
+      "verse": 21
+    },
+    {
+      "text": "But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there, and being warned in a dream he withdrew to the district of Galilee.",
+      "verse": 22
+    },
+    {
+      "text": "And he went and lived in a city called Nazareth, so that what was spoken by the prophets might be fulfilled, that he would be called a Nazarene.",
+      "verse": 23
+    }
+  ]
+}

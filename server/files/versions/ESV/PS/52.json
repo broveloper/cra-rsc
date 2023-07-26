@@ -1,0 +1,141 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 52,
+  "verses": 9,
+  "content": [
+    {
+      "text": "The Steadfast Love of God Endures",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Maskil of David, when Doeg, the Edomite, came and told Saul, “David has come to the house of Ahimelech.”",
+      "type": "title"
+    },
+    {
+      "text": "Why do you boast of evil, O mighty man?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The steadfast love of God endures all the day.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your tongue plots destruction,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "like a sharp razor, you worker of deceit.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You love evil more than good,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and lying more than speaking what is right. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You love all words that devour,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "O deceitful tongue.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But God will break you down forever;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will snatch and tear you from your tent;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he will uproot you from the land of the living. Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous shall see and fear,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall laugh at him, saying,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“See the man who would not make",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "God his refuge,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but trusted in the abundance of his riches",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and sought refuge in his own destruction!”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But I am like a green olive tree",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the house of God.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I trust in the steadfast love of God",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "forever and ever.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will thank you forever,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "because you have done it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will wait for your name, for it is good,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in the presence of the godly.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

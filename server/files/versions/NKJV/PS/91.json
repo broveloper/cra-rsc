@@ -1,0 +1,187 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 91,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Safety of Abiding in the Presence of God",
+      "type": "heading"
+    },
+    {
+      "text": "He who dwells in the secret place of the Most High",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shall abide under the shadow of the Almighty.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will say of the Lord, “He is my refuge and my fortress;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My God, in Him I will trust.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely He shall deliver you from the snare of the fowler",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And from the perilous pestilence.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall cover you with His feathers,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And under His wings you shall take refuge;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "His truth shall be your shield and buckler.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall not be afraid of the terror by night,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor of the arrow that flies by day,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor of the pestilence that walks in darkness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor of the destruction that lays waste at noonday.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "A thousand may fall at your side,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And ten thousand at your right hand;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But it shall not come near you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Only with your eyes shall you look,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And see the reward of the wicked.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have made the Lord, who is my refuge,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Even the Most High, your dwelling place,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "No evil shall befall you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall any plague come near your dwelling;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For He shall give His angels charge over you,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "To keep you in all your ways.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In their hands they shall bear you up,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you dash your foot against a stone.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall tread upon the lion and the cobra,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The young lion and the serpent you shall trample underfoot.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because he has set his love upon Me, therefore I will deliver him;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will set him on high, because he has known My name.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall call upon Me, and I will answer him;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will be with him in trouble;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will deliver him and honor him.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "With long life I will satisfy him,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And show him My salvation.”",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

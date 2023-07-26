@@ -1,0 +1,332 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 21,
+  "verses": 31,
+  "content": [
+    {
+      "text": "The Lord Considers the Heart",
+      "type": "heading"
+    },
+    {
+      "text": "The king’s heart is in the hand of the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Like the rivers of water;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He turns it wherever He wishes.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Every way of a man is right in his own eyes,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the Lord weighs the hearts.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To do righteousness and justice",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is more acceptable to the Lord than sacrifice.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A haughty look, a proud heart,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the plowing of the wicked are sin.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The plans of the diligent lead surely to plenty,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But those of everyone who is hasty, surely to poverty.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Getting treasures by a lying tongue",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is the fleeting fantasy of those who seek death.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The violence of the wicked will destroy them,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because they refuse to do justice.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of a guilty man is perverse;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But as for the pure, his work is right.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Better to dwell in a corner of a housetop,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than in a house shared with a contentious woman.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The soul of the wicked desires evil;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His neighbor finds no favor in his eyes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When the scoffer is punished, the simple is made wise;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But when the wise is instructed, he receives knowledge.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous God wisely considers the house of the wicked,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Overthrowing the wicked for their wickedness.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever shuts his ears to the cry of the poor",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will also cry himself and not be heard.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "A gift in secret pacifies anger,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a bribe behind the back, strong wrath.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "It is a joy for the just to do justice,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But destruction will come to the workers of iniquity.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A man who wanders from the way of understanding",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will rest in the assembly of the dead.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He who loves pleasure will be a poor man;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He who loves wine and oil will not be rich.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked shall be a ransom for the righteous,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the unfaithful for the upright.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Better to dwell in the wilderness,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than with a contentious and angry woman.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "There is desirable treasure,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And oil in the dwelling of the wise,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But a foolish man squanders it.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He who follows righteousness and mercy",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Finds life, righteousness, and honor.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A wise man scales the city of the mighty,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And brings down the trusted stronghold.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever guards his mouth and tongue",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Keeps his soul from troubles.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "A proud and haughty man—“Scoffer” is his name;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He acts with arrogant pride.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The desire of the lazy man kills him,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For his hands refuse to labor.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He covets greedily all day long,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "But the righteous gives and does not spare.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The sacrifice of the wicked is an abomination;",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How much more when he brings it with wicked intent!",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "A false witness shall perish,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the man who hears him will speak endlessly.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "A wicked man hardens his face,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But as for the upright, he establishes his way.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no wisdom or understanding",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or counsel against the Lord.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The horse is prepared for the day of battle,",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But deliverance is of the Lord.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

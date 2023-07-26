@@ -1,0 +1,186 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 92,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Praise to the Lord for His Love and Faithfulness",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm. A Song for the Sabbath day.",
+      "type": "title"
+    },
+    {
+      "text": "It is good to give thanks to the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And to sing praises to Your name, O Most High;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To declare Your lovingkindness in the morning,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your faithfulness every night,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "On an instrument of ten strings,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "On the lute,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And on the harp,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "With harmonious sound.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For You, Lord, have made me glad through Your work;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will triumph in the works of Your hands.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, how great are Your works!",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your thoughts are very deep.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A senseless man does not know,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does a fool understand this.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When the wicked spring up like grass,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And when all the workers of iniquity flourish,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "It is that they may be destroyed forever.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But You, Lord, are on high forevermore.",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For behold, Your enemies, O Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, Your enemies shall perish;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All the workers of iniquity shall be scattered.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But my horn You have exalted like a wild ox;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have been anointed with fresh oil.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My eye also has seen my desire on my enemies;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My ears hear my desire on the wicked",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who rise up against me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous shall flourish like a palm tree,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He shall grow like a cedar in Lebanon.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who are planted in the house of the Lord",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall flourish in the courts of our God.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall still bear fruit in old age;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be fresh and flourishing,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "To declare that the Lord is upright;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He is my rock, and there is no unrighteousness in Him.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

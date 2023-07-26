@@ -1,0 +1,274 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 17,
+  "verses": 24,
+  "content": [
+    {
+      "text": "The Eagles and the Vine",
+      "type": "heading"
+    },
+    {
+      "text": "And the word of the Lord came to me, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, pose a riddle, and speak a parable to the house of Israel, ",
+      "verse": 2
+    },
+    {
+      "text": "and say, ‘Thus says the Lord God:",
+      "verse": 3
+    },
+    {
+      "text": "“A great eagle with large wings and long pinions,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Full of feathers of various colors,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Came to Lebanon",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And took from the cedar the highest branch.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He cropped off its topmost young twig",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And carried it to a land of trade;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He set it in a city of merchants.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he took some of the seed of the land",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And planted it in a fertile field;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He placed it by abundant waters",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And set it like a willow tree.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And it grew and became a spreading vine of low stature;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Its branches turned toward him,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But its roots were under it.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "So it became a vine,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Brought forth branches,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And put forth shoots.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“But there was another great eagle with large wings and many feathers;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And behold, this vine bent its roots toward him,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And stretched its branches toward him,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "From the garden terrace where it had been planted,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "That he might water it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "It was planted in good soil by many waters,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "To bring forth branches, bear fruit,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And become a majestic vine.” ’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Say, ‘Thus says the Lord God:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“Will it thrive?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will he not pull up its roots,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Cut off its fruit,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And leave it to wither?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All of its spring leaves will wither,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And no great power or many people",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Will be needed to pluck it up by its roots.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, it is planted,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will it thrive?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will it not utterly wither when the east wind touches it?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "It will wither in the garden terrace where it grew.” ’ ”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Moreover the word of the Lord came to me, saying, ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“Say now to the rebellious house: ‘Do you not know what these things mean?’ Tell them, ‘Indeed the king of Babylon went to Jerusalem and took its king and princes, and led them with him to Babylon. ",
+      "verse": 12
+    },
+    {
+      "text": "And he took the king’s offspring, made a covenant with him, and put him under oath. He also took away the mighty of the land, ",
+      "verse": 13
+    },
+    {
+      "text": "that the kingdom might be brought low and not lift itself up, but that by keeping his covenant it might stand. ",
+      "verse": 14
+    },
+    {
+      "text": "But he rebelled against him by sending his ambassadors to Egypt, that they might give him horses and many people. Will he prosper? Will he who does such things escape? Can he break a covenant and still be delivered?",
+      "verse": 15
+    },
+    {
+      "text": "‘As I live,’ says the Lord God, ‘surely in the place where the king dwells who made him king, whose oath he despised and whose covenant he broke—with him in the midst of Babylon he shall die. ",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Nor will Pharaoh with his mighty army and great company do anything in the war, when they heap up a siege mound and build a wall to cut off many persons. ",
+      "verse": 17
+    },
+    {
+      "text": "Since he despised the oath by breaking the covenant, and in fact gave his hand and still did all these things, he shall not escape.’ ”",
+      "verse": 18
+    },
+    {
+      "text": "Therefore thus says the Lord God: “As I live, surely My oath which he despised, and My covenant which he broke, I will recompense on his own head. ",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "I will spread My net over him, and he shall be taken in My snare. I will bring him to Babylon and try him there for the treason which he committed against Me. ",
+      "verse": 20
+    },
+    {
+      "text": "All his fugitives with all his troops shall fall by the sword, and those who remain shall be scattered to every wind; and you shall know that I, the Lord, have spoken.”",
+      "verse": 21
+    },
+    {
+      "text": "Israel Exalted at Last",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord God: “I will take also one of the highest branches of the high cedar and set it out. I will crop off from the topmost of its young twigs a tender one, and will plant it on a high and prominent mountain. ",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "On the mountain height of Israel I will plant it; and it will bring forth boughs, and bear fruit, and be a majestic cedar. Under it will dwell birds of every sort; in the shadow of its branches they will dwell. ",
+      "verse": 23
+    },
+    {
+      "text": "And all the trees of the field shall know that I, the Lord, have brought down the high tree and exalted the low tree, dried up the green tree and made the dry tree flourish; I, the Lord, have spoken and have done it.”",
+      "verse": 24
+    }
+  ]
+}

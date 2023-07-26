@@ -1,0 +1,380 @@
+{
+  "book_id": "ZEPH",
+  "book_name": "Zephaniah",
+  "chapter": 1,
+  "verses": 18,
+  "content": [
+    {
+      "text": "The word of the Lord that came to Zephaniah the son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.",
+      "verse": 1
+    },
+    {
+      "text": "The Coming Judgment on Judah",
+      "type": "heading"
+    },
+    {
+      "text": "“I will utterly sweep away everything",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from the face of the earth,” declares the Lord.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will sweep away man and beast;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sweep away the birds of the heavens",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fish of the sea,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the rubble with the wicked.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cut off mankind",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "from the face of the earth,” declares the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will stretch out my hand against Judah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and against all the inhabitants of Jerusalem;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will cut off from this place the remnant of Baal",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the name of the idolatrous priests along with the priests,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "those who bow down on the roofs",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "to the host of the heavens,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "those who bow down and swear to the Lord",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and yet swear by Milcom,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "those who have turned back from following the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who do not seek the Lord or inquire of him.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Day of the Lord Is Near",
+      "type": "heading"
+    },
+    {
+      "text": "Be silent before the Lord God!",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the day of the Lord is near;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord has prepared a sacrifice",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and consecrated his guests.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And on the day of the Lord's sacrifice—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will punish the officials and the king's sons",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and all who array themselves in foreign attire.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "On that day I will punish",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "everyone who leaps over the threshold,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and those who fill their master's house",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "with violence and fraud.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“On that day,” declares the Lord,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“a cry will be heard from the Fish Gate,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "a wail from the Second Quarter,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "a loud crash from the hills.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Wail, O inhabitants of the Mortar!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For all the traders are no more;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "all who weigh out silver are cut off.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "At that time I will search Jerusalem with lamps,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will punish the men",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "who are complacent,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "those who say in their hearts,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "‘The Lord will not do good,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will he do ill.’",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Their goods shall be plundered,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and their houses laid waste.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they build houses,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall not inhabit them;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "though they plant vineyards,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall not drink wine from them.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The great day of the Lord is near,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "near and hastening fast;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the sound of the day of the Lord is bitter;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the mighty man cries aloud there.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "A day of wrath is that day,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "a day of distress and anguish,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "a day of ruin and devastation,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "a day of darkness and gloom,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "a day of clouds and thick darkness,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "    a day of trumpet blast and battle cry",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "against the fortified cities",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and against the lofty battlements.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring distress on mankind,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so that they shall walk like the blind,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have sinned against the Lord;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "their blood shall be poured out like dust,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and their flesh like dung.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Neither their silver nor their gold",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "shall be able to deliver them",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "on the day of the wrath of the Lord.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "In the fire of his jealousy,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "all the earth shall be consumed;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "for a full and sudden end",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "he will make of all the inhabitants of the earth.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 16,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 16",
+      "type": "heading"
+    },
+    {
+      "text": "A miktam of David.",
+      "type": "title"
+    },
+    {
+      "text": "Keep me safe, my God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for in you I take refuge.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I say to the Lord, “You are my Lord;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "apart from you I have no good thing.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I say of the holy people who are in the land,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“They are the noble ones in whom is all my delight.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who run after other gods will suffer more and more.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not pour out libations of blood to such gods",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "or take up their names on my lips.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, you alone are my portion and my cup;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you make my lot secure.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The boundary lines have fallen for me in pleasant places;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "surely I have a delightful inheritance.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise the Lord, who counsels me;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "even at night my heart instructs me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I keep my eyes always on the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "With him at my right hand, I will not be shaken.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore my heart is glad and my tongue rejoices;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my body also will rest secure,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "because you will not abandon me to the realm of the dead,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will you let your faithful one see decay.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You make known to me the path of life;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you will fill me with joy in your presence,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "with eternal pleasures at your right hand.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

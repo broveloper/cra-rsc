@@ -1,0 +1,343 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 8,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Lovers Reunited at Their Country Home",
+      "type": "heading"
+    },
+    {
+      "text": "Oh, that you were like my brother,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who nursed at my mother’s breasts!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "If I should find you outside,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I would kiss you;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I would not be despised.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I would lead you and bring you",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Into the house of my mother,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "She who used to instruct me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I would cause you to drink of spiced wine,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Of the juice of my pomegranate.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "(To the Daughters of Jerusalem)",
+      "type": "title"
+    },
+    {
+      "text": "His left hand is under my head,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his right hand embraces me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I charge you, O daughters of Jerusalem,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not stir up nor awaken love",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Until it pleases.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Love Renewed in Lebanon",
+      "type": "heading"
+    },
+    {
+      "text": "A Relative",
+      "type": "title"
+    },
+    {
+      "text": "Who is this coming up from the wilderness,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Leaning upon her beloved?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I awakened you under the apple tree.",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "There your mother brought you forth;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "There she who bore you brought you forth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite to Her Beloved",
+      "type": "title"
+    },
+    {
+      "text": "Set me as a seal upon your heart,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As a seal upon your arm;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For love is as strong as death,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Jealousy as cruel as the grave;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Its flames are flames of fire,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "A most vehement flame.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Many waters cannot quench love,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor can the floods drown it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "If a man would give for love",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All the wealth of his house,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "It would be utterly despised.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite’s Brothers",
+      "type": "title"
+    },
+    {
+      "text": "We have a little sister,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And she has no breasts.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "What shall we do for our sister",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day when she is spoken for?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If she is a wall,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "We will build upon her",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "A battlement of silver;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And if she is a door,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "We will enclose her",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "With boards of cedar.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "I am a wall,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And my breasts like towers;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I became in his eyes",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As one who found peace.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Solomon had a vineyard at Baal Hamon;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He leased the vineyard to keepers;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone was to bring for its fruit",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "A thousand silver coins.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "(To Solomon)",
+      "type": "title"
+    },
+    {
+      "text": "My own vineyard is before me.",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You, O Solomon, may have a thousand,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who tend its fruit two hundred.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Beloved",
+      "type": "title"
+    },
+    {
+      "text": "You who dwell in the gardens,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The companions listen for your voice—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me hear it!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "Make haste, my beloved,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And be like a gazelle",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Or a young stag",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "On the mountains of spices.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

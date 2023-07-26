@@ -1,0 +1,220 @@
+{
+  "book_id": "LUKE",
+  "book_name": "Luke",
+  "chapter": 10,
+  "verses": 42,
+  "content": [
+    {
+      "text": "The Seventy Sent Out",
+      "type": "heading"
+    },
+    {
+      "text": "After these things the Lord appointed seventy others also, and sent them two by two before His face into every city and place where He Himself was about to go. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Then He said to them, “The harvest truly is great, but the laborers are few; therefore pray the Lord of the harvest to send out laborers into His harvest. ",
+      "verse": 2
+    },
+    {
+      "text": "Go your way; behold, I send you out as lambs among wolves. ",
+      "verse": 3
+    },
+    {
+      "text": "Carry neither money bag, knapsack, nor sandals; and greet no one along the road. ",
+      "verse": 4
+    },
+    {
+      "text": "But whatever house you enter, first say, ‘Peace to this house.’ ",
+      "verse": 5
+    },
+    {
+      "text": "And if a son of peace is there, your peace will rest on it; if not, it will return to you. ",
+      "verse": 6
+    },
+    {
+      "text": "And remain in the same house, eating and drinking such things as they give, for the laborer is worthy of his wages. Do not go from house to house. ",
+      "verse": 7
+    },
+    {
+      "text": "Whatever city you enter, and they receive you, eat such things as are set before you. ",
+      "verse": 8
+    },
+    {
+      "text": "And heal the sick there, and say to them, ‘The kingdom of God has come near to you.’ ",
+      "verse": 9
+    },
+    {
+      "text": "But whatever city you enter, and they do not receive you, go out into its streets and say, ",
+      "verse": 10
+    },
+    {
+      "text": "‘The very dust of your city which clings to us we wipe off against you. Nevertheless know this, that the kingdom of God has come near you.’ ",
+      "verse": 11
+    },
+    {
+      "text": "But I say to you that it will be more tolerable in that Day for Sodom than for that city.",
+      "verse": 12
+    },
+    {
+      "text": "Woe to the Impenitent Cities",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works which were done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes. ",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "But it will be more tolerable for Tyre and Sidon at the judgment than for you. ",
+      "verse": 14
+    },
+    {
+      "text": "And you, Capernaum, who are exalted to heaven, will be brought down to Hades. ",
+      "verse": 15
+    },
+    {
+      "text": "He who hears you hears Me, he who rejects you rejects Me, and he who rejects Me rejects Him who sent Me.”",
+      "verse": 16
+    },
+    {
+      "text": "The Seventy Return with Joy",
+      "type": "heading"
+    },
+    {
+      "text": "Then the seventy returned with joy, saying, “Lord, even the demons are subject to us in Your name.”",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "And He said to them, “I saw Satan fall like lightning from heaven. ",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you. ",
+      "verse": 19
+    },
+    {
+      "text": "Nevertheless do not rejoice in this, that the spirits are subject to you, but rather rejoice because your names are written in heaven.”",
+      "verse": 20
+    },
+    {
+      "text": "Jesus Rejoices in the Spirit",
+      "type": "heading"
+    },
+    {
+      "text": "In that hour Jesus rejoiced in the Spirit and said, “I thank You, Father, Lord of heaven and earth, that You have hidden these things from the wise and prudent and revealed them to babes. Even so, Father, for so it seemed good in Your sight. ",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "All things have been delivered to Me by My Father, and no one knows who the Son is except the Father, and who the Father is except the Son, and the one to whom the Son wills to reveal Him.”",
+      "verse": 22
+    },
+    {
+      "text": "Then He turned to His disciples and said privately, “Blessed are the eyes which see the things you see; ",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "for I tell you that many prophets and kings have desired to see what you see, and have not seen it, and to hear what you hear, and have not heard it.”",
+      "verse": 24
+    },
+    {
+      "text": "The Parable of the Good Samaritan",
+      "type": "heading"
+    },
+    {
+      "text": "And behold, a certain lawyer stood up and tested Him, saying, “Teacher, what shall I do to inherit eternal life?”",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "He said to him, “What is written in the law? What is your reading of it?”",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "So he answered and said, “ ‘You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind,’ and ‘your neighbor as yourself.’ ”",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "And He said to him, “You have answered rightly; do this and you will live.”",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "But he, wanting to justify himself, said to Jesus, “And who is my neighbor?”",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "Then Jesus answered and said: “A certain man went down from Jerusalem to Jericho, and fell among thieves, who stripped him of his clothing, wounded him, and departed, leaving him half dead. ",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "Now by chance a certain priest came down that road. And when he saw him, he passed by on the other side. ",
+      "verse": 31
+    },
+    {
+      "text": "Likewise a Levite, when he arrived at the place, came and looked, and passed by on the other side. ",
+      "verse": 32
+    },
+    {
+      "text": "But a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion. ",
+      "verse": 33
+    },
+    {
+      "text": "So he went to him and bandaged his wounds, pouring on oil and wine; and he set him on his own animal, brought him to an inn, and took care of him. ",
+      "verse": 34
+    },
+    {
+      "text": "On the next day, when he departed, he took out two denarii, gave them to the innkeeper, and said to him, ‘Take care of him; and whatever more you spend, when I come again, I will repay you.’ ",
+      "verse": 35
+    },
+    {
+      "text": "So which of these three do you think was neighbor to him who fell among the thieves?”",
+      "verse": 36
+    },
+    {
+      "text": "And he said, “He who showed mercy on him.”",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "Then Jesus said to him, “Go and do likewise.”",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "Mary and Martha Worship and Serve",
+      "type": "heading"
+    },
+    {
+      "text": "Now it happened as they went that He entered a certain village; and a certain woman named Martha welcomed Him into her house. ",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "And she had a sister called Mary, who also sat at Jesus’ feet and heard His word. ",
+      "verse": 39
+    },
+    {
+      "text": "But Martha was distracted with much serving, and she approached Him and said, “Lord, do You not care that my sister has left me to serve alone? Therefore tell her to help me.”",
+      "verse": 40
+    },
+    {
+      "text": "And Jesus answered and said to her, “Martha, Martha, you are worried and troubled about many things. ",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "But one thing is needed, and Mary has chosen that good part, which will not be taken away from her.”",
+      "verse": 42
+    }
+  ]
+}

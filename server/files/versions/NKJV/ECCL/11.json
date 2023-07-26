@@ -1,0 +1,186 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 11,
+  "verses": 10,
+  "content": [
+    {
+      "text": "The Value of Diligence",
+      "type": "heading"
+    },
+    {
+      "text": "Cast your bread upon the waters,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For you will find it after many days.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Give a serving to seven, and also to eight,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For you do not know what evil will be on the earth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "If the clouds are full of rain,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They empty themselves upon the earth;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And if a tree falls to the south or the north,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the place where the tree falls, there it shall lie.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He who observes the wind will not sow,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And he who regards the clouds will not reap.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As you do not know what is the way of the wind,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or how the bones grow in the womb of her who is with child,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "So you do not know the works of God who makes everything.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In the morning sow your seed,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the evening do not withhold your hand;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For you do not know which will prosper,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Either this or that,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Or whether both alike will be good.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Truly the light is sweet,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And it is pleasant for the eyes to behold the sun;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But if a man lives many years",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And rejoices in them all,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet let him remember the days of darkness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For they will be many.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All that is coming is vanity.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek God in Early Life",
+      "type": "heading"
+    },
+    {
+      "text": "Rejoice, O young man, in your youth,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let your heart cheer you in the days of your youth;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Walk in the ways of your heart,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the sight of your eyes;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But know that for all these",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "God will bring you into judgment.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore remove sorrow from your heart,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And put away evil from your flesh,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For childhood and youth are vanity.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

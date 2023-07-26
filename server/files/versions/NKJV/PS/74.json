@@ -1,0 +1,261 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 74,
+  "verses": 23,
+  "content": [
+    {
+      "text": "A Plea for Relief from Oppressors",
+      "type": "heading"
+    },
+    {
+      "text": "A Contemplation of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "O God, why have You cast us off forever?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why does Your anger smoke against the sheep of Your pasture?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember Your congregation, which You have purchased of old,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The tribe of Your inheritance, which You have redeemed—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "This Mount Zion where You have dwelt.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up Your feet to the perpetual desolations.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The enemy has damaged everything in the sanctuary.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your enemies roar in the midst of Your meeting place;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They set up their banners for signs.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They seem like men who lift up",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Axes among the thick trees.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And now they break down its carved work, all at once,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "With axes and hammers.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have set fire to Your sanctuary;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They have defiled the dwelling place of Your name to the ground.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They said in their hearts,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let us destroy them altogether.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They have burned up all the meeting places of God in the land.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "We do not see our signs;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "There is no longer any prophet;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor is there any among us who knows how long.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, how long will the adversary reproach?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will the enemy blaspheme Your name forever?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do You withdraw Your hand, even Your right hand?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Take it out of Your bosom and destroy them.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For God is my King from of old,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Working salvation in the midst of the earth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You divided the sea by Your strength;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You broke the heads of the sea serpents in the waters.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You broke the heads of Leviathan in pieces,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And gave him as food to the people inhabiting the wilderness.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You broke open the fountain and the flood;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You dried up mighty rivers.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The day is Yours, the night also is Yours;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You have prepared the light and the sun.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You have set all the borders of the earth;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made summer and winter.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember this, that the enemy has reproached, O Lord,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And that a foolish people has blasphemed Your name.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, do not deliver the life of Your turtledove to the wild beast!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not forget the life of Your poor forever.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Have respect to the covenant;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the dark places of the earth are full of the haunts of cruelty.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, do not let the oppressed return ashamed!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the poor and needy praise Your name.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O God, plead Your own cause;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Remember how the foolish man reproaches You daily.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not forget the voice of Your enemies;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The tumult of those who rise up against You increases continually.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

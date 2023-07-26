@@ -1,0 +1,293 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 3,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Everything Has Its Time",
+      "type": "heading"
+    },
+    {
+      "text": "To everything there is a season,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A time for every purpose under heaven:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to be born,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a time to die;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to plant,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to pluck what is planted;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to kill,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to heal;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to break down,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to build up;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to weep,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to laugh;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to mourn,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to dance;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to cast away stones,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to gather stones;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to embrace,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to refrain from embracing;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to gain,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to lose;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to keep,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to throw away;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to tear,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to sew;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to keep silence,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to speak;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A time to love,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time to hate;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "A time of war,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And a time of peace.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The God-Given Task",
+      "type": "heading"
+    },
+    {
+      "text": "What profit has the worker from that in which he labors? ",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "I have seen the God-given task with which the sons of men are to be occupied. ",
+      "verse": 10
+    },
+    {
+      "text": "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end.",
+      "verse": 11
+    },
+    {
+      "text": "I know that nothing is better for them than to rejoice, and to do good in their lives, ",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "and also that every man should eat and drink and enjoy the good of all his labor—it is the gift of God.",
+      "verse": 13
+    },
+    {
+      "text": "I know that whatever God does,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "It shall be forever.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nothing can be added to it,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And nothing taken from it.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "God does it, that men should fear before Him.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "That which is has already been,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And what is to be has already been;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And God requires an account of what is past.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Injustice Seems to Prevail",
+      "type": "heading"
+    },
+    {
+      "text": "Moreover I saw under the sun:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "In the place of judgment,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Wickedness was there;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the place of righteousness,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Iniquity was there.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I said in my heart,",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“God shall judge the righteous and the wicked,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For there is a time there for every purpose and for every work.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I said in my heart, “Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.” ",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all is vanity. ",
+      "verse": 19
+    },
+    {
+      "text": "All go to one place: all are from the dust, and all return to dust. ",
+      "verse": 20
+    },
+    {
+      "text": "Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth? ",
+      "verse": 21
+    },
+    {
+      "text": "So I perceived that nothing is better than that a man should rejoice in his own works, for that is his heritage. For who can bring him to see what will happen after him?",
+      "verse": 22
+    }
+  ]
+}

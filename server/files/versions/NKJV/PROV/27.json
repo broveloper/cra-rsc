@@ -1,0 +1,292 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 27,
+  "verses": 27,
+  "content": [
+    {
+      "text": "My Son, Be Wise",
+      "type": "heading"
+    },
+    {
+      "text": "Do not boast about tomorrow,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For you do not know what a day may bring forth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let another man praise you, and not your own mouth;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A stranger, and not your own lips.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A stone is heavy and sand is weighty,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a fool’s wrath is heavier than both of them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Wrath is cruel and anger a torrent,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But who is able to stand before jealousy?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Open rebuke is better",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than love carefully concealed.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Faithful are the wounds of a friend,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the kisses of an enemy are deceitful.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "A satisfied soul loathes the honeycomb,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But to a hungry soul every bitter thing is sweet.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a bird that wanders from its nest",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is a man who wanders from his place.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Ointment and perfume delight the heart,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the sweetness of a man’s friend gives delight by hearty counsel.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not forsake your own friend or your father’s friend,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor go to your brother’s house in the day of your calamity;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Better is a neighbor nearby than a brother far away.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, be wise, and make my heart glad,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That I may answer him who reproaches me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "A prudent man foresees evil and hides himself;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The simple pass on and are punished.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Take the garment of him who is surety for a stranger,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And hold it in pledge when he is surety for a seductress.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He who blesses his friend with a loud voice, rising early in the morning,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "It will be counted a curse to him.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "A continual dripping on a very rainy day",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a contentious woman are alike;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever restrains her restrains the wind,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And grasps oil with his right hand.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "As iron sharpens iron,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So a man sharpens the countenance of his friend.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever keeps the fig tree will eat its fruit;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So he who waits on his master will be honored.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As in water face reflects face,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So a man’s heart reveals the man.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Hell and Destruction are never full;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So the eyes of man are never satisfied.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The refining pot is for silver and the furnace for gold,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a man is valued by what others say of him.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Though you grind a fool in a mortar with a pestle along with crushed grain,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yet his foolishness will not depart from him.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Be diligent to know the state of your flocks,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And attend to your herds;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "For riches are not forever,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does a crown endure to all generations.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "When the hay is removed, and the tender grass shows itself,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And the herbs of the mountains are gathered in,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The lambs will provide your clothing,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And the goats the price of a field;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall have enough goats’ milk for your food,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For the food of your household,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And the nourishment of your maidservants.",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

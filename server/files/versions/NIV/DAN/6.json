@@ -1,0 +1,188 @@
+{
+  "book_id": "DAN",
+  "book_name": "Daniel",
+  "chapter": 6,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Daniel in the Den of Lions",
+      "type": "heading"
+    },
+    {
+      "text": "It pleased Darius to appoint 120 satraps to rule throughout the kingdom,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "with three administrators over them, one of whom was Daniel. The satraps were made accountable to them so that the king might not suffer loss.",
+      "verse": 2
+    },
+    {
+      "text": "Now Daniel so distinguished himself among the administrators and the satraps by his exceptional qualities that the king planned to set him over the whole kingdom.",
+      "verse": 3
+    },
+    {
+      "text": "At this, the administrators and the satraps tried to find grounds for charges against Daniel in his conduct of government affairs, but they were unable to do so. They could find no corruption in him, because he was trustworthy and neither corrupt nor negligent.",
+      "verse": 4
+    },
+    {
+      "text": "Finally these men said, “We will never find any basis for charges against this man Daniel unless it has something to do with the law of his God.”",
+      "verse": 5
+    },
+    {
+      "text": "So these administrators and satraps went as a group to the king and said: “May King Darius live forever!",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "The royal administrators, prefects, satraps, advisers and governors have all agreed that the king should issue an edict and enforce the decree that anyone who prays to any god or human being during the next thirty days, except to you, Your Majesty, shall be thrown into the lions’ den.",
+      "verse": 7
+    },
+    {
+      "text": "Now, Your Majesty, issue the decree and put it in writing so that it cannot be altered—in accordance with the law of the Medes and Persians, which cannot be repealed.”",
+      "verse": 8
+    },
+    {
+      "text": "So King Darius put the decree in writing.",
+      "verse": 9
+    },
+    {
+      "text": "Now when Daniel learned that the decree had been published, he went home to his upstairs room where the windows opened toward Jerusalem. Three times a day he got down on his knees and prayed, giving thanks to his God, just as he had done before.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Then these men went as a group and found Daniel praying and asking God for help.",
+      "verse": 11
+    },
+    {
+      "text": "So they went to the king and spoke to him about his royal decree: “Did you not publish a decree that during the next thirty days anyone who prays to any god or human being except to you, Your Majesty, would be thrown into the lions’ den?”",
+      "verse": 12
+    },
+    {
+      "text": "The king answered, “The decree stands—in accordance with the law of the Medes and Persians, which cannot be repealed.”",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Then they said to the king, “Daniel, who is one of the exiles from Judah, pays no attention to you, Your Majesty, or to the decree you put in writing. He still prays three times a day.”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "When the king heard this, he was greatly distressed; he was determined to rescue Daniel and made every effort until sundown to save him.",
+      "verse": 14
+    },
+    {
+      "text": "Then the men went as a group to King Darius and said to him, “Remember, Your Majesty, that according to the law of the Medes and Persians no decree or edict that the king issues can be changed.”",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "So the king gave the order, and they brought Daniel and threw him into the lions’ den. The king said to Daniel, “May your God, whom you serve continually, rescue you!”",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that Daniel’s situation might not be changed.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Then the king returned to his palace and spent the night without eating and without any entertainment being brought to him. And he could not sleep.",
+      "verse": 18
+    },
+    {
+      "text": "At the first light of dawn, the king got up and hurried to the lions’ den.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "When he came near the den, he called to Daniel in an anguished voice, “Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?”",
+      "verse": 20
+    },
+    {
+      "text": "Daniel answered, “May the king live forever!",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "My God sent his angel, and he shut the mouths of the lions. They have not hurt me, because I was found innocent in his sight. Nor have I ever done any wrong before you, Your Majesty.”",
+      "verse": 22
+    },
+    {
+      "text": "The king was overjoyed and gave orders to lift Daniel out of the den. And when Daniel was lifted from the den, no wound was found on him, because he had trusted in his God.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "At the king’s command, the men who had falsely accused Daniel were brought in and thrown into the lions’ den, along with their wives and children. And before they reached the floor of the den, the lions overpowered them and crushed all their bones.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "Then King Darius wrote to all the nations and peoples of every language in all the earth:",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "“May you prosper greatly!",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "“I issue a decree that in every part of my kingdom people must fear and reverence the God of Daniel.",
+      "verse": 26
+    },
+    {
+      "text": "“For he is the living God",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he endures forever;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "his kingdom will not be destroyed,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "his dominion will never end.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "He rescues and he saves;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "he performs signs and wonders",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "in the heavens and on the earth.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He has rescued Daniel",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "from the power of the lions.”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.",
+      "verse": 28,
+      "type": "newline"
+    }
+  ]
+}

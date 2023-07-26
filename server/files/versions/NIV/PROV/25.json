@@ -1,0 +1,307 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 25,
+  "verses": 28,
+  "content": [
+    {
+      "text": "More Proverbs of Solomon",
+      "type": "heading"
+    },
+    {
+      "text": "These are more proverbs of Solomon, compiled by the men of Hezekiah king of Judah:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "It is the glory of God to conceal a matter;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to search out a matter is the glory of kings.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "As the heavens are high and the earth is deep,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "so the hearts of kings are unsearchable.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove the dross from the silver,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a silversmith can produce a vessel;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "remove wicked officials from the king’s presence,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and his throne will be established through righteousness.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not exalt yourself in the king’s presence,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do not claim a place among his great men;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "it is better for him to say to you, “Come up here,”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "than for him to humiliate you before his nobles.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "What you have seen with your eyes",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    do not bring hastily to court,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for what will you do in the end",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "if your neighbor puts you to shame?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If you take your neighbor to court,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not betray another’s confidence,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "or the one who hears it may shame you",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the charge against you will stand.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Like apples of gold in settings of silver",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is a ruling rightly given.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Like an earring of gold or an ornament of fine gold",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "is the rebuke of a wise judge to a listening ear.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a snow-cooled drink at harvest time",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is a trustworthy messenger to the one who sends him;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he refreshes the spirit of his master.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like clouds and wind without rain",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "is one who boasts of gifts never given.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Through patience a ruler can be persuaded,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a gentle tongue can break a bone.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "If you find honey, eat just enough—",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "too much of it, and you will vomit.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Seldom set foot in your neighbor’s house—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "too much of you, and they will hate you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a club or a sword or a sharp arrow",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is one who gives false testimony against a neighbor.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a broken tooth or a lame foot",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "is reliance on the unfaithful in a time of trouble.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Like one who takes away a garment on a cold day,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "or like vinegar poured on a wound,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "is one who sings songs to a heavy heart.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "If your enemy is hungry, give him food to eat;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "if he is thirsty, give him water to drink.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "In doing this, you will heap burning coals on his head,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Lord will reward you.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a north wind that brings unexpected rain",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is a sly tongue—which provokes a horrified look.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Better to live on a corner of the roof",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than share a house with a quarrelsome wife.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Like cold water to a weary soul",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is good news from a distant land.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a muddied spring or a polluted well",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "are the righteous who give way to the wicked.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "It is not good to eat too much honey,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor is it honorable to search out matters that are too deep.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a city whose walls are broken through",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is a person who lacks self-control.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

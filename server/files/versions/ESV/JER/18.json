@@ -1,0 +1,293 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 18,
+  "verses": 23,
+  "content": [
+    {
+      "text": "The Potter and the Clay",
+      "type": "heading"
+    },
+    {
+      "text": "The word that came to Jeremiah from the Lord:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Arise, and go down to the potter's house, and there I will let you hear my words.”",
+      "verse": 2
+    },
+    {
+      "text": "So I went down to the potter's house, and there he was working at his wheel.",
+      "verse": 3
+    },
+    {
+      "text": "And the vessel he was making of clay was spoiled in the potter's hand, and he reworked it into another vessel, as it seemed good to the potter to do.",
+      "verse": 4
+    },
+    {
+      "text": "Then the word of the Lord came to me:",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“O house of Israel, can I not do with you as this potter has done? declares the Lord. Behold, like the clay in the potter's hand, so are you in my hand, O house of Israel.",
+      "verse": 6
+    },
+    {
+      "text": "If at any time I declare concerning a nation or a kingdom, that I will pluck up and break down and destroy it,",
+      "verse": 7
+    },
+    {
+      "text": "and if that nation, concerning which I have spoken, turns from its evil, I will relent of the disaster that I intended to do to it.",
+      "verse": 8
+    },
+    {
+      "text": "And if at any time I declare concerning a nation or a kingdom that I will build and plant it,",
+      "verse": 9
+    },
+    {
+      "text": "and if it does evil in my sight, not listening to my voice, then I will relent of the good that I had intended to do to it.",
+      "verse": 10
+    },
+    {
+      "text": "Now, therefore, say to the men of Judah and the inhabitants of Jerusalem: ‘Thus says the Lord, Behold, I am shaping disaster against you and devising a plan against you. Return, every one from his evil way, and amend your ways and your deeds.’",
+      "verse": 11
+    },
+    {
+      "text": "“But they say, ‘That is in vain! We will follow our own plans, and will every one act according to the stubbornness of his evil heart.’",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“Therefore thus says the Lord:",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Ask among the nations,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has heard the like of this?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The virgin Israel",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "has done a very horrible thing.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Does the snow of Lebanon leave",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the crags of Sirion?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Do the mountain waters run dry,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the cold flowing streams?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But my people have forgotten me;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "they make offerings to false gods;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "they made them stumble in their ways,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "in the ancient roads,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and to walk into side roads,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "not the highway,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "making their land a horror,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "a thing to be hissed at forever.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone who passes by it is horrified",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and shakes his head.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the east wind I will scatter them",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "before the enemy.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I will show them my back, not my face,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "in the day of their calamity.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they said, “Come, let us make plots against Jeremiah, for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, let us strike him with the tongue, and let us not pay attention to any of his words.”",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Hear me, O Lord,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and listen to the voice of my adversaries.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Should good be repaid with evil?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they have dug a pit for my life.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember how I stood before you",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to speak good for them,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to turn away your wrath from them.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore deliver up their children to famine;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "give them over to the power of the sword;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "let their wives become childless and widowed.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "May their men meet death by pestilence,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "their youths be struck down by the sword in battle.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "May a cry be heard from their houses,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "when you bring the plunderer suddenly upon them!",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have dug a pit to take me",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and laid snares for my feet.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you, O Lord, know",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "all their plotting to kill me.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Forgive not their iniquity,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "nor blot out their sin from your sight.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be overthrown before you;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "deal with them in the time of your anger.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

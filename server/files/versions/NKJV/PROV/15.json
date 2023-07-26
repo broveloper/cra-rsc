@@ -1,0 +1,342 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 15,
+  "verses": 33,
+  "content": [
+    {
+      "text": "A Soft Answer Turns Away Wrath",
+      "type": "heading"
+    },
+    {
+      "text": "A soft answer turns away wrath,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a harsh word stirs up anger.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The tongue of the wise uses knowledge rightly,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But the mouth of fools pours forth foolishness.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The eyes of the Lord are in every place,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Keeping watch on the evil and the good.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A wholesome tongue is a tree of life,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But perverseness in it breaks the spirit.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A fool despises his father’s instruction,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who receives correction is prudent.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In the house of the righteous there is much treasure,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But in the revenue of the wicked is trouble.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The lips of the wise disperse knowledge,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the heart of the fool does not do so.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The sacrifice of the wicked is an abomination to the Lord,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the prayer of the upright is His delight.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of the wicked is an abomination to the Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But He loves him who follows righteousness.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Harsh discipline is for him who forsakes the way,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who hates correction will die.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Hell and Destruction are before the Lord;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So how much more the hearts of the sons of men.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "A scoffer does not love one who corrects him,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor will he go to the wise.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A merry heart makes a cheerful countenance,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But by sorrow of the heart the spirit is broken.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The heart of him who has understanding seeks knowledge,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the mouth of fools feeds on foolishness.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of the afflicted are evil,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who is of a merry heart has a continual feast.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Better is a little with the fear of the Lord,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than great treasure with trouble.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Better is a dinner of herbs where love is,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Than a fatted calf with hatred.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "A wrathful man stirs up strife,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who is slow to anger allays contention.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of the lazy man is like a hedge of thorns,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the way of the upright is a highway.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "A wise son makes a father glad,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a foolish man despises his mother.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Folly is joy to him who is destitute of discernment,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a man of understanding walks uprightly.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Without counsel, plans go awry,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But in the multitude of counselors they are established.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A man has joy by the answer of his mouth,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a word spoken in due season, how good it is!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of life winds upward for the wise,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That he may turn away from hell below.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will destroy the house of the proud,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But He will establish the boundary of the widow.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The thoughts of the wicked are an abomination to the Lord,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the words of the pure are pleasant.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "He who is greedy for gain troubles his own house,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who hates bribes will live.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The heart of the righteous studies how to answer,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the mouth of the wicked pours forth evil.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is far from the wicked,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But He hears the prayer of the righteous.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The light of the eyes rejoices the heart,",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a good report makes the bones healthy.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The ear that hears the rebukes of life",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will abide among the wise.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "He who disdains instruction despises his own soul,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "But he who heeds rebuke gets understanding.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is the instruction of wisdom,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "And before honor is humility.",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

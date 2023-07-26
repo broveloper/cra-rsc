@@ -1,0 +1,211 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 65,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Praise to God for His Salvation and Providence",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David. A Song.",
+      "type": "title"
+    },
+    {
+      "text": "Praise is awaiting You, O God, in Zion;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And to You the vow shall be performed.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O You who hear prayer,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To You all flesh will come.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Iniquities prevail against me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "As for our transgressions,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You will provide atonement for them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man You choose,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And cause to approach You,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That he may dwell in Your courts.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "We shall be satisfied with the goodness of Your house,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Of Your holy temple.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "By awesome deeds in righteousness You will answer us,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O God of our salvation,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You who are the confidence of all the ends of the earth,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And of the far-off seas;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Who established the mountains by His strength,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Being clothed with power;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You who still the noise of the seas,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The noise of their waves,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And the tumult of the peoples.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They also who dwell in the farthest parts are afraid of Your signs;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You make the outgoings of the morning and evening rejoice.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You visit the earth and water it,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You greatly enrich it;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The river of God is full of water;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You provide their grain,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For so You have prepared it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You water its ridges abundantly,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You settle its furrows;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You make it soft with showers,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You bless its growth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You crown the year with Your goodness,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Your paths drip with abundance.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They drop on the pastures of the wilderness,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And the little hills rejoice on every side.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The pastures are clothed with flocks;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The valleys also are covered with grain;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They shout for joy, they also sing.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 145,
+  "verses": 21,
+  "content": [
+    {
+      "text": "A Song of God’s Majesty and Love",
+      "type": "heading"
+    },
+    {
+      "text": "A Praise of David.",
+      "type": "title"
+    },
+    {
+      "text": "I will extol You, my God, O King;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And I will bless Your name forever and ever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Every day I will bless You,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will praise Your name forever and ever.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Great is the Lord, and greatly to be praised;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And His greatness is unsearchable.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "One generation shall praise Your works to another,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And shall declare Your mighty acts.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will meditate on the glorious splendor of Your majesty,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And on Your wondrous works.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Men shall speak of the might of Your awesome acts,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will declare Your greatness.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall utter the memory of Your great goodness,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall sing of Your righteousness.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is gracious and full of compassion,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Slow to anger and great in mercy.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is good to all,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And His tender mercies are over all His works.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All Your works shall praise You, O Lord,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Your saints shall bless You.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall speak of the glory of Your kingdom,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And talk of Your power,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "To make known to the sons of men His mighty acts,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And the glorious majesty of His kingdom.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Your kingdom is an everlasting kingdom,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your dominion endures throughout all generations.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord upholds all who fall,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And raises up all who are bowed down.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The eyes of all look expectantly to You,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And You give them their food in due season.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You open Your hand",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And satisfy the desire of every living thing.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is righteous in all His ways,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Gracious in all His works.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is near to all who call upon Him,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "To all who call upon Him in truth.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He will fulfill the desire of those who fear Him;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He also will hear their cry and save them.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord preserves all who love Him,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But all the wicked He will destroy.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "My mouth shall speak the praise of the Lord,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And all flesh shall bless His holy name",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Forever and ever.",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

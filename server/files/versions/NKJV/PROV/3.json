@@ -1,0 +1,377 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 3,
+  "verses": 35,
+  "content": [
+    {
+      "text": "Guidance for the Young",
+      "type": "heading"
+    },
+    {
+      "text": "My son, do not forget my law,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But let your heart keep my commands;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For length of days and long life",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And peace they will add to you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let not mercy and truth forsake you;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Bind them around your neck,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Write them on the tablet of your heart,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And so find favor and high esteem",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In the sight of God and man.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Trust in the Lord with all your heart,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And lean not on your own understanding;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In all your ways acknowledge Him,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall direct your paths.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be wise in your own eyes;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Fear the Lord and depart from evil.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be health to your flesh,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And strength to your bones.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Honor the Lord with your possessions,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And with the firstfruits of all your increase;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "So your barns will be filled with plenty,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And your vats will overflow with new wine.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, do not despise the chastening of the Lord,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor detest His correction;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For whom the Lord loves He corrects,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Just as a father the son in whom he delights.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Happy is the man who finds wisdom,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the man who gains understanding;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For her proceeds are better than the profits of silver,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And her gain than fine gold.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "She is more precious than rubies,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And all the things you may desire cannot compare with her.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Length of days is in her right hand,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "In her left hand riches and honor.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Her ways are ways of pleasantness,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And all her paths are peace.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "She is a tree of life to those who take hold of her,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And happy are all who retain her.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord by wisdom founded the earth;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "By understanding He established the heavens;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "By His knowledge the depths were broken up,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And clouds drop down the dew.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, let them not depart from your eyes—",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Keep sound wisdom and discretion;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "So they will be life to your soul",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And grace to your neck.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will walk safely in your way,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And your foot will not stumble.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "When you lie down, you will not be afraid;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, you will lie down and your sleep will be sweet.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be afraid of sudden terror,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor of trouble from the wicked when it comes;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will be your confidence,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And will keep your foot from being caught.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not withhold good from those to whom it is due,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When it is in the power of your hand to do so.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not say to your neighbor,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“Go, and come back,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And tomorrow I will give it,”",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "When you have it with you.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not devise evil against your neighbor,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "For he dwells by you for safety’s sake.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not strive with a man without cause,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has done you no harm.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not envy the oppressor,",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And choose none of his ways;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "For the perverse person is an abomination to the Lord,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "But His secret counsel is with the upright.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The curse of the Lord is on the house of the wicked,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "But He blesses the home of the just.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely He scorns the scornful,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "But gives grace to the humble.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "The wise shall inherit glory,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "But shame shall be the legacy of fools.",
+      "verse": 35,
+      "type": "poetry"
+    }
+  ]
+}

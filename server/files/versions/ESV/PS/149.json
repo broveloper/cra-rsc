@@ -1,0 +1,112 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 149,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Sing to the Lord a New Song",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Sing to the Lord a new song,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "his praise in the assembly of the godly!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Israel be glad in his Maker;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "let the children of Zion rejoice in their King!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them praise his name with dancing,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "making melody to him with tambourine and lyre!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord takes pleasure in his people;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he adorns the humble with salvation.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the godly exult in glory;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "let them sing for joy on their beds.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the high praises of God be in their throats",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and two-edged swords in their hands,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to execute vengeance on the nations",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and punishments on the peoples,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to bind their kings with chains",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and their nobles with fetters of iron,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to execute on them the judgment written!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This is honor for all his godly ones.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

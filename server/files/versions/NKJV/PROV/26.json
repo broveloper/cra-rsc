@@ -1,0 +1,292 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 26,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Honor Is Not Fitting for a Fool",
+      "type": "heading"
+    },
+    {
+      "text": "As snow in summer and rain in harvest,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So honor is not fitting for a fool.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a flitting sparrow, like a flying swallow,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So a curse without cause shall not alight.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A whip for the horse,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A bridle for the donkey,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And a rod for the fool’s back.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not answer a fool according to his folly,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest you also be like him.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Answer a fool according to his folly,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest he be wise in his own eyes.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He who sends a message by the hand of a fool",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Cuts off his own feet and drinks violence.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the legs of the lame that hang limp",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Is a proverb in the mouth of fools.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Like one who binds a stone in a sling",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Is he who gives honor to a fool.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a thorn that goes into the hand of a drunkard",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Is a proverb in the mouth of fools.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The great God who formed everything",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Gives the fool his hire and the transgressor his wages.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As a dog returns to his own vomit,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "So a fool repeats his folly.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you see a man wise in his own eyes?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "There is more hope for a fool than for him.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The lazy man says, “There is a lion in the road!",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A fierce lion is in the streets!”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "As a door turns on its hinges,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So does the lazy man on his bed.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The lazy man buries his hand in the bowl;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "It wearies him to bring it back to his mouth.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The lazy man is wiser in his own eyes",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Than seven men who can answer sensibly.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He who passes by and meddles in a quarrel not his own",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is like one who takes a dog by the ears.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a madman who throws firebrands, arrows, and death,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is the man who deceives his neighbor,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And says, “I was only joking!”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Where there is no wood, the fire goes out;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And where there is no talebearer, strife ceases.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "As charcoal is to burning coals, and wood to fire,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "So is a contentious man to kindle strife.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of a talebearer are like tasty trifles,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And they go down into the inmost body.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Fervent lips with a wicked heart",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Are like earthenware covered with silver dross.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He who hates, disguises it with his lips,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And lays up deceit within himself;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "When he speaks kindly, do not believe him,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For there are seven abominations in his heart;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Though his hatred is covered by deceit,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "His wickedness will be revealed before the assembly.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever digs a pit will fall into it,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who rolls a stone will have it roll back on him.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "A lying tongue hates those who are crushed by it,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a flattering mouth works ruin.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

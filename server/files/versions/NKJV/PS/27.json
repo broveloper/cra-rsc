@@ -1,0 +1,261 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 27,
+  "verses": 14,
+  "content": [
+    {
+      "text": "An Exuberant Declaration of Faith",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The Lord is my light and my salvation;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whom shall I fear?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is the strength of my life;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Of whom shall I be afraid?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When the wicked came against me",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To eat up my flesh,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My enemies and foes,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They stumbled and fell.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Though an army may encamp against me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart shall not fear;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Though war may rise against me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In this I will be confident.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "One thing I have desired of the Lord,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That will I seek:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may dwell in the house of the Lord",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of my life,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To behold the beauty of the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And to inquire in His temple.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For in the time of trouble",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall hide me in His pavilion;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In the secret place of His tabernacle",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall hide me;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall set me high upon a rock.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And now my head shall be lifted up above my enemies all around me;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore I will offer sacrifices of joy in His tabernacle;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sing, yes, I will sing praises to the Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear, O Lord, when I cry with my voice!",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Have mercy also upon me, and answer me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "When You said, “Seek My face,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart said to You, “Your face, Lord, I will seek.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not hide Your face from me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not turn Your servant away in anger;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You have been my help;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not leave me nor forsake me,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "O God of my salvation.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "When my father and my mother forsake me,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the Lord will take care of me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me Your way, O Lord,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And lead me in a smooth path, because of my enemies.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not deliver me to the will of my adversaries;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For false witnesses have risen against me,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And such as breathe out violence.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I would have lost heart, unless I had believed",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That I would see the goodness of the Lord",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the land of the living.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Wait on the Lord;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Be of good courage,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall strengthen your heart;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Wait, I say, on the Lord!",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

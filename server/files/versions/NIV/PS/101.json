@@ -1,0 +1,156 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 101,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 101",
+      "type": "heading"
+    },
+    {
+      "text": "Of David. A psalm.",
+      "type": "title"
+    },
+    {
+      "text": "I will sing of your love and justice;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to you, Lord, I will sing praise.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will be careful to lead a blameless life—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when will you come to me?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will conduct the affairs of my house",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with a blameless heart.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not look with approval",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "on anything that is vile.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I hate what faithless people do;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will have no part in it.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The perverse of heart shall be far from me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will have nothing to do with what is evil.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever slanders their neighbor in secret,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will put to silence;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "whoever has haughty eyes and a proud heart,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not tolerate.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes will be on the faithful in the land,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that they may dwell with me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the one whose walk is blameless",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "will minister to me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "No one who practices deceit",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will dwell in my house;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "no one who speaks falsely",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "will stand in my presence.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Every morning I will put to silence",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all the wicked in the land;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cut off every evildoer",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from the city of the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

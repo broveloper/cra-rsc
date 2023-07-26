@@ -1,0 +1,596 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 45,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Cyrus, God’s Instrument",
+      "type": "heading"
+    },
+    {
+      "text": "“Thus says the Lord to His anointed,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To Cyrus, whose right hand I have held—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To subdue nations before him",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And loose the armor of kings,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To open before him the double doors,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "So that the gates will not be shut:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will go before you",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And make the crooked places straight;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will break in pieces the gates of bronze",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And cut the bars of iron.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give you the treasures of darkness",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And hidden riches of secret places,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may know that I, the Lord,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who call you by your name,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Am the God of Israel.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For Jacob My servant’s sake,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And Israel My elect,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have even called you by your name;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have named you, though you have not known Me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I am the Lord, and there is no other;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no God besides Me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will gird you, though you have not known Me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may know from the rising of the sun to its setting",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That there is none besides Me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I am the Lord, and there is no other;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I form the light and create darkness,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I make peace and create calamity;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the Lord, do all these things.’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Rain down, you heavens, from above,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let the skies pour down righteousness;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the earth open, let them bring forth salvation,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And let righteousness spring up together.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the Lord, have created it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to him who strives with his Maker!",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let the potsherd strive with the potsherds of the earth!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall the clay say to him who forms it, ‘What are you making?’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Or shall your handiwork say, ‘He has no hands’?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to him who says to his father, ‘What are you begetting?’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Or to the woman, ‘What have you brought forth?’ ”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Holy One of Israel, and his Maker:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Ask Me of things to come concerning My sons;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And concerning the work of My hands, you command Me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I have made the earth,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And created man on it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I—My hands—stretched out the heavens,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And all their host I have commanded.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I have raised him up in righteousness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will direct all his ways;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall build My city",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And let My exiles go free,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Not for price nor reward,”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord, the Only Savior",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "“The labor of Egypt and merchandise of Cush",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And of the Sabeans, men of stature,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall come over to you, and they shall be yours;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall walk behind you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall come over in chains;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall bow down to you.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They will make supplication to you, saying, ‘Surely God is in you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And there is no other;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no other God.’ ”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Truly You are God, who hide Yourself,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O God of Israel, the Savior!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be ashamed",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And also disgraced, all of them;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall go in confusion together,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Who are makers of idols.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But Israel shall be saved by the Lord",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "With an everlasting salvation;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall not be ashamed or disgraced",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Forever and ever.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who created the heavens,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is God,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Who formed the earth and made it,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has established it,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Who did not create it in vain,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Who formed it to be inhabited:",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am the Lord, and there is no other.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not spoken in secret,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "In a dark place of the earth;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I did not say to the seed of Jacob,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Seek Me in vain’;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the Lord, speak righteousness,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I declare things that are right.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Assemble yourselves and come;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Draw near together,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "You who have escaped from the nations.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They have no knowledge,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Who carry the wood of their carved image,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And pray to a god that cannot save.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Tell and bring forth your case;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, let them take counsel together.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has declared this from ancient time?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has told it from that time?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Have not I, the Lord?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And there is no other God besides Me,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A just God and a Savior;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "There is none besides Me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Look to Me, and be saved,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All you ends of the earth!",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am God, and there is no other.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I have sworn by Myself;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The word has gone out of My mouth in righteousness,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall not return,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "That to Me every knee shall bow,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Every tongue shall take an oath.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall say,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Surely in the Lord I have righteousness and strength.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "To Him men shall come,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And all shall be ashamed",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Who are incensed against Him.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "In the Lord all the descendants of Israel",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be justified, and shall glory.’ ”",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

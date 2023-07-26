@@ -1,0 +1,291 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 56,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Salvation for Others",
+      "type": "heading"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Maintain justice",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do what is right,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for my salvation is close at hand",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and my righteousness will soon be revealed.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the one who does this—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the person who holds it fast,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who keeps the Sabbath without desecrating it,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and keeps their hands from doing any evil.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let no foreigner who is bound to the Lord say,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“The Lord will surely exclude me from his people.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And let no eunuch complain,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am only a dry tree.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For this is what the Lord says:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“To the eunuchs who keep my Sabbaths,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who choose what pleases me",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and hold fast to my covenant—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to them I will give within my temple and its walls",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "a memorial and a name",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "better than sons and daughters;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give them an everlasting name",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that will endure forever.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And foreigners who bind themselves to the Lord",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to minister to him,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to love the name of the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and to be his servants,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "all who keep the Sabbath without desecrating it",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and who hold fast to my covenant—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "these I will bring to my holy mountain",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and give them joy in my house of prayer.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their burnt offerings and sacrifices",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "will be accepted on my altar;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for my house will be called",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "a house of prayer for all nations.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sovereign Lord declares—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he who gathers the exiles of Israel:",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will gather still others to them",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "besides those already gathered.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "God’s Accusation Against the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "Come, all you beasts of the field,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "come and devour, all you beasts of the forest!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel’s watchmen are blind,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they all lack knowledge;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they are all mute dogs,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they cannot bark;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they lie around and dream,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they love to sleep.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They are dogs with mighty appetites;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they never have enough.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They are shepherds who lack understanding;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they all turn to their own way,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they seek their own gain.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come,” each one cries, “let me get wine!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us drink our fill of beer!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And tomorrow will be like today,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "or even far better.”",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 56,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Prayer for Relief from Tormentors",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. Set to “The Silent Dove in Distant Lands.” A Michtam of David when the Philistines captured him in Gath.",
+      "type": "title"
+    },
+    {
+      "text": "Be merciful to me, O God, for man would swallow me up;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Fighting all day he oppresses me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "My enemies would hound me all day,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For there are many who fight against me, O Most High.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Whenever I am afraid,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will trust in You.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In God (I will praise His word),",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In God I have put my trust;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not fear.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "What can flesh do to me?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "All day they twist my words;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All their thoughts are against me for evil.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They gather together,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They hide, they mark my steps,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When they lie in wait for my life.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall they escape by iniquity?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In anger cast down the peoples, O God!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You number my wanderings;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Put my tears into Your bottle;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Are they not in Your book?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "When I cry out to You,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Then my enemies will turn back;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This I know, because God is for me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In God (I will praise His word),",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In the Lord (I will praise His word),",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In God I have put my trust;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not be afraid.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "What can man do to me?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Vows made to You are binding upon me, O God;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will render praises to You,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have delivered my soul from death.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Have You not kept my feet from falling,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may walk before God",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the light of the living?",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

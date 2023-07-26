@@ -1,0 +1,196 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 143,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 143",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, hear my prayer,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "listen to my cry for mercy;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "in your faithfulness and righteousness",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "come to my relief.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not bring your servant into judgment,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for no one living is righteous before you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The enemy pursues me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he crushes me to the ground;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he makes me dwell in the darkness",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like those long dead.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "So my spirit grows faint within me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "my heart within me is dismayed.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I remember the days of long ago;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I meditate on all your works",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and consider what your hands have done.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I spread out my hands to you;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I thirst for you like a parched land.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Answer me quickly, Lord;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my spirit fails.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not hide your face from me",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "or I will be like those who go down to the pit.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the morning bring me word of your unfailing love,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for I have put my trust in you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Show me the way I should go,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for to you I entrust my life.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Rescue me from my enemies, Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for I hide myself in you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me to do your will,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are my God;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "may your good Spirit",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "lead me on level ground.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For your name’s sake, Lord, preserve my life;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in your righteousness, bring me out of trouble.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In your unfailing love, silence my enemies;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "destroy all my foes,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am your servant.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

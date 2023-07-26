@@ -1,0 +1,251 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 8,
+  "verses": 14,
+  "content": [
+    {
+      "text": "A Basket of Ripe Fruit",
+      "type": "heading"
+    },
+    {
+      "text": "This is what the Sovereign Lord showed me: a basket of ripe fruit.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“What do you see, Amos?” he asked.",
+      "verse": 2
+    },
+    {
+      "text": "“A basket of ripe fruit,” I answered.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord said to me, “The time is ripe for my people Israel; I will spare them no longer.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "“In that day,” declares the Sovereign Lord, “the songs in the temple will turn to wailing. Many, many bodies—flung everywhere! Silence!”",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Hear this, you who trample the needy",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do away with the poor of the land,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "saying,",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“When will the New Moon be over",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that we may sell grain,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Sabbath be ended",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may market wheat?”—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "skimping on the measure,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "boosting the price",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and cheating with dishonest scales,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "buying the poor with silver",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the needy for a pair of sandals,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "selling even the sweepings with the wheat.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has sworn by himself, the Pride of Jacob: “I will never forget anything they have done.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "“Will not the land tremble for this,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and all who live in it mourn?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The whole land will rise like the Nile;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "it will be stirred up and then sink",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "like the river of Egypt.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“In that day,” declares the Sovereign Lord,",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“I will make the sun go down at noon",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and darken the earth in broad daylight.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn your religious festivals into mourning",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and all your singing into weeping.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make all of you wear sackcloth",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and shave your heads.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make that time like mourning for an only son",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the end of it like a bitter day.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“The days are coming,” declares the Sovereign Lord,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“when I will send a famine through the land—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "not a famine of food or a thirst for water,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "but a famine of hearing the words of the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "People will stagger from sea to sea",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and wander from north to east,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "searching for the word of the Lord,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but they will not find it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“In that day",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“the lovely young women and strong young men",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will faint because of thirst.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who swear by the sin of Samaria—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "who say, ‘As surely as your god lives, Dan,’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "or, ‘As surely as the god of Beersheba lives’—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they will fall, never to rise again.”",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

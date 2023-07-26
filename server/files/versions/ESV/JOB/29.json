@@ -1,0 +1,262 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 29,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Job's Summary Defense",
+      "type": "heading"
+    },
+    {
+      "text": "And Job again took up his discourse, and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Oh, that I were as in the months of old,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as in the days when God watched over me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when his lamp shone upon my head,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and by his light I walked through darkness,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "as I was in my prime,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "when the friendship of God was upon my tent,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "when the Almighty was yet with me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "when my children were all around me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "when my steps were washed with butter,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the rock poured out for me streams of oil!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When I went out to the gate of the city,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "when I prepared my seat in the square,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the young men saw me and withdrew,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the aged rose and stood;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the princes refrained from talking",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and laid their hand on their mouth;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the voice of the nobles was hushed,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and their tongue stuck to the roof of their mouth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When the ear heard, it called me blessed,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and when the eye saw, it approved,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because I delivered the poor who cried for help,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fatherless who had none to help him.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The blessing of him who was about to perish came upon me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and I caused the widow's heart to sing for joy.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I put on righteousness, and it clothed me;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "my justice was like a robe and a turban.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I was eyes to the blind",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and feet to the lame.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I was a father to the needy,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and I searched out the cause of him whom I did not know.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I broke the fangs of the unrighteous",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and made him drop his prey from his teeth.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I thought, ‘I shall die in my nest,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and I shall multiply my days as the sand,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "my roots spread out to the waters,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "with the dew all night on my branches,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "my glory fresh with me,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and my bow ever new in my hand.’",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“Men listened to me and waited",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and kept silence for my counsel.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "After I spoke they did not speak again,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and my word dropped upon them.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "They waited for me as for the rain,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and they opened their mouths as for the spring rain.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I smiled on them when they had no confidence,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and the light of my face they did not cast down.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I chose their way and sat as chief,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and I lived like a king among his troops,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "like one who comforts mourners.",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

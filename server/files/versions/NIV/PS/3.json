@@ -1,0 +1,106 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 3,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 3",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of David. When he fled from his son Absalom.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, how many are my foes!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How many rise up against me!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Many are saying of me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“God will not deliver him.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, Lord, are a shield around me,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my glory, the One who lifts my head high.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I call out to the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and he answers me from his holy mountain.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I lie down and sleep;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I wake again, because the Lord sustains me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not fear though tens of thousands",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "assail me on every side.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, Lord!",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Deliver me, my God!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Strike all my enemies on the jaw;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "break the teeth of the wicked.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "From the Lord comes deliverance.",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "May your blessing be on your people.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

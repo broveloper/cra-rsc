@@ -1,0 +1,194 @@
+{
+  "book_id": "ACTS",
+  "book_name": "Acts",
+  "chapter": 28,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Paul’s Ministry on Malta",
+      "type": "heading"
+    },
+    {
+      "text": "Now when they had escaped, they then found out that the island was called Malta. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And the natives showed us unusual kindness; for they kindled a fire and made us all welcome, because of the rain that was falling and because of the cold. ",
+      "verse": 2
+    },
+    {
+      "text": "But when Paul had gathered a bundle of sticks and laid them on the fire, a viper came out because of the heat, and fastened on his hand. ",
+      "verse": 3
+    },
+    {
+      "text": "So when the natives saw the creature hanging from his hand, they said to one another, “No doubt this man is a murderer, whom, though he has escaped the sea, yet justice does not allow to live.” ",
+      "verse": 4
+    },
+    {
+      "text": "But he shook off the creature into the fire and suffered no harm. ",
+      "verse": 5
+    },
+    {
+      "text": "However, they were expecting that he would swell up or suddenly fall down dead. But after they had looked for a long time and saw no harm come to him, they changed their minds and said that he was a god.",
+      "verse": 6
+    },
+    {
+      "text": "In that region there was an estate of the leading citizen of the island, whose name was Publius, who received us and entertained us courteously for three days. ",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And it happened that the father of Publius lay sick of a fever and dysentery. Paul went in to him and prayed, and he laid his hands on him and healed him. ",
+      "verse": 8
+    },
+    {
+      "text": "So when this was done, the rest of those on the island who had diseases also came and were healed. ",
+      "verse": 9
+    },
+    {
+      "text": "They also honored us in many ways; and when we departed, they provided such things as were necessary.",
+      "verse": 10
+    },
+    {
+      "text": "Arrival at Rome",
+      "type": "heading"
+    },
+    {
+      "text": "After three months we sailed in an Alexandrian ship whose figurehead was the Twin Brothers, which had wintered at the island. ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And landing at Syracuse, we stayed three days. ",
+      "verse": 12
+    },
+    {
+      "text": "From there we circled round and reached Rhegium. And after one day the south wind blew; and the next day we came to Puteoli, ",
+      "verse": 13
+    },
+    {
+      "text": "where we found brethren, and were invited to stay with them seven days. And so we went toward Rome. ",
+      "verse": 14
+    },
+    {
+      "text": "And from there, when the brethren heard about us, they came to meet us as far as Appii Forum and Three Inns. When Paul saw them, he thanked God and took courage.",
+      "verse": 15
+    },
+    {
+      "text": "Now when we came to Rome, the centurion delivered the prisoners to the captain of the guard; but Paul was permitted to dwell by himself with the soldier who guarded him.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Paul’s Ministry at Rome",
+      "type": "heading"
+    },
+    {
+      "text": "And it came to pass after three days that Paul called the leaders of the Jews together. So when they had come together, he said to them: “Men and brethren, though I have done nothing against our people or the customs of our fathers, yet I was delivered as a prisoner from Jerusalem into the hands of the Romans, ",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "who, when they had examined me, wanted to let me go, because there was no cause for putting me to death. ",
+      "verse": 18
+    },
+    {
+      "text": "But when the Jews spoke against it, I was compelled to appeal to Caesar, not that I had anything of which to accuse my nation. ",
+      "verse": 19
+    },
+    {
+      "text": "For this reason therefore I have called for you, to see you and speak with you, because for the hope of Israel I am bound with this chain.”",
+      "verse": 20
+    },
+    {
+      "text": "Then they said to him, “We neither received letters from Judea concerning you, nor have any of the brethren who came reported or spoken any evil of you. ",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "But we desire to hear from you what you think; for concerning this sect, we know that it is spoken against everywhere.”",
+      "verse": 22
+    },
+    {
+      "text": "So when they had appointed him a day, many came to him at his lodging, to whom he explained and solemnly testified of the kingdom of God, persuading them concerning Jesus from both the Law of Moses and the Prophets, from morning till evening. ",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "And some were persuaded by the things which were spoken, and some disbelieved. ",
+      "verse": 24
+    },
+    {
+      "text": "So when they did not agree among themselves, they departed after Paul had said one word: “The Holy Spirit spoke rightly through Isaiah the prophet to our fathers, ",
+      "verse": 25
+    },
+    {
+      "text": "saying,",
+      "verse": 26
+    },
+    {
+      "text": "‘Go to this people and say:",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Hearing you will hear, and shall not understand;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And seeing you will see, and not perceive;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "For the hearts of this people have grown dull.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Their ears are hard of hearing,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And their eyes they have closed,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest they should see with their eyes and hear with their ears,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest they should understand with their hearts and turn,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "So that I should heal them.” ’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore let it be known to you that the salvation of God has been sent to the Gentiles, and they will hear it!” ",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "And when he had said these words, the Jews departed and had a great dispute among themselves.",
+      "verse": 29
+    },
+    {
+      "text": "Then Paul dwelt two whole years in his own rented house, and received all who came to him, ",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "preaching the kingdom of God and teaching the things which concern the Lord Jesus Christ with all confidence, no one forbidding him.",
+      "verse": 31
+    }
+  ]
+}

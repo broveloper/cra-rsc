@@ -1,0 +1,219 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 90,
+  "verses": 17,
+  "content": [
+    {
+      "text": "BOOK IV",
+      "type": "heading"
+    },
+    {
+      "text": "Psalms 90–106",
+      "type": "title"
+    },
+    {
+      "text": "Psalm 90",
+      "type": "heading"
+    },
+    {
+      "text": "A prayer of Moses the man of God.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, you have been our dwelling place",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "throughout all generations.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the mountains were born",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "or you brought forth the whole world,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "from everlasting to everlasting you are God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You turn people back to dust,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "saying, “Return to dust, you mortals.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A thousand years in your sight",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "are like a day that has just gone by,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "or like a watch in the night.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you sweep people away in the sleep of death—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they are like the new grass of the morning:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In the morning it springs up new,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but by evening it is dry and withered.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "We are consumed by your anger",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and terrified by your indignation.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have set our iniquities before you,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "our secret sins in the light of your presence.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All our days pass away under your wrath;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "we finish our years with a moan.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Our days may come to seventy years,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "or eighty, if our strength endures;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "yet the best of them are but trouble and sorrow,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for they quickly pass, and we fly away.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "If only we knew the power of your anger!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wrath is as great as the fear that is your due.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach us to number our days,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may gain a heart of wisdom.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Relent, Lord! How long will it be?",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Have compassion on your servants.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Satisfy us in the morning with your unfailing love,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may sing for joy and be glad all our days.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Make us glad for as many days as you have afflicted us,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for as many years as we have seen trouble.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "May your deeds be shown to your servants,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "your splendor to their children.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "May the favor of the Lord our God rest on us;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "establish the work of our hands for us—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "yes, establish the work of our hands.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

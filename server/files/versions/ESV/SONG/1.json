@@ -1,0 +1,292 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 1,
+  "verses": 17,
+  "content": [
+    {
+      "text": "The Song of Songs, which is Solomon's.",
+      "verse": 1
+    },
+    {
+      "text": "The Bride Confesses Her Love",
+      "type": "heading"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "Let him kiss me with the kisses of his mouth!",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For your love is better than wine;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "    your anointing oils are fragrant;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "your name is oil poured out;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore virgins love you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Draw me after you; let us run.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The king has brought me into his chambers.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Others",
+      "type": "title"
+    },
+    {
+      "text": "We will exult and rejoice in you;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "we will extol your love more than wine;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "rightly do they love you.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "I am very dark, but lovely,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O daughters of Jerusalem,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like the tents of Kedar,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like the curtains of Solomon.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not gaze at me because I am dark,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "because the sun has looked upon me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My mother's sons were angry with me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they made me keeper of the vineyards,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but my own vineyard I have not kept!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Tell me, you whom my soul loves,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "where you pasture your flock,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "where you make it lie down at noon;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for why should I be like one who veils herself",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "beside the flocks of your companions?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Solomon and His Bride Delight in Each Other",
+      "type": "heading"
+    },
+    {
+      "text": "He",
+      "type": "title"
+    },
+    {
+      "text": "If you do not know,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O most beautiful among women,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "follow in the tracks of the flock,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and pasture your young goats",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "beside the shepherds' tents.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I compare you, my love,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to a mare among Pharaoh's chariots.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Your cheeks are lovely with ornaments,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "your neck with strings of jewels.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Others",
+      "type": "title"
+    },
+    {
+      "text": "We will make for you ornaments of gold,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "studded with silver.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "While the king was on his couch,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my nard gave forth its fragrance.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved is to me a sachet of myrrh",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that lies between my breasts.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved is to me a cluster of henna blossoms",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "in the vineyards of Engedi.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He",
+      "type": "title"
+    },
+    {
+      "text": "Behold, you are beautiful, my love;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "behold, you are beautiful;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "your eyes are doves.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "Behold, you are beautiful, my beloved, truly delightful.",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Our couch is green;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "    the beams of our house are cedar;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "our rafters are pine.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

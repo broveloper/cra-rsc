@@ -1,0 +1,279 @@
+{
+  "book_id": "JOHN",
+  "book_name": "John",
+  "chapter": 4,
+  "verses": 54,
+  "content": [
+    {
+      "text": "Jesus Talks With a Samaritan Woman",
+      "type": "heading"
+    },
+    {
+      "text": "Now Jesus learned that the Pharisees had heard that he was gaining and baptizing more disciples than John—",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "although in fact it was not Jesus who baptized, but his disciples.",
+      "verse": 2
+    },
+    {
+      "text": "So he left Judea and went back once more to Galilee.",
+      "verse": 3
+    },
+    {
+      "text": "Now he had to go through Samaria.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph.",
+      "verse": 5
+    },
+    {
+      "text": "Jacob’s well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon.",
+      "verse": 6
+    },
+    {
+      "text": "When a Samaritan woman came to draw water, Jesus said to her, “Will you give me a drink?”",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "(His disciples had gone into the town to buy food.)",
+      "verse": 8
+    },
+    {
+      "text": "The Samaritan woman said to him, “You are a Jew and I am a Samaritan woman. How can you ask me for a drink?” (For Jews do not associate with Samaritans.)",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus answered her, “If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water.”",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "“Sir,” the woman said, “you have nothing to draw with and the well is deep. Where can you get this living water?",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Are you greater than our father Jacob, who gave us the well and drank from it himself, as did also his sons and his livestock?”",
+      "verse": 12
+    },
+    {
+      "text": "Jesus answered, “Everyone who drinks this water will be thirsty again,",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.”",
+      "verse": 14
+    },
+    {
+      "text": "The woman said to him, “Sir, give me this water so that I won’t get thirsty and have to keep coming here to draw water.”",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "He told her, “Go, call your husband and come back.”",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“I have no husband,” she replied.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus said to her, “You are right when you say you have no husband.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "The fact is, you have had five husbands, and the man you now have is not your husband. What you have just said is quite true.”",
+      "verse": 18
+    },
+    {
+      "text": "“Sir,” the woman said, “I can see that you are a prophet.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Our ancestors worshiped on this mountain, but you Jews claim that the place where we must worship is in Jerusalem.”",
+      "verse": 20
+    },
+    {
+      "text": "“Woman,” Jesus replied, “believe me, a time is coming when you will worship the Father neither on this mountain nor in Jerusalem.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "You Samaritans worship what you do not know; we worship what we do know, for salvation is from the Jews.",
+      "verse": 22
+    },
+    {
+      "text": "Yet a time is coming and has now come when the true worshipers will worship the Father in the Spirit and in truth, for they are the kind of worshipers the Father seeks.",
+      "verse": 23
+    },
+    {
+      "text": "God is spirit, and his worshipers must worship in the Spirit and in truth.”",
+      "verse": 24
+    },
+    {
+      "text": "The woman said, “I know that Messiah” (called Christ) “is coming. When he comes, he will explain everything to us.”",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "Then Jesus declared, “I, the one speaking to you—I am he.”",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "The Disciples Rejoin Jesus",
+      "type": "heading"
+    },
+    {
+      "text": "Just then his disciples returned and were surprised to find him talking with a woman. But no one asked, “What do you want?” or “Why are you talking with her?”",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "Then, leaving her water jar, the woman went back to the town and said to the people,",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "“Come, see a man who told me everything I ever did. Could this be the Messiah?”",
+      "verse": 29
+    },
+    {
+      "text": "They came out of the town and made their way toward him.",
+      "verse": 30
+    },
+    {
+      "text": "Meanwhile his disciples urged him, “Rabbi, eat something.”",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "But he said to them, “I have food to eat that you know nothing about.”",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "Then his disciples said to each other, “Could someone have brought him food?”",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "“My food,” said Jesus, “is to do the will of him who sent me and to finish his work.",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "Don’t you have a saying, ‘It’s still four months until harvest’? I tell you, open your eyes and look at the fields! They are ripe for harvest.",
+      "verse": 35
+    },
+    {
+      "text": "Even now the one who reaps draws a wage and harvests a crop for eternal life, so that the sower and the reaper may be glad together.",
+      "verse": 36
+    },
+    {
+      "text": "Thus the saying ‘One sows and another reaps’ is true.",
+      "verse": 37
+    },
+    {
+      "text": "I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.”",
+      "verse": 38
+    },
+    {
+      "text": "Many Samaritans Believe",
+      "type": "heading"
+    },
+    {
+      "text": "Many of the Samaritans from that town believed in him because of the woman’s testimony, “He told me everything I ever did.”",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "So when the Samaritans came to him, they urged him to stay with them, and he stayed two days.",
+      "verse": 40
+    },
+    {
+      "text": "And because of his words many more became believers.",
+      "verse": 41
+    },
+    {
+      "text": "They said to the woman, “We no longer believe just because of what you said; now we have heard for ourselves, and we know that this man really is the Savior of the world.”",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus Heals an Official’s Son",
+      "type": "heading"
+    },
+    {
+      "text": "After the two days he left for Galilee.",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "(Now Jesus himself had pointed out that a prophet has no honor in his own country.)",
+      "verse": 44
+    },
+    {
+      "text": "When he arrived in Galilee, the Galileans welcomed him. They had seen all that he had done in Jerusalem at the Passover Festival, for they also had been there.",
+      "verse": 45
+    },
+    {
+      "text": "Once more he visited Cana in Galilee, where he had turned the water into wine. And there was a certain royal official whose son lay sick at Capernaum.",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "When this man heard that Jesus had arrived in Galilee from Judea, he went to him and begged him to come and heal his son, who was close to death.",
+      "verse": 47
+    },
+    {
+      "text": "“Unless you people see signs and wonders,” Jesus told him, “you will never believe.”",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "The royal official said, “Sir, come down before my child dies.”",
+      "verse": 49,
+      "type": "newline"
+    },
+    {
+      "text": "“Go,” Jesus replied, “your son will live.”",
+      "verse": 50,
+      "type": "newline"
+    },
+    {
+      "text": "The man took Jesus at his word and departed.",
+      "verse": 50,
+      "type": "newline"
+    },
+    {
+      "text": "While he was still on the way, his servants met him with the news that his boy was living.",
+      "verse": 51
+    },
+    {
+      "text": "When he inquired as to the time when his son got better, they said to him, “Yesterday, at one in the afternoon, the fever left him.”",
+      "verse": 52
+    },
+    {
+      "text": "Then the father realized that this was the exact time at which Jesus had said to him, “Your son will live.” So he and his whole household believed.",
+      "verse": 53,
+      "type": "newline"
+    },
+    {
+      "text": "This was the second sign Jesus performed after coming from Judea to Galilee.",
+      "verse": 54,
+      "type": "newline"
+    }
+  ]
+}

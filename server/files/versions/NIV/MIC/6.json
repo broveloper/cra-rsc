@@ -1,0 +1,291 @@
+{
+  "book_id": "MIC",
+  "book_name": "Micah",
+  "chapter": 6,
+  "verses": 16,
+  "content": [
+    {
+      "text": "The Lord’s Case Against Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Listen to what the Lord says:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Stand up, plead my case before the mountains;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let the hills hear what you have to say.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear, you mountains, the Lord’s accusation;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "listen, you everlasting foundations of the earth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has a case against his people;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he is lodging a charge against Israel.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“My people, what have I done to you?",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How have I burdened you? Answer me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I brought you up out of Egypt",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and redeemed you from the land of slavery.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I sent Moses to lead you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "also Aaron and Miriam.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My people, remember",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "what Balak king of Moab plotted",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and what Balaam son of Beor answered.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember your journey from Shittim to Gilgal,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that you may know the righteous acts of the Lord.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "With what shall I come before the Lord",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and bow down before the exalted God?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I come before him with burnt offerings,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with calves a year old?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Will the Lord be pleased with thousands of rams,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "with ten thousand rivers of olive oil?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I offer my firstborn for my transgression,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the fruit of my body for the sin of my soul?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He has shown you, O mortal, what is good.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And what does the Lord require of you?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "To act justly and to love mercy",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and to walk humbly with your God.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel’s Guilt and Punishment",
+      "type": "heading"
+    },
+    {
+      "text": "Listen! The Lord is calling to the city—",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and to fear your name is wisdom—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Heed the rod and the One who appointed it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Am I still to forget your ill-gotten treasures, you wicked house,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the short ephah, which is accursed?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I acquit someone with dishonest scales,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "with a bag of false weights?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Your rich people are violent;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "your inhabitants are liars",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and their tongues speak deceitfully.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, I have begun to destroy you,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "to ruin you because of your sins.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You will eat but not be satisfied;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "your stomach will still be empty.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You will store up but save nothing,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "because what you save I will give to the sword.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You will plant but not harvest;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you will press olives but not use the oil,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you will crush grapes but not drink the wine.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You have observed the statutes of Omri",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the practices of Ahab’s house;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you have followed their traditions.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will give you over to ruin",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and your people to derision;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you will bear the scorn of the nations.”",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

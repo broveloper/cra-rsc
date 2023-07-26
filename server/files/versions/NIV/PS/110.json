@@ -1,0 +1,121 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 110,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Psalm 110",
+      "type": "heading"
+    },
+    {
+      "text": "Of David. A psalm.",
+      "type": "title"
+    },
+    {
+      "text": "The Lord says to my lord:",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Sit at my right hand",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "until I make your enemies",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "a footstool for your feet.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will extend your mighty scepter from Zion, saying,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Rule in the midst of your enemies!”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Your troops will be willing",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "on your day of battle.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Arrayed in holy splendor,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "your young men will come to you",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like dew from the morning’s womb.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has sworn",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and will not change his mind:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“You are a priest forever,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "in the order of Melchizedek.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is at your right hand;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will crush kings on the day of his wrath.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He will judge the nations, heaping up the dead",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and crushing the rulers of the whole earth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He will drink from a brook along the way,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and so he will lift his head high.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

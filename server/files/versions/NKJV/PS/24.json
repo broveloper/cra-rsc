@@ -1,0 +1,141 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 24,
+  "verses": 10,
+  "content": [
+    {
+      "text": "The King of Glory and His Kingdom",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The earth is the Lord’s, and all its fullness,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The world and those who dwell therein.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For He has founded it upon the seas,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And established it upon the waters.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who may ascend into the hill of the Lord?",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or who may stand in His holy place?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He who has clean hands and a pure heart,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has not lifted up his soul to an idol,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor sworn deceitfully.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall receive blessing from the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And righteousness from the God of his salvation.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "This is Jacob, the generation of those who seek Him,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who seek Your face. Selah",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your heads, O you gates!",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And be lifted up, you everlasting doors!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And the King of glory shall come in.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is this King of glory?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord strong and mighty,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord mighty in battle.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your heads, O you gates!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up, you everlasting doors!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the King of glory shall come in.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is this King of glory?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord of hosts,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He is the King of glory. Selah",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

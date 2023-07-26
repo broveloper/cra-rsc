@@ -1,0 +1,92 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 59,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
+      "verse": 1
+    },
+    {
+      "text": "Deliver me from the workers of iniquity, and save me from bloody men.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O Lord.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "They run and prepare themselves without my fault: awake to help me, and behold.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Thou therefore, O Lord God of hosts, the God of Israel, awake to visit all the heathen: be not merciful to any wicked transgressors. Selah.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "They return at evening: they make a noise like a dog, and go round about the city.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "But thou, O Lord, shalt laugh at them; thou shalt have all the heathen in derision.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Because of his strength will I wait upon thee: for God is my defence.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "For the sin of their mouth and the words of their lips let them even be taken in their pride: and for cursing and lying which they speak.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Consume them in wrath, consume them, that they may not be: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "And at evening let them return; and let them make a noise like a dog, and go round about the city.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Let them wander up and down for meat, and grudge if they be not satisfied.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy.",
+      "verse": 17,
+      "type": "newline"
+    }
+  ]
+}

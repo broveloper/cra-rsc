@@ -1,0 +1,246 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 25,
+  "verses": 22,
+  "content": [
+    {
+      "text": "A Plea for Deliverance and Forgiveness",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "To You, O Lord, I lift up my soul.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O my God, I trust in You;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me not be ashamed;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let not my enemies triumph over me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, let no one who waits on You be ashamed;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Let those be ashamed who deal treacherously without cause.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Show me Your ways, O Lord;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Teach me Your paths.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Lead me in Your truth and teach me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For You are the God of my salvation;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "On You I wait all the day.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember, O Lord, Your tender mercies and Your lovingkindnesses,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For they are from of old.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not remember the sins of my youth, nor my transgressions;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "According to Your mercy remember me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your goodness’ sake, O Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Good and upright is the Lord;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore He teaches sinners in the way.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The humble He guides in justice,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the humble He teaches His way.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All the paths of the Lord are mercy and truth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "To such as keep His covenant and His testimonies.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your name’s sake, O Lord,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Pardon my iniquity, for it is great.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is the man that fears the Lord?",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Him shall He teach in the way He chooses.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He himself shall dwell in prosperity,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And his descendants shall inherit the earth.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The secret of the Lord is with those who fear Him,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And He will show them His covenant.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes are ever toward the Lord,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For He shall pluck my feet out of the net.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn Yourself to me, and have mercy on me,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For I am desolate and afflicted.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The troubles of my heart have enlarged;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring me out of my distresses!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Look on my affliction and my pain,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And forgive all my sins.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Consider my enemies, for they are many;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And they hate me with cruel hatred.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep my soul, and deliver me;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me not be ashamed, for I put my trust in You.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Let integrity and uprightness preserve me,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For I wait for You.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Redeem Israel, O God,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Out of all their troubles!",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

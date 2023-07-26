@@ -1,0 +1,96 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 126,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Restore Our Fortunes, O Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "When the Lord restored the fortunes of Zion,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "we were like those who dream.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Then our mouth was filled with laughter,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and our tongue with shouts of joy;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "then they said among the nations,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord has done great things for them.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has done great things for us;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "we are glad.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore our fortunes, O Lord,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "like streams in the Negeb!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who sow in tears",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "shall reap with shouts of joy!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He who goes out weeping,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "bearing the seed for sowing,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "shall come home with shouts of joy,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "bringing his sheaves with him.",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

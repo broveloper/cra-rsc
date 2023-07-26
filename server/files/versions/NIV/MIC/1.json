@@ -1,0 +1,335 @@
+{
+  "book_id": "MIC",
+  "book_name": "Micah",
+  "chapter": 1,
+  "verses": 16,
+  "content": [
+    {
+      "text": "The word of the Lord that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.",
+      "verse": 1
+    },
+    {
+      "text": "Hear, you peoples, all of you,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "listen, earth and all who live in it,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that the Sovereign Lord may bear witness against you,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord from his holy temple.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment Against Samaria and Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "Look! The Lord is coming from his dwelling place;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he comes down and treads on the heights of the earth.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains melt beneath him",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the valleys split apart,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like wax before the fire,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like water rushing down a slope.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "All this is because of Jacob’s transgression,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the sins of the people of Israel.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "What is Jacob’s transgression?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not Samaria?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "What is Judah’s high place?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not Jerusalem?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I will make Samaria a heap of rubble,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a place for planting vineyards.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pour her stones into the valley",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay bare her foundations.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All her idols will be broken to pieces;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "all her temple gifts will be burned with fire;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy all her images.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Since she gathered her gifts from the wages of prostitutes,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "as the wages of prostitutes they will again be used.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Weeping and Mourning",
+      "type": "heading"
+    },
+    {
+      "text": "Because of this I will weep and wail;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will go about barefoot and naked.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will howl like a jackal",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and moan like an owl.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For Samaria’s plague is incurable;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "it has spread to Judah.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "It has reached the very gate of my people,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "even to Jerusalem itself.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Tell it not in Gath;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "weep not at all.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In Beth Ophrah",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "roll in the dust.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Pass by naked and in shame,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you who live in Shaphir.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who live in Zaanan",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "will not come out.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Beth Ezel is in mourning;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "it no longer protects you.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who live in Maroth writhe in pain,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "waiting for relief,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "because disaster has come from the Lord,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "even to the gate of Jerusalem.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You who live in Lachish,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "harness fast horses to the chariot.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You are where the sin of Daughter Zion began,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for the transgressions of Israel were found in you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore you will give parting gifts",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to Moresheth Gath.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The town of Akzib will prove deceptive",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to the kings of Israel.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring a conqueror against you",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who live in Mareshah.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The nobles of Israel",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "will flee to Adullam.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Shave your head in mourning",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "for the children in whom you delight;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "make yourself as bald as the vulture,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "for they will go from you into exile.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

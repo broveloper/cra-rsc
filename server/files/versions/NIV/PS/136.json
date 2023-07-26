@@ -1,0 +1,272 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 136,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Psalm 136",
+      "type": "heading"
+    },
+    {
+      "text": "Give thanks to the Lord, for he is good.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Give thanks to the God of gods.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Give thanks to the Lord of lords:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who alone does great wonders,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who by his understanding made the heavens,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who spread out the earth upon the waters,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who made the great lights—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the sun to govern the day,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the moon and stars to govern the night;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who struck down the firstborn of Egypt",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and brought Israel out from among them",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "with a mighty hand and outstretched arm;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who divided the Red Sea asunder",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and brought Israel through the midst of it,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but swept Pharaoh and his army into the Red Sea;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who led his people through the wilderness;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who struck down great kings,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and killed mighty kings—",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Sihon king of the Amorites",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and Og king of Bashan—",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and gave their land as an inheritance,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "an inheritance to his servant Israel.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He remembered us in our low estate",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and freed us from our enemies.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives food to every creature.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Give thanks to the God of heaven.",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His love endures forever.",
+      "verse": 26,
+      "type": "poetry"
+    }
+  ]
+}

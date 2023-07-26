@@ -1,0 +1,201 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 48,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Zion, the City of Our God",
+      "type": "heading"
+    },
+    {
+      "text": "A Song. A Psalm of the Sons of Korah.",
+      "type": "title"
+    },
+    {
+      "text": "Great is the Lord and greatly to be praised",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the city of our God!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "His holy mountain,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "beautiful in elevation,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "is the joy of all the earth,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Mount Zion, in the far north,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the city of the great King.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Within her citadels God",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "has made himself known as a fortress.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, the kings assembled;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they came on together.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As soon as they saw it, they were astounded;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they were in panic; they took to flight.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Trembling took hold of them there,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "anguish as of a woman in labor.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "By the east wind you shattered",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the ships of Tarshish.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "As we have heard, so have we seen",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "in the city of the Lord of hosts,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "in the city of our God,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "which God will establish forever. Selah",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "We have thought on your steadfast love, O God,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the midst of your temple.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "As your name, O God,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "so your praise reaches to the ends of the earth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your right hand is filled with righteousness.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "    Let Mount Zion be glad!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the daughters of Judah rejoice",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because of your judgments!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Walk about Zion, go around her,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "number her towers,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "consider well her ramparts,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "go through her citadels,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that you may tell the next generation",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "    that this is God,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "our God forever and ever.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He will guide us forever.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

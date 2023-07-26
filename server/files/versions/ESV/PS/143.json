@@ -1,0 +1,186 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 143,
+  "verses": 12,
+  "content": [
+    {
+      "text": "My Soul Thirsts for You",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear my prayer, O Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "give ear to my pleas for mercy!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In your faithfulness answer me, in your righteousness!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Enter not into judgment with your servant,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for no one living is righteous before you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the enemy has pursued my soul;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he has crushed my life to the ground;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he has made me sit in darkness like those long dead.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore my spirit faints within me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "my heart within me is appalled.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I remember the days of old;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I meditate on all that you have done;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I ponder the work of your hands.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I stretch out my hands to you;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "my soul thirsts for you like a parched land. Selah",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Answer me quickly, O Lord!",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My spirit fails!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide not your face from me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "lest I be like those who go down to the pit.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me hear in the morning of your steadfast love,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for in you I trust.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Make me know the way I should go,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for to you I lift up my soul.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me from my enemies, O Lord!",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have fled to you for refuge.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me to do your will,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are my God!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your good Spirit lead me",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "on level ground!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For your name's sake, O Lord, preserve my life!",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In your righteousness bring my soul out of trouble!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And in your steadfast love you will cut off my enemies,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will destroy all the adversaries of my soul,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am your servant.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

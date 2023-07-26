@@ -1,0 +1,262 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 13,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Wisdom Loves Righteousness",
+      "type": "heading"
+    },
+    {
+      "text": "A wise son heeds his father’s instruction,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a scoffer does not listen to rebuke.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A man shall eat well by the fruit of his mouth,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the soul of the unfaithful feeds on violence.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He who guards his mouth preserves his life,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But he who opens wide his lips shall have destruction.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The soul of a lazy man desires, and has nothing;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the soul of the diligent shall be made rich.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A righteous man hates lying,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a wicked man is loathsome and comes to shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Righteousness guards him whose way is blameless,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But wickedness overthrows the sinner.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "There is one who makes himself rich, yet has nothing;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And one who makes himself poor, yet has great riches.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The ransom of a man’s life is his riches,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the poor does not hear rebuke.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The light of the righteous rejoices,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the lamp of the wicked will be put out.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "By pride comes nothing but strife,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But with the well-advised is wisdom.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Wealth gained by dishonesty will be diminished,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who gathers by labor will increase.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Hope deferred makes the heart sick,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But when the desire comes, it is a tree of life.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He who despises the word will be destroyed,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who fears the commandment will be rewarded.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The law of the wise is a fountain of life,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "To turn one away from the snares of death.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Good understanding gains favor,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the way of the unfaithful is hard.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Every prudent man acts with knowledge,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But a fool lays open his folly.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "A wicked messenger falls into trouble,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a faithful ambassador brings health.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Poverty and shame will come to him who disdains correction,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who regards a rebuke will be honored.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "A desire accomplished is sweet to the soul,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But it is an abomination to fools to depart from evil.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He who walks with wise men will be wise,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the companion of fools will be destroyed.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Evil pursues sinners,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But to the righteous, good shall be repaid.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A good man leaves an inheritance to his children’s children,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the wealth of the sinner is stored up for the righteous.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Much food is in the fallow ground of the poor,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And for lack of justice there is waste.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He who spares his rod hates his son,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who loves him disciplines him promptly.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous eats to the satisfying of his soul,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the stomach of the wicked shall be in want.",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

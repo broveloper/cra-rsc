@@ -1,0 +1,247 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 61,
+  "verses": 11,
+  "content": [
+    {
+      "text": "The Good News of Salvation",
+      "type": "heading"
+    },
+    {
+      "text": "“The Spirit of the Lord God is upon Me,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because the Lord has anointed Me",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To preach good tidings to the poor;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He has sent Me to heal the brokenhearted,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To proclaim liberty to the captives,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the opening of the prison to those who are bound;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To proclaim the acceptable year of the Lord,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And the day of vengeance of our God;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To comfort all who mourn,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To console those who mourn in Zion,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "To give them beauty for ashes,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The oil of joy for mourning,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The garment of praise for the spirit of heaviness;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may be called trees of righteousness,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The planting of the Lord, that He may be glorified.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall rebuild the old ruins,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They shall raise up the former desolations,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall repair the ruined cities,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The desolations of many generations.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Strangers shall stand and feed your flocks,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the sons of the foreigner",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be your plowmen and your vinedressers.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But you shall be named the priests of the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall call you the servants of our God.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall eat the riches of the Gentiles,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And in their glory you shall boast.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Instead of your shame you shall have double honor,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And instead of confusion they shall rejoice in their portion.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore in their land they shall possess double;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Everlasting joy shall be theirs.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“For I, the Lord, love justice;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I hate robbery for burnt offering;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will direct their work in truth,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And will make with them an everlasting covenant.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their descendants shall be known among the Gentiles,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And their offspring among the people.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All who see them shall acknowledge them,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That they are the posterity whom the Lord has blessed.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will greatly rejoice in the Lord,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My soul shall be joyful in my God;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For He has clothed me with the garments of salvation,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He has covered me with the robe of righteousness,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As a bridegroom decks himself with ornaments,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And as a bride adorns herself with her jewels.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For as the earth brings forth its bud,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "As the garden causes the things that are sown in it to spring forth,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "So the Lord God will cause righteousness and praise to spring forth before all the nations.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

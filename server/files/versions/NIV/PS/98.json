@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 98,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Psalm 98",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm.",
+      "type": "title"
+    },
+    {
+      "text": "Sing to the Lord a new song,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for he has done marvelous things;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "his right hand and his holy arm",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "have worked salvation for him.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has made his salvation known",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and revealed his righteousness to the nations.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He has remembered his love",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and his faithfulness to Israel;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "all the ends of the earth have seen",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the salvation of our God.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Shout for joy to the Lord, all the earth,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "burst into jubilant song with music;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "make music to the Lord with the harp,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "with the harp and the sound of singing,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "with trumpets and the blast of the ram’s horn—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "shout for joy before the Lord, the King.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the sea resound, and everything in it,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the world, and all who live in it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the rivers clap their hands,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "let the mountains sing together for joy;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "let them sing before the Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for he comes to judge the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He will judge the world in righteousness",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and the peoples with equity.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

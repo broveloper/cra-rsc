@@ -1,0 +1,166 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 108,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Assurance of God’s Victory over Enemies",
+      "type": "heading"
+    },
+    {
+      "text": "A Song. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "O God, my heart is steadfast;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing and give praise, even with my glory.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, lute and harp!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will awaken the dawn.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise You, O Lord, among the peoples,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will sing praises to You among the nations.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your mercy is great above the heavens,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your truth reaches to the clouds.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O God, above the heavens,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Your glory above all the earth;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That Your beloved may be delivered,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Save with Your right hand, and hear me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "God has spoken in His holiness:",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“I will rejoice;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will divide Shechem",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And measure out the Valley of Succoth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Gilead is Mine; Manasseh is Mine;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim also is the helmet for My head;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah is My lawgiver.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab is My washpot;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Over Edom I will cast My shoe;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Over Philistia I will triumph.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will bring me into the strong city?",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who will lead me to Edom?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not You, O God, who cast us off?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And You, O God, who did not go out with our armies?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Give us help from trouble,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For the help of man is useless.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Through God we will do valiantly,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is He who shall tread down our enemies.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

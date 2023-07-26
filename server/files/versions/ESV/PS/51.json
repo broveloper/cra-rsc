@@ -1,0 +1,236 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 51,
+  "verses": 19,
+  "content": [
+    {
+      "text": "Create in Me a Clean Heart, O God",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of David, when Nathan the prophet went to him, after he had gone in to Bathsheba.",
+      "type": "title"
+    },
+    {
+      "text": "Have mercy on me, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "according to your steadfast love;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "according to your abundant mercy",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "blot out my transgressions.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Wash me thoroughly from my iniquity,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and cleanse me from my sin!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For I know my transgressions,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my sin is ever before me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Against you, you only, have I sinned",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and done what is evil in your sight,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "so that you may be justified in your words",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and blameless in your judgment.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I was brought forth in iniquity,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and in sin did my mother conceive me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, you delight in truth in the inward being,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and you teach me wisdom in the secret heart.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Purge me with hyssop, and I shall be clean;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "wash me, and I shall be whiter than snow.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me hear joy and gladness;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "let the bones that you have broken rejoice.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide your face from my sins,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and blot out all my iniquities.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Create in me a clean heart, O God,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and renew a right spirit within me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Cast me not away from your presence,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and take not your Holy Spirit from me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore to me the joy of your salvation,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and uphold me with a willing spirit.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will teach transgressors your ways,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and sinners will return to you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me from bloodguiltiness, O God,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "O God of my salvation,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and my tongue will sing aloud of your righteousness.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, open my lips,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and my mouth will declare your praise.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For you will not delight in sacrifice, or I would give it;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you will not be pleased with a burnt offering.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The sacrifices of God are a broken spirit;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a broken and contrite heart, O God, you will not despise.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Do good to Zion in your good pleasure;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "build up the walls of Jerusalem;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "then will you delight in right sacrifices,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "in burnt offerings and whole burnt offerings;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "then bulls will be offered on your altar.",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

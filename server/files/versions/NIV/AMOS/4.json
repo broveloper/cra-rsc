@@ -1,0 +1,312 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 4,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Israel Has Not Returned to God",
+      "type": "heading"
+    },
+    {
+      "text": "Hear this word, you cows of Bashan on Mount Samaria,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you women who oppress the poor and crush the needy",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and say to your husbands, “Bring us some drinks!”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sovereign Lord has sworn by his holiness:",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“The time will surely come",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when you will be taken away with hooks,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the last of you with fishhooks.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You will each go straight out",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "through breaches in the wall,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will be cast out toward Harmon,”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Go to Bethel and sin;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "go to Gilgal and sin yet more.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring your sacrifices every morning,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "your tithes every three years.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Burn leavened bread as a thank offering",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and brag about your freewill offerings—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "boast about them, you Israelites,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for this is what you love to do,”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Sovereign Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I gave you empty stomachs in every city",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and lack of bread in every town,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "yet you have not returned to me,”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“I also withheld rain from you",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when the harvest was still three months away.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I sent rain on one town,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but withheld it from another.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "One field had rain;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "another had none and dried up.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "People staggered from town to town for water",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but did not get enough to drink,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "yet you have not returned to me,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Many times I struck your gardens and vineyards,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "destroying them with blight and mildew.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Locusts devoured your fig and olive trees,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "yet you have not returned to me,”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“I sent plagues among you",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as I did to Egypt.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I killed your young men with the sword,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "along with your captured horses.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I filled your nostrils with the stench of your camps,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "yet you have not returned to me,”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“I overthrew some of you",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as I overthrew Sodom and Gomorrah.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You were like a burning stick snatched from the fire,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "yet you have not returned to me,”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore this is what I will do to you, Israel,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and because I will do this to you, Israel,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "prepare to meet your God.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He who forms the mountains,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who creates the wind,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and who reveals his thoughts to mankind,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who turns dawn to darkness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and treads on the heights of the earth—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord God Almighty is his name.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

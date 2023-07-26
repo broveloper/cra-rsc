@@ -1,0 +1,563 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 10,
+  "verses": 34,
+  "content": [
+    {
+      "text": "Assyria Shall Be Broken",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to those who decree unrighteous decrees,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who write misfortune,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Which they have prescribed",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To rob the needy of justice,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And to take what is right from the poor of My people,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "That widows may be their prey,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And that they may rob the fatherless.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "What will you do in the day of punishment,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the desolation which will come from afar?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "To whom will you flee for help?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And where will you leave your glory?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Without Me they shall bow down among the prisoners,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall fall among the slain.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For all this His anger is not turned away,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But His hand is stretched out still.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Arrogant Assyria Also Judged",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to Assyria, the rod of My anger",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the staff in whose hand is My indignation.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send him against an ungodly nation,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And against the people of My wrath",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give him charge,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "To seize the spoil, to take the prey,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And to tread them down like the mire of the streets.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet he does not mean so,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does his heart think so;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But it is in his heart to destroy,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And cut off not a few nations.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For he says,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Are not my princes altogether kings?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Is not Calno like Carchemish?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Is not Hamath like Arpad?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Is not Samaria like Damascus?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "As my hand has found the kingdoms of the idols,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose carved images excelled those of Jerusalem and Samaria,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As I have done to Samaria and her idols,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall I not do also to Jerusalem and her idols?’ ”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore it shall come to pass, when the Lord has performed all His work on Mount Zion and on Jerusalem, that He will say, “I will punish the fruit of the arrogant heart of the king of Assyria, and the glory of his haughty looks.”",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "For he says:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“By the strength of my hand I have done it,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And by my wisdom, for I am prudent;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Also I have removed the boundaries of the people,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And have robbed their treasuries;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So I have put down the inhabitants like a valiant man.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "My hand has found like a nest the riches of the people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And as one gathers eggs that are left,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I have gathered all the earth;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And there was no one who moved his wing,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor opened his mouth with even a peep.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall the ax boast itself against him who chops with it?",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or shall the saw exalt itself against him who saws with it?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "As if a rod could wield itself against those who lift it up,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Or as if a staff could lift up, as if it were not wood!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the Lord, the Lord of hosts,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Will send leanness among his fat ones;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And under his glory",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He will kindle a burning",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the burning of a fire.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "So the Light of Israel will be for a fire,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And his Holy One for a flame;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "It will burn and devour",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "His thorns and his briers in one day.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And it will consume the glory of his forest and of his fruitful field,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Both soul and body;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And they will be as when a sick man wastes away.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the rest of the trees of his forest",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Will be so few in number",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "That a child may write them.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The Returning Remnant of Israel",
+      "type": "heading"
+    },
+    {
+      "text": "And it shall come to pass in that day",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That the remnant of Israel,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And such as have escaped of the house of Jacob,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Will never again depend on him who defeated them,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But will depend on the Lord, the Holy One of Israel, in truth.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The remnant will return, the remnant of Jacob,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "To the Mighty God.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For though your people, O Israel, be as the sand of the sea,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A remnant of them will return;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The destruction decreed shall overflow with righteousness.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord God of hosts",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Will make a determined end",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of all the land.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord God of hosts: “O My people, who dwell in Zion, do not be afraid of the Assyrian. He shall strike you with a rod and lift up his staff against you, in the manner of Egypt. ",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "For yet a very little while and the indignation will cease, as will My anger in their destruction.” ",
+      "verse": 25
+    },
+    {
+      "text": "And the Lord of hosts will stir up a scourge for him like the slaughter of Midian at the rock of Oreb; as His rod was on the sea, so will He lift it up in the manner of Egypt.",
+      "verse": 26
+    },
+    {
+      "text": "It shall come to pass in that day",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That his burden will be taken away from your shoulder,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And his yoke from your neck,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And the yoke will be destroyed because of the anointing oil.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He has come to Aiath,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has passed Migron;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "At Michmash he has attended to his equipment.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "They have gone along the ridge,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "They have taken up lodging at Geba.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Ramah is afraid,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Gibeah of Saul has fled.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your voice,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of Gallim!",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Cause it to be heard as far as Laish—",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "O poor Anathoth!",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Madmenah has fled,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "The inhabitants of Gebim seek refuge.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "As yet he will remain at Nob that day;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "He will shake his fist at the mount of the daughter of Zion,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The hill of Jerusalem.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the Lord,",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord of hosts,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Will lop off the bough with terror;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Those of high stature will be hewn down,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "And the haughty will be humbled.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "He will cut down the thickets of the forest with iron,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And Lebanon will fall by the Mighty One.",
+      "verse": 34,
+      "type": "poetry"
+    }
+  ]
+}

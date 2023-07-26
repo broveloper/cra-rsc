@@ -1,0 +1,369 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 1,
+  "verses": 33,
+  "content": [
+    {
+      "text": "Purpose and Theme",
+      "type": "heading"
+    },
+    {
+      "text": "The proverbs of Solomon son of David, king of Israel:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "for gaining wisdom and instruction;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for understanding words of insight;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for receiving instruction in prudent behavior,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "doing what is right and just and fair;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for giving prudence to those who are simple,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "knowledge and discretion to the young—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "let the wise listen and add to their learning,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and let the discerning get guidance—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for understanding proverbs and parables,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the sayings and riddles of the wise.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is the beginning of knowledge,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but fools despise wisdom and instruction.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Prologue: Exhortations to Embrace Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "Warning Against the Invitation of Sinful Men",
+      "type": "heading"
+    },
+    {
+      "text": "Listen, my son, to your father’s instruction",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do not forsake your mother’s teaching.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They are a garland to grace your head",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and a chain to adorn your neck.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, if sinful men entice you,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not give in to them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "If they say, “Come along with us;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "let’s lie in wait for innocent blood,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "let’s ambush some harmless soul;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "let’s swallow them alive, like the grave,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and whole, like those who go down to the pit;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "we will get all sorts of valuable things",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and fill our houses with plunder;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "cast lots with us;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "we will all share the loot”—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "my son, do not go along with them,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "do not set foot on their paths;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for their feet rush into evil,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they are swift to shed blood.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "How useless to spread a net",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "where every bird can see it!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "These men lie in wait for their own blood;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "they ambush only themselves!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Such are the paths of all who go after ill-gotten gain;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "it takes away the life of those who get it.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom’s Rebuke",
+      "type": "heading"
+    },
+    {
+      "text": "Out in the open wisdom calls aloud,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she raises her voice in the public square;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "on top of the wall she cries out,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "at the city gate she makes her speech:",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“How long will you who are simple love your simple ways?",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How long will mockers delight in mockery",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and fools hate knowledge?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Repent at my rebuke!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will pour out my thoughts to you,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make known to you my teachings.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "But since you refuse to listen when I call",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and no one pays attention when I stretch out my hand,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "since you disregard all my advice",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not accept my rebuke,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I in turn will laugh when disaster strikes you;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "I will mock when calamity overtakes you—",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "when calamity overtakes you like a storm,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "when disaster sweeps over you like a whirlwind,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "when distress and trouble overwhelm you.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“Then they will call to me but I will not answer;",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they will look for me but will not find me,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "since they hated knowledge",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and did not choose to fear the Lord.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Since they would not accept my advice",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and spurned my rebuke,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "they will eat the fruit of their ways",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and be filled with the fruit of their schemes.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "For the waywardness of the simple will kill them,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and the complacency of fools will destroy them;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "but whoever listens to me will live in safety",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and be at ease, without fear of harm.”",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

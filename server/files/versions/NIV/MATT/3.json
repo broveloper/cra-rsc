@@ -1,0 +1,106 @@
+{
+  "book_id": "MATT",
+  "book_name": "Matthew",
+  "chapter": 3,
+  "verses": 17,
+  "content": [
+    {
+      "text": "John the Baptist Prepares the Way",
+      "type": "heading"
+    },
+    {
+      "text": "In those days John the Baptist came, preaching in the wilderness of Judea",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "and saying, “Repent, for the kingdom of heaven has come near.”",
+      "verse": 2
+    },
+    {
+      "text": "This is he who was spoken of through the prophet Isaiah:",
+      "verse": 3
+    },
+    {
+      "text": "“A voice of one calling in the wilderness,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "‘Prepare the way for the Lord,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "make straight paths for him.’”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "John’s clothes were made of camel’s hair, and he had a leather belt around his waist. His food was locusts and wild honey.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "People went out to him from Jerusalem and all Judea and the whole region of the Jordan.",
+      "verse": 5
+    },
+    {
+      "text": "Confessing their sins, they were baptized by him in the Jordan River.",
+      "verse": 6
+    },
+    {
+      "text": "But when he saw many of the Pharisees and Sadducees coming to where he was baptizing, he said to them: “You brood of vipers! Who warned you to flee from the coming wrath?",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Produce fruit in keeping with repentance.",
+      "verse": 8
+    },
+    {
+      "text": "And do not think you can say to yourselves, ‘We have Abraham as our father.’ I tell you that out of these stones God can raise up children for Abraham.",
+      "verse": 9
+    },
+    {
+      "text": "The ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.",
+      "verse": 10
+    },
+    {
+      "text": "“I baptize you with water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.”",
+      "verse": 12
+    },
+    {
+      "text": "The Baptism of Jesus",
+      "type": "heading"
+    },
+    {
+      "text": "Then Jesus came from Galilee to the Jordan to be baptized by John.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "But John tried to deter him, saying, “I need to be baptized by you, and do you come to me?”",
+      "verse": 14
+    },
+    {
+      "text": "Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”",
+      "verse": 17
+    }
+  ]
+}

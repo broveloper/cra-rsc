@@ -1,0 +1,228 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 4,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Oppression, Toil, Friendlessness",
+      "type": "heading"
+    },
+    {
+      "text": "Again I looked and saw all the oppression that was taking place under the sun:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "I saw the tears of the oppressed—",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and they have no comforter;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "power was on the side of their oppressors—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and they have no comforter.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And I declared that the dead,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who had already died,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "are happier than the living,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who are still alive.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But better than both",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "is the one who has never been born,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who has not seen the evil",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "that is done under the sun.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And I saw that all toil and all achievement spring from one person’s envy of another. This too is meaningless, a chasing after the wind.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Fools fold their hands",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and ruin themselves.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Better one handful with tranquillity",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "than two handfuls with toil",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and chasing after the wind.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Again I saw something meaningless under the sun:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "There was a man all alone;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he had neither son nor brother.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "There was no end to his toil,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "yet his eyes were not content with his wealth.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“For whom am I toiling,” he asked,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“and why am I depriving myself of enjoyment?”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "This too is meaningless—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "a miserable business!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Two are better than one,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because they have a good return for their labor:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "If either of them falls down,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "one can help the other up.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But pity anyone who falls",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and has no one to help them up.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Also, if two lie down together, they will keep warm.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But how can one keep warm alone?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Though one may be overpowered,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "two can defend themselves.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A cord of three strands is not quickly broken.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Advancement Is Meaningless",
+      "type": "heading"
+    },
+    {
+      "text": "Better a poor but wise youth than an old but foolish king who no longer knows how to heed a warning.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "The youth may have come from prison to the kingship, or he may have been born in poverty within his kingdom.",
+      "verse": 14
+    },
+    {
+      "text": "I saw that all who lived and walked under the sun followed the youth, the king’s successor.",
+      "verse": 15
+    },
+    {
+      "text": "There was no end to all the people who were before them. But those who came later were not pleased with the successor. This too is meaningless, a chasing after the wind.",
+      "verse": 16
+    }
+  ]
+}

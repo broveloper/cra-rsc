@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 67,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Psalm 67",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. With stringed instruments. A psalm. A song.",
+      "type": "title"
+    },
+    {
+      "text": "May God be gracious to us and bless us",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and make his face shine on us—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "so that your ways may be known on earth,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "your salvation among all nations.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May the peoples praise you, God;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may all the peoples praise you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May the nations be glad and sing for joy,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for you rule the peoples with equity",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and guide the nations of the earth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May the peoples praise you, God;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "may all the peoples praise you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The land yields its harvest;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "God, our God, blesses us.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "May God bless us still,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "so that all the ends of the earth will fear him.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

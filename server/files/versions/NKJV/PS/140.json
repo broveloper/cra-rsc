@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 140,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Prayer for Deliverance from Evil Men",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Deliver me, O Lord, from evil men;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Preserve me from violent men,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Who plan evil things in their hearts;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They continually gather together for war.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They sharpen their tongues like a serpent;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The poison of asps is under their lips. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep me, O Lord, from the hands of the wicked;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Preserve me from violent men,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have purposed to make my steps stumble.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The proud have hidden a snare for me, and cords;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They have spread a net by the wayside;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They have set traps for me. Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I said to the Lord: “You are my God;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Hear the voice of my supplications, O Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "O God the Lord, the strength of my salvation,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have covered my head in the day of battle.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not grant, O Lord, the desires of the wicked;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not further his wicked scheme,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest they be exalted. Selah",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“As for the head of those who surround me,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let the evil of their lips cover them;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let burning coals fall upon them;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be cast into the fire,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Into deep pits, that they rise not up again.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let not a slanderer be established in the earth;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let evil hunt the violent man to overthrow him.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I know that the Lord will maintain",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The cause of the afflicted,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And justice for the poor.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the righteous shall give thanks to Your name;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The upright shall dwell in Your presence.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

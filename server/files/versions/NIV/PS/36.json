@@ -1,0 +1,156 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 36,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 36",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. Of David the servant of the Lord.",
+      "type": "title"
+    },
+    {
+      "text": "I have a message from God in my heart",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "concerning the sinfulness of the wicked:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no fear of God",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "before their eyes.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In their own eyes they flatter themselves",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "too much to detect or hate their sin.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of their mouths are wicked and deceitful;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they fail to act wisely or do good.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Even on their beds they plot evil;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they commit themselves to a sinful course",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not reject what is wrong.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your love, Lord, reaches to the heavens,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your faithfulness to the skies.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your righteousness is like the highest mountains,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "your justice like the great deep.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You, Lord, preserve both people and animals.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "How priceless is your unfailing love, O God!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "People take refuge in the shadow of your wings.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They feast on the abundance of your house;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you give them drink from your river of delights.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For with you is the fountain of life;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in your light we see light.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Continue your love to those who know you,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your righteousness to the upright in heart.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "May the foot of the proud not come against me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "nor the hand of the wicked drive me away.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "See how the evildoers lie fallen—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "thrown down, not able to rise!",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

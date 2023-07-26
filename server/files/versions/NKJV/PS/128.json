@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 128,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Blessings of Those Who Fear the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "Blessed is every one who fears the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who walks in His ways.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When you eat the labor of your hands,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You shall be happy, and it shall be well with you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wife shall be like a fruitful vine",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the very heart of your house,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your children like olive plants",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "All around your table.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, thus shall the man be blessed",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who fears the Lord.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord bless you out of Zion,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And may you see the good of Jerusalem",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of your life.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, may you see your children’s children.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Peace be upon Israel!",
+      "verse": 6,
+      "type": "poetry newline"
+    }
+  ]
+}

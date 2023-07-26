@@ -1,0 +1,152 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 26,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Job",
+      "type": "heading"
+    },
+    {
+      "text": "Then Job replied:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“How you have helped the powerless!",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How you have saved the arm that is feeble!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "What advice you have offered to one without wisdom!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And what great insight you have displayed!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has helped you utter these words?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And whose spirit spoke from your mouth?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“The dead are in deep anguish,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "those beneath the waters and all that live in them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The realm of the dead is naked before God;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Destruction lies uncovered.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He spreads out the northern skies over empty space;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he suspends the earth over nothing.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He wraps up the waters in his clouds,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "yet the clouds do not burst under their weight.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He covers the face of the full moon,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "spreading his clouds over it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He marks out the horizon on the face of the waters",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for a boundary between light and darkness.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The pillars of the heavens quake,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "aghast at his rebuke.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "By his power he churned up the sea;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "by his wisdom he cut Rahab to pieces.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "By his breath the skies became fair;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "his hand pierced the gliding serpent.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And these are but the outer fringe of his works;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "how faint the whisper we hear of him!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who then can understand the thunder of his power?”",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

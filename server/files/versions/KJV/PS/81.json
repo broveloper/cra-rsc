@@ -1,0 +1,87 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 81,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
+      "verse": 1
+    },
+    {
+      "text": "Take a psalm, and bring hither the timbrel, the pleasant harp with the psaltery.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Blow up the trumpet in the new moon, in the time appointed, on our solemn feast day.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For this was a statute for Israel, and a law of the God of Jacob.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "This he ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "I removed his shoulder from the burden: his hands were delivered from the pots.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "There shall no strange god be in thee; neither shalt thou worship any strange god.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "I am the Lord thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "But my people would not hearken to my voice; and Israel would none of me.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "So I gave them up unto their own hearts' lust: and they walked in their own counsels.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Oh that my people had hearkened unto me, and Israel had walked in my ways!",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "I should soon have subdued their enemies, and turned my hand against their adversaries.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "The haters of the Lord should have submitted themselves unto him: but their time should have endured for ever.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.",
+      "verse": 16,
+      "type": "newline"
+    }
+  ]
+}

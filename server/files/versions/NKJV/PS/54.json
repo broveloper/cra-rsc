@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 54,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Answered Prayer for Deliverance from Adversaries",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. With stringed instruments. A Contemplation of David when the Ziphites went and said to Saul, “Is David not hiding with us?”",
+      "type": "title"
+    },
+    {
+      "text": "Save me, O God, by Your name,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And vindicate me by Your strength.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear my prayer, O God;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Give ear to the words of my mouth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For strangers have risen up against me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And oppressors have sought after my life;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They have not set God before them. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, God is my helper;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord is with those who uphold my life.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He will repay my enemies for their evil.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Cut them off in Your truth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will freely sacrifice to You;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will praise Your name, O Lord, for it is good.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For He has delivered me out of all trouble;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And my eye has seen its desire upon my enemies.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

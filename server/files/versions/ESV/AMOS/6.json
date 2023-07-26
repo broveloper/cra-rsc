@@ -1,0 +1,221 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 6,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Woe to Those at Ease in Zion",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to those who are at ease in Zion,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and to those who feel secure on the mountain of Samaria,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "the notable men of the first of the nations,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to whom the house of Israel comes!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Pass over to Calneh, and see,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and from there go to Hamath the great;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "then go down to Gath of the Philistines.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Are you better than these kingdoms?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Or is their territory greater than your territory,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "O you who put far away the day of disaster",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and bring near the seat of violence?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to those who lie on beds of ivory",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and stretch themselves out on their couches,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and eat lambs from the flock",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and calves from the midst of the stall,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who sing idle songs to the sound of the harp",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and like David invent for themselves instruments of music,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who drink wine in bowls",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and anoint themselves with the finest oils,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but are not grieved over the ruin of Joseph!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore they shall now be the first of those who go into exile,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the revelry of those who stretch themselves out shall pass away.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord God has sworn by himself, declares the Lord, the God of hosts:",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“I abhor the pride of Jacob",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and hate his strongholds,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will deliver up the city and all that is in it.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And if ten men remain in one house, they shall die.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And when one's relative, the one who anoints him for burial, shall take him up to bring the bones out of the house, and shall say to him who is in the innermost parts of the house, “Is there still anyone with you?” he shall say, “No”; and he shall say, “Silence! We must not mention the name of the Lord.”",
+      "verse": 10
+    },
+    {
+      "text": "For behold, the Lord commands,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the great house shall be struck down into fragments,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and the little house into bits.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Do horses run on rocks?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Does one plow there with oxen?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But you have turned justice into poison",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fruit of righteousness into wormwood—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "you who rejoice in Lo-debar,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who say, “Have we not by our own strength",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "captured Karnaim for ourselves?”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“For behold, I will raise up against you a nation,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "O house of Israel,” declares the Lord, the God of hosts;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“and they shall oppress you from Lebo-hamath",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to the Brook of the Arabah.”",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

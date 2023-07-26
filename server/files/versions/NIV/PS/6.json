@@ -1,0 +1,121 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 6,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Psalm 6",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. With stringed instruments. According to sheminith. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, do not rebuke me in your anger",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or discipline me in your wrath.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Have mercy on me, Lord, for I am faint;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "heal me, Lord, for my bones are in agony.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul is in deep anguish.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, Lord, how long?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn, Lord, and deliver me;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "save me because of your unfailing love.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the dead no one proclaims your name.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Who praises you from the grave?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I am worn out from my groaning.",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All night long I flood my bed with weeping",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and drench my couch with tears.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes grow weak with sorrow;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they fail because of all my foes.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Away from me, all you who do evil,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the Lord has heard my weeping.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has heard my cry for mercy;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord accepts my prayer.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All my enemies will be overwhelmed with shame and anguish;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they will turn back and suddenly be put to shame.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

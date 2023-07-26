@@ -1,0 +1,536 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 46,
+  "verses": 28,
+  "content": [
+    {
+      "text": "A Message About Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "This is the word of the Lord that came to Jeremiah the prophet concerning the nations:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Concerning Egypt:",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "This is the message against the army of Pharaoh Necho king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah king of Judah:",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "“Prepare your shields, both large and small,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and march out for battle!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Harness the horses,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "mount the steeds!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Take your positions",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "with helmets on!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Polish your spears,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "put on your armor!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "What do I see?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They are terrified,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they are retreating,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "their warriors are defeated.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They flee in haste",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "without looking back,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and there is terror on every side,”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“The swift cannot flee",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "nor the strong escape.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In the north by the River Euphrates",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they stumble and fall.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who is this that rises like the Nile,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "like rivers of surging waters?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Egypt rises like the Nile,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "like rivers of surging waters.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "She says, ‘I will rise and cover the earth;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy cities and their people.’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Charge, you horses!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Drive furiously, you charioteers!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "March on, you warriors—men of Cush and Put who carry shields,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "men of Lydia who draw the bow.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But that day belongs to the Lord, the Lord Almighty—",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "a day of vengeance, for vengeance on his foes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The sword will devour till it is satisfied,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "till it has quenched its thirst with blood.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord, the Lord Almighty, will offer sacrifice",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "in the land of the north by the River Euphrates.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Go up to Gilead and get balm,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Virgin Daughter Egypt.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But you try many medicines in vain;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no healing for you.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The nations will hear of your shame;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "your cries will fill the earth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "One warrior will stumble over another;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "both will fall down together.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the message the Lord spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“Announce this in Egypt, and proclaim it in Migdol;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "proclaim it also in Memphis and Tahpanhes:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Take your positions and get ready,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for the sword devours those around you.’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Why will your warriors be laid low?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They cannot stand, for the Lord will push them down.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They will stumble repeatedly;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they will fall over each other.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They will say, ‘Get up, let us go back",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "to our own people and our native lands,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "away from the sword of the oppressor.’",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "There they will exclaim,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Pharaoh king of Egypt is only a loud noise;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "he has missed his opportunity.’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“As surely as I live,” declares the King,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whose name is the Lord Almighty,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“one will come who is like Tabor among the mountains,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "like Carmel by the sea.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Pack your belongings for exile,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "you who live in Egypt,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for Memphis will be laid waste",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and lie in ruins without inhabitant.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Egypt is a beautiful heifer,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but a gadfly is coming",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "against her from the north.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The mercenaries in her ranks",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "are like fattened calves.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They too will turn and flee together,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "they will not stand their ground,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for the day of disaster is coming upon them,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "the time for them to be punished.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Egypt will hiss like a fleeing serpent",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "as the enemy advances in force;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "they will come against her with axes,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "like men who cut down trees.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "They will chop down her forest,”",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“dense though it be.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They are more numerous than locusts,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they cannot be counted.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Daughter Egypt will be put to shame,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "given into the hands of the people of the north.”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Almighty, the God of Israel, says: “I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "I will give them into the hands of those who want to kill them—Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,” declares the Lord.",
+      "verse": 26
+    },
+    {
+      "text": "“Do not be afraid, Jacob my servant;",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not be dismayed, Israel.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "I will surely save you out of a distant place,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "your descendants from the land of their exile.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Jacob will again have peace and security,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and no one will make him afraid.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be afraid, Jacob my servant,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am with you,” declares the Lord.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“Though I completely destroy all the nations",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "among which I scatter you,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not completely destroy you.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I will discipline you but only in due measure;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not let you go entirely unpunished.”",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

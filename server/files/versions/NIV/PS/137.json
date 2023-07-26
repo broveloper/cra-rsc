@@ -1,0 +1,132 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 137,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Psalm 137",
+      "type": "heading"
+    },
+    {
+      "text": "By the rivers of Babylon we sat and wept",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when we remembered Zion.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "There on the poplars",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "we hung our harps,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for there our captors asked us for songs,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "our tormentors demanded songs of joy;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they said, “Sing us one of the songs of Zion!”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How can we sing the songs of the Lord",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "while in a foreign land?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If I forget you, Jerusalem,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "may my right hand forget its skill.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "May my tongue cling to the roof of my mouth",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "if I do not remember you,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "if I do not consider Jerusalem",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "my highest joy.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember, Lord, what the Edomites did",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "on the day Jerusalem fell.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Tear it down,” they cried,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“tear it down to its foundations!”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Daughter Babylon, doomed to destruction,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "happy is the one who repays you",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "according to what you have done to us.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Happy is the one who seizes your infants",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and dashes them against the rocks.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

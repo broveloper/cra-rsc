@@ -1,0 +1,112 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 113,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Who Is like the Lord Our God?",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Praise, O servants of the Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "praise the name of the Lord!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the name of the Lord",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from this time forth and forevermore!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "From the rising of the sun to its setting,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the name of the Lord is to be praised!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is high above all nations,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and his glory above the heavens!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is like the Lord our God,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who is seated on high,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who looks far down",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "on the heavens and the earth?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He raises the poor from the dust",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and lifts the needy from the ash heap,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to make them sit with princes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with the princes of his people.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives the barren woman a home,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "making her the joyous mother of children.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 63,
+  "verses": 11,
+  "content": [
+    {
+      "text": "My Soul Thirsts for You",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David, when he was in the wilderness of Judah.",
+      "type": "title"
+    },
+    {
+      "text": "O God, you are my God; earnestly I seek you;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my soul thirsts for you;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "my flesh faints for you,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "as in a dry and weary land where there is no water.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "So I have looked upon you in the sanctuary,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "beholding your power and glory.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because your steadfast love is better than life,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my lips will praise you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "So I will bless you as long as I live;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "in your name I will lift up my hands.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul will be satisfied as with fat and rich food,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my mouth will praise you with joyful lips,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "when I remember you upon my bed,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and meditate on you in the watches of the night;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for you have been my help,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and in the shadow of your wings I will sing for joy.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul clings to you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "your right hand upholds me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But those who seek to destroy my life",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "shall go down into the depths of the earth;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall be given over to the power of the sword;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall be a portion for jackals.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But the king shall rejoice in God;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "all who swear by him shall exult,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for the mouths of liars will be stopped.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

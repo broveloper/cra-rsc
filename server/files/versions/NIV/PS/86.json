@@ -1,0 +1,231 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 86,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Psalm 86",
+      "type": "heading"
+    },
+    {
+      "text": "A prayer of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear me, Lord, and answer me,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I am poor and needy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Guard my life, for I am faithful to you;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "save your servant who trusts in you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my God;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "have mercy on me, Lord,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for I call to you all day long.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring joy to your servant, Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for I put my trust in you.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You, Lord, are forgiving and good,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "abounding in love to all who call to you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear my prayer, Lord;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "listen to my cry for mercy.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When I am in distress, I call to you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "because you answer me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the gods there is none like you, Lord;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "no deeds can compare with yours.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All the nations you have made",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "will come and worship before you, Lord;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they will bring glory to your name.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For you are great and do marvelous deeds;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you alone are God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me your way, Lord,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that I may rely on your faithfulness;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "give me an undivided heart,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that I may fear your name.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise you, Lord my God, with all my heart;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will glorify your name forever.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For great is your love toward me;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "you have delivered me from the depths,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "from the realm of the dead.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Arrogant foes are attacking me, O God;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ruthless people are trying to kill me—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they have no regard for you.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, Lord, are a compassionate and gracious God,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "slow to anger, abounding in love and faithfulness.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn to me and have mercy on me;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "show your strength in behalf of your servant;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "save me, because I serve you",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "just as my mother did.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Give me a sign of your goodness,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "that my enemies may see it and be put to shame,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for you, Lord, have helped me and comforted me.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

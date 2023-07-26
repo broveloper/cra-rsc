@@ -1,0 +1,311 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 2,
+  "verses": 16,
+  "content": [
+    {
+      "text": "This is what the Lord says:",
+      "verse": 1
+    },
+    {
+      "text": "“For three sins of Moab,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he burned to ashes",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "the bones of Edom’s king,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send fire on Moab",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume the fortresses of Kerioth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab will go down in great tumult",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "amid war cries and the blast of the trumpet.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy her ruler",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and kill all her officials with him,”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“For three sins of Judah,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they have rejected the law of the Lord",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and have not kept his decrees,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have been led astray by false gods,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the gods their ancestors followed,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send fire on Judah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume the fortresses of Jerusalem.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Israel",
+      "type": "heading"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“For three sins of Israel,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They sell the innocent for silver,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the needy for a pair of sandals.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They trample on the heads of the poor",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "as on the dust of the ground",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and deny justice to the oppressed.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Father and son use the same girl",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and so profane my holy name.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They lie down beside every altar",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "on garments taken in pledge.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In the house of their god",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they drink wine taken as fines.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet I destroyed the Amorites before them,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "though they were tall as the cedars",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and strong as the oaks.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I destroyed their fruit above",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and their roots below.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I brought you up out of Egypt",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and led you forty years in the wilderness",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to give you the land of the Amorites.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“I also raised up prophets from among your children",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and Nazirites from among your youths.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Is this not true, people of Israel?”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“But you made the Nazirites drink wine",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and commanded the prophets not to prophesy.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Now then, I will crush you",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as a cart crushes when loaded with grain.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The swift will not escape,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the strong will not muster their strength,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the warrior will not save his life.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The archer will not stand his ground,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the fleet-footed soldier will not get away,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the horseman will not save his life.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the bravest warriors",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "will flee naked on that day,”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

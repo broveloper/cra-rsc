@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 4,
+  "verses": 8,
+  "content": [
+    {
+      "text": "The Safety of the Faithful",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. With stringed instruments. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear me when I call, O God of my righteousness!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have relieved me in my distress;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Have mercy on me, and hear my prayer.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, O you sons of men,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will you turn my glory to shame?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will you love worthlessness",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And seek falsehood? Selah",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But know that the Lord has set apart for Himself him who is godly;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will hear when I call to Him.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Be angry, and do not sin.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Meditate within your heart on your bed, and be still. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Offer the sacrifices of righteousness,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And put your trust in the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "There are many who say,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Who will show us any good?”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, lift up the light of Your countenance upon us.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You have put gladness in my heart,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "More than in the season that their grain and wine increased.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will both lie down in peace, and sleep;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For You alone, O Lord, make me dwell in safety.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

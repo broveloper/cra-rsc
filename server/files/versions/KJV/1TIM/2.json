@@ -1,0 +1,82 @@
+{
+  "book_id": "1TIM",
+  "book_name": "1 Timothy",
+  "chapter": 2,
+  "verses": 15,
+  "content": [
+    {
+      "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;",
+      "verse": 1
+    },
+    {
+      "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "For this is good and acceptable in the sight of God our Saviour;",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Who will have all men to be saved, and to come unto the knowledge of the truth.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Who gave himself a ransom for all, to be testified in due time.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "But (which becometh women professing godliness) with good works.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Let the woman learn in silence with all subjection.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "For Adam was first formed, then Eve.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "And Adam was not deceived, but the woman being deceived was in the transgression.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.",
+      "verse": 15,
+      "type": "newline"
+    }
+  ]
+}

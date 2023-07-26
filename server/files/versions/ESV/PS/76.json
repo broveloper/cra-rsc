@@ -1,0 +1,156 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 76,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Who Can Stand Before You?",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: with stringed instruments. A Psalm of Asaph. A Song.",
+      "type": "title"
+    },
+    {
+      "text": "In Judah God is known;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his name is great in Israel.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "His abode has been established in Salem,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "his dwelling place in Zion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "There he broke the flashing arrows,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the shield, the sword, and the weapons of war. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Glorious are you, more majestic",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than the mountains full of prey.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The stouthearted were stripped of their spoil;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they sank into sleep;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "all the men of war",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "were unable to use their hands.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "At your rebuke, O God of Jacob,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "both rider and horse lay stunned.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, you are to be feared!",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who can stand before you",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "when once your anger is roused?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "From the heavens you uttered judgment;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth feared and was still,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when God arose to establish judgment,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to save all the humble of the earth. Selah",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the wrath of man shall praise you;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the remnant of wrath you will put on like a belt.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Make your vows to the Lord your God and perform them;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "let all around him bring gifts",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who is to be feared,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who cuts off the spirit of princes,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "who is to be feared by the kings of the earth.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 10,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Wisdom and Folly",
+      "type": "heading"
+    },
+    {
+      "text": "Dead flies putrefy the perfumer’s ointment,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And cause it to give off a foul odor;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "So does a little folly to one respected for wisdom and honor.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A wise man’s heart is at his right hand,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But a fool’s heart at his left.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Even when a fool walks along the way,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He lacks wisdom,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shows everyone that he is a fool.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "If the spirit of the ruler rises against you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not leave your post;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For conciliation pacifies great offenses.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "There is an evil I have seen under the sun,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As an error proceeding from the ruler:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Folly is set in great dignity,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "While the rich sit in a lowly place.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen servants on horses,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "While princes walk on the ground like servants.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who digs a pit will fall into it,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And whoever breaks through a wall will be bitten by a serpent.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He who quarries stones may be hurt by them,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And he who splits wood may be endangered by it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "If the ax is dull,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And one does not sharpen the edge,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he must use more strength;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But wisdom brings success.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "A serpent may bite when it is not charmed;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The babbler is no different.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of a wise man’s mouth are gracious,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But the lips of a fool shall swallow him up;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of his mouth begin with foolishness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And the end of his talk is raving madness.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "A fool also multiplies words.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "No man knows what is to be;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can tell him what will be after him?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The labor of fools wearies them,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For they do not even know how to go to the city!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to you, O land, when your king is a child,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And your princes feast in the morning!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are you, O land, when your king is the son of nobles,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And your princes feast at the proper time—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For strength and not for drunkenness!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of laziness the building decays,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And through idleness of hands the house leaks.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "A feast is made for laughter,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And wine makes merry;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But money answers everything.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not curse the king, even in your thought;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not curse the rich, even in your bedroom;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For a bird of the air may carry your voice,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And a bird in flight may tell the matter.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

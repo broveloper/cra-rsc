@@ -1,0 +1,42 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 54,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Save me, O God, by thy name, and judge me by thy strength.",
+      "verse": 1
+    },
+    {
+      "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "He shall reward evil unto mine enemies: cut them off in thy truth.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "I will freely sacrifice unto thee: I will praise thy name, O Lord; for it is good.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.",
+      "verse": 7,
+      "type": "newline"
+    }
+  ]
+}

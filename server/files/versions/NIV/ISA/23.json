@@ -1,0 +1,306 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 23,
+  "verses": 18,
+  "content": [
+    {
+      "text": "A Prophecy Against Tyre",
+      "type": "heading"
+    },
+    {
+      "text": "A prophecy against Tyre:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Wail, you ships of Tarshish!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For Tyre is destroyed",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and left without house or harbor.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "From the land of Cyprus",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "word has come to them.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Be silent, you people of the island",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and you merchants of Sidon,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "whom the seafarers have enriched.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "On the great waters",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "came the grain of the Shihor;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the harvest of the Nile was the revenue of Tyre,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and she became the marketplace of the nations.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Be ashamed, Sidon, and you fortress of the sea,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the sea has spoken:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have neither been in labor nor given birth;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have neither reared sons nor brought up daughters.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "When word comes to Egypt,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be in anguish at the report from Tyre.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Cross over to Tarshish;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "wail, you people of the island.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is this your city of revelry,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the old, old city,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "whose feet have taken her",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to settle in far-off lands?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who planned this against Tyre,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the bestower of crowns,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whose merchants are princes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whose traders are renowned in the earth?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Almighty planned it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "to bring down her pride in all her splendor",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and to humble all who are renowned on the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Till your land as they do along the Nile,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Daughter Tarshish,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for you no longer have a harbor.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has stretched out his hand over the sea",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and made its kingdoms tremble.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He has given an order concerning Phoenicia",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that her fortresses be destroyed.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He said, “No more of your reveling,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Virgin Daughter Sidon, now crushed!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Up, cross over to Cyprus;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even there you will find no rest.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Look at the land of the Babylonians,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "this people that is now of no account!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Assyrians have made it",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "a place for desert creatures;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they raised up their siege towers,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they stripped its fortresses bare",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and turned it into a ruin.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Wail, you ships of Tarshish;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your fortress is destroyed!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "At that time Tyre will be forgotten for seventy years, the span of a king’s life. But at the end of these seventy years, it will happen to Tyre as in the song of the prostitute:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“Take up a harp, walk through the city,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you forgotten prostitute;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "play the harp well, sing many a song,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "so that you will be remembered.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "At the end of seventy years, the Lord will deal with Tyre. She will return to her lucrative prostitution and will ply her trade with all the kingdoms on the face of the earth.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Yet her profit and her earnings will be set apart for the Lord; they will not be stored up or hoarded. Her profits will go to those who live before the Lord, for abundant food and fine clothes.",
+      "verse": 18
+    }
+  ]
+}

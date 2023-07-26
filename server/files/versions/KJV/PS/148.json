@@ -1,0 +1,77 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 148,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Praise ye the Lord. Praise ye the Lord from the heavens: praise him in the heights.",
+      "verse": 1
+    },
+    {
+      "text": "Praise ye him, all his angels: praise ye him, all his hosts.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Praise ye him, sun and moon: praise him, all ye stars of light.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Praise him, ye heavens of heavens, and ye waters that be above the heavens.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Let them praise the name of the Lord: for he commanded, and they were created.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "He hath also stablished them for ever and ever: he hath made a decree which shall not pass.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Praise the Lord from the earth, ye dragons, and all deeps:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Fire, and hail; snow, and vapours; stormy wind fulfilling his word:",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Mountains, and all hills; fruitful trees, and all cedars:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Beasts, and all cattle; creeping things, and flying fowl:",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Kings of the earth, and all people; princes, and all judges of the earth:",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Both young men, and maidens; old men, and children:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Let them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the Lord.",
+      "verse": 14,
+      "type": "newline"
+    }
+  ]
+}

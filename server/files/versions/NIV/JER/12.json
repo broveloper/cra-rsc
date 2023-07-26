@@ -1,0 +1,328 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 12,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Jeremiah’s Complaint",
+      "type": "heading"
+    },
+    {
+      "text": "You are always righteous, Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when I bring a case before you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I would speak with you about your justice:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why does the way of the wicked prosper?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do all the faithless live at ease?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have planted them, and they have taken root;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they grow and bear fruit.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You are always on their lips",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but far from their hearts.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you know me, Lord;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you see me and test my thoughts about you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Drag them off like sheep to be butchered!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Set them apart for the day of slaughter!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will the land lie parched",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the grass in every field be withered?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because those who live in it are wicked,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the animals and birds have perished.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Moreover, the people are saying,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“He will not see what happens to us.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "God’s Answer",
+      "type": "heading"
+    },
+    {
+      "text": "“If you have raced with men on foot",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and they have worn you out,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "how can you compete with horses?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "If you stumble in safe country,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "how will you manage in the thickets by the Jordan?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your relatives, members of your own family—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "even they have betrayed you;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they have raised a loud cry against you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not trust them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "though they speak well of you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will forsake my house,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "abandon my inheritance;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give the one I love",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "into the hands of her enemies.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "My inheritance has become to me",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "like a lion in the forest.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "She roars at me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore I hate her.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Has not my inheritance become to me",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "like a speckled bird of prey",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "that other birds of prey surround and attack?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Go and gather all the wild beasts;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "bring them to devour.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Many shepherds will ruin my vineyard",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and trample down my field;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they will turn my pleasant field",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "into a desolate wasteland.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be made a wasteland,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "parched and desolate before me;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the whole land will be laid waste",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because there is no one who cares.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Over all the barren heights in the desert",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "destroyers will swarm,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for the sword of the Lord will devour",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "from one end of the land to the other;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "no one will be safe.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They will sow wheat but reap thorns;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "they will wear themselves out but gain nothing.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They will bear the shame of their harvest",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the Lord’s fierce anger.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says: “As for all my wicked neighbors who seize the inheritance I gave my people Israel, I will uproot them from their lands and I will uproot the people of Judah from among them.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "But after I uproot them, I will again have compassion and will bring each of them back to their own inheritance and their own country.",
+      "verse": 15
+    },
+    {
+      "text": "And if they learn well the ways of my people and swear by my name, saying, ‘As surely as the Lord lives’—even as they once taught my people to swear by Baal—then they will be established among my people.",
+      "verse": 16
+    },
+    {
+      "text": "But if any nation does not listen, I will completely uproot and destroy it,” declares the Lord.",
+      "verse": 17
+    }
+  ]
+}

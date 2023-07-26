@@ -1,0 +1,96 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 70,
+  "verses": 5,
+  "content": [
+    {
+      "text": "O Lord, Do Not Delay",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. Of David, for the memorial offering.",
+      "type": "title"
+    },
+    {
+      "text": "Make haste, O God, to deliver me!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Lord, make haste to help me!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be put to shame and confusion",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who seek my life!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be turned back and brought to dishonor",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who delight in my hurt!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them turn back because of their shame",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who say, “Aha, Aha!”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May all who seek you",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "rejoice and be glad in you!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May those who love your salvation",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "say evermore, “God is great!”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But I am poor and needy;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "hasten to me, O God!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my help and my deliverer;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, do not delay!",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

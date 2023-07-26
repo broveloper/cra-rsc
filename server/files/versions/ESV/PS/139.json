@@ -1,0 +1,276 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 139,
+  "verses": 24,
+  "content": [
+    {
+      "text": "Search Me, O God, and Know My Heart",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "O Lord, you have searched me and known me!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You know when I sit down and when I rise up;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "you discern my thoughts from afar.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You search out my path and my lying down",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and are acquainted with all my ways.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Even before a word is on my tongue,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, O Lord, you know it altogether.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You hem me in, behind and before,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay your hand upon me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Such knowledge is too wonderful for me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "it is high; I cannot attain it.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Where shall I go from your Spirit?",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or where shall I flee from your presence?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "If I ascend to heaven, you are there!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If I make my bed in Sheol, you are there!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If I take the wings of the morning",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and dwell in the uttermost parts of the sea,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "even there your hand shall lead me,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and your right hand shall hold me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "If I say, “Surely the darkness shall cover me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and the light about me be night,”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "even the darkness is not dark to you;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the night is bright as the day,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for darkness is as light with you.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For you formed my inward parts;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you knitted me together in my mother's womb.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I praise you, for I am fearfully and wonderfully made.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Wonderful are your works;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "my soul knows it very well.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My frame was not hidden from you,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "when I was being made in secret,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "intricately woven in the depths of the earth.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Your eyes saw my unformed substance;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "in your book were written, every one of them,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the days that were formed for me,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "when as yet there was none of them.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "How precious to me are your thoughts, O God!",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How vast is the sum of them!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "If I would count them, they are more than the sand.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I awake, and I am still with you.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh that you would slay the wicked, O God!",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O men of blood, depart from me!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They speak against you with malicious intent;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "your enemies take your name in vain.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Do I not hate those who hate you, O Lord?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And do I not loathe those who rise up against you?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I hate them with complete hatred;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I count them my enemies.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Search me, O God, and know my heart!",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Try me and know my thoughts!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And see if there be any grievous way in me,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and lead me in the way everlasting!",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

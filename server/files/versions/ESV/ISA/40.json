@@ -1,0 +1,560 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 40,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Comfort for God's People",
+      "type": "heading"
+    },
+    {
+      "text": "Comfort, comfort my people, says your God.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Speak tenderly to Jerusalem,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and cry to her",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that her warfare is ended,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that her iniquity is pardoned,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that she has received from the Lord's hand",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "double for all her sins.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A voice cries:",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“In the wilderness prepare the way of the Lord;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "make straight in the desert a highway for our God.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Every valley shall be lifted up,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and every mountain and hill be made low;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the uneven ground shall become level,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the rough places a plain.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And the glory of the Lord shall be revealed,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and all flesh shall see it together,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for the mouth of the Lord has spoken.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Word of God Stands Forever",
+      "type": "heading"
+    },
+    {
+      "text": "A voice says, “Cry!”",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And I said, “What shall I cry?”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All flesh is grass,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and all its beauty is like the flower of the field.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The grass withers, the flower fades",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "when the breath of the Lord blows on it;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "surely the people are grass.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The grass withers, the flower fades,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but the word of our God will stand forever.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Greatness of God",
+      "type": "heading"
+    },
+    {
+      "text": "Go on up to a high mountain,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Zion, herald of good news;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "lift up your voice with strength,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "O Jerusalem, herald of good news;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "lift it up, fear not;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "say to the cities of Judah,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold your God!”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the Lord God comes with might,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and his arm rules for him;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, his reward is with him,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and his recompense before him.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He will tend his flock like a shepherd;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he will gather the lambs in his arms;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he will carry them in his bosom,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and gently lead those that are with young.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has measured the waters in the hollow of his hand",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and marked off the heavens with a span,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "enclosed the dust of the earth in a measure",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and weighed the mountains in scales",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hills in a balance?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has measured the Spirit of the Lord,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "or what man shows him his counsel?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom did he consult,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and who made him understand?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who taught him the path of justice,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and taught him knowledge,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and showed him the way of understanding?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the nations are like a drop from a bucket,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and are accounted as the dust on the scales;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, he takes up the coastlands like fine dust.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Lebanon would not suffice for fuel,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "nor are its beasts enough for a burnt offering.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "All the nations are as nothing before him,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they are accounted by him as less than nothing and emptiness.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "To whom then will you liken God,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or what likeness compare with him?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "An idol! A craftsman casts it,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and a goldsmith overlays it with gold",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and casts for it silver chains.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He who is too impoverished for an offering",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "chooses wood that will not rot;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "he seeks out a skillful craftsman",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to set up an idol that will not move.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you not know? Do you not hear?",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Has it not been told you from the beginning?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you not understood from the foundations of the earth?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "It is he who sits above the circle of the earth,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and its inhabitants are like grasshoppers;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "who stretches out the heavens like a curtain,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and spreads them like a tent to dwell in;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "who brings princes to nothing,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and makes the rulers of the earth as emptiness.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Scarcely are they planted, scarcely sown,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "scarcely has their stem taken root in the earth,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "when he blows on them, and they wither,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and the tempest carries them off like stubble.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "To whom then will you compare me,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that I should be like him? says the Holy One.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your eyes on high and see:",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "who created these?",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "He who brings out their host by number,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "calling them all by name;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "by the greatness of his might",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and because he is strong in power,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "not one is missing.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you say, O Jacob,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and speak, O Israel,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“My way is hidden from the Lord,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and my right is disregarded by my God”?",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you not known? Have you not heard?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is the everlasting God,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "the Creator of the ends of the earth.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He does not faint or grow weary;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "his understanding is unsearchable.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives power to the faint,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and to him who has no might he increases strength.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Even youths shall faint and be weary,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and young men shall fall exhausted;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "but they who wait for the Lord shall renew their strength;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall mount up with wings like eagles;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall run and not be weary;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall walk and not faint.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

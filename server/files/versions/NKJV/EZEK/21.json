@@ -1,0 +1,423 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 21,
+  "verses": 32,
+  "content": [
+    {
+      "text": "Babylon, the Sword of God",
+      "type": "heading"
+    },
+    {
+      "text": "And the word of the Lord came to me, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, set your face toward Jerusalem, preach against the holy places, and prophesy against the land of Israel; ",
+      "verse": 2
+    },
+    {
+      "text": "and say to the land of Israel, ‘Thus says the Lord: “Behold, I am against you, and I will draw My sword out of its sheath and cut off both righteous and wicked from you. ",
+      "verse": 3
+    },
+    {
+      "text": "Because I will cut off both righteous and wicked from you, therefore My sword shall go out of its sheath against all flesh from south to north, ",
+      "verse": 4
+    },
+    {
+      "text": "that all flesh may know that I, the Lord, have drawn My sword out of its sheath; it shall not return anymore.” ’ ",
+      "verse": 5
+    },
+    {
+      "text": "Sigh therefore, son of man, with a breaking heart, and sigh with bitterness before their eyes. ",
+      "verse": 6
+    },
+    {
+      "text": "And it shall be when they say to you, ‘Why are you sighing?’ that you shall answer, ‘Because of the news; when it comes, every heart will melt, all hands will be feeble, every spirit will faint, and all knees will be weak as water. Behold, it is coming and shall be brought to pass,’ says the Lord God.”",
+      "verse": 7
+    },
+    {
+      "text": "Again the word of the Lord came to me, saying, ",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, prophesy and say, ‘Thus says the Lord!’ Say:",
+      "verse": 9
+    },
+    {
+      "text": "‘A sword, a sword is sharpened",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And also polished!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Sharpened to make a dreadful slaughter,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Polished to flash like lightning!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Should we then make mirth?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "It despises the scepter of My son,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As it does all wood.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And He has given it to be polished,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That it may be handled;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "This sword is sharpened, and it is polished",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "To be given into the hand of the slayer.’",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Cry and wail, son of man;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For it will be against My people,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Against all the princes of Israel.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Terrors including the sword will be against My people;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore strike your thigh.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because it is a testing,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And what if the sword despises even the scepter?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The scepter shall be no more,”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord God.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“You therefore, son of man, prophesy,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And strike your hands together.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The third time let the sword do double damage.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "It is the sword that slays,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The sword that slays the great men,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "That enters their private chambers.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I have set the point of the sword against all their gates,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "That the heart may melt and many may stumble.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Ah! It is made bright;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "It is grasped for slaughter:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Swords at the ready!",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Thrust right!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Set your blade!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Thrust left—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Wherever your edge is ordered!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“I also will beat My fists together,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And I will cause My fury to rest;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the Lord, have spoken.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The word of the Lord came to me again, saying: ",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "“And son of man, appoint for yourself two ways for the sword of the king of Babylon to go; both of them shall go from the same land. Make a sign; put it at the head of the road to the city. ",
+      "verse": 19
+    },
+    {
+      "text": "Appoint a road for the sword to go to Rabbah of the Ammonites, and to Judah, into fortified Jerusalem. ",
+      "verse": 20
+    },
+    {
+      "text": "For the king of Babylon stands at the parting of the road, at the fork of the two roads, to use divination: he shakes the arrows, he consults the images, he looks at the liver. ",
+      "verse": 21
+    },
+    {
+      "text": "In his right hand is the divination for Jerusalem: to set up battering rams, to call for a slaughter, to lift the voice with shouting, to set battering rams against the gates, to heap up a siege mound, and to build a wall. ",
+      "verse": 22
+    },
+    {
+      "text": "And it will be to them like a false divination in the eyes of those who have sworn oaths with them; but he will bring their iniquity to remembrance, that they may be taken.",
+      "verse": 23
+    },
+    {
+      "text": "“Therefore thus says the Lord God: ‘Because you have made your iniquity to be remembered, in that your transgressions are uncovered, so that in all your doings your sins appear—because you have come to remembrance, you shall be taken in hand.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "‘Now to you, O profane, wicked prince of Israel, whose day has come, whose iniquity shall end, ",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "thus says the Lord God:",
+      "verse": 26
+    },
+    {
+      "text": "“Remove the turban, and take off the crown;",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nothing shall remain the same.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Exalt the humble, and humble the exalted.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Overthrown, overthrown,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make it overthrown!",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall be no longer,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Until He comes whose right it is,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will give it to Him.” ’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "A Sword Against the Ammonites",
+      "type": "heading"
+    },
+    {
+      "text": "“And you, son of man, prophesy and say, ‘Thus says the Lord God concerning the Ammonites and concerning their reproach,’ and say:",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "‘A sword, a sword is drawn,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Polished for slaughter,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "For consuming, for flashing—",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "While they see false visions for you,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "While they divine a lie to you,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "To bring you on the necks of the wicked, the slain",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose day has come,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose iniquity shall end.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Return it to its sheath.",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will judge you",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "In the place where you were created,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "In the land of your nativity.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pour out My indignation on you;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "I will blow against you with the fire of My wrath,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And deliver you into the hands of brutal men who are skillful to destroy.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall be fuel for the fire;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Your blood shall be in the midst of the land.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall not be remembered,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "For I the Lord have spoken.’ ”",
+      "verse": 32,
+      "type": "poetry"
+    }
+  ]
+}

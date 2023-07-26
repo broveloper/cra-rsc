@@ -1,0 +1,141 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 58,
+  "verses": 11,
+  "content": [
+    {
+      "text": "The Just Judgment of the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. Set to “Do Not Destroy.” A Michtam of David.",
+      "type": "title"
+    },
+    {
+      "text": "Do you indeed speak righteousness, you silent ones?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do you judge uprightly, you sons of men?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "No, in heart you work wickedness;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You weigh out the violence of your hands in the earth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked are estranged from the womb;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They go astray as soon as they are born, speaking lies.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their poison is like the poison of a serpent;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They are like the deaf cobra that stops its ear,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Which will not heed the voice of charmers,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Charming ever so skillfully.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Break their teeth in their mouth, O God!",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Break out the fangs of the young lions, O Lord!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them flow away as waters which run continually;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "When he bends his bow,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let his arrows be as if cut in pieces.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be like a snail which melts away as it goes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a stillborn child of a woman, that they may not see the sun.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Before your pots can feel the burning thorns,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He shall take them away as with a whirlwind,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "As in His living and burning wrath.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous shall rejoice when he sees the vengeance;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall wash his feet in the blood of the wicked,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "So that men will say,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely there is a reward for the righteous;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely He is God who judges in the earth.”",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 44,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Israel the Lord's Chosen",
+      "type": "heading"
+    },
+    {
+      "text": "“But now hear, O Jacob my servant,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Israel whom I have chosen!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord who made you,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who formed you from the womb and will help you:",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear not, O Jacob my servant,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Jeshurun whom I have chosen.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will pour water on the thirsty land,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and streams on the dry ground;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pour my Spirit upon your offspring,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and my blessing on your descendants.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall spring up among the grass",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like willows by flowing streams.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "This one will say, ‘I am the Lord's,’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "another will call on the name of Jacob,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and another will write on his hand, ‘The Lord's,’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and name himself by the name of Israel.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Besides Me There Is No God",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord, the King of Israel",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and his Redeemer, the Lord of hosts:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am the first and I am the last;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "besides me there is no god.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is like me? Let him proclaim it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him declare and set it before me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "since I appointed an ancient people.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them declare what is to come, and what will happen.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear not, nor be afraid;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "have I not told you from of old and declared it?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And you are my witnesses!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Is there a God besides me?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no Rock; I know not any.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Folly of Idolatry",
+      "type": "heading"
+    },
+    {
+      "text": "All who fashion idols are nothing, and the things they delight in do not profit. Their witnesses neither see nor know, that they may be put to shame.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Who fashions a god or casts an idol that is profitable for nothing?",
+      "verse": 10
+    },
+    {
+      "text": "Behold, all his companions shall be put to shame, and the craftsmen are only human. Let them all assemble, let them stand forth. They shall be terrified; they shall be put to shame together.",
+      "verse": 11
+    },
+    {
+      "text": "The ironsmith takes a cutting tool and works it over the coals. He fashions it with hammers and works it with his strong arm. He becomes hungry, and his strength fails; he drinks no water and is faint.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "The carpenter stretches a line; he marks it out with a pencil. He shapes it with planes and marks it with a compass. He shapes it into the figure of a man, with the beauty of a man, to dwell in a house.",
+      "verse": 13
+    },
+    {
+      "text": "He cuts down cedars, or he chooses a cypress tree or an oak and lets it grow strong among the trees of the forest. He plants a cedar and the rain nourishes it.",
+      "verse": 14
+    },
+    {
+      "text": "Then it becomes fuel for a man. He takes a part of it and warms himself; he kindles a fire and bakes bread. Also he makes a god and worships it; he makes it an idol and falls down before it.",
+      "verse": 15
+    },
+    {
+      "text": "Half of it he burns in the fire. Over the half he eats meat; he roasts it and is satisfied. Also he warms himself and says, “Aha, I am warm, I have seen the fire!”",
+      "verse": 16
+    },
+    {
+      "text": "And the rest of it he makes into a god, his idol, and falls down to it and worships it. He prays to it and says, “Deliver me, for you are my god!”",
+      "verse": 17
+    },
+    {
+      "text": "They know not, nor do they discern, for he has shut their eyes, so that they cannot see, and their hearts, so that they cannot understand.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "No one considers, nor is there knowledge or discernment to say, “Half of it I burned in the fire; I also baked bread on its coals; I roasted meat and have eaten. And shall I make the rest of it an abomination? Shall I fall down before a block of wood?”",
+      "verse": 19
+    },
+    {
+      "text": "He feeds on ashes; a deluded heart has led him astray, and he cannot deliver himself or say, “Is there not a lie in my right hand?”",
+      "verse": 20
+    },
+    {
+      "text": "The Lord Redeems Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Remember these things, O Jacob,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and Israel, for you are my servant;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I formed you; you are my servant;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "O Israel, you will not be forgotten by me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I have blotted out your transgressions like a cloud",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and your sins like mist;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "return to me, for I have redeemed you.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing, O heavens, for the Lord has done it;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "shout, O depths of the earth;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "break forth into singing, O mountains,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "O forest, and every tree in it!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has redeemed Jacob,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and will be glorified in Israel.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord, your Redeemer,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who formed you from the womb:",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am the Lord, who made all things,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who alone stretched out the heavens,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who spread out the earth by myself,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who frustrates the signs of liars",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and makes fools of diviners,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "who turns wise men back",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and makes their knowledge foolish,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "who confirms the word of his servant",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and fulfills the counsel of his messengers,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "who says of Jerusalem, ‘She shall be inhabited,’",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and of the cities of Judah, ‘They shall be built,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will raise up their ruins’;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "who says to the deep, ‘Be dry;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "I will dry up your rivers’;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "who says of Cyrus, ‘He is my shepherd,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and he shall fulfill all my purpose’;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "saying of Jerusalem, ‘She shall be built,’",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and of the temple, ‘Your foundation shall be laid.’”",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 39,
+  "verses": 30,
+  "content": [
+    {
+      "text": "God Continues to Challenge Job",
+      "type": "heading"
+    },
+    {
+      "text": "“Do you know the time when the wild mountain goats bear young?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or can you mark when the deer gives birth?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Can you number the months that they fulfill?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Or do you know the time when they bear young?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They bow down,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They bring forth their young,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They deliver their offspring.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their young ones are healthy,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They grow strong with grain;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They depart and do not return to them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who set the wild donkey free?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who loosed the bonds of the onager,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose home I have made the wilderness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the barren land his dwelling?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He scorns the tumult of the city;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He does not heed the shouts of the driver.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The range of the mountains is his pasture,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And he searches after every green thing.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Will the wild ox be willing to serve you?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will he bed by your manger?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Can you bind the wild ox in the furrow with ropes?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Or will he plow the valleys behind you?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will you trust him because his strength is great?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Or will you leave your labor to him?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Will you trust him to bring home your grain,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And gather it to your threshing floor?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“The wings of the ostrich wave proudly,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But are her wings and pinions like the kindly stork’s?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For she leaves her eggs on the ground,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And warms them in the dust;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "She forgets that a foot may crush them,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Or that a wild beast may break them.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "She treats her young harshly, as though they were not hers;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Her labor is in vain, without concern,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Because God deprived her of wisdom,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And did not endow her with understanding.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When she lifts herself on high,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "She scorns the horse and its rider.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Have you given the horse strength?",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Have you clothed his neck with thunder?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Can you frighten him like a locust?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "His majestic snorting strikes terror.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He paws in the valley, and rejoices in his strength;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He gallops into the clash of arms.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He mocks at fear, and is not frightened;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does he turn back from the sword.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The quiver rattles against him,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The glittering spear and javelin.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He devours the distance with fierceness and rage;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does he come to a halt because the trumpet has sounded.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "At the blast of the trumpet he says, ‘Aha!’",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He smells the battle from afar,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The thunder of captains and shouting.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“Does the hawk fly by your wisdom,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And spread its wings toward the south?",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Does the eagle mount up at your command,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And make its nest on high?",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "On the rock it dwells and resides,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "On the crag of the rock and the stronghold.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "From there it spies out the prey;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Its eyes observe from afar.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Its young ones suck up blood;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And where the slain are, there it is.”",
+      "verse": 30,
+      "type": "poetry"
+    }
+  ]
+}

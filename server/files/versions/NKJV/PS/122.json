@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 122,
+  "verses": 9,
+  "content": [
+    {
+      "text": "The Joy of Going to the House of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents. Of David.",
+      "type": "title"
+    },
+    {
+      "text": "I was glad when they said to me,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Let us go into the house of the Lord.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Our feet have been standing",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Within your gates, O Jerusalem!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem is built",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As a city that is compact together,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Where the tribes go up,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The tribes of the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To the Testimony of Israel,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To give thanks to the name of the Lord.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For thrones are set there for judgment,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The thrones of the house of David.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Pray for the peace of Jerusalem:",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“May they prosper who love you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Peace be within your walls,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Prosperity within your palaces.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the sake of my brethren and companions,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will now say, “Peace be within you.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the house of the Lord our God",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will seek your good.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

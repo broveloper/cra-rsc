@@ -1,0 +1,68 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 4,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Jerusalem’s Glorious Future",
+      "type": "heading"
+    },
+    {
+      "text": "And in that day seven women shall take hold of one man, saying,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“We will eat our own food and wear our own apparel;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Only let us be called by your name,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To take away our reproach.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Renewal of Zion",
+      "type": "heading"
+    },
+    {
+      "text": "In that day the Branch of the Lord shall be beautiful and glorious;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the fruit of the earth shall be excellent and appealing",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For those of Israel who have escaped.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall come to pass that he who is left in Zion and remains in Jerusalem will be called holy—everyone who is recorded among the living in Jerusalem. ",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "When the Lord has washed away the filth of the daughters of Zion, and purged the blood of Jerusalem from her midst, by the spirit of judgment and by the spirit of burning, ",
+      "verse": 4
+    },
+    {
+      "text": "then the Lord will create above every dwelling place of Mount Zion, and above her assemblies, a cloud and smoke by day and the shining of a flaming fire by night. For over all the glory there will be a covering. ",
+      "verse": 5
+    },
+    {
+      "text": "And there will be a tabernacle for shade in the daytime from the heat, for a place of refuge, and for a shelter from storm and rain.",
+      "verse": 6
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 33,
+  "verses": 24,
+  "content": [
+    {
+      "text": "A Prayer in Deep Distress",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to you who plunder, though you have not been plundered;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And you who deal treacherously, though they have not dealt treacherously with you!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When you cease plundering,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You will be plundered;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When you make an end of dealing treacherously,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They will deal treacherously with you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, be gracious to us;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "We have waited for You.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Be their arm every morning,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Our salvation also in the time of trouble.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "At the noise of the tumult the people shall flee;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "When You lift Yourself up, the nations shall be scattered;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your plunder shall be gathered",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the gathering of the caterpillar;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As the running to and fro of locusts,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall run upon them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is exalted, for He dwells on high;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has filled Zion with justice and righteousness.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom and knowledge will be the stability of your times,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the strength of salvation;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is His treasure.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely their valiant ones shall cry outside,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The ambassadors of peace shall weep bitterly.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The highways lie waste,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The traveling man ceases.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He has broken the covenant,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He has despised the cities,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He regards no man.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth mourns and languishes,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Lebanon is shamed and shriveled;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Sharon is like a wilderness,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And Bashan and Carmel shake off their fruits.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Impending Judgment on Zion",
+      "type": "heading"
+    },
+    {
+      "text": "“Now I will rise,” says the Lord;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Now I will be exalted,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Now I will lift Myself up.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall conceive chaff,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall bring forth stubble;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Your breath, as fire, shall devour you.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the people shall be like the burnings of lime;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Like thorns cut up they shall be burned in the fire.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear, you who are afar off, what I have done;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And you who are near, acknowledge My might.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The sinners in Zion are afraid;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Fearfulness has seized the hypocrites:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who among us shall dwell with the devouring fire?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who among us shall dwell with everlasting burnings?”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He who walks righteously and speaks uprightly,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He who despises the gain of oppressions,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Who gestures with his hands, refusing bribes,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Who stops his ears from hearing of bloodshed,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And shuts his eyes from seeing evil:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He will dwell on high;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "His place of defense will be the fortress of rocks;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Bread will be given him,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "His water will be sure.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The Land of the Majestic King",
+      "type": "heading"
+    },
+    {
+      "text": "Your eyes will see the King in His beauty;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They will see the land that is very far off.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Your heart will meditate on terror:",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Where is the scribe?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is he who weighs?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is he who counts the towers?”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You will not see a fierce people,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "A people of obscure speech, beyond perception,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Of a stammering tongue that you cannot understand.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Look upon Zion, the city of our appointed feasts;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your eyes will see Jerusalem, a quiet home,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "A tabernacle that will not be taken down;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Not one of its stakes will ever be removed,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will any of its cords be broken.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But there the majestic Lord will be for us",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A place of broad rivers and streams,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "In which no galley with oars will sail,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor majestic ships pass by",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "(For the Lord is our Judge,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is our Lawgiver,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is our King;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He will save us);",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Your tackle is loosed,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They could not strengthen their mast,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They could not spread the sail.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the prey of great plunder is divided;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The lame take the prey.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And the inhabitant will not say, “I am sick”;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The people who dwell in it will be forgiven their iniquity.",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

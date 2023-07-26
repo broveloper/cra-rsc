@@ -1,0 +1,426 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 29,
+  "verses": 24,
+  "content": [
+    {
+      "text": "The Siege of Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "Ah, Ariel, Ariel,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the city where David encamped!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Add year to year;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "let the feasts run their round.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I will distress Ariel,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and there shall be moaning and lamentation,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and she shall be to me like an Ariel.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will encamp against you all around,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and will besiege you with towers",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will raise siegeworks against you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And you will be brought low; from the earth you shall speak,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the dust your speech will be bowed down;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "your voice shall come from the ground like the voice of a ghost,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the dust your speech shall whisper.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But the multitude of your foreign foes shall be like small dust,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the multitude of the ruthless like passing chaff.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And in an instant, suddenly,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    you will be visited by the Lord of hosts",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with thunder and with earthquake and great noise,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with whirlwind and tempest, and the flame of a devouring fire.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the multitude of all the nations that fight against Ariel,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "all that fight against her and her stronghold and distress her,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "shall be like a dream, a vision of the night.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "As when a hungry man dreams, and behold, he is eating,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and awakes with his hunger not satisfied,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "or as when a thirsty man dreams, and behold, he is drinking,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and awakes faint, with his thirst not quenched,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "so shall the multitude of all the nations be",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "that fight against Mount Zion.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Astonish yourselves and be astonished;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "blind yourselves and be blind!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Be drunk, but not with wine;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "stagger, but not with strong drink!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has poured out upon you",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "a spirit of deep sleep,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and has closed your eyes (the prophets),",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and covered your heads (the seers).",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the vision of all this has become to you like the words of a book that is sealed. When men give it to one who can read, saying, “Read this,” he says, “I cannot, for it is sealed.”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And when they give the book to one who cannot read, saying, “Read this,” he says, “I cannot read.”",
+      "verse": 12
+    },
+    {
+      "text": "And the Lord said:",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Because this people draw near with their mouth",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and honor me with their lips,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "while their hearts are far from me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and their fear of me is a commandment taught by men,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore, behold, I will again",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "do wonderful things with this people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with wonder upon wonder;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the wisdom of their wise men shall perish,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the discernment of their discerning men shall be hidden.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Ah, you who hide deep from the Lord your counsel,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whose deeds are in the dark,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and who say, “Who sees us? Who knows us?”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You turn things upside down!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall the potter be regarded as the clay,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "that the thing made should say of its maker,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“He did not make me”;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "or the thing formed say of him who formed it,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“He has no understanding”?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not yet a very little while",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "until Lebanon shall be turned into a fruitful field,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fruitful field shall be regarded as a forest?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day the deaf shall hear",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "the words of a book,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and out of their gloom and darkness",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "the eyes of the blind shall see.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The meek shall obtain fresh joy in the Lord,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and the poor among mankind shall exult in the Holy One of Israel.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For the ruthless shall come to nothing",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and the scoffer cease,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and all who watch to do evil shall be cut off,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "who by a word make a man out to be an offender,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay a snare for him who reproves in the gate,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and with an empty plea turn aside him who is in the right.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord, who redeemed Abraham, concerning the house of Jacob:",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "“Jacob shall no more be ashamed,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "no more shall his face grow pale.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For when he sees his children,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "the work of my hands, in his midst,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they will sanctify my name;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they will sanctify the Holy One of Jacob",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and will stand in awe of the God of Israel.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who go astray in spirit will come to understanding,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and those who murmur will accept instruction.”",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

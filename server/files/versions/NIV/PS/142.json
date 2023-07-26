@@ -1,0 +1,131 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 142,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Psalm 142",
+      "type": "heading"
+    },
+    {
+      "text": "A maskil of David. When he was in the cave. A prayer.",
+      "type": "title"
+    },
+    {
+      "text": "I cry aloud to the Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I lift up my voice to the Lord for mercy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I pour out before him my complaint;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "before him I tell my trouble.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When my spirit grows faint within me,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "it is you who watch over my way.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In the path where I walk",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "people have hidden a snare for me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Look and see, there is no one at my right hand;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "no one is concerned for me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have no refuge;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "no one cares for my life.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I cry to you, Lord;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I say, “You are my refuge,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my portion in the land of the living.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen to my cry,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I am in desperate need;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "rescue me from those who pursue me,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for they are too strong for me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Set me free from my prison,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that I may praise your name.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the righteous will gather about me",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "because of your goodness to me.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

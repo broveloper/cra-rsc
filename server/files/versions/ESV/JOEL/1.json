@@ -1,0 +1,430 @@
+{
+  "book_id": "JOEL",
+  "book_name": "Joel",
+  "chapter": 1,
+  "verses": 20,
+  "content": [
+    {
+      "text": "The word of the Lord that came to Joel, the son of Pethuel:",
+      "verse": 1
+    },
+    {
+      "text": "An Invasion of Locusts",
+      "type": "heading"
+    },
+    {
+      "text": "Hear this, you elders;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "give ear, all inhabitants of the land!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Has such a thing happened in your days,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "or in the days of your fathers?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Tell your children of it,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and let your children tell their children,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and their children to another generation.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "What the cutting locust left,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the swarming locust has eaten.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "What the swarming locust left,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the hopping locust has eaten,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and what the hopping locust left,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the destroying locust has eaten.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, you drunkards, and weep,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and wail, all you drinkers of wine,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the sweet wine,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for it is cut off from your mouth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For a nation has come up against my land,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "powerful and beyond number;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "its teeth are lions' teeth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and it has the fangs of a lioness.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It has laid waste my vine",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and splintered my fig tree;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "it has stripped off their bark and thrown it down;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their branches are made white.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Lament like a virgin wearing sackcloth",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the bridegroom of her youth.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The grain offering and the drink offering are cut off",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "from the house of the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The priests mourn,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the ministers of the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The fields are destroyed,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the ground mourns,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "because the grain is destroyed,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the wine dries up,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the oil languishes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Be ashamed, O tillers of the soil;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "wail, O vinedressers,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for the wheat and the barley,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because the harvest of the field has perished.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The vine dries up;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the fig tree languishes.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Pomegranate, palm, and apple,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "all the trees of the field are dried up,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and gladness dries up",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "from the children of man.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A Call to Repentance",
+      "type": "heading"
+    },
+    {
+      "text": "Put on sackcloth and lament, O priests;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "wail, O ministers of the altar.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Go in, pass the night in sackcloth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "O ministers of my God!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because grain offering and drink offering",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "are withheld from the house of your God.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Consecrate a fast;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "call a solemn assembly.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Gather the elders",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the inhabitants of the land",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to the house of the Lord your God,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and cry out to the Lord.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Alas for the day!",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the day of the Lord is near,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and as destruction from the Almighty it comes.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Is not the food cut off",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "before our eyes,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "joy and gladness",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "from the house of our God?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The seed shrivels under the clods;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the storehouses are desolate;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the granaries are torn down",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "because the grain has dried up.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "How the beasts groan!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The herds of cattle are perplexed",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "because there is no pasture for them;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "even the flocks of sheep suffer.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "To you, O Lord, I call.",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For fire has devoured",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the pastures of the wilderness,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and flame has burned",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "all the trees of the field.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the beasts of the field pant for you",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "because the water brooks are dried up,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and fire has devoured",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the pastures of the wilderness.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

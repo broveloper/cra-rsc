@@ -1,0 +1,311 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 19,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Proclamation Against Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "The burden against Egypt.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, the Lord rides on a swift cloud,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And will come into Egypt;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The idols of Egypt will totter at His presence,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the heart of Egypt will melt in its midst.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will set Egyptians against Egyptians;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Everyone will fight against his brother,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And everyone against his neighbor,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "City against city, kingdom against kingdom.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The spirit of Egypt will fail in its midst;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy their counsel,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And they will consult the idols and the charmers,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The mediums and the sorcerers.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Egyptians I will give",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Into the hand of a cruel master,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And a fierce king will rule over them,”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord, the Lord of hosts.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters will fail from the sea,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the river will be wasted and dried up.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The rivers will turn foul;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The brooks of defense will be emptied and dried up;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The reeds and rushes will wither.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The papyrus reeds by the River, by the mouth of the River,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And everything sown by the River,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Will wither, be driven away, and be no more.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The fishermen also will mourn;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All those will lament who cast hooks into the River,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And they will languish who spread nets on the waters.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Moreover those who work in fine flax",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who weave fine fabric will be ashamed;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And its foundations will be broken.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "All who make wages will be troubled of soul.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the princes of Zoan are fools;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Pharaoh’s wise counselors give foolish counsel.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "How do you say to Pharaoh, “I am the son of the wise,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The son of ancient kings?”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Where are they?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Where are your wise men?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them tell you now,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And let them know what the Lord of hosts has purposed against Egypt.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The princes of Zoan have become fools;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The princes of Noph are deceived;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They have also deluded Egypt,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who are the mainstay of its tribes.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has mingled a perverse spirit in her midst;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And they have caused Egypt to err in all her work,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "As a drunken man staggers in his vomit.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Neither will there be any work for Egypt,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Which the head or tail,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Palm branch or bulrush, may do.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day Egypt will be like women, and will be afraid and fear because of the waving of the hand of the Lord of hosts, which He waves over it. ",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And the land of Judah will be a terror to Egypt; everyone who makes mention of it will be afraid in himself, because of the counsel of the Lord of hosts which He has determined against it.",
+      "verse": 17
+    },
+    {
+      "text": "Egypt, Assyria, and Israel Blessed",
+      "type": "heading"
+    },
+    {
+      "text": "In that day five cities in the land of Egypt will speak the language of Canaan and swear by the Lord of hosts; one will be called the City of Destruction.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "In that day there will be an altar to the Lord in the midst of the land of Egypt, and a pillar to the Lord at its border. ",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "And it will be for a sign and for a witness to the Lord of hosts in the land of Egypt; for they will cry to the Lord because of the oppressors, and He will send them a Savior and a Mighty One, and He will deliver them. ",
+      "verse": 20
+    },
+    {
+      "text": "Then the Lord will be known to Egypt, and the Egyptians will know the Lord in that day, and will make sacrifice and offering; yes, they will make a vow to the Lord and perform it. ",
+      "verse": 21
+    },
+    {
+      "text": "And the Lord will strike Egypt, He will strike and heal it; they will return to the Lord, and He will be entreated by them and heal them.",
+      "verse": 22
+    },
+    {
+      "text": "In that day there will be a highway from Egypt to Assyria, and the Assyrian will come into Egypt and the Egyptian into Assyria, and the Egyptians will serve with the Assyrians.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "In that day Israel will be one of three with Egypt and Assyria—a blessing in the midst of the land, ",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "whom the Lord of hosts shall bless, saying, “Blessed is Egypt My people, and Assyria the work of My hands, and Israel My inheritance.”",
+      "verse": 25
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "book_id": "HAB",
+  "book_name": "Habakkuk",
+  "chapter": 1,
+  "verses": 17,
+  "content": [
+    {
+      "text": "The oracle that Habakkuk the prophet saw.",
+      "verse": 1
+    },
+    {
+      "text": "Habakkuk's Complaint",
+      "type": "heading"
+    },
+    {
+      "text": "O Lord, how long shall I cry for help,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and you will not hear?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Or cry to you “Violence!”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will not save?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you make me see iniquity,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and why do you idly look at wrong?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Destruction and violence are before me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "strife and contention arise.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "So the law is paralyzed,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and justice never goes forth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For the wicked surround the righteous;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "so justice goes forth perverted.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord's Answer",
+      "type": "heading"
+    },
+    {
+      "text": "“Look among the nations, and see;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "wonder and be astounded.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am doing a work in your days",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that you would not believe if told.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, I am raising up the Chaldeans,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that bitter and hasty nation,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who march through the breadth of the earth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to seize dwellings not their own.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They are dreaded and fearsome;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their justice and dignity go forth from themselves.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their horses are swifter than leopards,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "more fierce than the evening wolves;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "their horsemen press proudly on.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their horsemen come from afar;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they fly like an eagle swift to devour.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They all come for violence,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "all their faces forward.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They gather captives like sand.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "At kings they scoff,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and at rulers they laugh.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They laugh at every fortress,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for they pile up earth and take it.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they sweep by like the wind and go on,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "guilty men, whose own might is their god!”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Habakkuk's Second Complaint",
+      "type": "heading"
+    },
+    {
+      "text": "Are you not from everlasting,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Lord my God, my Holy One?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "We shall not die.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, you have ordained them as a judgment,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and you, O Rock, have established them for reproof.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You who are of purer eyes than to see evil",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and cannot look at wrong,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "why do you idly look at traitors",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and remain silent when the wicked swallows up",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the man more righteous than he?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You make mankind like the fish of the sea,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "like crawling things that have no ruler.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He brings all of them up with a hook;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he drags them out with his net;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he gathers them in his dragnet;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "so he rejoices and is glad.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore he sacrifices to his net",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and makes offerings to his dragnet;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "for by them he lives in luxury,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and his food is rich.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Is he then to keep on emptying his net",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and mercilessly killing nations forever?",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

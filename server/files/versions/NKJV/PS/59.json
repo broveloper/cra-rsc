@@ -1,0 +1,251 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 59,
+  "verses": 17,
+  "content": [
+    {
+      "text": "The Assured Judgment of the Wicked",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. Set to “Do Not Destroy.” A Michtam of David when Saul sent men, and they watched the house in order to kill him.",
+      "type": "title"
+    },
+    {
+      "text": "Deliver me from my enemies, O my God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Defend me from those who rise up against me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me from the workers of iniquity,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And save me from bloodthirsty men.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For look, they lie in wait for my life;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The mighty gather against me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Not for my transgression nor for my sin, O Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They run and prepare themselves through no fault of mine.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake to help me, and behold!",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You therefore, O Lord God of hosts, the God of Israel,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake to punish all the nations;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be merciful to any wicked transgressors. Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "At evening they return,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They growl like a dog,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And go all around the city.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, they belch with their mouth;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Swords are in their lips;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For they say, “Who hears?”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But You, O Lord, shall laugh at them;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You shall have all the nations in derision.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will wait for You, O You his Strength;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For God is my defense.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My God of mercy shall come to meet me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "God shall let me see my desire on my enemies.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not slay them, lest my people forget;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Scatter them by Your power,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And bring them down,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord our shield.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For the sin of their mouth and the words of their lips,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them even be taken in their pride,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And for the cursing and lying which they speak.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Consume them in wrath, consume them,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may not be;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And let them know that God rules in Jacob",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "To the ends of the earth. Selah",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And at evening they return,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They growl like a dog,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And go all around the city.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They wander up and down for food,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And howl if they are not satisfied.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will sing of Your power;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, I will sing aloud of Your mercy in the morning;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For You have been my defense",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And refuge in the day of my trouble.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "To You, O my Strength, I will sing praises;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For God is my defense,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "My God of mercy.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

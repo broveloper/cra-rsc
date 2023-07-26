@@ -1,0 +1,151 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 60,
+  "verses": 12,
+  "content": [
+    {
+      "text": "He Will Tread Down Our Foes",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: according to Shushan Eduth. A Miktam of David; for instruction; when he strove with Aram-naharaim and with Aram-zobah, and when Joab on his return struck down twelve thousand of Edom in the Valley of Salt.",
+      "type": "title"
+    },
+    {
+      "text": "O God, you have rejected us, broken our defenses;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have been angry; oh, restore us.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made the land to quake; you have torn it open;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "repair its breaches, for it totters.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made your people see hard things;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you have given us wine to drink that made us stagger.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You have set up a banner for those who fear you,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that they may flee to it from the bow. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That your beloved ones may be delivered,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "give salvation by your right hand and answer us!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "God has spoken in his holiness:",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“With exultation I will divide up Shechem",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and portion out the Vale of Succoth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Gilead is mine; Manasseh is mine;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is my helmet;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah is my scepter.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab is my washbasin;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "upon Edom I cast my shoe;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "over Philistia I shout in triumph.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will bring me to the fortified city?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who will lead me to Edom?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you not rejected us, O God?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You do not go forth, O God, with our armies.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, grant us help against the foe,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for vain is the salvation of man!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "With God we shall do valiantly;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "it is he who will tread down our foes.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

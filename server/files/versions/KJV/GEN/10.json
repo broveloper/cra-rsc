@@ -1,0 +1,167 @@
+{
+  "book_id": "GEN",
+  "book_name": "Genesis",
+  "chapter": 10,
+  "verses": 32,
+  "content": [
+    {
+      "text": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+      "verse": 1
+    },
+    {
+      "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah: and the sons of Raamah; Sheba, and Dedan.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And Cush begat Nimrod: he began to be a mighty one in the earth.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "He was a mighty hunter before the Lord: wherefore it is said, Even as Nimrod the mighty hunter before the Lord.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And Resen between Nineveh and Calah: the same is a great city.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "And Canaan begat Sidon his first born, and Heth,",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "And the Jebusite, and the Amorite, and the Girgasite,",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And the Hivite, and the Arkite, and the Sinite,",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "And Arphaxad begat Salah; and Salah begat Eber.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "And Hadoram, and Uzal, and Diklah,",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "And Obal, and Abimael, and Sheba,",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+      "verse": 32,
+      "type": "newline"
+    }
+  ]
+}

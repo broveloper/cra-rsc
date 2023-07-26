@@ -1,0 +1,201 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 32,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 32",
+      "type": "heading"
+    },
+    {
+      "text": "Of David. A maskil.",
+      "type": "title"
+    },
+    {
+      "text": "Blessed is the one",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whose transgressions are forgiven,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "whose sins are covered.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the one",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "whose sin the Lord does not count against them",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and in whose spirit is no deceit.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I kept silent,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my bones wasted away",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "through my groaning all day long.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For day and night",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "your hand was heavy on me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "my strength was sapped",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "as in the heat of summer.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I acknowledged my sin to you",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and did not cover up my iniquity.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “I will confess",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my transgressions to the Lord.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And you forgave",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the guilt of my sin.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore let all the faithful pray to you",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "while you may be found;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "surely the rising of the mighty waters",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "will not reach them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my hiding place;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you will protect me from trouble",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and surround me with songs of deliverance.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will instruct you and teach you in the way you should go;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will counsel you with my loving eye on you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be like the horse or the mule,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "which have no understanding",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "but must be controlled by bit and bridle",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "or they will not come to you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Many are the woes of the wicked,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "but the Lord’s unfailing love",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "surrounds the one who trusts in him.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoice in the Lord and be glad, you righteous;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "sing, all you who are upright in heart!",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

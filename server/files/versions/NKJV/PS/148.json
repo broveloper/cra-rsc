@@ -1,0 +1,177 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 148,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Praise to the Lord from Creation",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Praise the Lord from the heavens;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Praise Him in the heights!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise Him, all His angels;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise Him, all His hosts!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise Him, sun and moon;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise Him, all you stars of light!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise Him, you heavens of heavens,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And you waters above the heavens!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them praise the name of the Lord,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For He commanded and they were created.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He also established them forever and ever;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He made a decree which shall not pass away.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord from the earth,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You great sea creatures and all the depths;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Fire and hail, snow and clouds;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Stormy wind, fulfilling His word;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Mountains and all hills;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Fruitful trees and all cedars;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Beasts and all cattle;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Creeping things and flying fowl;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Kings of the earth and all peoples;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Princes and all judges of the earth;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Both young men and maidens;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Old men and children.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them praise the name of the Lord,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His name alone is exalted;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "His glory is above the earth and heaven.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And He has exalted the horn of His people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The praise of all His saints—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Of the children of Israel,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "A people near to Him.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 14,
+      "type": "poetry newline"
+    }
+  ]
+}

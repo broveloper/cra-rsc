@@ -1,0 +1,122 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 43,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Psalm 43",
+      "type": "heading"
+    },
+    {
+      "text": "Vindicate me, my God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and plead my cause",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "against an unfaithful nation.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Rescue me from those who are",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "deceitful and wicked.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You are God my stronghold.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Why have you rejected me?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Why must I go about mourning,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "oppressed by the enemy?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Send me your light and your faithful care,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "let them lead me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "let them bring me to your holy mountain,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "to the place where you dwell.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will go to the altar of God,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to God, my joy and my delight.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise you with the lyre,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, my God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why, my soul, are you downcast?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why so disturbed within me?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Put your hope in God,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for I will yet praise him,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my Savior and my God.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

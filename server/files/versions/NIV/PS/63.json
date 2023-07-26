@@ -1,0 +1,151 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 63,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 63",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of David. When he was in the Desert of Judah.",
+      "type": "title"
+    },
+    {
+      "text": "You, God, are my God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "earnestly I seek you;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I thirst for you,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "my whole being longs for you,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "in a dry and parched land",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "where there is no water.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen you in the sanctuary",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and beheld your power and your glory.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because your love is better than life,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my lips will glorify you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise you as long as I live,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and in your name I will lift up my hands.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will be fully satisfied as with the richest of foods;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "with singing lips my mouth will praise you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "On my bed I remember you;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I think of you through the watches of the night.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you are my help,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I sing in the shadow of your wings.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I cling to you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "your right hand upholds me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who want to kill me will be destroyed;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they will go down to the depths of the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be given over to the sword",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and become food for jackals.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But the king will rejoice in God;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all who swear by God will glory in him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "while the mouths of liars will be silenced.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

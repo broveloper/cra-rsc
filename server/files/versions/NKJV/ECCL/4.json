@@ -1,0 +1,224 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 4,
+  "verses": 16,
+  "content": [
+    {
+      "text": "The Uselessness of Selfish Toil",
+      "type": "heading"
+    },
+    {
+      "text": "Then I returned and considered all the oppression that is done under the sun:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And look! The tears of the oppressed,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But they have no comforter—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "On the side of their oppressors there is power,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But they have no comforter.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I praised the dead who were already dead,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "More than the living who are still alive.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet, better than both is he who has never existed,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has not seen the evil work that is done under the sun.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Vanity of Selfish Toil",
+      "type": "heading"
+    },
+    {
+      "text": "Again, I saw that for all toil and every skillful work a man is envied by his neighbor. This also is vanity and grasping for the wind.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "The fool folds his hands",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And consumes his own flesh.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Better a handful with quietness",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Than both hands full, together with toil and grasping for the wind.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I returned, and I saw vanity under the sun:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "There is one alone, without companion:",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has neither son nor brother.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet there is no end to all his labors,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor is his eye satisfied with riches.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But he never asks,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“For whom do I toil and deprive myself of good?”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "This also is vanity and a grave misfortune.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Value of a Friend",
+      "type": "heading"
+    },
+    {
+      "text": "Two are better than one,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because they have a good reward for their labor.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For if they fall, one will lift up his companion.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But woe to him who is alone when he falls,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For he has no one to help him up.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Again, if two lie down together, they will keep warm;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But how can one be warm alone?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Though one may be overpowered by another, two can withstand him.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And a threefold cord is not quickly broken.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Popularity Passes Away",
+      "type": "heading"
+    },
+    {
+      "text": "Better a poor and wise youth",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than an old and foolish king who will be admonished no more.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For he comes out of prison to be king,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Although he was born poor in his kingdom.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I saw all the living who walk under the sun;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They were with the second youth who stands in his place.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "There was no end of all the people over whom he was made king;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet those who come afterward will not rejoice in him.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely this also is vanity and grasping for the wind.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

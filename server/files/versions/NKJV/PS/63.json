@@ -1,0 +1,151 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 63,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Joy in the Fellowship of God",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David when he was in the wilderness of Judah.",
+      "type": "title"
+    },
+    {
+      "text": "O God, You are my God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Early will I seek You;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul thirsts for You;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "My flesh longs for You",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In a dry and thirsty land",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Where there is no water.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "So I have looked for You in the sanctuary,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To see Your power and Your glory.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because Your lovingkindness is better than life,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My lips shall praise You.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus I will bless You while I live;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lift up my hands in Your name.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul shall be satisfied as with marrow and fatness,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And my mouth shall praise You with joyful lips.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "When I remember You on my bed,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I meditate on You in the night watches.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because You have been my help,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore in the shadow of Your wings I will rejoice.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul follows close behind You;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Your right hand upholds me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But those who seek my life, to destroy it,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shall go into the lower parts of the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall fall by the sword;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be a portion for jackals.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But the king shall rejoice in God;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Everyone who swears by Him shall glory;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But the mouth of those who speak lies shall be stopped.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

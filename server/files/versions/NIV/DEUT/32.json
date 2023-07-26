@@ -1,0 +1,750 @@
+{
+  "book_id": "DEUT",
+  "book_name": "Deuteronomy",
+  "chapter": 32,
+  "verses": 52,
+  "content": [
+    {
+      "text": "Listen, you heavens, and I will speak;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "hear, you earth, the words of my mouth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my teaching fall like rain",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and my words descend like dew,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "like showers on new grass,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "like abundant rain on tender plants.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will proclaim the name of the Lord.",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Oh, praise the greatness of our God!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He is the Rock, his works are perfect,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and all his ways are just.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A faithful God who does no wrong,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "upright and just is he.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They are corrupt and not his children;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to their shame they are a warped and crooked generation.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Is this the way you repay the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you foolish and unwise people?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is he not your Father, your Creator,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who made you and formed you?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember the days of old;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "consider the generations long past.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Ask your father and he will tell you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "your elders, and they will explain to you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "When the Most High gave the nations their inheritance,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when he divided all mankind,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he set up boundaries for the peoples",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "according to the number of the sons of Israel.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord’s portion is his people,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Jacob his allotted inheritance.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In a desert land he found him,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in a barren and howling waste.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He shielded him and cared for him;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he guarded him as the apple of his eye,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "like an eagle that stirs up its nest",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and hovers over its young,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that spreads its wings to catch them",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and carries them aloft.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord alone led him;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "no foreign god was with him.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He made him ride on the heights of the land",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and fed him with the fruit of the fields.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He nourished him with honey from the rock,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and with oil from the flinty crag,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "with curds and milk from herd and flock",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and with fattened lambs and goats,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with choice rams of Bashan",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the finest kernels of wheat.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You drank the foaming blood of the grape.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Jeshurun grew fat and kicked;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "filled with food, they became heavy and sleek.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They abandoned the God who made them",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and rejected the Rock their Savior.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They made him jealous with their foreign gods",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and angered him with their detestable idols.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They sacrificed to false gods, which are not God—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "gods they had not known,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "gods that recently appeared,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "gods your ancestors did not fear.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "You deserted the Rock, who fathered you;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "you forgot the God who gave you birth.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord saw this and rejected them",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because he was angered by his sons and daughters.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will hide my face from them,” he said,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“and see what their end will be;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "for they are a perverse generation,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "children who are unfaithful.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They made me jealous by what is no god",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and angered me with their worthless idols.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make them envious by those who are not a people;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make them angry by a nation that has no understanding.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For a fire will be kindled by my wrath,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "one that burns down to the realm of the dead below.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "It will devour the earth and its harvests",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and set afire the foundations of the mountains.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will heap calamities on them",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and spend my arrows against them.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send wasting famine against them,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "consuming pestilence and deadly plague;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send against them the fangs of wild beasts,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "the venom of vipers that glide in the dust.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "In the street the sword will make them childless;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "in their homes terror will reign.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The young men and young women will perish,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "the infants and those with gray hair.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I said I would scatter them",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and erase their name from human memory,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "but I dreaded the taunt of the enemy,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "lest the adversary misunderstand",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and say, ‘Our hand has triumphed;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord has not done all this.’”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "They are a nation without sense,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "there is no discernment in them.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "If only they were wise and would understand this",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and discern what their end will be!",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "How could one man chase a thousand,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "or two put ten thousand to flight,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "unless their Rock had sold them,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "unless the Lord had given them up?",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For their rock is not like our Rock,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "as even our enemies concede.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Their vine comes from the vine of Sodom",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the fields of Gomorrah.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Their grapes are filled with poison,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and their clusters with bitterness.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Their wine is the venom of serpents,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "the deadly poison of cobras.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "“Have I not kept this in reserve",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and sealed it in my vaults?",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "It is mine to avenge; I will repay.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "In due time their foot will slip;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "their day of disaster is near",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "and their doom rushes upon them.”",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will vindicate his people",
+      "verse": 36,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and relent concerning his servants",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "when he sees their strength is gone",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "and no one is left, slave or free.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "He will say: “Now where are their gods,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "the rock they took refuge in,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "the gods who ate the fat of their sacrifices",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "and drank the wine of their drink offerings?",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them rise up to help you!",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them give you shelter!",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "“See now that I myself am he!",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "There is no god besides me.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "I put to death and I bring to life,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "I have wounded and I will heal,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "and no one can deliver out of my hand.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "I lift my hand to heaven and solemnly swear:",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "As surely as I live forever,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "when I sharpen my flashing sword",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "and my hand grasps it in judgment,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take vengeance on my adversaries",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "and repay those who hate me.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make my arrows drunk with blood,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "while my sword devours flesh:",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "the blood of the slain and the captives,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "the heads of the enemy leaders.”",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoice, you nations, with his people,",
+      "verse": 43,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for he will avenge the blood of his servants;",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "he will take vengeance on his enemies",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "and make atonement for his land and people.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "Moses came with Joshua son of Nun and spoke all the words of this song in the hearing of the people.",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "When Moses finished reciting all these words to all Israel,",
+      "verse": 45
+    },
+    {
+      "text": "he said to them, “Take to heart all the words I have solemnly declared to you this day, so that you may command your children to obey carefully all the words of this law.",
+      "verse": 46
+    },
+    {
+      "text": "They are not just idle words for you—they are your life. By them you will live long in the land you are crossing the Jordan to possess.”",
+      "verse": 47
+    },
+    {
+      "text": "Moses to Die on Mount Nebo",
+      "type": "heading"
+    },
+    {
+      "text": "On that same day the Lord told Moses,",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "“Go up into the Abarim Range to Mount Nebo in Moab, across from Jericho, and view Canaan, the land I am giving the Israelites as their own possession.",
+      "verse": 49
+    },
+    {
+      "text": "There on the mountain that you have climbed you will die and be gathered to your people, just as your brother Aaron died on Mount Hor and was gathered to his people.",
+      "verse": 50
+    },
+    {
+      "text": "This is because both of you broke faith with me in the presence of the Israelites at the waters of Meribah Kadesh in the Desert of Zin and because you did not uphold my holiness among the Israelites.",
+      "verse": 51
+    },
+    {
+      "text": "Therefore, you will see the land only from a distance; you will not enter the land I am giving to the people of Israel.”",
+      "verse": 52
+    }
+  ]
+}

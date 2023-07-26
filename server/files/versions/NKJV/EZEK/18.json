@@ -1,0 +1,421 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 18,
+  "verses": 32,
+  "content": [
+    {
+      "text": "A False Proverb Refuted",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came to me again, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“What do you mean when you use this proverb concerning the land of Israel, saying:",
+      "verse": 2
+    },
+    {
+      "text": "‘The fathers have eaten sour grapes,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the children’s teeth are set on edge’?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“As I live,” says the Lord God, “you shall no longer use this proverb in Israel.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“Behold, all souls are Mine;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The soul of the father",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As well as the soul of the son is Mine;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The soul who sins shall die.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But if a man is just",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And does what is lawful and right;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has not eaten on the mountains,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor lifted up his eyes to the idols of the house of Israel,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor defiled his neighbor’s wife,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor approached a woman during her impurity;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has not oppressed anyone,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But has restored to the debtor his pledge;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Has robbed no one by violence,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But has given his bread to the hungry",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And covered the naked with clothing;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has not exacted usury",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor taken any increase,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But has withdrawn his hand from iniquity",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And executed true judgment between man and man;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has walked in My statutes",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And kept My judgments faithfully—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He is just;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall surely live!”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“If he begets a son who is a robber",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or a shedder of blood,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Who does any of these things",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And does none of those duties,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But has eaten on the mountains",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Or defiled his neighbor’s wife;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has oppressed the poor and needy,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Robbed by violence,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Not restored the pledge,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Lifted his eyes to the idols,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Or committed abomination;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has exacted usury",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Or taken increase—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall he then live?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall not live!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "If he has done any of these abominations,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall surely die;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "His blood shall be upon him.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“If, however, he begets a son",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who sees all the sins which his father has done,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And considers but does not do likewise;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has not eaten on the mountains,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor lifted his eyes to the idols of the house of Israel,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor defiled his neighbor’s wife;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Has not oppressed anyone,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor withheld a pledge,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor robbed by violence,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But has given his bread to the hungry",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And covered the naked with clothing;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has withdrawn his hand from the poor",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And not received usury or increase,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But has executed My judgments",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And walked in My statutes—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall not die for the iniquity of his father;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall surely live!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“As for his father,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because he cruelly oppressed,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Robbed his brother by violence,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And did what is not good among his people,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, he shall die for his iniquity.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn and Live",
+      "type": "heading"
+    },
+    {
+      "text": "“Yet you say, ‘Why should the son not bear the guilt of the father?’ Because the son has done what is lawful and right, and has kept all My statutes and observed them, he shall surely live. ",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "The soul who sins shall die. The son shall not bear the guilt of the father, nor the father bear the guilt of the son. The righteousness of the righteous shall be upon himself, and the wickedness of the wicked shall be upon himself.",
+      "verse": 20
+    },
+    {
+      "text": "“But if a wicked man turns from all his sins which he has committed, keeps all My statutes, and does what is lawful and right, he shall surely live; he shall not die. ",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "None of the transgressions which he has committed shall be remembered against him; because of the righteousness which he has done, he shall live. ",
+      "verse": 22
+    },
+    {
+      "text": "Do I have any pleasure at all that the wicked should die?” says the Lord God, “and not that he should turn from his ways and live?",
+      "verse": 23
+    },
+    {
+      "text": "“But when a righteous man turns away from his righteousness and commits iniquity, and does according to all the abominations that the wicked man does, shall he live? All the righteousness which he has done shall not be remembered; because of the unfaithfulness of which he is guilty and the sin which he has committed, because of them he shall die.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "“Yet you say, ‘The way of the Lord is not fair.’ Hear now, O house of Israel, is it not My way which is fair, and your ways which are not fair? ",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "When a righteous man turns away from his righteousness, commits iniquity, and dies in it, it is because of the iniquity which he has done that he dies. ",
+      "verse": 26
+    },
+    {
+      "text": "Again, when a wicked man turns away from the wickedness which he committed, and does what is lawful and right, he preserves himself alive. ",
+      "verse": 27
+    },
+    {
+      "text": "Because he considers and turns away from all the transgressions which he committed, he shall surely live; he shall not die. ",
+      "verse": 28
+    },
+    {
+      "text": "Yet the house of Israel says, ‘The way of the Lord is not fair.’ O house of Israel, is it not My ways which are fair, and your ways which are not fair?",
+      "verse": 29
+    },
+    {
+      "text": "“Therefore I will judge you, O house of Israel, every one according to his ways,” says the Lord God. “Repent, and turn from all your transgressions, so that iniquity will not be your ruin. ",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "Cast away from you all the transgressions which you have committed, and get yourselves a new heart and a new spirit. For why should you die, O house of Israel? ",
+      "verse": 31
+    },
+    {
+      "text": "For I have no pleasure in the death of one who dies,” says the Lord God. “Therefore turn and live!”",
+      "verse": 32
+    }
+  ]
+}

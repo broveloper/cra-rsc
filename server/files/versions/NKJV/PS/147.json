@@ -1,0 +1,227 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 147,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Praise to God for His Word and Providence",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For it is good to sing praises to our God;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is pleasant, and praise is beautiful.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord builds up Jerusalem;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He gathers together the outcasts of Israel.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He heals the brokenhearted",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And binds up their wounds.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He counts the number of the stars;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He calls them all by name.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Great is our Lord, and mighty in power;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "His understanding is infinite.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord lifts up the humble;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He casts the wicked down to the ground.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to the Lord with thanksgiving;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Sing praises on the harp to our God,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who covers the heavens with clouds,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who prepares rain for the earth,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who makes grass to grow on the mountains.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives to the beast its food,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the young ravens that cry.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He does not delight in the strength of the horse;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He takes no pleasure in the legs of a man.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord takes pleasure in those who fear Him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In those who hope in His mercy.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord, O Jerusalem!",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Praise your God, O Zion!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For He has strengthened the bars of your gates;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He has blessed your children within you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes peace in your borders,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And fills you with the finest wheat.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He sends out His command to the earth;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His word runs very swiftly.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He gives snow like wool;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He scatters the frost like ashes;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He casts out His hail like morsels;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can stand before His cold?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He sends out His word and melts them;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He causes His wind to blow, and the waters flow.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He declares His word to Jacob,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His statutes and His judgments to Israel.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He has not dealt thus with any nation;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And as for His judgments, they have not known them.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 20,
+      "type": "poetry newline"
+    }
+  ]
+}

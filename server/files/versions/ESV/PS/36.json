@@ -1,0 +1,156 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 36,
+  "verses": 12,
+  "content": [
+    {
+      "text": "How Precious Is Your Steadfast Love",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. Of David, the servant of the Lord.",
+      "type": "title"
+    },
+    {
+      "text": "Transgression speaks to the wicked",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "deep in his heart;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no fear of God",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "before his eyes.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For he flatters himself in his own eyes",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that his iniquity cannot be found out and hated.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of his mouth are trouble and deceit;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he has ceased to act wisely and do good.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He plots trouble while on his bed;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he sets himself in a way that is not good;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he does not reject evil.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your steadfast love, O Lord, extends to the heavens,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your faithfulness to the clouds.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your righteousness is like the mountains of God;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "your judgments are like the great deep;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "man and beast you save, O Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "How precious is your steadfast love, O God!",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The children of mankind take refuge in the shadow of your wings.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They feast on the abundance of your house,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and you give them drink from the river of your delights.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For with you is the fountain of life;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in your light do we see light.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, continue your steadfast love to those who know you,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and your righteousness to the upright of heart!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let not the foot of arrogance come upon me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "nor the hand of the wicked drive me away.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "There the evildoers lie fallen;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they are thrust down, unable to rise.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

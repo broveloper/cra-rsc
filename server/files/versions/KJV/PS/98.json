@@ -1,0 +1,52 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 98,
+  "verses": 9,
+  "content": [
+    {
+      "text": "O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+      "verse": 1
+    },
+    {
+      "text": "The Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Sing unto the Lord with the harp; with the harp, and the voice of a psalm.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "With trumpets and sound of cornet make a joyful noise before the Lord, the King.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Let the floods clap their hands: let the hills be joyful together",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Before the Lord; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+      "verse": 9,
+      "type": "newline"
+    }
+  ]
+}

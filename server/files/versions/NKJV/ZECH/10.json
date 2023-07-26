@@ -1,0 +1,287 @@
+{
+  "book_id": "ZECH",
+  "book_name": "Zechariah",
+  "chapter": 10,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Restoration of Judah and Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Ask the Lord for rain",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In the time of the latter rain.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will make flashing clouds;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He will give them showers of rain,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Grass in the field for everyone.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the idols speak delusion;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The diviners envision lies,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And tell false dreams;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They comfort in vain.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the people wend their way like sheep;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They are in trouble because there is no shepherd.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“My anger is kindled against the shepherds,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And I will punish the goatherds.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord of hosts will visit His flock,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The house of Judah,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And will make them as His royal horse in the battle.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "From him comes the cornerstone,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "From him the tent peg,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "From him the battle bow,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "From him every ruler together.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be like mighty men,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Who tread down their enemies",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In the mire of the streets in the battle.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall fight because the Lord is with them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the riders on horses shall be put to shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will strengthen the house of Judah,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And I will save the house of Joseph.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them back,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I have mercy on them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be as though I had not cast them aside;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am the Lord their God,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will hear them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Those of Ephraim shall be like a mighty man,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And their heart shall rejoice as if with wine.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, their children shall see it and be glad;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their heart shall rejoice in the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will whistle for them and gather them,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will redeem them;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall increase as they once increased.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will sow them among the peoples,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And they shall remember Me in far countries;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall live, together with their children,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall return.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also bring them back from the land of Egypt,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And gather them from Assyria.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them into the land of Gilead and Lebanon,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Until no more room is found for them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall pass through the sea with affliction,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And strike the waves of the sea:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "All the depths of the River shall dry up.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the pride of Assyria shall be brought down,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the scepter of Egypt shall depart.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“So I will strengthen them in the Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And they shall walk up and down in His name,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

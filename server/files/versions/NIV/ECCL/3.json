@@ -1,0 +1,194 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 3,
+  "verses": 22,
+  "content": [
+    {
+      "text": "A Time for Everything",
+      "type": "heading"
+    },
+    {
+      "text": "There is a time for everything,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a season for every activity under the heavens:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "    a time to be born and a time to die,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a time to plant and a time to uproot,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "    a time to kill and a time to heal,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "a time to tear down and a time to build,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "    a time to weep and a time to laugh,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "a time to mourn and a time to dance,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "    a time to scatter stones and a time to gather them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "a time to embrace and a time to refrain from embracing,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    a time to search and a time to give up,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a time to keep and a time to throw away,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "    a time to tear and a time to mend,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "a time to be silent and a time to speak,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    a time to love and a time to hate,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "a time for war and a time for peace.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "What do workers gain from their toil?",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "I have seen the burden God has laid on the human race.",
+      "verse": 10
+    },
+    {
+      "text": "He has made everything beautiful in its time. He has also set eternity in the human heart; yet no one can fathom what God has done from beginning to end.",
+      "verse": 11
+    },
+    {
+      "text": "I know that there is nothing better for people than to be happy and to do good while they live.",
+      "verse": 12
+    },
+    {
+      "text": "That each of them may eat and drink, and find satisfaction in all their toil—this is the gift of God.",
+      "verse": 13
+    },
+    {
+      "text": "I know that everything God does will endure forever; nothing can be added to it and nothing taken from it. God does it so that people will fear him.",
+      "verse": 14
+    },
+    {
+      "text": "Whatever is has already been,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and what will be has been before;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and God will call the past to account.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And I saw something else under the sun:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "In the place of judgment—wickedness was there,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the place of justice—wickedness was there.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I said to myself,",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“God will bring into judgment",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "both the righteous and the wicked,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for there will be a time for every activity,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a time to judge every deed.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I also said to myself, “As for humans, God tests them so that they may see that they are like the animals.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Surely the fate of human beings is like that of the animals; the same fate awaits them both: As one dies, so dies the other. All have the same breath; humans have no advantage over animals. Everything is meaningless.",
+      "verse": 19
+    },
+    {
+      "text": "All go to the same place; all come from dust, and to dust all return.",
+      "verse": 20
+    },
+    {
+      "text": "Who knows if the human spirit rises upward and if the spirit of the animal goes down into the earth?”",
+      "verse": 21
+    },
+    {
+      "text": "So I saw that there is nothing better for a person than to enjoy their work, because that is their lot. For who can bring them to see what will happen after them?",
+      "verse": 22,
+      "type": "newline"
+    }
+  ]
+}

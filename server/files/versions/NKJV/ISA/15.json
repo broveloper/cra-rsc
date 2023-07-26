@@ -1,0 +1,202 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 15,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Proclamation Against Moab",
+      "type": "heading"
+    },
+    {
+      "text": "The burden against Moab.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Because in the night Ar of Moab is laid waste",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And destroyed,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because in the night Kir of Moab is laid waste",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And destroyed,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He has gone up to the temple and Dibon,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To the high places to weep.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab will wail over Nebo and over Medeba;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "On all their heads will be baldness,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And every beard cut off.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In their streets they will clothe themselves with sackcloth;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "On the tops of their houses",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And in their streets",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone will wail, weeping bitterly.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Heshbon and Elealeh will cry out,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Their voice shall be heard as far as Jahaz;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the armed soldiers of Moab will cry out;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "His life will be burdensome to him.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“My heart will cry out for Moab;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His fugitives shall flee to Zoar,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a three-year-old heifer.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For by the Ascent of Luhith",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They will go up with weeping;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For in the way of Horonaim",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They will raise up a cry of destruction,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For the waters of Nimrim will be desolate,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For the green grass has withered away;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The grass fails, there is nothing green.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the abundance they have gained,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And what they have laid up,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They will carry away to the Brook of the Willows.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the cry has gone all around the borders of Moab,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Its wailing to Eglaim",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And its wailing to Beer Elim.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For the waters of Dimon will be full of blood;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I will bring more upon Dimon,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Lions upon him who escapes from Moab,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And on the remnant of the land.”",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

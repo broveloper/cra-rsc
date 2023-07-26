@@ -1,0 +1,400 @@
+{
+  "book_id": "MAL",
+  "book_name": "Malachi",
+  "chapter": 1,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Polluted Offerings to God",
+      "type": "heading"
+    },
+    {
+      "text": "The burden of the word of the Lord to Israel by Malachi.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Israel Beloved of God",
+      "type": "heading"
+    },
+    {
+      "text": "“I have loved you,” says the Lord.",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Yet you say, ‘In what way have You loved us?’",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Was not Esau Jacob’s brother?”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet Jacob I have loved;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But Esau I have hated,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And laid waste his mountains and his heritage",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For the jackals of the wilderness.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Even though Edom has said,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“We have been impoverished,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But we will return and build the desolate places,”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord of hosts:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“They may build, but I will throw down;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They shall be called the Territory of Wickedness,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And the people against whom the Lord will have indignation forever.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your eyes shall see,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall say,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "‘The Lord is magnified beyond the border of Israel.’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Polluted Offerings",
+      "type": "heading"
+    },
+    {
+      "text": "“A son honors his father,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a servant his master.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "If then I am the Father,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is My honor?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And if I am a Master,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is My reverence?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "To you priests who despise My name.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you say, ‘In what way have we despised Your name?’",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“You offer defiled food on My altar,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But say,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘In what way have we defiled You?’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "By saying,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘The table of the Lord is contemptible.’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And when you offer the blind as a sacrifice,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not evil?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And when you offer the lame and sick,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not evil?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Offer it then to your governor!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Would he be pleased with you?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Would he accept you favorably?”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“But now entreat God’s favor,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That He may be gracious to us.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "While this is being done by your hands,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Will He accept you favorably?”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who is there even among you who would shut the doors,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "So that you would not kindle fire on My altar in vain?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I have no pleasure in you,”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Nor will I accept an offering from your hands.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For from the rising of the sun, even to its going down,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My name shall be great among the Gentiles;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In every place incense shall be offered to My name,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And a pure offering;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For My name shall be great among the nations,”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“But you profane it,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In that you say,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "‘The table of the Lord is defiled;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And its fruit, its food, is contemptible.’",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You also say,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Oh, what a weariness!’",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And you sneer at it,”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“And you bring the stolen, the lame, and the sick;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus you bring an offering!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Should I accept this from your hand?”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“But cursed be the deceiver",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has in his flock a male,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And takes a vow,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But sacrifices to the Lord what is blemished—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am a great King,”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“And My name is to be feared among the nations.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

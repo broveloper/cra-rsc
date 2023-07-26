@@ -1,0 +1,475 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 29,
+  "verses": 24,
+  "content": [
+    {
+      "text": "Woe to Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to Ariel, to Ariel, the city where David dwelt!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Add year to year;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let feasts come around.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I will distress Ariel;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "There shall be heaviness and sorrow,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall be to Me as Ariel.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will encamp against you all around,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lay siege against you with a mound,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will raise siegeworks against you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall be brought down,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall speak out of the ground;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your speech shall be low, out of the dust;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your voice shall be like a medium’s, out of the ground;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And your speech shall whisper out of the dust.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Moreover the multitude of your foes",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shall be like fine dust,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the multitude of the terrible ones",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Like chaff that passes away;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, it shall be in an instant, suddenly.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You will be punished by the Lord of hosts",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "With thunder and earthquake and great noise,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "With storm and tempest",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the flame of devouring fire.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The multitude of all the nations who fight against Ariel,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Even all who fight against her and her fortress,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And distress her,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be as a dream of a night vision.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall even be as when a hungry man dreams,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And look—he eats;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But he awakes, and his soul is still empty;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Or as when a thirsty man dreams,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And look—he drinks;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But he awakes, and indeed he is faint,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And his soul still craves:",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "So the multitude of all the nations shall be,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who fight against Mount Zion.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Blindness of Disobedience",
+      "type": "heading"
+    },
+    {
+      "text": "Pause and wonder!",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Blind yourselves and be blind!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They are drunk, but not with wine;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They stagger, but not with intoxicating drink.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has poured out on you",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The spirit of deep sleep,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And has closed your eyes, namely, the prophets;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And He has covered your heads, namely, the seers.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The whole vision has become to you like the words of a book that is sealed, which men deliver to one who is literate, saying, “Read this, please.”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And he says, “I cannot, for it is sealed.”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Then the book is delivered to one who is illiterate, saying, “Read this, please.”",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And he says, “I am not literate.”",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore the Lord said:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“Inasmuch as these people draw near with their mouths",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And honor Me with their lips,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But have removed their hearts far from Me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And their fear toward Me is taught by the commandment of men,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, behold, I will again do a marvelous work",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Among this people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "A marvelous work and a wonder;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For the wisdom of their wise men shall perish,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And the understanding of their prudent men shall be hidden.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to those who seek deep to hide their counsel far from the Lord,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And their works are in the dark;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They say, “Who sees us?” and, “Who knows us?”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely you have things turned around!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall the potter be esteemed as the clay;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For shall the thing made say of him who made it,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“He did not make me”?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Or shall the thing formed say of him who formed it,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“He has no understanding”?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Future Recovery of Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "Is it not yet a very little while",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Till Lebanon shall be turned into a fruitful field,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fruitful field be esteemed as a forest?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day the deaf shall hear the words of the book,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And the eyes of the blind shall see out of obscurity and out of darkness.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The humble also shall increase their joy in the Lord,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the poor among men shall rejoice",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "In the Holy One of Israel.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For the terrible one is brought to nothing,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The scornful one is consumed,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And all who watch for iniquity are cut off—",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Who make a man an offender by a word,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And lay a snare for him who reproves in the gate,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And turn aside the just by empty words.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord, who redeemed Abraham, concerning the house of Jacob:",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "“Jacob shall not now be ashamed,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor shall his face now grow pale;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "But when he sees his children,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The work of My hands, in his midst,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They will hallow My name,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And hallow the Holy One of Jacob,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And fear the God of Israel.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "These also who erred in spirit will come to understanding,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who complained will learn doctrine.”",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

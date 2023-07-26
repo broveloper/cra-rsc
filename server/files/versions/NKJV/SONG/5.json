@@ -1,0 +1,381 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 5,
+  "verses": 16,
+  "content": [
+    {
+      "text": "The Bride Praises the Bridegroom",
+      "type": "heading"
+    },
+    {
+      "text": "The Beloved",
+      "type": "title"
+    },
+    {
+      "text": "I have come to my garden, my sister, my spouse;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have gathered my myrrh with my spice;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I have eaten my honeycomb with my honey;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I have drunk my wine with my milk.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "(To His Friends)",
+      "type": "title"
+    },
+    {
+      "text": "Eat, O friends!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Drink, yes, drink deeply,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O beloved ones!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite’s Troubled Evening",
+      "type": "heading"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "I sleep, but my heart is awake;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "It is the voice of my beloved!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He knocks, saying,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Open for me, my sister, my love,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My dove, my perfect one;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For my head is covered with dew,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My locks with the drops of the night.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I have taken off my robe;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How can I put it on again?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I have washed my feet;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I defile them?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved put his hand",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "By the latch of the door,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And my heart yearned for him.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I arose to open for my beloved,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And my hands dripped with myrrh,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My fingers with liquid myrrh,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "On the handles of the lock.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I opened for my beloved,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But my beloved had turned away and was gone.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart leaped up when he spoke.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I sought him, but I could not find him;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I called him, but he gave me no answer.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The watchmen who went about the city found me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They struck me, they wounded me;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The keepers of the walls",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Took my veil away from me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I charge you, O daughters of Jerusalem,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If you find my beloved,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That you tell him I am lovesick!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Daughters of Jerusalem",
+      "type": "title"
+    },
+    {
+      "text": "What is your beloved",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "More than another beloved,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "O fairest among women?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "What is your beloved",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "More than another beloved,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That you so charge us?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "My beloved is white and ruddy,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Chief among ten thousand.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "His head is like the finest gold;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His locks are wavy,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And black as a raven.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His eyes are like doves",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "By the rivers of waters,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Washed with milk,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And fitly set.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "His cheeks are like a bed of spices,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Banks of scented herbs.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "His lips are lilies,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Dripping liquid myrrh.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "His hands are rods of gold",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Set with beryl.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "His body is carved ivory",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Inlaid with sapphires.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "His legs are pillars of marble",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Set on bases of fine gold.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "His countenance is like Lebanon,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Excellent as the cedars.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "His mouth is most sweet,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, he is altogether lovely.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "This is my beloved,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And this is my friend,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughters of Jerusalem!",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

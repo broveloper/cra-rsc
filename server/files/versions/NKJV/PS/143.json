@@ -1,0 +1,196 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 143,
+  "verses": 12,
+  "content": [
+    {
+      "text": "An Earnest Appeal for Guidance and Deliverance",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear my prayer, O Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Give ear to my supplications!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In Your faithfulness answer me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And in Your righteousness.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not enter into judgment with Your servant,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For in Your sight no one living is righteous.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the enemy has persecuted my soul;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has crushed my life to the ground;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He has made me dwell in darkness,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Like those who have long been dead.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore my spirit is overwhelmed within me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart within me is distressed.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I remember the days of old;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I meditate on all Your works;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I muse on the work of Your hands.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I spread out my hands to You;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul longs for You like a thirsty land. Selah",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Answer me speedily, O Lord;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My spirit fails!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not hide Your face from me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest I be like those who go down into the pit.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Cause me to hear Your lovingkindness in the morning,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For in You do I trust;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Cause me to know the way in which I should walk,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For I lift up my soul to You.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me, O Lord, from my enemies;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In You I take shelter.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me to do Your will,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For You are my God;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your Spirit is good.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Lead me in the land of uprightness.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive me, O Lord, for Your name’s sake!",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For Your righteousness’ sake bring my soul out of trouble.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In Your mercy cut off my enemies,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And destroy all those who afflict my soul;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am Your servant.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

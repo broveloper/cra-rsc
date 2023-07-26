@@ -1,0 +1,451 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 10,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Idols and the Living God",
+      "type": "heading"
+    },
+    {
+      "text": "Hear the word that the Lord speaks to you, O house of Israel.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 2
+    },
+    {
+      "text": "“Learn not the way of the nations,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor be dismayed at the signs of the heavens",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "because the nations are dismayed at them,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for the customs of the peoples are vanity.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A tree from the forest is cut down",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and worked with an axe by the hands of a craftsman.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They decorate it with silver and gold;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they fasten it with hammer and nails",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "so that it cannot move.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Their idols are like scarecrows in a cucumber field,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and they cannot speak;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they have to be carried,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for they cannot walk.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be afraid of them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for they cannot do evil,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "neither is it in them to do good.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "There is none like you, O Lord;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you are great, and your name is great in might.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who would not fear you, O King of the nations?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For this is your due;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for among all the wise ones of the nations",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and in all their kingdoms",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "there is none like you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They are both stupid and foolish;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the instruction of idols is but wood!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Beaten silver is brought from Tarshish,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and gold from Uphaz.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They are the work of the craftsman and of the hands of the goldsmith;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "their clothing is violet and purple;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they are all the work of skilled men.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord is the true God;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he is the living God and the everlasting King.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "At his wrath the earth quakes,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the nations cannot endure his indignation.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus shall you say to them: “The gods who did not make the heavens and the earth shall perish from the earth and from under the heavens.”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "It is he who made the earth by his power,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who established the world by his wisdom,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and by his understanding stretched out the heavens.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "When he utters his voice, there is a tumult of waters in the heavens,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and he makes the mist rise from the ends of the earth.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes lightning for the rain,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and he brings forth the wind from his storehouses.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Every man is stupid and without knowledge;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "every goldsmith is put to shame by his idols,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for his images are false,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and there is no breath in them.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They are worthless, a work of delusion;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "at the time of their punishment they shall perish.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Not like these is he who is the portion of Jacob,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "for he is the one who formed all things,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and Israel is the tribe of his inheritance;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord of hosts is his name.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Gather up your bundle from the ground,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O you who dwell under siege!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord:",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I am slinging out the inhabitants of the land",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "at this time,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will bring distress on them,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "that they may feel it.”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe is me because of my hurt!",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My wound is grievous.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But I said, “Truly this is an affliction,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and I must bear it.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "My tent is destroyed,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and all my cords are broken;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "my children have gone from me,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and they are not;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no one to spread my tent again",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and to set up my curtains.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the shepherds are stupid",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not inquire of the Lord;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore they have not prospered,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and all their flock is scattered.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A voice, a rumor! Behold, it comes!—",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a great commotion out of the north country",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "to make the cities of Judah a desolation,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "a lair of jackals.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I know, O Lord, that the way of man is not in himself,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that it is not in man who walks to direct his steps.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Correct me, O Lord, but in justice;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "not in your anger, lest you bring me to nothing.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Pour out your wrath on the nations that know you not,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and on the peoples that call not on your name,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have devoured Jacob;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "they have devoured him and consumed him,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and have laid waste his habitation.",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

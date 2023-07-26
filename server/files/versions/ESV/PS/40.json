@@ -1,0 +1,321 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 40,
+  "verses": 17,
+  "content": [
+    {
+      "text": "My Help and My Deliverer",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "I waited patiently for the Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he inclined to me and heard my cry.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He drew me up from the pit of destruction,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "out of the miry bog,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and set my feet upon a rock,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "making my steps secure.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He put a new song in my mouth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "a song of praise to our God.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Many will see and fear,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and put their trust in the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man who makes",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord his trust,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who does not turn to the proud,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to those who go astray after a lie!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You have multiplied, O Lord my God,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "your wondrous deeds and your thoughts toward us;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "none can compare with you!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will proclaim and tell of them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "yet they are more than can be told.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In sacrifice and offering you have not delighted,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but you have given me an open ear.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Burnt offering and sin offering",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you have not required.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I said, “Behold, I have come;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "in the scroll of the book it is written of me:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I delight to do your will, O my God;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "your law is within my heart.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I have told the glad news of deliverance",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the great congregation;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, I have not restrained my lips,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as you know, O Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not hidden your deliverance within my heart;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I have spoken of your faithfulness and your salvation;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not concealed your steadfast love and your faithfulness",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "from the great congregation.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As for you, O Lord, you will not restrain",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your mercy from me;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "your steadfast love and your faithfulness will",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "ever preserve me!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For evils have encompassed me",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "beyond number;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "my iniquities have overtaken me,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and I cannot see;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they are more than the hairs of my head;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "my heart fails me.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Be pleased, O Lord, to deliver me!",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Lord, make haste to help me!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let those be put to shame and disappointed altogether",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "who seek to snatch away my life;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "let those be turned back and brought to dishonor",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "who delight in my hurt!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let those be appalled because of their shame",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who say to me, “Aha, Aha!”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But may all who seek you",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "rejoice and be glad in you;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "may those who love your salvation",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "say continually, “Great is the Lord!”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "As for me, I am poor and needy,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "but the Lord takes thought for me.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my help and my deliverer;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "do not delay, O my God!",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

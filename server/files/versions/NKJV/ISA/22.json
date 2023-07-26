@@ -1,0 +1,405 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 22,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Proclamation Against Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "The burden against the Valley of Vision.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "What ails you now, that you have all gone up to the housetops,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You who are full of noise,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A tumultuous city, a joyous city?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Your slain men are not slain with the sword,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor dead in battle.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "All your rulers have fled together;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They are captured by the archers.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "All who are found in you are bound together;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They have fled from afar.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I said, “Look away from me,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will weep bitterly;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not labor to comfort me",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the plundering of the daughter of my people.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is a day of trouble and treading down and perplexity",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "By the Lord God of hosts",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In the Valley of Vision—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Breaking down the walls",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And of crying to the mountain.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Elam bore the quiver",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "With chariots of men and horsemen,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And Kir uncovered the shield.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall come to pass that your choicest valleys",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be full of chariots,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And the horsemen shall set themselves in array at the gate.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He removed the protection of Judah.",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You looked in that day to the armor of the House of the Forest;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You also saw the damage to the city of David,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That it was great;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And you gathered together the waters of the lower pool.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You numbered the houses of Jerusalem,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the houses you broke down",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "To fortify the wall.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You also made a reservoir between the two walls",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For the water of the old pool.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But you did not look to its Maker,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor did you have respect for Him who fashioned it long ago.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And in that day the Lord God of hosts",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Called for weeping and for mourning,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For baldness and for girding with sackcloth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But instead, joy and gladness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Slaying oxen and killing sheep,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Eating meat and drinking wine:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let us eat and drink, for tomorrow we die!”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then it was revealed in my hearing by the Lord of hosts,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Surely for this iniquity there will be no atonement for you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Even to your death,” says the Lord God of hosts.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The Judgment on Shebna",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord God of hosts:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“Go, proceed to this steward,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To Shebna, who is over the house, and say:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "‘What have you here, and whom have you here,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "That you have hewn a sepulcher here,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "As he who hews himself a sepulcher on high,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Who carves a tomb for himself in a rock?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, the Lord will throw you away violently,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "O mighty man,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And will surely seize you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He will surely turn violently and toss you like a ball",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Into a large country;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "There you shall die, and there your glorious chariots",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be the shame of your master’s house.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "So I will drive you out of your office,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And from your position he will pull you down.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Then it shall be in that day,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That I will call My servant Eliakim the son of Hilkiah;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I will clothe him with your robe",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And strengthen him with your belt;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I will commit your responsibility into his hand.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall be a father to the inhabitants of Jerusalem",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the house of Judah.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The key of the house of David",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lay on his shoulder;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "So he shall open, and no one shall shut;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shall shut, and no one shall open.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will fasten him as a peg in a secure place,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And he will become a glorious throne to his father’s house.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "‘They will hang on him all the glory of his father’s house, the offspring and the posterity, all vessels of small quantity, from the cups to all the pitchers. ",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "In that day,’ says the Lord of hosts, ‘the peg that is fastened in the secure place will be removed and be cut down and fall, and the burden that was on it will be cut off; for the Lord has spoken.’ ”",
+      "verse": 25
+    }
+  ]
+}

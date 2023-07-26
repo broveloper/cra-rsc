@@ -1,0 +1,96 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 124,
+  "verses": 8,
+  "content": [
+    {
+      "text": "The Lord the Defense of His People",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents. Of David.",
+      "type": "title"
+    },
+    {
+      "text": "“If it had not been the Lord who was on our side,”",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let Israel now say—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“If it had not been the Lord who was on our side,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When men rose up against us,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they would have swallowed us alive,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "When their wrath was kindled against us;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the waters would have overwhelmed us,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The stream would have gone over our soul;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the swollen waters",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Would have gone over our soul.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who has not given us as prey to their teeth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Our soul has escaped as a bird from the snare of the fowlers;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The snare is broken, and we have escaped.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Our help is in the name of the Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who made heaven and earth.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

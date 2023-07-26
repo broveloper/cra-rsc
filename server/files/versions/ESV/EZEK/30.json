@@ -1,0 +1,349 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 30,
+  "verses": 26,
+  "content": [
+    {
+      "text": "A Lament for Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came to me:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, prophesy, and say, Thus says the Lord God:",
+      "verse": 2
+    },
+    {
+      "text": "“Wail, ‘Alas for the day!’",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    For the day is near,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the day of the Lord is near;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "it will be a day of clouds,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "a time of doom for the nations.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A sword shall come upon Egypt,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and anguish shall be in Cush,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "when the slain fall in Egypt,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and her wealth is carried away,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and her foundations are torn down.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Cush, and Put, and Lud, and all Arabia, and Libya, and the people of the land that is in league, shall fall with them by the sword.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“Thus says the Lord:",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Those who support Egypt shall fall,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and her proud might shall come down;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "from Migdol to Syene",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall fall within her by the sword,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord God.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall be desolated in the midst of desolated countries,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and their cities shall be in the midst of cities that are laid waste.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they will know that I am the Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when I have set fire to Egypt,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and all her helpers are broken.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“On that day messengers shall go out from me in ships to terrify the unsuspecting people of Cush, and anguish shall come upon them on the day of Egypt's doom; for, behold, it comes!",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“Thus says the Lord God:",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "“I will put an end to the wealth of Egypt,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "by the hand of Nebuchadnezzar king of Babylon.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He and his people with him, the most ruthless of nations,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "shall be brought in to destroy the land,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall draw their swords against Egypt",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and fill the land with the slain.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will dry up the Nile",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and will sell the land into the hand of evildoers;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring desolation upon the land and everything in it,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "by the hand of foreigners;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I am the Lord; I have spoken.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord God:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“I will destroy the idols",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and put an end to the images in Memphis;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "there shall no longer be a prince from the land of Egypt;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "so I will put fear in the land of Egypt.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make Pathros a desolation",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and will set fire to Zoan",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and will execute judgments on Thebes.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will pour out my wrath on Pelusium,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the stronghold of Egypt,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and cut off the multitude of Thebes.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will set fire to Egypt;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Pelusium shall be in great agony;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Thebes shall be breached,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and Memphis shall face enemies by day.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The young men of On and of Pi-beseth shall fall by the sword,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the women shall go into captivity.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "At Tehaphnehes the day shall be dark,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "when I break there the yoke bars of Egypt,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and her proud might shall come to an end in her;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "she shall be covered by a cloud,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and her daughters shall go into captivity.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus I will execute judgments on Egypt.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they will know that I am the Lord.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Egypt Shall Fall to Babylon",
+      "type": "heading"
+    },
+    {
+      "text": "In the eleventh year, in the first month, on the seventh day of the month, the word of the Lord came to me:",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, I have broken the arm of Pharaoh king of Egypt, and behold, it has not been bound up, to heal it by binding it with a bandage, so that it may become strong to wield the sword.",
+      "verse": 21
+    },
+    {
+      "text": "Therefore thus says the Lord God: Behold, I am against Pharaoh king of Egypt and will break his arms, both the strong arm and the one that was broken, and I will make the sword fall from his hand.",
+      "verse": 22
+    },
+    {
+      "text": "I will scatter the Egyptians among the nations and disperse them through the countries.",
+      "verse": 23
+    },
+    {
+      "text": "And I will strengthen the arms of the king of Babylon and put my sword in his hand, but I will break the arms of Pharaoh, and he will groan before him like a man mortally wounded.",
+      "verse": 24
+    },
+    {
+      "text": "I will strengthen the arms of the king of Babylon, but the arms of Pharaoh shall fall. Then they shall know that I am the Lord, when I put my sword into the hand of the king of Babylon and he stretches it out against the land of Egypt.",
+      "verse": 25
+    },
+    {
+      "text": "And I will scatter the Egyptians among the nations and disperse them throughout the countries. Then they will know that I am the Lord.”",
+      "verse": 26
+    }
+  ]
+}

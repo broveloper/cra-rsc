@@ -1,0 +1,402 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 24,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Judgment on the Whole Earth",
+      "type": "heading"
+    },
+    {
+      "text": "Behold, the Lord will empty the earth and make it desolate,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he will twist its surface and scatter its inhabitants.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall be, as with the people, so with the priest;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as with the slave, so with his master;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as with the maid, so with her mistress;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as with the buyer, so with the seller;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as with the lender, so with the borrower;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as with the creditor, so with the debtor.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth shall be utterly empty and utterly plundered;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord has spoken this word.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth mourns and withers;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the world languishes and withers;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the highest people of the earth languish.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth lies defiled",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "under its inhabitants;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have transgressed the laws,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "violated the statutes,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "broken the everlasting covenant.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore a curse devours the earth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and its inhabitants suffer for their guilt;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore the inhabitants of the earth are scorched,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and few men are left.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The wine mourns,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the vine languishes,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "all the merry-hearted sigh.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The mirth of the tambourines is stilled,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the noise of the jubilant has ceased,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the mirth of the lyre is stilled.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "No more do they drink wine with singing;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "strong drink is bitter to those who drink it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The wasted city is broken down;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "every house is shut up so that none can enter.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "There is an outcry in the streets for lack of wine;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "all joy has grown dark;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the gladness of the earth is banished.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Desolation is left in the city;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the gates are battered into ruins.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus it shall be in the midst of the earth",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "among the nations,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "as when an olive tree is beaten,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "as at the gleaning when the grape harvest is done.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They lift up their voices, they sing for joy;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "over the majesty of the Lord they shout from the west.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore in the east give glory to the Lord;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "in the coastlands of the sea, give glory to the name of the Lord, the God of Israel.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "From the ends of the earth we hear songs of praise,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "of glory to the Righteous One.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But I say, “I waste away,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I waste away. Woe is me!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the traitors have betrayed,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "with betrayal the traitors have betrayed.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Terror and the pit and the snare",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "are upon you, O inhabitant of the earth!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He who flees at the sound of the terror",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "shall fall into the pit,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and he who climbs out of the pit",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "shall be caught in the snare.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For the windows of heaven are opened,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and the foundations of the earth tremble.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth is utterly broken,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth is split apart,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth is violently shaken.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth staggers like a drunken man;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "it sways like a hut;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "its transgression lies heavy upon it,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and it falls, and will not rise again.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "On that day the Lord will punish",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the host of heaven, in heaven,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and the kings of the earth, on the earth.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be gathered together",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "as prisoners in a pit;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be shut up in a prison,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and after many days they will be punished.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the moon will be confounded",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sun ashamed,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord of hosts reigns",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "on Mount Zion and in Jerusalem,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and his glory will be before his elders.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

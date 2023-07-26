@@ -1,0 +1,846 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 78,
+  "verses": 72,
+  "content": [
+    {
+      "text": "Psalm 78",
+      "type": "heading"
+    },
+    {
+      "text": "A maskil of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "My people, hear my teaching;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "listen to the words of my mouth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will open my mouth with a parable;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will utter hidden things, things from of old—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "things we have heard and known,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "things our ancestors have told us.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "We will not hide them from their descendants;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "we will tell the next generation",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the praiseworthy deeds of the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "his power, and the wonders he has done.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He decreed statutes for Jacob",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and established the law in Israel,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "which he commanded our ancestors",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "to teach their children,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "so the next generation would know them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "even the children yet to be born,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and they in turn would tell their children.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they would put their trust in God",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and would not forget his deeds",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but would keep his commands.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They would not be like their ancestors—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "a stubborn and rebellious generation,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whose hearts were not loyal to God,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whose spirits were not faithful to him.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The men of Ephraim, though armed with bows,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "turned back on the day of battle;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they did not keep God’s covenant",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and refused to live by his law.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They forgot what he had done,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the wonders he had shown them.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He did miracles in the sight of their ancestors",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "in the land of Egypt, in the region of Zoan.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He divided the sea and led them through;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he made the water stand up like a wall.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He guided them with the cloud by day",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and with light from the fire all night.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He split the rocks in the wilderness",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and gave them water as abundant as the seas;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he brought streams out of a rocky crag",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and made water flow down like rivers.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But they continued to sin against him,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "rebelling in the wilderness against the Most High.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They willfully put God to the test",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "by demanding the food they craved.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They spoke against God;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "they said, “Can God really",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "spread a table in the wilderness?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "True, he struck the rock,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and water gushed out,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "streams flowed abundantly,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "but can he also give us bread?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Can he supply meat for his people?”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "When the Lord heard them, he was furious;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "his fire broke out against Jacob,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and his wrath rose against Israel,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for they did not believe in God",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "or trust in his deliverance.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet he gave a command to the skies above",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and opened the doors of the heavens;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "he rained down manna for the people to eat,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "he gave them the grain of heaven.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Human beings ate the bread of angels;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "he sent them all the food they could eat.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He let loose the east wind from the heavens",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and by his power made the south wind blow.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "He rained meat down on them like dust,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "birds like sand on the seashore.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He made them come down inside their camp,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "all around their tents.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "They ate till they were gorged—",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "he had given them what they craved.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "But before they turned from what they craved,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "even while the food was still in their mouths,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "God’s anger rose against them;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "he put to death the sturdiest among them,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "cutting down the young men of Israel.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "In spite of all this, they kept on sinning;",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in spite of his wonders, they did not believe.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "So he ended their days in futility",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and their years in terror.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Whenever God slew them, they would seek him;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "they eagerly turned to him again.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "They remembered that God was their Rock,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "that God Most High was their Redeemer.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "But then they would flatter him with their mouths,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "lying to him with their tongues;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "their hearts were not loyal to him,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "they were not faithful to his covenant.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet he was merciful;",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "he forgave their iniquities",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "and did not destroy them.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Time after time he restrained his anger",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "and did not stir up his full wrath.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "He remembered that they were but flesh,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "a passing breeze that does not return.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "How often they rebelled against him in the wilderness",
+      "verse": 40,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and grieved him in the wasteland!",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "Again and again they put God to the test;",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "they vexed the Holy One of Israel.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "They did not remember his power—",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "the day he redeemed them from the oppressor,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "the day he displayed his signs in Egypt,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "his wonders in the region of Zoan.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "He turned their river into blood;",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "they could not drink from their streams.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "He sent swarms of flies that devoured them,",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "and frogs that devastated them.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "He gave their crops to the grasshopper,",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "their produce to the locust.",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "He destroyed their vines with hail",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "and their sycamore-figs with sleet.",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "He gave over their cattle to the hail,",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "their livestock to bolts of lightning.",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "He unleashed against them his hot anger,",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "his wrath, indignation and hostility—",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "a band of destroying angels.",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "He prepared a path for his anger;",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "he did not spare them from death",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "but gave them over to the plague.",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "He struck down all the firstborn of Egypt,",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "the firstfruits of manhood in the tents of Ham.",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "But he brought his people out like a flock;",
+      "verse": 52,
+      "type": "poetry"
+    },
+    {
+      "text": "he led them like sheep through the wilderness.",
+      "verse": 52,
+      "type": "poetry"
+    },
+    {
+      "text": "He guided them safely, so they were unafraid;",
+      "verse": 53,
+      "type": "poetry"
+    },
+    {
+      "text": "but the sea engulfed their enemies.",
+      "verse": 53,
+      "type": "poetry"
+    },
+    {
+      "text": "And so he brought them to the border of his holy land,",
+      "verse": 54,
+      "type": "poetry"
+    },
+    {
+      "text": "to the hill country his right hand had taken.",
+      "verse": 54,
+      "type": "poetry"
+    },
+    {
+      "text": "He drove out nations before them",
+      "verse": 55,
+      "type": "poetry"
+    },
+    {
+      "text": "and allotted their lands to them as an inheritance;",
+      "verse": 55,
+      "type": "poetry"
+    },
+    {
+      "text": "he settled the tribes of Israel in their homes.",
+      "verse": 55,
+      "type": "poetry"
+    },
+    {
+      "text": "But they put God to the test",
+      "verse": 56,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and rebelled against the Most High;",
+      "verse": 56,
+      "type": "poetry"
+    },
+    {
+      "text": "they did not keep his statutes.",
+      "verse": 56,
+      "type": "poetry"
+    },
+    {
+      "text": "Like their ancestors they were disloyal and faithless,",
+      "verse": 57,
+      "type": "poetry"
+    },
+    {
+      "text": "as unreliable as a faulty bow.",
+      "verse": 57,
+      "type": "poetry"
+    },
+    {
+      "text": "They angered him with their high places;",
+      "verse": 58,
+      "type": "poetry"
+    },
+    {
+      "text": "they aroused his jealousy with their idols.",
+      "verse": 58,
+      "type": "poetry"
+    },
+    {
+      "text": "When God heard them, he was furious;",
+      "verse": 59,
+      "type": "poetry"
+    },
+    {
+      "text": "he rejected Israel completely.",
+      "verse": 59,
+      "type": "poetry"
+    },
+    {
+      "text": "He abandoned the tabernacle of Shiloh,",
+      "verse": 60,
+      "type": "poetry"
+    },
+    {
+      "text": "the tent he had set up among humans.",
+      "verse": 60,
+      "type": "poetry"
+    },
+    {
+      "text": "He sent the ark of his might into captivity,",
+      "verse": 61,
+      "type": "poetry"
+    },
+    {
+      "text": "his splendor into the hands of the enemy.",
+      "verse": 61,
+      "type": "poetry"
+    },
+    {
+      "text": "He gave his people over to the sword;",
+      "verse": 62,
+      "type": "poetry"
+    },
+    {
+      "text": "he was furious with his inheritance.",
+      "verse": 62,
+      "type": "poetry"
+    },
+    {
+      "text": "Fire consumed their young men,",
+      "verse": 63,
+      "type": "poetry"
+    },
+    {
+      "text": "and their young women had no wedding songs;",
+      "verse": 63,
+      "type": "poetry"
+    },
+    {
+      "text": "their priests were put to the sword,",
+      "verse": 64,
+      "type": "poetry"
+    },
+    {
+      "text": "and their widows could not weep.",
+      "verse": 64,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the Lord awoke as from sleep,",
+      "verse": 65,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as a warrior wakes from the stupor of wine.",
+      "verse": 65,
+      "type": "poetry"
+    },
+    {
+      "text": "He beat back his enemies;",
+      "verse": 66,
+      "type": "poetry"
+    },
+    {
+      "text": "he put them to everlasting shame.",
+      "verse": 66,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he rejected the tents of Joseph,",
+      "verse": 67,
+      "type": "poetry"
+    },
+    {
+      "text": "he did not choose the tribe of Ephraim;",
+      "verse": 67,
+      "type": "poetry"
+    },
+    {
+      "text": "but he chose the tribe of Judah,",
+      "verse": 68,
+      "type": "poetry"
+    },
+    {
+      "text": "Mount Zion, which he loved.",
+      "verse": 68,
+      "type": "poetry"
+    },
+    {
+      "text": "He built his sanctuary like the heights,",
+      "verse": 69,
+      "type": "poetry"
+    },
+    {
+      "text": "like the earth that he established forever.",
+      "verse": 69,
+      "type": "poetry"
+    },
+    {
+      "text": "He chose David his servant",
+      "verse": 70,
+      "type": "poetry"
+    },
+    {
+      "text": "and took him from the sheep pens;",
+      "verse": 70,
+      "type": "poetry"
+    },
+    {
+      "text": "from tending the sheep he brought him",
+      "verse": 71,
+      "type": "poetry"
+    },
+    {
+      "text": "to be the shepherd of his people Jacob,",
+      "verse": 71,
+      "type": "poetry"
+    },
+    {
+      "text": "of Israel his inheritance.",
+      "verse": 71,
+      "type": "poetry"
+    },
+    {
+      "text": "And David shepherded them with integrity of heart;",
+      "verse": 72,
+      "type": "poetry"
+    },
+    {
+      "text": "with skillful hands he led them.",
+      "verse": 72,
+      "type": "poetry"
+    }
+  ]
+}

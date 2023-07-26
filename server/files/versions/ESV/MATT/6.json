@@ -1,0 +1,209 @@
+{
+  "book_id": "MATT",
+  "book_name": "Matthew",
+  "chapter": 6,
+  "verses": 34,
+  "content": [
+    {
+      "text": "Giving to the Needy",
+      "type": "heading"
+    },
+    {
+      "text": "“Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Thus, when you give to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may be praised by others. Truly, I say to you, they have received their reward.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "But when you give to the needy, do not let your left hand know what your right hand is doing,",
+      "verse": 3
+    },
+    {
+      "text": "so that your giving may be in secret. And your Father who sees in secret will reward you.",
+      "verse": 4
+    },
+    {
+      "text": "The Lord's Prayer",
+      "type": "heading"
+    },
+    {
+      "text": "“And when you pray, you must not be like the hypocrites. For they love to stand and pray in the synagogues and at the street corners, that they may be seen by others. Truly, I say to you, they have received their reward.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "But when you pray, go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you.",
+      "verse": 6
+    },
+    {
+      "text": "“And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Do not be like them, for your Father knows what you need before you ask him.",
+      "verse": 8
+    },
+    {
+      "text": "Pray then like this:",
+      "verse": 9
+    },
+    {
+      "text": "“Our Father in heaven,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "hallowed be your name.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Your kingdom come,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "your will be done,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "on earth as it is in heaven.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Give us this day our daily bread,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and forgive us our debts,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "as we also have forgiven our debtors.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And lead us not into temptation,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but deliver us from evil.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For if you forgive others their trespasses, your heavenly Father will also forgive you,",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.",
+      "verse": 15
+    },
+    {
+      "text": "Fasting",
+      "type": "heading"
+    },
+    {
+      "text": "“And when you fast, do not look gloomy like the hypocrites, for they disfigure their faces that their fasting may be seen by others. Truly, I say to you, they have received their reward.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "But when you fast, anoint your head and wash your face,",
+      "verse": 17
+    },
+    {
+      "text": "that your fasting may not be seen by others but by your Father who is in secret. And your Father who sees in secret will reward you.",
+      "verse": 18
+    },
+    {
+      "text": "Lay Up Treasures in Heaven",
+      "type": "heading"
+    },
+    {
+      "text": "“Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal,",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal.",
+      "verse": 20
+    },
+    {
+      "text": "For where your treasure is, there your heart will be also.",
+      "verse": 21
+    },
+    {
+      "text": "“The eye is the lamp of the body. So, if your eye is healthy, your whole body will be full of light,",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "but if your eye is bad, your whole body will be full of darkness. If then the light in you is darkness, how great is the darkness!",
+      "verse": 23
+    },
+    {
+      "text": "“No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "Do Not Be Anxious",
+      "type": "heading"
+    },
+    {
+      "text": "“Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?",
+      "verse": 26
+    },
+    {
+      "text": "And which of you by being anxious can add a single hour to his span of life?",
+      "verse": 27
+    },
+    {
+      "text": "And why are you anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin,",
+      "verse": 28
+    },
+    {
+      "text": "yet I tell you, even Solomon in all his glory was not arrayed like one of these.",
+      "verse": 29
+    },
+    {
+      "text": "But if God so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith?",
+      "verse": 30
+    },
+    {
+      "text": "Therefore do not be anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’",
+      "verse": 31
+    },
+    {
+      "text": "For the Gentiles seek after all these things, and your heavenly Father knows that you need them all.",
+      "verse": 32
+    },
+    {
+      "text": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+      "verse": 33
+    },
+    {
+      "text": "“Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.",
+      "verse": 34,
+      "type": "newline"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 1,
+  "verses": 15,
+  "content": [
+    {
+      "text": "The words of Amos, one of the shepherds of Tekoa—the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.",
+      "verse": 1
+    },
+    {
+      "text": "He said:",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "“The Lord roars from Zion",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and thunders from Jerusalem;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the pastures of the shepherds dry up,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the top of Carmel withers.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Israel’s Neighbors",
+      "type": "heading"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“For three sins of Damascus,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because she threshed Gilead",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "with sledges having iron teeth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send fire on the house of Hazael",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume the fortresses of Ben-Hadad.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will break down the gate of Damascus;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy the king who is in the Valley of Aven",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the one who holds the scepter in Beth Eden.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The people of Aram will go into exile to Kir,”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“For three sins of Gaza,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because she took captive whole communities",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and sold them to Edom,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send fire on the walls of Gaza",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume her fortresses.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy the king of Ashdod",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the one who holds the scepter in Ashkelon.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn my hand against Ekron,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "till the last of the Philistines are dead,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Sovereign Lord.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“For three sins of Tyre,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because she sold whole communities of captives to Edom,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "disregarding a treaty of brotherhood,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send fire on the walls of Tyre",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume her fortresses.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“For three sins of Edom,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he pursued his brother with a sword",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and slaughtered the women of the land,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because his anger raged continually",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and his fury flamed unchecked,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will send fire on Teman",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume the fortresses of Bozrah.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“For three sins of Ammon,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "even for four, I will not relent.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because he ripped open the pregnant women of Gilead",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "in order to extend his borders,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will set fire to the walls of Rabbah",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that will consume her fortresses",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "amid war cries on the day of battle,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "amid violent winds on a stormy day.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Her king will go into exile,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he and his officials together,”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

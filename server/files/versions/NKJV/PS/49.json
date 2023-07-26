@@ -1,0 +1,236 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 49,
+  "verses": 20,
+  "content": [
+    {
+      "text": "The Confidence of the Foolish",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of the sons of Korah.",
+      "type": "title"
+    },
+    {
+      "text": "Hear this, all peoples;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Give ear, all inhabitants of the world,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Both low and high,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Rich and poor together.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My mouth shall speak wisdom,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And the meditation of my heart shall give understanding.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will incline my ear to a proverb;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will disclose my dark saying on the harp.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should I fear in the days of evil,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When the iniquity at my heels surrounds me?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who trust in their wealth",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And boast in the multitude of their riches,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "None of them can by any means redeem his brother,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor give to God a ransom for him—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the redemption of their souls is costly,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall cease forever—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That he should continue to live eternally,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And not see the Pit.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For he sees wise men die;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Likewise the fool and the senseless person perish,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And leave their wealth to others.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Their inner thought is that their houses will last forever,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Their dwelling places to all generations;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They call their lands after their own names.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nevertheless man, though in honor, does not remain;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He is like the beasts that perish.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the way of those who are foolish,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And of their posterity who approve their sayings. Selah",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like sheep they are laid in the grave;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Death shall feed on them;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The upright shall have dominion over them in the morning;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And their beauty shall be consumed in the grave, far from their dwelling.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But God will redeem my soul from the power of the grave,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For He shall receive me. Selah",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be afraid when one becomes rich,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When the glory of his house is increased;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For when he dies he shall carry nothing away;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "His glory shall not descend after him.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Though while he lives he blesses himself",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "(For men will praise you when you do well for yourself),",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall go to the generation of his fathers;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall never see light.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "A man who is in honor, yet does not understand,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Is like the beasts that perish.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

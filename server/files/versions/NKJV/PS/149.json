@@ -1,0 +1,112 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 149,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Praise to God for His Salvation and Judgment",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Sing to the Lord a new song,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And His praise in the assembly of saints.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Israel rejoice in their Maker;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let the children of Zion be joyful in their King.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them praise His name with the dance;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them sing praises to Him with the timbrel and harp.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord takes pleasure in His people;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He will beautify the humble with salvation.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the saints be joyful in glory;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let them sing aloud on their beds.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the high praises of God be in their mouth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And a two-edged sword in their hand,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "To execute vengeance on the nations,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And punishments on the peoples;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To bind their kings with chains,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And their nobles with fetters of iron;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "To execute on them the written judgment—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This honor have all His saints.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 9,
+      "type": "poetry newline"
+    }
+  ]
+}

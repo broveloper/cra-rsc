@@ -1,0 +1,546 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 89,
+  "verses": 52,
+  "content": [
+    {
+      "text": "I Will Sing of the Steadfast Love of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Maskil of Ethan the Ezrahite.",
+      "type": "title"
+    },
+    {
+      "text": "I will sing of the steadfast love of the Lord, forever;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with my mouth I will make known your faithfulness to all generations.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For I said, “Steadfast love will be built up forever;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in the heavens you will establish your faithfulness.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You have said, “I have made a covenant with my chosen one;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I have sworn to David my servant:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will establish your offspring forever,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and build your throne for all generations.’” Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the heavens praise your wonders, O Lord,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your faithfulness in the assembly of the holy ones!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For who in the skies can be compared to the Lord?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who among the heavenly beings is like the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a God greatly to be feared in the council of the holy ones,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and awesome above all who are around him?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord God of hosts,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who is mighty as you are, O Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with your faithfulness all around you?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You rule the raging of the sea;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "when its waves rise, you still them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You crushed Rahab like a carcass;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you scattered your enemies with your mighty arm.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The heavens are yours; the earth also is yours;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the world and all that is in it, you have founded them.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The north and the south, you have created them;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Tabor and Hermon joyously praise your name.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You have a mighty arm;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "strong is your hand, high your right hand.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Righteousness and justice are the foundation of your throne;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "steadfast love and faithfulness go before you.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are the people who know the festal shout,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who walk, O Lord, in the light of your face,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who exult in your name all the day",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and in your righteousness are exalted.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For you are the glory of their strength;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "by your favor our horn is exalted.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For our shield belongs to the Lord,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "our king to the Holy One of Israel.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Of old you spoke in a vision to your godly one, and said:",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“I have granted help to one who is mighty;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I have exalted one chosen from the people.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I have found David, my servant;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "with my holy oil I have anointed him,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "so that my hand shall be established with him;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "my arm also shall strengthen him.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The enemy shall not outwit him;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the wicked shall not humble him.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will crush his foes before him",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and strike down those who hate him.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "My faithfulness and my steadfast love shall be with him,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and in my name shall his horn be exalted.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will set his hand on the sea",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and his right hand on the rivers.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall cry to me, ‘You are my Father,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "my God, and the Rock of my salvation.’",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will make him the firstborn,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "the highest of the kings of the earth.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "My steadfast love I will keep for him forever,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and my covenant will stand firm for him.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I will establish his offspring forever",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and his throne as the days of the heavens.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "If his children forsake my law",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not walk according to my rules,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "if they violate my statutes",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not keep my commandments,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "then I will punish their transgression with the rod",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and their iniquity with stripes,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "but I will not remove from him my steadfast love",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "or be false to my faithfulness.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not violate my covenant",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "or alter the word that went forth from my lips.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Once for all I have sworn by my holiness;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not lie to David.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "His offspring shall endure forever,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "his throne as long as the sun before me.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the moon it shall be established forever,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "a faithful witness in the skies.” Selah",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "But now you have cast off and rejected;",
+      "verse": 38,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you are full of wrath against your anointed.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "You have renounced the covenant with your servant;",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "you have defiled his crown in the dust.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "You have breached all his walls;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "you have laid his strongholds in ruins.",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "All who pass by plunder him;",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "he has become the scorn of his neighbors.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "You have exalted the right hand of his foes;",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "you have made all his enemies rejoice.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "You have also turned back the edge of his sword,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "and you have not made him stand in battle.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made his splendor to cease",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "and cast his throne to the ground.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "You have cut short the days of his youth;",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "you have covered him with shame. Selah",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, O Lord? Will you hide yourself forever?",
+      "verse": 46,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How long will your wrath burn like fire?",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember how short my time is!",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "For what vanity you have created all the children of man!",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "What man can live and never see death?",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can deliver his soul from the power of Sheol? Selah",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, where is your steadfast love of old,",
+      "verse": 49,
+      "type": "poetry newline"
+    },
+    {
+      "text": "which by your faithfulness you swore to David?",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember, O Lord, how your servants are mocked,",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "and how I bear in my heart the insults of all the many nations,",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "with which your enemies mock, O Lord,",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "with which they mock the footsteps of your anointed.",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord forever!",
+      "verse": 52,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Amen and Amen.",
+      "verse": 52,
+      "type": "poetry"
+    }
+  ]
+}

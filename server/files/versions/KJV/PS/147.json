@@ -1,0 +1,107 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 147,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.",
+      "verse": 1
+    },
+    {
+      "text": "The Lord doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "He healeth the broken in heart, and bindeth up their wounds.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "He telleth the number of the stars; he calleth them all by their names.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Great is our Lord, and of great power: his understanding is infinite.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord lifteth up the meek: he casteth the wicked down to the ground.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Sing unto the Lord with thanksgiving; sing praise upon the harp unto our God:",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "He giveth to the beast his food, and to the young ravens which cry.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord taketh pleasure in them that fear him, in those that hope in his mercy.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Praise the Lord, O Jerusalem; praise thy God, O Zion.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "He maketh peace in thy borders, and filleth thee with the finest of the wheat.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "He sendeth forth his commandment upon earth: his word runneth very swiftly.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "He giveth snow like wool: he scattereth the hoarfrost like ashes.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "He casteth forth his ice like morsels: who can stand before his cold?",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the Lord.",
+      "verse": 20,
+      "type": "newline"
+    }
+  ]
+}

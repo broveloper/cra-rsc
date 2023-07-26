@@ -1,0 +1,576 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 30,
+  "verses": 33,
+  "content": [
+    {
+      "text": "Woe to the Obstinate Nation",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to the obstinate children,”",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "declares the Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“to those who carry out plans that are not mine,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "forming an alliance, but not by my Spirit,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "heaping sin upon sin;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "who go down to Egypt",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "without consulting me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who look for help to Pharaoh’s protection,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to Egypt’s shade for refuge.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But Pharaoh’s protection will be to your shame,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Egypt’s shade will bring you disgrace.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they have officials in Zoan",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and their envoys have arrived in Hanes,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "everyone will be put to shame",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because of a people useless to them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who bring neither help nor advantage,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "but only shame and disgrace.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A prophecy concerning the animals of the Negev:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Through a land of hardship and distress,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "of lions and lionesses,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "of adders and darting snakes,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the envoys carry their riches on donkeys’ backs,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "their treasures on the humps of camels,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to that unprofitable nation,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "    to Egypt, whose help is utterly useless.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I call her",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Rahab the Do-Nothing.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Go now, write it on a tablet for them,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "inscribe it on a scroll,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "that for the days to come",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "it may be an everlasting witness.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For these are rebellious people, deceitful children,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "children unwilling to listen to the Lord’s instruction.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They say to the seers,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“See no more visions!”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and to the prophets,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Give us no more visions of what is right!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Tell us pleasant things,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "prophesy illusions.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Leave this way,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "get off this path,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and stop confronting us",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "with the Holy One of Israel!”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore this is what the Holy One of Israel says:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“Because you have rejected this message,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "relied on oppression",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and depended on deceit,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "this sin will become for you",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "like a high wall, cracked and bulging,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that collapses suddenly, in an instant.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "It will break in pieces like pottery,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "shattered so mercilessly",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that among its pieces not a fragment will be found",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for taking coals from a hearth",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "or scooping water out of a cistern.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Sovereign Lord, the Holy One of Israel, says:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“In repentance and rest is your salvation,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in quietness and trust is your strength,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "but you would have none of it.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You said, ‘No, we will flee on horses.’",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore you will flee!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You said, ‘We will ride off on swift horses.’",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore your pursuers will be swift!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "A thousand will flee",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "at the threat of one;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "at the threat of five",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you will all flee away,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "till you are left",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "like a flagstaff on a mountaintop,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "like a banner on a hill.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet the Lord longs to be gracious to you;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "therefore he will rise up to show you compassion.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is a God of justice.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are all who wait for him!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "People of Zion, who live in Jerusalem, you will weep no more. How gracious he will be when you cry for help! As soon as he hears, he will answer you.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Although the Lord gives you the bread of adversity and the water of affliction, your teachers will be hidden no more; with your own eyes you will see them.",
+      "verse": 20
+    },
+    {
+      "text": "Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, “This is the way; walk in it.”",
+      "verse": 21
+    },
+    {
+      "text": "Then you will desecrate your idols overlaid with silver and your images covered with gold; you will throw them away like a menstrual cloth and say to them, “Away with you!”",
+      "verse": 22
+    },
+    {
+      "text": "He will also send you rain for the seed you sow in the ground, and the food that comes from the land will be rich and plentiful. In that day your cattle will graze in broad meadows.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "The oxen and donkeys that work the soil will eat fodder and mash, spread out with fork and shovel.",
+      "verse": 24
+    },
+    {
+      "text": "In the day of great slaughter, when the towers fall, streams of water will flow on every high mountain and every lofty hill.",
+      "verse": 25
+    },
+    {
+      "text": "The moon will shine like the sun, and the sunlight will be seven times brighter, like the light of seven full days, when the Lord binds up the bruises of his people and heals the wounds he inflicted.",
+      "verse": 26
+    },
+    {
+      "text": "See, the Name of the Lord comes from afar,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with burning anger and dense clouds of smoke;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "his lips are full of wrath,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and his tongue is a consuming fire.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "His breath is like a rushing torrent,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "rising up to the neck.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He shakes the nations in the sieve of destruction;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "he places in the jaws of the peoples",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "a bit that leads them astray.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And you will sing",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "as on the night you celebrate a holy festival;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "your hearts will rejoice",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "as when people playing pipes go up",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "to the mountain of the Lord,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "to the Rock of Israel.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will cause people to hear his majestic voice",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and will make them see his arm coming down",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "with raging anger and consuming fire,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "with cloudburst, thunderstorm and hail.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord will shatter Assyria;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "with his rod he will strike them down.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Every stroke the Lord lays on them",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "with his punishing club",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "will be to the music of timbrels and harps,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "as he fights them in battle with the blows of his arm.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Topheth has long been prepared;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "it has been made ready for the king.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Its fire pit has been made deep and wide,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "with an abundance of fire and wood;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "the breath of the Lord,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "like a stream of burning sulfur,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "sets it ablaze.",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

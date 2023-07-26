@@ -1,0 +1,366 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 31,
+  "verses": 24,
+  "content": [
+    {
+      "text": "Into Your Hand I Commit My Spirit",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "In you, O Lord, do I take refuge;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let me never be put to shame;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "in your righteousness deliver me!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Incline your ear to me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "rescue me speedily!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Be a rock of refuge for me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a strong fortress to save me!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For you are my rock and my fortress;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and for your name's sake you lead me and guide me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you take me out of the net they have hidden for me,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are my refuge.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Into your hand I commit my spirit;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you have redeemed me, O Lord, faithful God.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I hate those who pay regard to worthless idols,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but I trust in the Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will rejoice and be glad in your steadfast love,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "because you have seen my affliction;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you have known the distress of my soul,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and you have not delivered me into the hand of the enemy;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you have set my feet in a broad place.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Be gracious to me, O Lord, for I am in distress;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my eye is wasted from grief;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "my soul and my body also.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For my life is spent with sorrow,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and my years with sighing;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "my strength fails because of my iniquity,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and my bones waste away.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of all my adversaries I have become a reproach,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "especially to my neighbors,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and an object of dread to my acquaintances;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "those who see me in the street flee from me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I have been forgotten like one who is dead;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I have become like a broken vessel.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For I hear the whispering of many—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "terror on every side!—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "as they scheme together against me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "as they plot to take my life.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But I trust in you, O Lord;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I say, “You are my God.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My times are in your hand;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "rescue me from the hand of my enemies and from my persecutors!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Make your face shine on your servant;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "save me in your steadfast love!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, let me not be put to shame,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for I call upon you;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "let the wicked be put to shame;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "let them go silently to Sheol.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the lying lips be mute,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "which speak insolently against the righteous",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "in pride and contempt.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, how abundant is your goodness,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "which you have stored up for those who fear you",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and worked for those who take refuge in you,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "in the sight of the children of mankind!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "In the cover of your presence you hide them",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "from the plots of men;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "you store them in your shelter",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "from the strife of tongues.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for he has wondrously shown his steadfast love to me",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "when I was in a besieged city.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I had said in my alarm,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am cut off from your sight.”",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "But you heard the voice of my pleas for mercy",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "when I cried to you for help.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Love the Lord, all you his saints!",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord preserves the faithful",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "but abundantly repays the one who acts in pride.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Be strong, and let your heart take courage,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "all you who wait for the Lord!",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

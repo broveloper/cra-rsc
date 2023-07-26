@@ -1,0 +1,241 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 66,
+  "verses": 20,
+  "content": [
+    {
+      "text": "How Awesome Are Your Deeds",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Song. A Psalm.",
+      "type": "title"
+    },
+    {
+      "text": "Shout for joy to God, all the earth;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    sing the glory of his name;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "give to him glorious praise!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Say to God, “How awesome are your deeds!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "So great is your power that your enemies come cringing to you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "All the earth worships you",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and sings praises to you;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they sing praises to your name.” Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Come and see what God has done:",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he is awesome in his deeds toward the children of man.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He turned the sea into dry land;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they passed through the river on foot.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "There did we rejoice in him,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "    who rules by his might forever,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "whose eyes keep watch on the nations—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "let not the rebellious exalt themselves. Selah",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Bless our God, O peoples;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let the sound of his praise be heard,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who has kept our soul among the living",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and has not let our feet slip.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For you, O God, have tested us;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you have tried us as silver is tried.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You brought us into the net;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you laid a crushing burden on our backs;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you let men ride over our heads;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "we went through fire and through water;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "yet you have brought us out to a place of abundance.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will come into your house with burnt offerings;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will perform my vows to you,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that which my lips uttered",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and my mouth promised when I was in trouble.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will offer to you burnt offerings of fattened animals,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "with the smoke of the sacrifice of rams;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make an offering of bulls and goats. Selah",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Come and hear, all you who fear God,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I will tell what he has done for my soul.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I cried to him with my mouth,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and high praise was on my tongue.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "If I had cherished iniquity in my heart,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord would not have listened.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But truly God has listened;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "he has attended to the voice of my prayer.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be God,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because he has not rejected my prayer",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "or removed his steadfast love from me!",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

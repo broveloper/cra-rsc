@@ -1,0 +1,444 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 28,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Proclamation Against the King of Tyre",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came to me again, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, say to the prince of Tyre, ‘Thus says the Lord God:",
+      "verse": 2
+    },
+    {
+      "text": "“Because your heart is lifted up,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And you say, ‘I am a god,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I sit in the seat of gods,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of the seas,’",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you are a man, and not a god,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Though you set your heart as the heart of a god",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "(Behold, you are wiser than Daniel!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no secret that can be hidden from you!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "With your wisdom and your understanding",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You have gained riches for yourself,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And gathered gold and silver into your treasuries;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "By your great wisdom in trade you have increased your riches,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And your heart is lifted up because of your riches),”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Therefore thus says the Lord God:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“Because you have set your heart as the heart of a god,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Behold, therefore, I will bring strangers against you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The most terrible of the nations;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall draw their swords against the beauty of your wisdom,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And defile your splendor.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall throw you down into the Pit,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall die the death of the slain",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of the seas.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Will you still say before him who slays you,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "‘I am a god’?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But you shall be a man, and not a god,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In the hand of him who slays you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall die the death of the uncircumcised",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "By the hand of aliens;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have spoken,” says the Lord God.’ ”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Lamentation for the King of Tyre",
+      "type": "heading"
+    },
+    {
+      "text": "Moreover the word of the Lord came to me, saying, ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, take up a lamentation for the king of Tyre, and say to him, ‘Thus says the Lord God:",
+      "verse": 12
+    },
+    {
+      "text": "“You were the seal of perfection,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Full of wisdom and perfect in beauty.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You were in Eden, the garden of God;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Every precious stone was your covering:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The sardius, topaz, and diamond,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Beryl, onyx, and jasper,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Sapphire, turquoise, and emerald with gold.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The workmanship of your timbrels and pipes",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Was prepared for you on the day you were created.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“You were the anointed cherub who covers;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I established you;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You were on the holy mountain of God;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You walked back and forth in the midst of fiery stones.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You were perfect in your ways from the day you were created,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Till iniquity was found in you.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“By the abundance of your trading",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You became filled with violence within,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And you sinned;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I cast you as a profane thing",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Out of the mountain of God;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And I destroyed you, O covering cherub,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "From the midst of the fiery stones.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Your heart was lifted up because of your beauty;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You corrupted your wisdom for the sake of your splendor;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I cast you to the ground,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I laid you before kings,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "That they might gaze at you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“You defiled your sanctuaries",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "By the multitude of your iniquities,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "By the iniquity of your trading;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I brought fire from your midst;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "It devoured you,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And I turned you to ashes upon the earth",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "In the sight of all who saw you.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "All who knew you among the peoples are astonished at you;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You have become a horror,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall be no more forever.” ’ ”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Proclamation Against Sidon",
+      "type": "heading"
+    },
+    {
+      "text": "Then the word of the Lord came to me, saying, ",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, set your face toward Sidon, and prophesy against her, ",
+      "verse": 21
+    },
+    {
+      "text": "and say, ‘Thus says the Lord God:",
+      "verse": 22
+    },
+    {
+      "text": "“Behold, I am against you, O Sidon;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will be glorified in your midst;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall know that I am the Lord,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "When I execute judgments in her and am hallowed in her.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will send pestilence upon her,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And blood in her streets;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The wounded shall be judged in her midst",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "By the sword against her on every side;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they shall know that I am the Lord.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“And there shall no longer be a pricking brier or a painful thorn for the house of Israel from among all who are around them, who despise them. Then they shall know that I am the Lord God.”",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "Israel’s Future Blessing",
+      "type": "heading"
+    },
+    {
+      "text": "‘Thus says the Lord God: “When I have gathered the house of Israel from the peoples among whom they are scattered, and am hallowed in them in the sight of the Gentiles, then they will dwell in their own land which I gave to My servant Jacob. ",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "And they will dwell safely there, build houses, and plant vineyards; yes, they will dwell securely, when I execute judgments on all those around them who despise them. Then they shall know that I am the Lord their God.” ’ ”",
+      "verse": 26
+    }
+  ]
+}

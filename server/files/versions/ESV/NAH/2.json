@@ -1,0 +1,257 @@
+{
+  "book_id": "NAH",
+  "book_name": "Nahum",
+  "chapter": 2,
+  "verses": 13,
+  "content": [
+    {
+      "text": "The Destruction of Nineveh",
+      "type": "heading"
+    },
+    {
+      "text": "The scatterer has come up against you.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Man the ramparts;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "watch the road;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "dress for battle;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "collect all your strength.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is restoring the majesty of Jacob",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as the majesty of Israel,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for plunderers have plundered them",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and ruined their branches.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The shield of his mighty men is red;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his soldiers are clothed in scarlet.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The chariots come with flashing metal",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "on the day he musters them;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the cypress spears are brandished.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The chariots race madly through the streets;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they rush to and fro through the squares;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they gleam like torches;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they dart like lightning.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He remembers his officers;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they stumble as they go,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they hasten to the wall;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the siege tower is set up.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The river gates are opened;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the palace melts away;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "its mistress is stripped; she is carried off,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "her slave girls lamenting,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "moaning like doves",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and beating their breasts.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nineveh is like a pool",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "whose waters run away.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Halt! Halt!” they cry,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but none turns back.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Plunder the silver,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "plunder the gold!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no end of the treasure",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "or of the wealth of all precious things.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Desolate! Desolation and ruin!",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Hearts melt and knees tremble;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "anguish is in all loins;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "all faces grow pale!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is the lions' den,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the feeding place of the young lions,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "where the lion and lioness went,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "where his cubs were, with none to disturb?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The lion tore enough for his cubs",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and strangled prey for his lionesses;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he filled his caves with prey",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and his dens with torn flesh.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I am against you, declares the Lord of hosts, and I will burn your chariots in smoke, and the sword shall devour your young lions. I will cut off your prey from the earth, and the voice of your messengers shall no longer be heard.",
+      "verse": 13,
+      "type": "newline"
+    }
+  ]
+}

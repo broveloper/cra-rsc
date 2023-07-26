@@ -1,0 +1,86 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 15,
+  "verses": 5,
+  "content": [
+    {
+      "text": "The Character of Those Who May Dwell with the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, who may abide in Your tabernacle?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who may dwell in Your holy hill?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He who walks uprightly,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And works righteousness,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And speaks the truth in his heart;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He who does not backbite with his tongue,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does evil to his neighbor,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does he take up a reproach against his friend;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In whose eyes a vile person is despised,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But he honors those who fear the Lord;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He who swears to his own hurt and does not change;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He who does not put out his money at usury,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does he take a bribe against the innocent.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He who does these things shall never be moved.",
+      "verse": 5,
+      "type": "poetry newline"
+    }
+  ]
+}

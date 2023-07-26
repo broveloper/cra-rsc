@@ -1,0 +1,282 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 29,
+  "verses": 27,
+  "content": [
+    {
+      "text": "Happy Is He Who Keeps the Law",
+      "type": "heading"
+    },
+    {
+      "text": "He who is often rebuked, and hardens his neck,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will suddenly be destroyed, and that without remedy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When the righteous are in authority, the people rejoice;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But when a wicked man rules, the people groan.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever loves wisdom makes his father rejoice,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a companion of harlots wastes his wealth.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The king establishes the land by justice,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who receives bribes overthrows it.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A man who flatters his neighbor",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Spreads a net for his feet.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "By transgression an evil man is snared,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the righteous sings and rejoices.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous considers the cause of the poor,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the wicked does not understand such knowledge.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Scoffers set a city aflame,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But wise men turn away wrath.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "If a wise man contends with a foolish man,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whether the fool rages or laughs, there is no peace.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The bloodthirsty hate the blameless,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the upright seek his well-being.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "A fool vents all his feelings,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a wise man holds them back.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If a ruler pays attention to lies,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All his servants become wicked.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The poor man and the oppressor have this in common:",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord gives light to the eyes of both.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The king who judges the poor with truth,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His throne will be established forever.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The rod and rebuke give wisdom,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a child left to himself brings shame to his mother.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "When the wicked are multiplied, transgression increases;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the righteous will see their fall.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Correct your son, and he will give you rest;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, he will give delight to your soul.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Where there is no revelation, the people cast off restraint;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But happy is he who keeps the law.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "A servant will not be corrected by mere words;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For though he understands, he will not respond.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you see a man hasty in his words?",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "There is more hope for a fool than for him.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He who pampers his servant from childhood",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will have him as a son in the end.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "An angry man stirs up strife,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a furious man abounds in transgression.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A man’s pride will bring him low,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the humble in spirit will retain honor.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever is a partner with a thief hates his own life;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He swears to tell the truth, but reveals nothing.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of man brings a snare,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But whoever trusts in the Lord shall be safe.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Many seek the ruler’s favor,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But justice for man comes from the Lord.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "An unjust man is an abomination to the righteous,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who is upright in the way is an abomination to the wicked.",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

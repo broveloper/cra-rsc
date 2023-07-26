@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 30,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 30",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm. A song. For the dedication of the temple. Of David.",
+      "type": "title"
+    },
+    {
+      "text": "I will exalt you, Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for you lifted me out of the depths",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and did not let my enemies gloat over me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord my God, I called to you for help,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and you healed me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You, Lord, brought me up from the realm of the dead;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you spared me from going down to the pit.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing the praises of the Lord, you his faithful people;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "praise his holy name.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For his anger lasts only a moment,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "but his favor lasts a lifetime;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "weeping may stay for the night,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "but rejoicing comes in the morning.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "When I felt secure, I said,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“I will never be shaken.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, when you favored me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you made my royal mountain stand firm;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but when you hid your face,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I was dismayed.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "To you, Lord, I called;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to the Lord I cried for mercy:",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“What is gained if I am silenced,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "if I go down to the pit?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Will the dust praise you?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Will it proclaim your faithfulness?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear, Lord, and be merciful to me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, be my help.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "You turned my wailing into dancing;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you removed my sackcloth and clothed me with joy,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that my heart may sing your praises and not be silent.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord my God, I will praise you forever.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

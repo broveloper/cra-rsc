@@ -1,0 +1,482 @@
+{
+  "book_id": "LAM",
+  "book_name": "Lamentations",
+  "chapter": 4,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Degradation of Zion",
+      "type": "heading"
+    },
+    {
+      "text": "How the gold has become dim!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How changed the fine gold!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The stones of the sanctuary are scattered",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "At the head of every street.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The precious sons of Zion,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Valuable as fine gold,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "How they are regarded as clay pots,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The work of the hands of the potter!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the jackals present their breasts",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To nurse their young;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But the daughter of my people is cruel,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Like ostriches in the wilderness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The tongue of the infant clings",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To the roof of its mouth for thirst;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The young children ask for bread,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But no one breaks it for them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who ate delicacies",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Are desolate in the streets;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who were brought up in scarlet",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Embrace ash heaps.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The punishment of the iniquity of the daughter of my people",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is greater than the punishment of the sin of Sodom,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Which was overthrown in a moment,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "With no hand to help her!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Her Nazirites were brighter than snow",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And whiter than milk;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They were more ruddy in body than rubies,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Like sapphire in their appearance.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Now their appearance is blacker than soot;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They go unrecognized in the streets;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their skin clings to their bones,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "It has become as dry as wood.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Those slain by the sword are better off",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than those who die of hunger;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For these pine away,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Stricken for lack of the fruits of the field.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The hands of the compassionate women",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Have cooked their own children;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They became food for them",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In the destruction of the daughter of my people.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has fulfilled His fury,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has poured out His fierce anger.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He kindled a fire in Zion,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And it has devoured its foundations.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The kings of the earth,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And all inhabitants of the world,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Would not have believed",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "That the adversary and the enemy",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Could enter the gates of Jerusalem—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the sins of her prophets",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the iniquities of her priests,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Who shed in her midst",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The blood of the just.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They wandered blind in the streets;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They have defiled themselves with blood,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So that no one would touch their garments.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They cried out to them,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Go away, unclean!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Go away, go away,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not touch us!”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "When they fled and wandered,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Those among the nations said,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“They shall no longer dwell here.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The face of the Lord scattered them;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He no longer regards them.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The people do not respect the priests",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor show favor to the elders.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Still our eyes failed us,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Watching vainly for our help;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In our watching we watched",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For a nation that could not save us.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They tracked our steps",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So that we could not walk in our streets.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Our end was near;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Our days were over,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For our end had come.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Our pursuers were swifter",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than the eagles of the heavens.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They pursued us on the mountains",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And lay in wait for us in the wilderness.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The breath of our nostrils, the anointed of the Lord,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Was caught in their pits,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Of whom we said, “Under his shadow",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "We shall live among the nations.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoice and be glad, O daughter of Edom,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You who dwell in the land of Uz!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The cup shall also pass over to you",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall become drunk and make yourself naked.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The punishment of your iniquity is accomplished,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O daughter of Zion;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He will no longer send you into captivity.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He will punish your iniquity,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of Edom;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He will uncover your sins!",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

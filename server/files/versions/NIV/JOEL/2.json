@@ -1,0 +1,714 @@
+{
+  "book_id": "JOEL",
+  "book_name": "Joel",
+  "chapter": 2,
+  "verses": 32,
+  "content": [
+    {
+      "text": "An Army of Locusts",
+      "type": "heading"
+    },
+    {
+      "text": "Blow the trumpet in Zion;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "sound the alarm on my holy hill.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all who live in the land tremble,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the day of the Lord is coming.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "It is close at hand—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "    a day of darkness and gloom,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a day of clouds and blackness.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Like dawn spreading across the mountains",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a large and mighty army comes,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "such as never was in ancient times",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "nor ever will be in ages to come.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Before them fire devours,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "behind them a flame blazes.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Before them the land is like the garden of Eden,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "behind them, a desert waste—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "nothing escapes them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They have the appearance of horses;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they gallop along like cavalry.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With a noise like that of chariots",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they leap over the mountaintops,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like a crackling fire consuming stubble,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like a mighty army drawn up for battle.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "At the sight of them, nations are in anguish;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "every face turns pale.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They charge like warriors;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they scale walls like soldiers.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They all march in line,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "not swerving from their course.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not jostle each other;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "each marches straight ahead.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They plunge through defenses",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "without breaking ranks.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They rush upon the city;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they run along the wall.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They climb into the houses;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "like thieves they enter through the windows.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Before them the earth shakes,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the heavens tremble,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the sun and moon are darkened,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the stars no longer shine.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord thunders",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "at the head of his army;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "his forces are beyond number,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and mighty is the army that obeys his command.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The day of the Lord is great;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "it is dreadful.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can endure it?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Rend Your Heart",
+      "type": "heading"
+    },
+    {
+      "text": "“Even now,” declares the Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“return to me with all your heart,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "with fasting and weeping and mourning.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Rend your heart",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and not your garments.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Return to the Lord your God,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for he is gracious and compassionate,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "slow to anger and abounding in love,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and he relents from sending calamity.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Who knows? He may turn and relent",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and leave behind a blessing—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "grain offerings and drink offerings",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord your God.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Blow the trumpet in Zion,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "declare a holy fast,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "call a sacred assembly.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Gather the people,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "consecrate the assembly;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "bring together the elders,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "gather the children,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "those nursing at the breast.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the bridegroom leave his room",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the bride her chamber.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the priests, who minister before the Lord,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "weep between the portico and the altar.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them say, “Spare your people, Lord.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not make your inheritance an object of scorn,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a byword among the nations.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should they say among the peoples,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Where is their God?’”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord’s Answer",
+      "type": "heading"
+    },
+    {
+      "text": "Then the Lord was jealous for his land",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and took pity on his people.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord replied to them:",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "“I am sending you grain, new wine and olive oil,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "enough to satisfy you fully;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "never again will I make you",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "an object of scorn to the nations.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will drive the northern horde far from you,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "pushing it into a parched and barren land;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "its eastern ranks will drown in the Dead Sea",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and its western ranks in the Mediterranean Sea.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And its stench will go up;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "its smell will rise.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely he has done great things!",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    Do not be afraid, land of Judah;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "be glad and rejoice.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the Lord has done great things!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "    Do not be afraid, you wild animals,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "for the pastures in the wilderness are becoming green.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The trees are bearing their fruit;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the fig tree and the vine yield their riches.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Be glad, people of Zion,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "rejoice in the Lord your God,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "for he has given you the autumn rains",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "because he is faithful.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He sends you abundant showers,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "both autumn and spring rains, as before.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The threshing floors will be filled with grain;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "the vats will overflow with new wine and oil.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will repay you for the years the locusts have eaten—",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the great locust and the young locust,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "the other locusts and the locust swarm—",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "my great army that I sent among you.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "You will have plenty to eat, until you are full,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will praise the name of the Lord your God,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "who has worked wonders for you;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "never again will my people be shamed.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will know that I am in Israel,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "that I am the Lord your God,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and that there is no other;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "never again will my people be shamed.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The Day of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "“And afterward,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will pour out my Spirit on all people.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Your sons and daughters will prophesy,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "your old men will dream dreams,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "your young men will see visions.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Even on my servants, both men and women,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I will pour out my Spirit in those days.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I will show wonders in the heavens",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and on the earth,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "blood and fire and billows of smoke.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun will be turned to darkness",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and the moon to blood",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "before the coming of the great and dreadful day of the Lord.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And everyone who calls",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "on the name of the Lord will be saved;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "for on Mount Zion and in Jerusalem",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "there will be deliverance,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "as the Lord has said,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "even among the survivors",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "whom the Lord calls.",
+      "verse": 32,
+      "type": "poetry"
+    }
+  ]
+}

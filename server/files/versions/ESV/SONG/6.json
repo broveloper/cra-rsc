@@ -1,0 +1,255 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 6,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Others",
+      "type": "title"
+    },
+    {
+      "text": "Where has your beloved gone,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O most beautiful among women?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Where has your beloved turned,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may seek him with you?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Together in the Garden of Love",
+      "type": "heading"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "My beloved has gone down to his garden",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to the beds of spices,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to graze in the gardens",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and to gather lilies.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I am my beloved's and my beloved is mine;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he grazes among the lilies.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Solomon and His Bride Delight in Each Other",
+      "type": "heading"
+    },
+    {
+      "text": "He",
+      "type": "title"
+    },
+    {
+      "text": "You are beautiful as Tirzah, my love,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "lovely as Jerusalem,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "awesome as an army with banners.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn away your eyes from me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for they overwhelm me—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your hair is like a flock of goats",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "leaping down the slopes of Gilead.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your teeth are like a flock of ewes",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that have come up from the washing;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them bear twins;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "not one among them has lost its young.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Your cheeks are like halves of a pomegranate",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "behind your veil.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "There are sixty queens and eighty concubines,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and virgins without number.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My dove, my perfect one, is the only one,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the only one of her mother,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "pure to her who bore her.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The young women saw her and called her blessed;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the queens and concubines also, and they praised her.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who is this who looks down like the dawn,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "beautiful as the moon, bright as the sun,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "awesome as an army with banners?”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "I went down to the nut orchard",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to look at the blossoms of the valley,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "to see whether the vines had budded,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "whether the pomegranates were in bloom.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Before I was aware, my desire set me",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "among the chariots of my kinsman, a prince.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Others",
+      "type": "title"
+    },
+    {
+      "text": " Return, return, O Shulammite,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "return, return, that we may look upon you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He",
+      "type": "title"
+    },
+    {
+      "text": "Why should you look upon the Shulammite,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as upon a dance before two armies?",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 62,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 62",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. For Jeduthun. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Truly my soul finds rest in God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my salvation comes from him.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Truly he is my rock and my salvation;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he is my fortress, I will never be shaken.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will you assault me?",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Would all of you throw me down—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "this leaning wall, this tottering fence?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely they intend to topple me",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "from my lofty place;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they take delight in lies.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With their mouths they bless,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but in their hearts they curse.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, my soul, find rest in God;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my hope comes from him.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Truly he is my rock and my salvation;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he is my fortress, I will not be shaken.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My salvation and my honor depend on God;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he is my mighty rock, my refuge.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Trust in him at all times, you people;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "pour out your hearts to him,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for God is our refuge.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the lowborn are but a breath,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the highborn are but a lie.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "If weighed on a balance, they are nothing;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "together they are only a breath.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not trust in extortion",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "or put vain hope in stolen goods;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "though your riches increase,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "do not set your heart on them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "One thing God has spoken,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "two things I have heard:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Power belongs to you, God,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "    and with you, Lord, is unfailing love”;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and, “You reward everyone",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "according to what they have done.”",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

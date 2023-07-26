@@ -1,0 +1,694 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 23,
+  "verses": 49,
+  "content": [
+    {
+      "text": "Two Harlot Sisters",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came again to me, saying:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, there were two women,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The daughters of one mother.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They committed harlotry in Egypt,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They committed harlotry in their youth;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their breasts were there embraced,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their virgin bosom was there pressed.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their names: Oholah the elder and Oholibah her sister;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They were Mine,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And they bore sons and daughters.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As for their names,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Samaria is Oholah, and Jerusalem is Oholibah.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Older Sister, Samaria",
+      "type": "heading"
+    },
+    {
+      "text": "“Oholah played the harlot even though she was Mine;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And she lusted for her lovers, the neighboring Assyrians,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Who were clothed in purple,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Captains and rulers,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them desirable young men,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Horsemen riding on horses.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus she committed her harlotry with them,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them choice men of Assyria;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And with all for whom she lusted,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "With all their idols, she defiled herself.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "She has never given up her harlotry brought from Egypt,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For in her youth they had lain with her,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Pressed her virgin bosom,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And poured out their immorality upon her.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I have delivered her",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Into the hand of her lovers,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Into the hand of the Assyrians,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For whom she lusted.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They uncovered her nakedness,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Took away her sons and daughters,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And slew her with the sword;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "She became a byword among women,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For they had executed judgment on her.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Younger Sister, Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "“Now although her sister Oholibah saw this, she became more corrupt in her lust than she, and in her harlotry more corrupt than her sister’s harlotry.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“She lusted for the neighboring Assyrians,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Captains and rulers,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Clothed most gorgeously,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Horsemen riding on horses,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them desirable young men.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I saw that she was defiled;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Both took the same way.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But she increased her harlotry;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "She looked at men portrayed on the wall,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Images of Chaldeans portrayed in vermilion,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Girded with belts around their waists,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Flowing turbans on their heads,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them looking like captains,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "In the manner of the Babylonians of Chaldea,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The land of their nativity.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "As soon as her eyes saw them,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "She lusted for them",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And sent messengers to them in Chaldea.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Then the Babylonians came to her, into the bed of love,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And they defiled her with their immorality;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "So she was defiled by them, and alienated herself from them.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "She revealed her harlotry and uncovered her nakedness.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I alienated Myself from her,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As I had alienated Myself from her sister.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet she multiplied her harlotry",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In calling to remembrance the days of her youth,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "When she had played the harlot in the land of Egypt.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For she lusted for her paramours,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose flesh is like the flesh of donkeys,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And whose issue is like the issue of horses.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus you called to remembrance the lewdness of your youth,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "When the Egyptians pressed your bosom",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of your youthful breasts.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "“Therefore, Oholibah, thus says the Lord God:",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "‘Behold, I will stir up your lovers against you,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From whom you have alienated yourself,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will bring them against you from every side:",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The Babylonians,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "All the Chaldeans,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Pekod, Shoa, Koa,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "All the Assyrians with them,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them desirable young men,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Governors and rulers,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Captains and men of renown,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them riding on horses.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall come against you",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "With chariots, wagons, and war-horses,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "With a horde of people.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall array against you",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Buckler, shield, and helmet all around.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will delegate judgment to them,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And they shall judge you according to their judgments.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will set My jealousy against you,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall deal furiously with you;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall remove your nose and your ears,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And your remnant shall fall by the sword;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall take your sons and your daughters,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And your remnant shall be devoured by fire.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall also strip you of your clothes",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And take away your beautiful jewelry.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Thus I will make you cease your lewdness and your harlotry",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Brought from the land of Egypt,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "So that you will not lift your eyes to them,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor remember Egypt anymore.’",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“For thus says the Lord God: ‘Surely I will deliver you into the hand of those you hate, into the hand of those from whom you alienated yourself. ",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "They will deal hatefully with you, take away all you have worked for, and leave you naked and bare. The nakedness of your harlotry shall be uncovered, both your lewdness and your harlotry. ",
+      "verse": 29
+    },
+    {
+      "text": "I will do these things to you because you have gone as a harlot after the Gentiles, because you have become defiled by their idols. ",
+      "verse": 30
+    },
+    {
+      "text": "You have walked in the way of your sister; therefore I will put her cup in your hand.’",
+      "verse": 31
+    },
+    {
+      "text": "“Thus says the Lord God:",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "‘You shall drink of your sister’s cup,",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The deep and wide one;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall be laughed to scorn",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And held in derision;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "It contains much.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "You will be filled with drunkenness and sorrow,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "The cup of horror and desolation,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "The cup of your sister Samaria.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall drink and drain it,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall break its shards,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And tear at your own breasts;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have spoken,’",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore thus says the Lord God:",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "‘Because you have forgotten Me and cast Me behind your back,",
+      "verse": 35,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore you shall bear the penalty",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Of your lewdness and your harlotry.’ ”",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Both Sisters Judged",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord also said to me: “Son of man, will you judge Oholah and Oholibah? Then declare to them their abominations. ",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "For they have committed adultery, and blood is on their hands. They have committed adultery with their idols, and even sacrificed their sons whom they bore to Me, passing them through the fire, to devour them. ",
+      "verse": 37
+    },
+    {
+      "text": "Moreover they have done this to Me: They have defiled My sanctuary on the same day and profaned My Sabbaths. ",
+      "verse": 38
+    },
+    {
+      "text": "For after they had slain their children for their idols, on the same day they came into My sanctuary to profane it; and indeed thus they have done in the midst of My house.",
+      "verse": 39
+    },
+    {
+      "text": "“Furthermore you sent for men to come from afar, to whom a messenger was sent; and there they came. And you washed yourself for them, painted your eyes, and adorned yourself with ornaments. ",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "You sat on a stately couch, with a table prepared before it, on which you had set My incense and My oil. ",
+      "verse": 41
+    },
+    {
+      "text": "The sound of a carefree multitude was with her, and Sabeans were brought from the wilderness with men of the common sort, who put bracelets on their wrists and beautiful crowns on their heads. ",
+      "verse": 42
+    },
+    {
+      "text": "Then I said concerning her who had grown old in adulteries, ‘Will they commit harlotry with her now, and she with them?’ ",
+      "verse": 43
+    },
+    {
+      "text": "Yet they went in to her, as men go in to a woman who plays the harlot; thus they went in to Oholah and Oholibah, the lewd women. ",
+      "verse": 44
+    },
+    {
+      "text": "But righteous men will judge them after the manner of adulteresses, and after the manner of women who shed blood, because they are adulteresses, and blood is on their hands.",
+      "verse": 45
+    },
+    {
+      "text": "“For thus says the Lord God: ‘Bring up an assembly against them, give them up to trouble and plunder. ",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "The assembly shall stone them with stones and execute them with their swords; they shall slay their sons and their daughters, and burn their houses with fire. ",
+      "verse": 47
+    },
+    {
+      "text": "Thus I will cause lewdness to cease from the land, that all women may be taught not to practice your lewdness. ",
+      "verse": 48
+    },
+    {
+      "text": "They shall repay you for your lewdness, and you shall pay for your idolatrous sins. Then you shall know that I am the Lord God.’ ”",
+      "verse": 49
+    }
+  ]
+}

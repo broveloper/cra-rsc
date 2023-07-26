@@ -1,0 +1,149 @@
+{
+  "book_id": "ZECH",
+  "book_name": "Zechariah",
+  "chapter": 3,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Vision of the High Priest",
+      "type": "heading"
+    },
+    {
+      "text": "Then he showed me Joshua the high priest standing before the Angel of the Lord, and Satan standing at his right hand to oppose him. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And the Lord said to Satan, “The Lord rebuke you, Satan! The Lord who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?”",
+      "verse": 2
+    },
+    {
+      "text": "Now Joshua was clothed with filthy garments, and was standing before the Angel.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Then He answered and spoke to those who stood before Him, saying, “Take away the filthy garments from him.” And to him He said, “See, I have removed your iniquity from you, and I will clothe you with rich robes.”",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "And I said, “Let them put a clean turban on his head.”",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "So they put a clean turban on his head, and they put the clothes on him. And the Angel of the Lord stood by.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "The Coming Branch",
+      "type": "heading"
+    },
+    {
+      "text": "Then the Angel of the Lord admonished Joshua, saying, ",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“Thus says the Lord of hosts:",
+      "verse": 7
+    },
+    {
+      "text": "‘If you will walk in My ways,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And if you will keep My command,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you shall also judge My house,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And likewise have charge of My courts;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give you places to walk",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Among these who stand here.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Hear, O Joshua, the high priest,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You and your companions who sit before you,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For they are a wondrous sign;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, I am bringing forth My Servant the BRANCH.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, the stone",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That I have laid before Joshua:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon the stone are seven eyes.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I will engrave its inscription,’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "‘And I will remove the iniquity of that land in one day.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day,’ says the Lord of hosts,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Everyone will invite his neighbor",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Under his vine and under his fig tree.’ ”",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 32,
+  "verses": 20,
+  "content": [
+    {
+      "text": "The Kingdom of Righteousness",
+      "type": "heading"
+    },
+    {
+      "text": "See, a king will reign in righteousness",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and rulers will rule with justice.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Each one will be like a shelter from the wind",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and a refuge from the storm,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "like streams of water in the desert",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the shadow of a great rock in a thirsty land.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the eyes of those who see will no longer be closed,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the ears of those who hear will listen.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The fearful heart will know and understand,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the stammering tongue will be fluent and clear.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "No longer will the fool be called noble",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "nor the scoundrel be highly respected.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For fools speak folly,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "their hearts are bent on evil:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They practice ungodliness",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and spread error concerning the Lord;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the hungry they leave empty",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the thirsty they withhold water.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Scoundrels use wicked methods,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they make up evil schemes",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "to destroy the poor with lies,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "even when the plea of the needy is just.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But the noble make noble plans,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and by noble deeds they stand.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Women of Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "You women who are so complacent,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "rise up and listen to me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you daughters who feel secure,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "hear what I have to say!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In little more than a year",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you who feel secure will tremble;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the grape harvest will fail,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the harvest of fruit will not come.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Tremble, you complacent women;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "shudder, you daughters who feel secure!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Strip off your fine clothes",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and wrap yourselves in rags.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Beat your breasts for the pleasant fields,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for the fruitful vines",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and for the land of my people,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "a land overgrown with thorns and briers—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "yes, mourn for all houses of merriment",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and for this city of revelry.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The fortress will be abandoned,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the noisy city deserted;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "citadel and watchtower will become a wasteland forever,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the delight of donkeys, a pasture for flocks,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "till the Spirit is poured on us from on high,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the desert becomes a fertile field,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fertile field seems like a forest.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord’s justice will dwell in the desert,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "his righteousness live in the fertile field.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The fruit of that righteousness will be peace;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "its effect will be quietness and confidence forever.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "My people will live in peaceful dwelling places,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "in secure homes,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "in undisturbed places of rest.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Though hail flattens the forest",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and the city is leveled completely,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "how blessed you will be,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "sowing your seed by every stream,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and letting your cattle and donkeys range free.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

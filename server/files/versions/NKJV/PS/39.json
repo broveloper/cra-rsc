@@ -1,0 +1,206 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 39,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Prayer for Wisdom and Forgiveness",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. To Jeduthun. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "I said, “I will guard my ways,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lest I sin with my tongue;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will restrain my mouth with a muzzle,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "While the wicked are before me.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I was mute with silence,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I held my peace even from good;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And my sorrow was stirred up.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart was hot within me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "While I was musing, the fire burned.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I spoke with my tongue:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Lord, make me to know my end,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And what is the measure of my days,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may know how frail I am.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, You have made my days as handbreadths,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And my age is as nothing before You;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Certainly every man at his best state is but vapor. Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely every man walks about like a shadow;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely they busy themselves in vain;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He heaps up riches,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And does not know who will gather them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“And now, Lord, what do I wait for?",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My hope is in You.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me from all my transgressions;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not make me the reproach of the foolish.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I was mute, I did not open my mouth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because it was You who did it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove Your plague from me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I am consumed by the blow of Your hand.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When with rebukes You correct man for iniquity,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You make his beauty melt away like a moth;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely every man is vapor. Selah",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear my prayer, O Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And give ear to my cry;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be silent at my tears;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am a stranger with You,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A sojourner, as all my fathers were.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove Your gaze from me, that I may regain strength,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Before I go away and am no more.”",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

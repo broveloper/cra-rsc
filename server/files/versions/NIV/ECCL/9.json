@@ -1,0 +1,208 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 9,
+  "verses": 18,
+  "content": [
+    {
+      "text": "A Common Destiny for All",
+      "type": "heading"
+    },
+    {
+      "text": "So I reflected on all this and concluded that the righteous and the wise and what they do are in God’s hands, but no one knows whether love or hate awaits them.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "All share a common destiny—the righteous and the wicked, the good and the bad, the clean and the unclean, those who offer sacrifices and those who do not.",
+      "verse": 2
+    },
+    {
+      "text": "As it is with the good,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so with the sinful;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as it is with those who take oaths,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "so with those who are afraid to take them.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the evil in everything that happens under the sun: The same destiny overtakes all. The hearts of people, moreover, are full of evil and there is madness in their hearts while they live, and afterward they join the dead.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Anyone who is among the living has hope—even a live dog is better off than a dead lion!",
+      "verse": 4
+    },
+    {
+      "text": "For the living know that they will die,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but the dead know nothing;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they have no further reward,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and even their name is forgotten.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Their love, their hate",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and their jealousy have long since vanished;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "never again will they have a part",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in anything that happens under the sun.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Go, eat your food with gladness, and drink your wine with a joyful heart, for God has already approved what you do.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Always be clothed in white, and always anoint your head with oil.",
+      "verse": 8
+    },
+    {
+      "text": "Enjoy life with your wife, whom you love, all the days of this meaningless life that God has given you under the sun—all your meaningless days. For this is your lot in life and in your toilsome labor under the sun.",
+      "verse": 9
+    },
+    {
+      "text": "Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom.",
+      "verse": 10
+    },
+    {
+      "text": "I have seen something else under the sun:",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "The race is not to the swift",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or the battle to the strong,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "nor does food come to the wise",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "or wealth to the brilliant",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "or favor to the learned;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "but time and chance happen to them all.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Moreover, no one knows when their hour will come:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "As fish are caught in a cruel net,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or birds are taken in a snare,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "so people are trapped by evil times",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "that fall unexpectedly upon them.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom Better Than Folly",
+      "type": "heading"
+    },
+    {
+      "text": "I also saw under the sun this example of wisdom that greatly impressed me:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "There was once a small city with only a few people in it. And a powerful king came against it, surrounded it and built huge siege works against it.",
+      "verse": 14
+    },
+    {
+      "text": "Now there lived in that city a man poor but wise, and he saved the city by his wisdom. But nobody remembered that poor man.",
+      "verse": 15
+    },
+    {
+      "text": "So I said, “Wisdom is better than strength.” But the poor man’s wisdom is despised, and his words are no longer heeded.",
+      "verse": 16
+    },
+    {
+      "text": "The quiet words of the wise are more to be heeded",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than the shouts of a ruler of fools.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom is better than weapons of war,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "but one sinner destroys much good.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

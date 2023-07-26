@@ -1,0 +1,337 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 10,
+  "verses": 32,
+  "content": [
+    {
+      "text": "The Proverbs of Solomon",
+      "type": "heading"
+    },
+    {
+      "text": "The proverbs of Solomon.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "A wise son makes a glad father,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but a foolish son is a sorrow to his mother.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Treasures gained by wickedness do not profit,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but righteousness delivers from death.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord does not let the righteous go hungry,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "but he thwarts the craving of the wicked.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A slack hand causes poverty,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but the hand of the diligent makes rich.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He who gathers in summer is a prudent son,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "but he who sleeps in harvest is a son who brings shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessings are on the head of the righteous,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but the mouth of the wicked conceals violence.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The memory of the righteous is a blessing,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but the name of the wicked will rot.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The wise of heart will receive commandments,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but a babbling fool will come to ruin.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever walks in integrity walks securely,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "but he who makes his ways crooked will be found out.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever winks the eye causes trouble,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and a babbling fool will come to ruin.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The mouth of the righteous is a fountain of life,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "but the mouth of the wicked conceals violence.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Hatred stirs up strife,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but love covers all offenses.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "On the lips of him who has understanding, wisdom is found,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but a rod is for the back of him who lacks sense.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The wise lay up knowledge,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but the mouth of a fool brings ruin near.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "A rich man's wealth is his strong city;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the poverty of the poor is their ruin.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The wage of the righteous leads to life,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the gain of the wicked to sin.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever heeds instruction is on the path to life,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "but he who rejects reproof leads others astray.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The one who conceals hatred has lying lips,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and whoever utters slander is a fool.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "When words are many, transgression is not lacking,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "but whoever restrains his lips is prudent.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The tongue of the righteous is choice silver;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the heart of the wicked is of little worth.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The lips of the righteous feed many,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "but fools die for lack of sense.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The blessing of the Lord makes rich,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and he adds no sorrow with it.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Doing wrong is like a joke to a fool,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "but wisdom is pleasure to a man of understanding.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "What the wicked dreads will come upon him,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "but the desire of the righteous will be granted.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "When the tempest passes, the wicked is no more,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "but the righteous is established forever.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Like vinegar to the teeth and smoke to the eyes,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "so is the sluggard to those who send him.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord prolongs life,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "but the years of the wicked will be short.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The hope of the righteous brings joy,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "but the expectation of the wicked will perish.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of the Lord is a stronghold to the blameless,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "but destruction to evildoers.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous will never be removed,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "but the wicked will not dwell in the land.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The mouth of the righteous brings forth wisdom,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "but the perverse tongue will be cut off.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "The lips of the righteous know what is acceptable,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "but the mouth of the wicked, what is perverse.",
+      "verse": 32,
+      "type": "poetry"
+    }
+  ]
+}

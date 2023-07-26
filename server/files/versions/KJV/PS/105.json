@@ -1,0 +1,232 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 105,
+  "verses": 45,
+  "content": [
+    {
+      "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
+      "verse": 1
+    },
+    {
+      "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Glory ye in his holy name: let the heart of them rejoice that seek the Lord.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Seek the Lord, and his strength: seek his face evermore.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "O ye seed of Abraham his servant, ye children of Jacob his chosen.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "He is the Lord our God: his judgments are in all the earth.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "He hath remembered his covenant for ever, the word which he commanded to a thousand generations.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Which covenant he made with Abraham, and his oath unto Isaac;",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And confirmed the same unto Jacob for a law, and to Israel for an everlasting covenant:",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "When they were but a few men in number; yea, very few, and strangers in it.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "When they went from one nation to another, from one kingdom to another people;",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Saying, Touch not mine anointed, and do my prophets no harm.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Moreover he called for a famine upon the land: he brake the whole staff of bread.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "He sent a man before them, even Joseph, who was sold for a servant:",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Whose feet they hurt with fetters: he was laid in iron:",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Until the time that his word came: the word of the Lord tried him.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "The king sent and loosed him; even the ruler of the people, and let him go free.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "He made him lord of his house, and ruler of all his substance:",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "To bind his princes at his pleasure; and teach his senators wisdom.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "Israel also came into Egypt; and Jacob sojourned in the land of Ham.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "And he increased his people greatly; and made them stronger than their enemies.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "He turned their heart to hate his people, to deal subtilly with his servants.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "He sent Moses his servant; and Aaron whom he had chosen.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "They shewed his signs among them, and wonders in the land of Ham.",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "He sent darkness, and made it dark; and they rebelled not against his word.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "He turned their waters into blood, and slew their fish.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "Their land brought forth frogs in abundance, in the chambers of their kings.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "He spake, and there came divers sorts of flies, and lice in all their coasts.",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "He gave them hail for rain, and flaming fire in their land.",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "He smote their vines also and their fig trees; and brake the trees of their coasts.",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "He spake, and the locusts came, and caterpillers, and that without number,",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "And did eat up all the herbs in their land, and devoured the fruit of their ground.",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "He smote also all the firstborn in their land, the chief of all their strength.",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "He brought them forth also with silver and gold: and there was not one feeble person among their tribes.",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "Egypt was glad when they departed: for the fear of them fell upon them.",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "He spread a cloud for a covering; and fire to give light in the night.",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "The people asked, and he brought quails, and satisfied them with the bread of heaven.",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "He opened the rock, and the waters gushed out; they ran in the dry places like a river.",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "For he remembered his holy promise, and Abraham his servant.",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "And he brought forth his people with joy, and his chosen with gladness:",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "And gave them the lands of the heathen: and they inherited the labour of the people;",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "That they might observe his statutes, and keep his laws. Praise ye the Lord.",
+      "verse": 45,
+      "type": "newline"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 24,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Psalm 24",
+      "type": "heading"
+    },
+    {
+      "text": "Of David. A psalm.",
+      "type": "title"
+    },
+    {
+      "text": "The earth is the Lord’s, and everything in it,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the world, and all who live in it;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for he founded it on the seas",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and established it on the waters.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who may ascend the mountain of the Lord?",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who may stand in his holy place?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The one who has clean hands and a pure heart,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who does not trust in an idol",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "or swear by a false god.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They will receive blessing from the Lord",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and vindication from God their Savior.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Such is the generation of those who seek him,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "who seek your face, God of Jacob.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your heads, you gates;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "be lifted up, you ancient doors,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that the King of glory may come in.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is this King of glory?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord strong and mighty,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord mighty in battle.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your heads, you gates;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "lift them up, you ancient doors,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "that the King of glory may come in.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is he, this King of glory?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Almighty—",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he is the King of glory.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

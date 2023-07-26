@@ -1,0 +1,251 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 77,
+  "verses": 20,
+  "content": [
+    {
+      "text": "The Consoling Memory of God’s Redemptive Works",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. To Jeduthun. A Psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "I cried out to God with my voice—",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To God with my voice;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And He gave ear to me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of my trouble I sought the Lord;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My hand was stretched out in the night without ceasing;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul refused to be comforted.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I remembered God, and was troubled;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I complained, and my spirit was overwhelmed. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You hold my eyelids open;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I am so troubled that I cannot speak.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have considered the days of old,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The years of ancient times.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I call to remembrance my song in the night;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I meditate within my heart,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And my spirit makes diligent search.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Will the Lord cast off forever?",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And will He be favorable no more?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Has His mercy ceased forever?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Has His promise failed forevermore?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Has God forgotten to be gracious?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Has He in anger shut up His tender mercies? Selah",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And I said, “This is my anguish;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But I will remember the years of the right hand of the Most High.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I will remember the works of the Lord;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely I will remember Your wonders of old.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also meditate on all Your work,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And talk of Your deeds.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Your way, O God, is in the sanctuary;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is so great a God as our God?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You are the God who does wonders;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You have declared Your strength among the peoples.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You have with Your arm redeemed Your people,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The sons of Jacob and Joseph. Selah",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters saw You, O God;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The waters saw You, they were afraid;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The depths also trembled.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The clouds poured out water;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The skies sent out a sound;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Your arrows also flashed about.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of Your thunder was in the whirlwind;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The lightnings lit up the world;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth trembled and shook.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your way was in the sea,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Your path in the great waters,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your footsteps were not known.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You led Your people like a flock",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "By the hand of Moses and Aaron.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

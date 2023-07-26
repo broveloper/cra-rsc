@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 67,
+  "verses": 7,
+  "content": [
+    {
+      "text": "An Invocation and a Doxology",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. On stringed instruments. A Psalm. A Song.",
+      "type": "title"
+    },
+    {
+      "text": "God be merciful to us and bless us,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And cause His face to shine upon us, Selah",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "That Your way may be known on earth,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Your salvation among all nations.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the peoples praise You, O God;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let all the peoples praise You.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, let the nations be glad and sing for joy!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For You shall judge the people righteously,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And govern the nations on earth. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the peoples praise You, O God;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let all the peoples praise You.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the earth shall yield her increase;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "God, our own God, shall bless us.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "God shall bless us,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And all the ends of the earth shall fear Him.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

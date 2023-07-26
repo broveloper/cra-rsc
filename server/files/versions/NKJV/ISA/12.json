@@ -1,0 +1,107 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 12,
+  "verses": 6,
+  "content": [
+    {
+      "text": "A Hymn of Praise",
+      "type": "heading"
+    },
+    {
+      "text": "And in that day you will say:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“O Lord, I will praise You;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Though You were angry with me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your anger is turned away, and You comfort me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, God is my salvation,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will trust and not be afraid;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "‘For Yah, the Lord, is my strength and song;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He also has become my salvation.’ ”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore with joy you will draw water",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From the wells of salvation.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And in that day you will say:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“Praise the Lord, call upon His name;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Declare His deeds among the peoples,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Make mention that His name is exalted.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For He has done excellent things;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "This is known in all the earth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Cry out and shout, O inhabitant of Zion,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For great is the Holy One of Israel in your midst!”",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

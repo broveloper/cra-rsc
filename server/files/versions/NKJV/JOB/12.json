@@ -1,0 +1,272 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 12,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Job Answers His Critics",
+      "type": "heading"
+    },
+    {
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“No doubt you are the people,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And wisdom will die with you!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But I have understanding as well as you;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I am not inferior to you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, who does not know such things as these?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am one mocked by his friends,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who called on God, and He answered him,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The just and blameless who is ridiculed.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A lamp is despised in the thought of one who is at ease;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "It is made ready for those whose feet slip.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The tents of robbers prosper,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who provoke God are secure—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In what God provides by His hand.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“But now ask the beasts, and they will teach you;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the birds of the air, and they will tell you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Or speak to the earth, and it will teach you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fish of the sea will explain to you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who among all these does not know",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That the hand of the Lord has done this,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In whose hand is the life of every living thing,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the breath of all mankind?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Does not the ear test words",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the mouth taste its food?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom is with aged men,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And with length of days, understanding.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“With Him are wisdom and strength,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has counsel and understanding.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "If He breaks a thing down, it cannot be rebuilt;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If He imprisons a man, there can be no release.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If He withholds the waters, they dry up;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "If He sends them out, they overwhelm the earth.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "With Him are strength and prudence.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The deceived and the deceiver are His.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He leads counselors away plundered,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And makes fools of the judges.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He loosens the bonds of kings,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And binds their waist with a belt.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He leads princes away plundered,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And overthrows the mighty.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He deprives the trusted ones of speech,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And takes away the discernment of the elders.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He pours contempt on princes,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And disarms the mighty.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He uncovers deep things out of darkness,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And brings the shadow of death to light.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes nations great, and destroys them;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He enlarges nations, and guides them.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "He takes away the understanding of the chiefs of the people of the earth,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And makes them wander in a pathless wilderness.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "They grope in the dark without light,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And He makes them stagger like a drunken man.",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

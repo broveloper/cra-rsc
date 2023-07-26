@@ -1,0 +1,246 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 59,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Deliver Me from My Enemies",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: according to Do Not Destroy. A Miktam of David, when Saul sent men to watch his house in order to kill him.",
+      "type": "title"
+    },
+    {
+      "text": "Deliver me from my enemies, O my God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "protect me from those who rise up against me;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "deliver me from those who work evil,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and save me from bloodthirsty men.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, they lie in wait for my life;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "fierce men stir up strife against me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For no transgression or sin of mine, O Lord,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "    for no fault of mine, they run and make ready.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, come to meet me, and see!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "    You, Lord God of hosts, are God of Israel.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Rouse yourself to punish all the nations;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "spare none of those who treacherously plot evil. Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Each evening they come back,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "howling like dogs",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and prowling about the city.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "There they are, bellowing with their mouths",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "with swords in their lips—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for “Who,” they think, “will hear us?”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, O Lord, laugh at them;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you hold all the nations in derision.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "O my Strength, I will watch for you,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for you, O God, are my fortress.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My God in his steadfast love will meet me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "God will let me look in triumph on my enemies.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Kill them not, lest my people forget;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make them totter by your power and bring them down,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, our shield!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For the sin of their mouths, the words of their lips,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "let them be trapped in their pride.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For the cursing and lies that they utter,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "    consume them in wrath;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "consume them till they are no more,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that they may know that God rules over Jacob",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "to the ends of the earth. Selah",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Each evening they come back,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "howling like dogs",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and prowling about the city.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They wander about for food",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and growl if they do not get their fill.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will sing of your strength;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing aloud of your steadfast love in the morning.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have been to me a fortress",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and a refuge in the day of my distress.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "O my Strength, I will sing praises to you,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for you, O God, are my fortress,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the God who shows me steadfast love.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

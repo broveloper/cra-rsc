@@ -1,0 +1,311 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 7,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Israel Has Rebelled Against God",
+      "type": "heading"
+    },
+    {
+      "text": "“When I would have healed Israel,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Then the iniquity of Ephraim was uncovered,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the wickedness of Samaria.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have committed fraud;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A thief comes in;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A band of robbers takes spoil outside.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not consider in their hearts",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "That I remember all their wickedness;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Now their own deeds have surrounded them;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They are before My face.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They make a king glad with their wickedness,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And princes with their lies.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“They are all adulterers.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Like an oven heated by a baker—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He ceases stirring the fire after kneading the dough,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Until it is leavened.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of our king",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Princes have made him sick, inflamed with wine;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He stretched out his hand with scoffers.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They prepare their heart like an oven,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "While they lie in wait;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Their baker sleeps all night;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In the morning it burns like a flaming fire.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They are all hot, like an oven,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And have devoured their judges;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All their kings have fallen.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "None among them calls upon Me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Ephraim has mixed himself among the peoples;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Ephraim is a cake unturned.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Aliens have devoured his strength,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But he does not know it;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, gray hairs are here and there on him,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet he does not know it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the pride of Israel testifies to his face,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But they do not return to the Lord their God,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor seek Him for all this.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Futile Reliance on the Nations",
+      "type": "heading"
+    },
+    {
+      "text": "“Ephraim also is like a silly dove, without sense—",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They call to Egypt,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They go to Assyria.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Wherever they go, I will spread My net on them;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them down like birds of the air;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will chastise them",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "According to what their congregation has heard.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Woe to them, for they have fled from Me!",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Destruction to them,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they have transgressed against Me!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I redeemed them,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they have spoken lies against Me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They did not cry out to Me with their heart",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "When they wailed upon their beds.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“They assemble together for grain and new wine,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They rebel against Me;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I disciplined and strengthened their arms,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they devise evil against Me;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They return, but not to the Most High;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They are like a treacherous bow.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Their princes shall fall by the sword",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For the cursings of their tongue.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "This shall be their derision in the land of Egypt.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

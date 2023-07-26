@@ -1,0 +1,68 @@
+{
+  "book_id": "1THESS",
+  "book_name": "1 Thessalonians",
+  "chapter": 1,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Greeting",
+      "type": "heading"
+    },
+    {
+      "text": "Paul, Silvanus, and Timothy,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "To the church of the Thessalonians in God the Father and the Lord Jesus Christ:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Grace to you and peace.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "The Thessalonians' Faith and Example",
+      "type": "heading"
+    },
+    {
+      "text": "We give thanks to God always for all of you, constantly mentioning you in our prayers,",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.",
+      "verse": 3
+    },
+    {
+      "text": "For we know, brothers loved by God, that he has chosen you,",
+      "verse": 4
+    },
+    {
+      "text": "because our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of men we proved to be among you for your sake.",
+      "verse": 5
+    },
+    {
+      "text": "And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit,",
+      "verse": 6
+    },
+    {
+      "text": "so that you became an example to all the believers in Macedonia and in Achaia.",
+      "verse": 7
+    },
+    {
+      "text": "For not only has the word of the Lord sounded forth from you in Macedonia and Achaia, but your faith in God has gone forth everywhere, so that we need not say anything.",
+      "verse": 8
+    },
+    {
+      "text": "For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God,",
+      "verse": 9
+    },
+    {
+      "text": "and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come.",
+      "verse": 10
+    }
+  ]
+}

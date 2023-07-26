@@ -1,0 +1,332 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 71,
+  "verses": 24,
+  "content": [
+    {
+      "text": "Forsake Me Not When My Strength Is Spent",
+      "type": "heading"
+    },
+    {
+      "text": "In you, O Lord, do I take refuge;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let me never be put to shame!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In your righteousness deliver me and rescue me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "incline your ear to me, and save me!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Be to me a rock of refuge,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "to which I may continually come;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you have given the command to save me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are my rock and my fortress.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Rescue me, O my God, from the hand of the wicked,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from the grasp of the unjust and cruel man.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For you, O Lord, are my hope,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my trust, O Lord, from my youth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon you I have leaned from before my birth;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you are he who took me from my mother's womb.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My praise is continually of you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I have been as a portent to many,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but you are my strong refuge.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "My mouth is filled with your praise,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and with your glory all the day.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not cast me off in the time of old age;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "forsake me not when my strength is spent.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For my enemies speak concerning me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "those who watch for my life consult together",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and say, “God has forsaken him;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "pursue and seize him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for there is none to deliver him.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, be not far from me;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O my God, make haste to help me!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "May my accusers be put to shame and consumed;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "with scorn and disgrace may they be covered",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who seek my hurt.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will hope continually",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and will praise you yet more and more.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "My mouth will tell of your righteous acts,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "of your deeds of salvation all the day,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for their number is past my knowledge.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "With the mighty deeds of the Lord God I will come;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will remind them of your righteousness, yours alone.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, from my youth you have taught me,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I still proclaim your wondrous deeds.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "So even to old age and gray hairs,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, do not forsake me,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "until I proclaim your might to another generation,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "your power to all those to come.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your righteousness, O God,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "reaches the high heavens.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You who have done great things,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, who is like you?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You who have made me see many troubles and calamities",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "will revive me again;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "from the depths of the earth",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "you will bring me up again.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "You will increase my greatness",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and comfort me again.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also praise you with the harp",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for your faithfulness, O my God;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sing praises to you with the lyre,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "O Holy One of Israel.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "My lips will shout for joy,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "when I sing praises to you;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "my soul also, which you have redeemed.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And my tongue will talk of your righteous help all the day long,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have been put to shame and disappointed",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who sought to do me hurt.",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

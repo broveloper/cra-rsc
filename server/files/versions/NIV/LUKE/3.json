@@ -1,0 +1,341 @@
+{
+  "book_id": "LUKE",
+  "book_name": "Luke",
+  "chapter": 3,
+  "verses": 38,
+  "content": [
+    {
+      "text": "John the Baptist Prepares the Way",
+      "type": "heading"
+    },
+    {
+      "text": "In the fifteenth year of the reign of Tiberius Caesar—when Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Iturea and Traconitis, and Lysanias tetrarch of Abilene—",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "during the high-priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness.",
+      "verse": 2
+    },
+    {
+      "text": "He went into all the country around the Jordan, preaching a baptism of repentance for the forgiveness of sins.",
+      "verse": 3
+    },
+    {
+      "text": "As it is written in the book of the words of Isaiah the prophet:",
+      "verse": 4
+    },
+    {
+      "text": "“A voice of one calling in the wilderness,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "‘Prepare the way for the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "make straight paths for him.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Every valley shall be filled in,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "every mountain and hill made low.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The crooked roads shall become straight,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the rough ways smooth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And all people will see God’s salvation.’”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "John said to the crowds coming out to be baptized by him, “You brood of vipers! Who warned you to flee from the coming wrath?",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Produce fruit in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham.",
+      "verse": 8
+    },
+    {
+      "text": "The ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”",
+      "verse": 9
+    },
+    {
+      "text": "“What should we do then?” the crowd asked.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "John answered, “Anyone who has two shirts should share with the one who has none, and anyone who has food should do the same.”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Even tax collectors came to be baptized. “Teacher,” they asked, “what should we do?”",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“Don’t collect any more than you are required to,” he told them.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Then some soldiers asked him, “And what should we do?”",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "He replied, “Don’t extort money and don’t accuse people falsely—be content with your pay.”",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "The people were waiting expectantly and were all wondering in their hearts if John might possibly be the Messiah.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "John answered them all, “I baptize you with water. But one who is more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire.",
+      "verse": 16
+    },
+    {
+      "text": "His winnowing fork is in his hand to clear his threshing floor and to gather the wheat into his barn, but he will burn up the chaff with unquenchable fire.”",
+      "verse": 17
+    },
+    {
+      "text": "And with many other words John exhorted the people and proclaimed the good news to them.",
+      "verse": 18
+    },
+    {
+      "text": "But when John rebuked Herod the tetrarch because of his marriage to Herodias, his brother’s wife, and all the other evil things he had done,",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Herod added this to them all: He locked John up in prison.",
+      "verse": 20
+    },
+    {
+      "text": "The Baptism and Genealogy of Jesus",
+      "type": "heading"
+    },
+    {
+      "text": "When all the people were being baptized, Jesus was baptized too. And as he was praying, heaven was opened",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "and the Holy Spirit descended on him in bodily form like a dove. And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”",
+      "verse": 22
+    },
+    {
+      "text": "Now Jesus himself was about thirty years old when he began his ministry. He was the son, so it was thought, of Joseph,",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "the son of Heli,",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "the son of Matthat,",
+      "verse": 24
+    },
+    {
+      "text": "the son of Levi, the son of Melki,",
+      "verse": 24
+    },
+    {
+      "text": "the son of Jannai, the son of Joseph,",
+      "verse": 24
+    },
+    {
+      "text": "the son of Mattathias, the son of Amos,",
+      "verse": 25
+    },
+    {
+      "text": "the son of Nahum, the son of Esli,",
+      "verse": 25
+    },
+    {
+      "text": "the son of Naggai,",
+      "verse": 25
+    },
+    {
+      "text": "the son of Maath,",
+      "verse": 26
+    },
+    {
+      "text": "the son of Mattathias, the son of Semein,",
+      "verse": 26
+    },
+    {
+      "text": "the son of Josek, the son of Joda,",
+      "verse": 26
+    },
+    {
+      "text": "the son of Joanan, the son of Rhesa,",
+      "verse": 27
+    },
+    {
+      "text": "the son of Zerubbabel, the son of Shealtiel,",
+      "verse": 27
+    },
+    {
+      "text": "the son of Neri,",
+      "verse": 27
+    },
+    {
+      "text": "the son of Melki,",
+      "verse": 28
+    },
+    {
+      "text": "the son of Addi, the son of Cosam,",
+      "verse": 28
+    },
+    {
+      "text": "the son of Elmadam, the son of Er,",
+      "verse": 28
+    },
+    {
+      "text": "the son of Joshua, the son of Eliezer,",
+      "verse": 29
+    },
+    {
+      "text": "the son of Jorim, the son of Matthat,",
+      "verse": 29
+    },
+    {
+      "text": "the son of Levi,",
+      "verse": 29
+    },
+    {
+      "text": "the son of Simeon,",
+      "verse": 30
+    },
+    {
+      "text": "the son of Judah, the son of Joseph,",
+      "verse": 30
+    },
+    {
+      "text": "the son of Jonam, the son of Eliakim,",
+      "verse": 30
+    },
+    {
+      "text": "the son of Melea, the son of Menna,",
+      "verse": 31
+    },
+    {
+      "text": "the son of Mattatha, the son of Nathan,",
+      "verse": 31
+    },
+    {
+      "text": "the son of David,",
+      "verse": 31
+    },
+    {
+      "text": "the son of Jesse,",
+      "verse": 32
+    },
+    {
+      "text": "the son of Obed, the son of Boaz,",
+      "verse": 32
+    },
+    {
+      "text": "the son of Salmon, the son of Nahshon,",
+      "verse": 32
+    },
+    {
+      "text": "the son of Amminadab, the son of Ram,",
+      "verse": 33
+    },
+    {
+      "text": "the son of Hezron, the son of Perez,",
+      "verse": 33
+    },
+    {
+      "text": "the son of Judah,",
+      "verse": 33
+    },
+    {
+      "text": "the son of Jacob,",
+      "verse": 34
+    },
+    {
+      "text": "the son of Isaac, the son of Abraham,",
+      "verse": 34
+    },
+    {
+      "text": "the son of Terah, the son of Nahor,",
+      "verse": 34
+    },
+    {
+      "text": "the son of Serug, the son of Reu,",
+      "verse": 35
+    },
+    {
+      "text": "the son of Peleg, the son of Eber,",
+      "verse": 35
+    },
+    {
+      "text": "the son of Shelah,",
+      "verse": 35
+    },
+    {
+      "text": "the son of Cainan,",
+      "verse": 36
+    },
+    {
+      "text": "the son of Arphaxad, the son of Shem,",
+      "verse": 36
+    },
+    {
+      "text": "the son of Noah, the son of Lamech,",
+      "verse": 36
+    },
+    {
+      "text": "the son of Methuselah, the son of Enoch,",
+      "verse": 37
+    },
+    {
+      "text": "the son of Jared, the son of Mahalalel,",
+      "verse": 37
+    },
+    {
+      "text": "the son of Kenan,",
+      "verse": 37
+    },
+    {
+      "text": "the son of Enosh,",
+      "verse": 38
+    },
+    {
+      "text": "the son of Seth, the son of Adam,",
+      "verse": 38
+    },
+    {
+      "text": "the son of God.",
+      "verse": 38
+    }
+  ]
+}

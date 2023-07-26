@@ -1,0 +1,102 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 80,
+  "verses": 19,
+  "content": [
+    {
+      "text": "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.",
+      "verse": 1
+    },
+    {
+      "text": "Before Ephraim and Benjamin and Manasseh stir up thy strength, and come and save us.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Turn us again, O God, and cause thy face to shine; and we shall be saved.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "O Lord God of hosts, how long wilt thou be angry against the prayer of thy people?",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Thou feedest them with the bread of tears; and givest them tears to drink in great measure.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Thou hast brought a vine out of Egypt: thou hast cast out the heathen, and planted it.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Thou preparedst room before it, and didst cause it to take deep root, and it filled the land.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "The hills were covered with the shadow of it, and the boughs thereof were like the goodly cedars.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "She sent out her boughs unto the sea, and her branches unto the river.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Why hast thou then broken down her hedges, so that all they which pass by the way do pluck her?",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "The boar out of the wood doth waste it, and the wild beast of the field doth devour it.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Return, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "And the vineyard which thy right hand hath planted, and the branch that thou madest strong for thyself.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "It is burned with fire, it is cut down: they perish at the rebuke of thy countenance.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Let thy hand be upon the man of thy right hand, upon the son of man whom thou madest strong for thyself.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "So will not we go back from thee: quicken us, and we will call upon thy name.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Turn us again, O Lord God of hosts, cause thy face to shine; and we shall be saved.",
+      "verse": 19,
+      "type": "newline"
+    }
+  ]
+}

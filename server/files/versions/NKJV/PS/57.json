@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 57,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Prayer for Safety from Enemies",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. Set to “Do Not Destroy.” A Michtam of David when he fled from Saul into the cave.",
+      "type": "title"
+    },
+    {
+      "text": "Be merciful to me, O God, be merciful to me!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For my soul trusts in You;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the shadow of Your wings I will make my refuge,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Until these calamities have passed by.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cry out to God Most High,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To God who performs all things for me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall send from heaven and save me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He reproaches the one who would swallow me up. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "God shall send forth His mercy and His truth.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul is among lions;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I lie among the sons of men",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who are set on fire,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose teeth are spears and arrows,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And their tongue a sharp sword.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O God, above the heavens;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Your glory be above all the earth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They have prepared a net for my steps;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My soul is bowed down;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have dug a pit before me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Into the midst of it they themselves have fallen. Selah",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart is steadfast, O God, my heart is steadfast;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing and give praise.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, my glory!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, lute and harp!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will awaken the dawn.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise You, O Lord, among the peoples;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing to You among the nations.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your mercy reaches unto the heavens,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your truth unto the clouds.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O God, above the heavens;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let Your glory be above all the earth.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

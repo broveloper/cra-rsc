@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 67,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Make Your Face Shine upon Us",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: with stringed instruments. A Psalm. A Song.",
+      "type": "title"
+    },
+    {
+      "text": "May God be gracious to us and bless us",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and make his face to shine upon us, Selah",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "that your way may be known on earth,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "your saving power among all nations.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the peoples praise you, O God;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "let all the peoples praise you!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the nations be glad and sing for joy,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for you judge the peoples with equity",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and guide the nations upon earth. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the peoples praise you, O God;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "let all the peoples praise you!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth has yielded its increase;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "God, our God, shall bless us.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "God shall bless us;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "let all the ends of the earth fear him!",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

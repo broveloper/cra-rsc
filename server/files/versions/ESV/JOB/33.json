@@ -1,0 +1,367 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 33,
+  "verses": 33,
+  "content": [
+    {
+      "text": "Elihu Rebukes Job",
+      "type": "heading"
+    },
+    {
+      "text": "“But now, hear my speech, O Job,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and listen to all my words.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I open my mouth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the tongue in my mouth speaks.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My words declare the uprightness of my heart,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and what my lips know they speak sincerely.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Spirit of God has made me,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the breath of the Almighty gives me life.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Answer me, if you can;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "set your words in order before me; take your stand.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I am toward God as you are;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I too was pinched off from a piece of clay.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, no fear of me need terrify you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "my pressure will not be heavy upon you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely you have spoken in my ears,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I have heard the sound of your words.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You say, ‘I am pure, without transgression;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I am clean, and there is no iniquity in me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, he finds occasions against me,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he counts me as his enemy,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he puts my feet in the stocks",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and watches all my paths.’",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, in this you are not right. I will answer you,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for God is greater than man.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you contend against him,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, ‘He will answer none of man's words’?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For God speaks in one way,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and in two, though man does not perceive it.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "In a dream, in a vision of the night,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "when deep sleep falls on men,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "while they slumber on their beds,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "then he opens the ears of men",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and terrifies them with warnings,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "that he may turn man aside from his deed",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and conceal pride from a man;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "he keeps back his soul from the pit,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "his life from perishing by the sword.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Man is also rebuked with pain on his bed",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and with continual strife in his bones,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "so that his life loathes bread,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and his appetite the choicest food.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "His flesh is so wasted away that it cannot be seen,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and his bones that were not seen stick out.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "His soul draws near the pit,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and his life to those who bring death.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "If there be for him an angel,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "a mediator, one of the thousand,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "to declare to man what is right for him,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and he is merciful to him, and says,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Deliver him from going down into the pit;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I have found a ransom;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "let his flesh become fresh with youth;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "let him return to the days of his youthful vigor’;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "then man prays to God, and he accepts him;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "he sees his face with a shout of joy,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and he restores to man his righteousness.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "    He sings before men and says:",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I sinned and perverted what was right,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and it was not repaid to me.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He has redeemed my soul from going down into the pit,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and my life shall look upon the light.’",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, God does all these things,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "twice, three times, with a man,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "to bring back his soul from the pit,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "that he may be lighted with the light of life.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Pay attention, O Job, listen to me;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "be silent, and I will speak.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "If you have any words, answer me;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "speak, for I desire to justify you.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "If not, listen to me;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "be silent, and I will teach you wisdom.”",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

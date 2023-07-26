@@ -1,0 +1,127 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 139,
+  "verses": 24,
+  "content": [
+    {
+      "text": "O lord, thou hast searched me, and known me.",
+      "verse": 1
+    },
+    {
+      "text": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Thou compassest my path and my lying down, and art acquainted with all my ways.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For there is not a word in my tongue, but, lo, O Lord, thou knowest it altogether.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Thou hast beset me behind and before, and laid thine hand upon me.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Such knowledge is too wonderful for me; it is high, I cannot attain unto it.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "If I take the wings of the morning, and dwell in the uttermost parts of the sea;",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light are both alike to thee.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "For thou hast possessed my reins: thou hast covered me in my mother's womb.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "My substance was not hid from thee, when I was made in secret, and curiously wrought in the lowest parts of the earth.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "If I should count them, they are more in number than the sand: when I awake, I am still with thee.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "For they speak against thee wickedly, and thine enemies take thy name in vain.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Do not I hate them, O Lord, that hate thee? and am not I grieved with those that rise up against thee?",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "I hate them with perfect hatred: I count them mine enemies.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "Search me, O God, and know my heart: try me, and know my thoughts:",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "And see if there be any wicked way in me, and lead me in the way everlasting.",
+      "verse": 24,
+      "type": "newline"
+    }
+  ]
+}

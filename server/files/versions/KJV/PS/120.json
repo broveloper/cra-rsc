@@ -1,0 +1,42 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 120,
+  "verses": 7,
+  "content": [
+    {
+      "text": "In my distress I cried unto the Lord, and he heard me.",
+      "verse": 1
+    },
+    {
+      "text": "Deliver my soul, O Lord, from lying lips, and from a deceitful tongue.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Sharp arrows of the mighty, with coals of juniper.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "My soul hath long dwelt with him that hateth peace.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "I am for peace: but when I speak, they are for war.",
+      "verse": 7,
+      "type": "newline"
+    }
+  ]
+}

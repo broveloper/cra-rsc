@@ -1,0 +1,57 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 75,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.",
+      "verse": 1
+    },
+    {
+      "text": "When I shall receive the congregation I will judge uprightly.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "The earth and all the inhabitants thereof are dissolved: I bear up the pillars of it. Selah.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "I said unto the fools, Deal not foolishly: and to the wicked, Lift not up the horn:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Lift not up your horn on high: speak not with a stiff neck.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "For promotion cometh neither from the east, nor from the west, nor from the south.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "But God is the judge: he putteth down one, and setteth up another.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "For in the hand of the Lord there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "But I will declare for ever; I will sing praises to the God of Jacob.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted.",
+      "verse": 10,
+      "type": "newline"
+    }
+  ]
+}

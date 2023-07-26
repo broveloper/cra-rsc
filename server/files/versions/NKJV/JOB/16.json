@@ -1,0 +1,267 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 16,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Job Reproaches His Pitiless Friends",
+      "type": "heading"
+    },
+    {
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“I have heard many such things;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Miserable comforters are you all!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall words of wind have an end?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Or what provokes you that you answer?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I also could speak as you do,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If your soul were in my soul’s place.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I could heap up words against you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And shake my head at you;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But I would strengthen you with my mouth,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the comfort of my lips would relieve your grief.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Though I speak, my grief is not relieved;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And if I remain silent, how am I eased?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But now He has worn me out;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made desolate all my company.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have shriveled me up,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And it is a witness against me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My leanness rises up against me",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And bears witness to my face.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He tears me in His wrath, and hates me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He gnashes at me with His teeth;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My adversary sharpens His gaze on me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They gape at me with their mouth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They strike me reproachfully on the cheek,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They gather together against me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "God has delivered me to the ungodly,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And turned me over to the hands of the wicked.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I was at ease, but He has shattered me;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He also has taken me by my neck, and shaken me to pieces;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He has set me up for His target,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "His archers surround me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He pierces my heart and does not pity;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He pours out my gall on the ground.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He breaks me with wound upon wound;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He runs at me like a warrior.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have sewn sackcloth over my skin,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And laid my head in the dust.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "My face is flushed from weeping,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And on my eyelids is the shadow of death;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Although no violence is in my hands,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And my prayer is pure.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“O earth, do not cover my blood,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let my cry have no resting place!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely even now my witness is in heaven,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And my evidence is on high.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "My friends scorn me;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes pour out tears to God.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that one might plead for a man with God,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "As a man pleads for his neighbor!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For when a few years are finished,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall go the way of no return.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

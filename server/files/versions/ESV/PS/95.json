@@ -1,0 +1,137 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 95,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Let Us Sing Songs of Praise",
+      "type": "heading"
+    },
+    {
+      "text": "Oh come, let us sing to the Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let us make a joyful noise to the rock of our salvation!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us come into his presence with thanksgiving;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "let us make a joyful noise to him with songs of praise!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is a great God,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and a great King above all gods.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In his hand are the depths of the earth;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the heights of the mountains are his also.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The sea is his, for he made it,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and his hands formed the dry land.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh come, let us worship and bow down;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let us kneel before the Lord, our Maker!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For he is our God,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and we are the people of his pasture,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sheep of his hand.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Today, if you hear his voice,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    do not harden your hearts, as at Meribah,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "as on the day at Massah in the wilderness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when your fathers put me to the test",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and put me to the proof, though they had seen my work.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For forty years I loathed that generation",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and said, “They are a people who go astray in their heart,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and they have not known my ways.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I swore in my wrath,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“They shall not enter my rest.”",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

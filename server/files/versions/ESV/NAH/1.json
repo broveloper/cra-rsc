@@ -1,0 +1,286 @@
+{
+  "book_id": "NAH",
+  "book_name": "Nahum",
+  "chapter": 1,
+  "verses": 15,
+  "content": [
+    {
+      "text": "An oracle concerning Nineveh. The book of the vision of Nahum of Elkosh.",
+      "verse": 1
+    },
+    {
+      "text": "God's Wrath Against Nineveh",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord is a jealous and avenging God;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord is avenging and wrathful;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord takes vengeance on his adversaries",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and keeps wrath for his enemies.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is slow to anger and great in power,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Lord will by no means clear the guilty.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "His way is in whirlwind and storm,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the clouds are the dust of his feet.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He rebukes the sea and makes it dry;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he dries up all the rivers;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Bashan and Carmel wither;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the bloom of Lebanon withers.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains quake before him;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the hills melt;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth heaves before him,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the world and all who dwell in it.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can stand before his indignation?",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who can endure the heat of his anger?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "His wrath is poured out like fire,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the rocks are broken into pieces by him.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is good,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "a stronghold in the day of trouble;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he knows those who take refuge in him.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    But with an overflowing flood",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he will make a complete end of the adversaries,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and will pursue his enemies into darkness.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "What do you plot against the Lord?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He will make a complete end;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "trouble will not rise up a second time.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For they are like entangled thorns,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "like drunkards as they drink;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they are consumed like stubble fully dried.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "From you came one",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who plotted evil against the Lord,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "a worthless counselor.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Though they are at full strength and many,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be cut down and pass away.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I have afflicted you,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will afflict you no more.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And now I will break his yoke from off you",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and will burst your bonds apart.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has given commandment about you:",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“No more shall your name be perpetuated;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "from the house of your gods I will cut off",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the carved image and the metal image.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make your grave, for you are vile.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": " Behold, upon the mountains, the feet of him",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who brings good news,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who publishes peace!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep your feasts, O Judah;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "fulfill your vows,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for never again shall the worthless pass through you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he is utterly cut off.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

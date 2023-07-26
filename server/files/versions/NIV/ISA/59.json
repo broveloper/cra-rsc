@@ -1,0 +1,407 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 59,
+  "verses": 21,
+  "content": [
+    {
+      "text": "Sin, Confession and Redemption",
+      "type": "heading"
+    },
+    {
+      "text": "Surely the arm of the Lord is not too short to save,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor his ear too dull to hear.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "But your iniquities have separated",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "you from your God;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "your sins have hidden his face from you,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "so that he will not hear.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For your hands are stained with blood,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "your fingers with guilt.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your lips have spoken falsely,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and your tongue mutters wicked things.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "No one calls for justice;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "no one pleads a case with integrity.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They rely on empty arguments, they utter lies;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they conceive trouble and give birth to evil.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They hatch the eggs of vipers",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and spin a spider’s web.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever eats their eggs will die,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and when one is broken, an adder is hatched.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Their cobwebs are useless for clothing;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they cannot cover themselves with what they make.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Their deeds are evil deeds,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and acts of violence are in their hands.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Their feet rush into sin;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they are swift to shed innocent blood.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They pursue evil schemes;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "acts of violence mark their ways.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The way of peace they do not know;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no justice in their paths.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They have turned them into crooked roads;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "no one who walks along them will know peace.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "So justice is far from us,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and righteousness does not reach us.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "We look for light, but all is darkness;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for brightness, but we walk in deep shadows.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the blind we grope along the wall,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "feeling our way like people without eyes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "At midday we stumble as if it were twilight;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "among the strong, we are like the dead.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "We all growl like bears;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "we moan mournfully like doves.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "We look for justice, but find none;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for deliverance, but it is far away.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For our offenses are many in your sight,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and our sins testify against us.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Our offenses are ever with us,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and we acknowledge our iniquities:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "rebellion and treachery against the Lord,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "turning our backs on our God,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "inciting revolt and oppression,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "uttering lies our hearts have conceived.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So justice is driven back,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and righteousness stands at a distance;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "truth has stumbled in the streets,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "honesty cannot enter.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Truth is nowhere to be found,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and whoever shuns evil becomes a prey.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord looked and was displeased",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that there was no justice.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He saw that there was no one,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "he was appalled that there was no one to intervene;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "so his own arm achieved salvation for him,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and his own righteousness sustained him.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He put on righteousness as his breastplate,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the helmet of salvation on his head;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "he put on the garments of vengeance",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and wrapped himself in zeal as in a cloak.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "According to what they have done,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "so will he repay",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "wrath to his enemies",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and retribution to his foes;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "he will repay the islands their due.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "From the west, people will fear the name of the Lord,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the rising of the sun, they will revere his glory.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For he will come like a pent-up flood",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "that the breath of the Lord drives along.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Redeemer will come to Zion,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to those in Jacob who repent of their sins,”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“As for me, this is my covenant with them,” says the Lord. “My Spirit, who is on you, will not depart from you, and my words that I have put in your mouth will always be on your lips, on the lips of your children and on the lips of their descendants—from this time on and forever,” says the Lord.",
+      "verse": 21,
+      "type": "newline"
+    }
+  ]
+}

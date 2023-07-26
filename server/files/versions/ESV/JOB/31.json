@@ -1,0 +1,432 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 31,
+  "verses": 40,
+  "content": [
+    {
+      "text": "Job's Final Appeal",
+      "type": "heading"
+    },
+    {
+      "text": "“I have made a covenant with my eyes;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "how then could I gaze at a virgin?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "What would be my portion from God above",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and my heritage from the Almighty on high?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Is not calamity for the unrighteous,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and disaster for the workers of iniquity?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Does not he see my ways",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and number all my steps?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have walked with falsehood",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my foot has hastened to deceit;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "(Let me be weighed in a just balance,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and let God know my integrity!)",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "if my step has turned aside from the way",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and my heart has gone after my eyes,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and if any spot has stuck to my hands,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "then let me sow, and another eat,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and let what grows for me be rooted out.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“If my heart has been enticed toward a woman,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I have lain in wait at my neighbor's door,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "then let my wife grind for another,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and let others bow down on her.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For that would be a heinous crime;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that would be an iniquity to be punished by the judges;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for that would be a fire that consumes as far as Abaddon,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and it would burn to the root all my increase.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have rejected the cause of my manservant or my maidservant,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when they brought a complaint against me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "what then shall I do when God rises up?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "When he makes inquiry, what shall I answer him?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Did not he who made me in the womb make him?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And did not one fashion us in the womb?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have withheld anything that the poor desired,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or have caused the eyes of the widow to fail,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "or have eaten my morsel alone,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fatherless has not eaten of it",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "(for from my youth the fatherless grew up with me as with a father,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and from my mother's womb I guided the widow),",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have seen anyone perish for lack of clothing,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "or the needy without covering,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "if his body has not blessed me,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and if he was not warmed with the fleece of my sheep,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have raised my hand against the fatherless,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "because I saw my help in the gate,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "then let my shoulder blade fall from my shoulder,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and let my arm be broken from its socket.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For I was in terror of calamity from God,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and I could not have faced his majesty.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have made gold my trust",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or called fine gold my confidence,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have rejoiced because my wealth was abundant",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "or because my hand had found much,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have looked at the sun when it shone,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "or the moon moving in splendor,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and my heart has been secretly enticed,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and my mouth has kissed my hand,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "this also would be an iniquity to be punished by the judges,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "for I would have been false to God above.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I have rejoiced at the ruin of him who hated me,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or exulted when evil overtook him",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "(I have not let my mouth sin",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "by asking for his life with a curse),",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "if the men of my tent have not said,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Who is there that has not been filled with his meat?’",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "(the sojourner has not lodged in the street;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "I have opened my doors to the traveler),",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have concealed my transgressions as others do",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "by hiding my iniquity in my heart,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "because I stood in great fear of the multitude,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "and the contempt of families terrified me,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "so that I kept silence, and did not go out of doors—",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that I had one to hear me!",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "(Here is my signature! Let the Almighty answer me!)",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that I had the indictment written by my adversary!",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely I would carry it on my shoulder;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "I would bind it on me as a crown;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "I would give him an account of all my steps;",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "like a prince I would approach him.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "“If my land has cried out against me",
+      "verse": 38,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and its furrows have wept together,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have eaten its yield without payment",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "and made its owners breathe their last,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "let thorns grow instead of wheat,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "and foul weeds instead of barley.”",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "The words of Job are ended.",
+      "verse": 40,
+      "type": "newline"
+    }
+  ]
+}

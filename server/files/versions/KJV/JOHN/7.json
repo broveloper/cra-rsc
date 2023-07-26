@@ -1,0 +1,272 @@
+{
+  "book_id": "JOHN",
+  "book_name": "John",
+  "chapter": 7,
+  "verses": 53,
+  "content": [
+    {
+      "text": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.",
+      "verse": 1
+    },
+    {
+      "text": "Now the Jew's feast of tabernacles was at hand.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For neither did his brethren believe in him.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Then Jesus said unto them, My time is not yet come: but your time is alway ready.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Go ye up unto this feast: I go not up yet unto this feast: for my time is not yet full come.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "When he had said these words unto them, he abode still in Galilee.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Jews sought him at the feast, and said, Where is he?",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Howbeit no man spake openly of him for fear of the Jews.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Now about the midst of the feast Jesus went up into the temple, and taught.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "And the Jews marvelled, saying, How knoweth this man letters, having never learned?",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus answered them, and said, My doctrine is not mine, but his that sent me.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "The people answered and said, Thou hast a devil: who goeth about to kill thee?",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Jesus answered and said unto them, I have done one work, and ye all marvel.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "Judge not according to the appearance, but judge righteous judgment.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "But I know him: for I am from him, and he hath sent me.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "Then they sought to take him: but no man laid hands on him, because his hour was not yet come.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me.",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "What manner of saying is this that he said, Ye shall seek me, and shall not find me: and where I am, thither ye cannot come?",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "So there was a division among the people because of him.",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "And some of them would have taken him; but no man laid hands on him.",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "The officers answered, Never man spake like this man.",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "Then answered them the Pharisees, Are ye also deceived?",
+      "verse": 47,
+      "type": "newline"
+    },
+    {
+      "text": "Have any of the rulers or of the Pharisees believed on him?",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "But this people who knoweth not the law are cursed.",
+      "verse": 49,
+      "type": "newline"
+    },
+    {
+      "text": "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)",
+      "verse": 50,
+      "type": "newline"
+    },
+    {
+      "text": "Doth our law judge any man, before it hear him, and know what he doeth?",
+      "verse": 51,
+      "type": "newline"
+    },
+    {
+      "text": "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.",
+      "verse": 52,
+      "type": "newline"
+    },
+    {
+      "text": "And every man went unto his own house.",
+      "verse": 53,
+      "type": "newline"
+    }
+  ]
+}

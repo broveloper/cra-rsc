@@ -1,0 +1,682 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 48,
+  "verses": 47,
+  "content": [
+    {
+      "text": "Judgment on Moab",
+      "type": "heading"
+    },
+    {
+      "text": "Concerning Moab.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Thus says the Lord of hosts, the God of Israel:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Woe to Nebo, for it is laid waste!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Kiriathaim is put to shame, it is taken;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "the fortress is put to shame and broken down;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "    the renown of Moab is no more.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In Heshbon they planned disaster against her:",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Come, let us cut her off from being a nation!’",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You also, O Madmen, shall be brought to silence;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the sword shall pursue you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“A voice! A cry from Horonaim,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "‘Desolation and great destruction!’",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab is destroyed;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "her little ones have made a cry.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For at the ascent of Luhith",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they go up weeping;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for at the descent of Horonaim",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they have heard the distressed cry of destruction.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Flee! Save yourselves!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You will be like a juniper in the desert!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For, because you trusted in your works and your treasures,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you also shall be taken;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and Chemosh shall go into exile",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "with his priests and his officials.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The destroyer shall come upon every city,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and no city shall escape;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the valley shall perish,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the plain shall be destroyed,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "as the Lord has spoken.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Give wings to Moab,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for she would fly away;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "her cities shall become a desolation,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "with no inhabitant in them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Cursed is he who does the work of the Lord with slackness, and cursed is he who keeps back his sword from bloodshed.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "“Moab has been at ease from his youth",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and has settled on his dregs;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he has not been emptied from vessel to vessel,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "nor has he gone into exile;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "so his taste remains in him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and his scent is not changed.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore, behold, the days are coming, declares the Lord, when I shall send to him pourers who will pour him, and empty his vessels and break his jars in pieces.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Then Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Bethel, their confidence.",
+      "verse": 13
+    },
+    {
+      "text": "“How do you say, ‘We are heroes",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and mighty men of war’?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The destroyer of Moab and his cities has come up,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the choicest of his young men have gone down to slaughter,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the King, whose name is the Lord of hosts.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The calamity of Moab is near at hand,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and his affliction hastens swiftly.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Grieve for him, all you who are around him,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and all who know his name;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "say, ‘How the mighty scepter is broken,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the glorious staff.’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come down from your glory,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and sit on the parched ground,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "O inhabitant of Dibon!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For the destroyer of Moab has come up against you;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "he has destroyed your strongholds.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Stand by the way and watch,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "O inhabitant of Aroer!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Ask him who flees and her who escapes;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "say, ‘What has happened?’",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab is put to shame, for it is broken;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "wail and cry!",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Tell it beside the Arnon,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "that Moab is laid waste.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“Judgment has come upon the tableland, upon Holon, and Jahzah, and Mephaath,",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "and Dibon, and Nebo, and Beth-diblathaim,",
+      "verse": 22
+    },
+    {
+      "text": "and Kiriathaim, and Beth-gamul, and Beth-meon,",
+      "verse": 23
+    },
+    {
+      "text": "and Kerioth, and Bozrah, and all the cities of the land of Moab, far and near.",
+      "verse": 24
+    },
+    {
+      "text": "The horn of Moab is cut off, and his arm is broken, declares the Lord.",
+      "verse": 25
+    },
+    {
+      "text": "“Make him drunk, because he magnified himself against the Lord, so that Moab shall wallow in his vomit, and he too shall be held in derision.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "Was not Israel a derision to you? Was he found among thieves, that whenever you spoke of him you wagged your head?",
+      "verse": 27
+    },
+    {
+      "text": "“Leave the cities, and dwell in the rock,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O inhabitants of Moab!",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Be like the dove that nests",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "in the sides of the mouth of a gorge.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "We have heard of the pride of Moab—",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "he is very proud—",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "of his loftiness, his pride, and his arrogance,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and the haughtiness of his heart.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I know his insolence, declares the Lord;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "his boasts are false,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "his deeds are false.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I wail for Moab;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "I cry out for all Moab;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "for the men of Kir-hareseth I mourn.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "More than for Jazer I weep for you,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "O vine of Sibmah!",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Your branches passed over the sea,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "reached to the Sea of Jazer;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "on your summer fruits and your grapes",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "the destroyer has fallen.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Gladness and joy have been taken away",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "from the fruitful land of Moab;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "I have made the wine cease from the winepresses;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "no one treads them with shouts of joy;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "the shouting is not the shout of joy.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "“From the outcry at Heshbon even to Elealeh, as far as Jahaz they utter their voice, from Zoar to Horonaim and Eglath-shelishiyah. For the waters of Nimrim also have become desolate.",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "And I will bring to an end in Moab, declares the Lord, him who offers sacrifice in the high place and makes offerings to his god.",
+      "verse": 35
+    },
+    {
+      "text": "Therefore my heart moans for Moab like a flute, and my heart moans like a flute for the men of Kir-hareseth. Therefore the riches they gained have perished.",
+      "verse": 36
+    },
+    {
+      "text": "“For every head is shaved and every beard cut off. On all the hands are gashes, and around the waist is sackcloth.",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "On all the housetops of Moab and in the squares there is nothing but lamentation, for I have broken Moab like a vessel for which no one cares, declares the Lord.",
+      "verse": 38
+    },
+    {
+      "text": "How it is broken! How they wail! How Moab has turned his back in shame! So Moab has become a derision and a horror to all that are around him.”",
+      "verse": 39
+    },
+    {
+      "text": "For thus says the Lord:",
+      "verse": 40,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Behold, one shall fly swiftly like an eagle",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "and spread his wings against Moab;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "the cities shall be taken",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "and the strongholds seized.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "The heart of the warriors of Moab shall be in that day",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "like the heart of a woman in her birth pains;",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab shall be destroyed and be no longer a people,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "because he magnified himself against the Lord.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Terror, pit, and snare",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "are before you, O inhabitant of Moab!",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "He who flees from the terror",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "shall fall into the pit,",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "and he who climbs out of the pit",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "shall be caught in the snare.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will bring these things upon Moab,",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "the year of their punishment,",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "“In the shadow of Heshbon",
+      "verse": 45,
+      "type": "poetry newline"
+    },
+    {
+      "text": "fugitives stop without strength,",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "for fire came out from Heshbon,",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "flame from the house of Sihon;",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "it has destroyed the forehead of Moab,",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "the crown of the sons of tumult.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to you, O Moab!",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "The people of Chemosh are undone,",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "for your sons have been taken captive,",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "and your daughters into captivity.",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I will restore the fortunes of Moab",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "in the latter days, declares the Lord.”",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus far is the judgment on Moab.",
+      "verse": 47,
+      "type": "poetry"
+    }
+  ]
+}

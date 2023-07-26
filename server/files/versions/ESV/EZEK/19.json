@@ -1,0 +1,301 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 19,
+  "verses": 14,
+  "content": [
+    {
+      "text": "A Lament for the Princes of Israel",
+      "type": "heading"
+    },
+    {
+      "text": "And you, take up a lamentation for the princes of Israel,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "and say:",
+      "verse": 2
+    },
+    {
+      "text": "What was your mother? A lioness!",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Among lions she crouched;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in the midst of young lions",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she reared her cubs.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And she brought up one of her cubs;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he became a young lion,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and he learned to catch prey;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he devoured men.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The nations heard about him;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he was caught in their pit,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and they brought him with hooks",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to the land of Egypt.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "When she saw that she waited in vain,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that her hope was lost,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "she took another of her cubs",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and made him a young lion.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He prowled among the lions;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he became a young lion,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and he learned to catch prey;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he devoured men,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and seized their widows.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He laid waste their cities,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the land was appalled and all who were in it",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "at the sound of his roaring.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the nations set against him",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from provinces on every side;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they spread their net over him;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he was taken in their pit.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "With hooks they put him in a cage",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and brought him to the king of Babylon;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they brought him into custody,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "that his voice should no more be heard",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "on the mountains of Israel.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Your mother was like a vine in a vineyard",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "planted by the water,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "fruitful and full of branches",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "by reason of abundant water.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Its strong stems became",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "rulers' scepters;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "it towered aloft",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "among the thick boughs;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "it was seen in its height",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "with the mass of its branches.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But the vine was plucked up in fury,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "cast down to the ground;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the east wind dried up its fruit;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they were stripped off and withered.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "As for its strong stem,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "fire consumed it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Now it is planted in the wilderness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "in a dry and thirsty land.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And fire has gone out from the stem of its shoots,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "has consumed its fruit,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "so that there remains in it no strong stem,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "no scepter for ruling.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is a lamentation and has become a lamentation.",
+      "verse": 14,
+      "type": "newline"
+    }
+  ]
+}

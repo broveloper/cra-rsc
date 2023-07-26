@@ -1,0 +1,284 @@
+{
+  "book_id": "NUM",
+  "book_name": "Numbers",
+  "chapter": 23,
+  "verses": 30,
+  "content": [
+    {
+      "text": "Balaam's First Oracle",
+      "type": "heading"
+    },
+    {
+      "text": "And Balaam said to Balak, “Build for me here seven altars, and prepare for me here seven bulls and seven rams.”",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Balak did as Balaam had said. And Balak and Balaam offered on each altar a bull and a ram.",
+      "verse": 2
+    },
+    {
+      "text": "And Balaam said to Balak, “Stand beside your burnt offering, and I will go. Perhaps the Lord will come to meet me, and whatever he shows me I will tell you.” And he went to a bare height,",
+      "verse": 3
+    },
+    {
+      "text": "and God met Balaam. And Balaam said to him, “I have arranged the seven altars and I have offered on each altar a bull and a ram.”",
+      "verse": 4
+    },
+    {
+      "text": "And the Lord put a word in Balaam's mouth and said, “Return to Balak, and thus you shall speak.”",
+      "verse": 5
+    },
+    {
+      "text": "And he returned to him, and behold, he and all the princes of Moab were standing beside his burnt offering.",
+      "verse": 6
+    },
+    {
+      "text": "And Balaam took up his discourse and said,",
+      "verse": 7
+    },
+    {
+      "text": "“From Aram Balak has brought me,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the king of Moab from the eastern mountains:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Come, curse Jacob for me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and come, denounce Israel!’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I curse whom God has not cursed?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "How can I denounce whom the Lord has not denounced?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For from the top of the crags I see him,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "from the hills I behold him;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, a people dwelling alone,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and not counting itself among the nations!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can count the dust of Jacob",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "or number the fourth part of Israel?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me die the death of the upright,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and let my end be like his!”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And Balak said to Balaam, “What have you done to me? I took you to curse my enemies, and behold, you have done nothing but bless them.”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And he answered and said, “Must I not take care to speak what the Lord puts in my mouth?”",
+      "verse": 12
+    },
+    {
+      "text": "Balaam's Second Oracle",
+      "type": "heading"
+    },
+    {
+      "text": "And Balak said to him, “Please come with me to another place, from which you may see them. You shall see only a fraction of them and shall not see them all. Then curse them for me from there.”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "And he took him to the field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and a ram on each altar.",
+      "verse": 14
+    },
+    {
+      "text": "Balaam said to Balak, “Stand here beside your burnt offering, while I meet the Lord over there.”",
+      "verse": 15
+    },
+    {
+      "text": "And the Lord met Balaam and put a word in his mouth and said, “Return to Balak, and thus shall you speak.”",
+      "verse": 16
+    },
+    {
+      "text": "And he came to him, and behold, he was standing beside his burnt offering, and the princes of Moab with him. And Balak said to him, “What has the Lord spoken?”",
+      "verse": 17
+    },
+    {
+      "text": "And Balaam took up his discourse and said,",
+      "verse": 18
+    },
+    {
+      "text": "“Rise, Balak, and hear;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "give ear to me, O son of Zippor:",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "God is not man, that he should lie,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "or a son of man, that he should change his mind.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Has he said, and will he not do it?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Or has he spoken, and will he not fulfill it?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I received a command to bless:",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "he has blessed, and I cannot revoke it.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He has not beheld misfortune in Jacob,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "nor has he seen trouble in Israel.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord their God is with them,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and the shout of a king is among them.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "God brings them out of Egypt",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and is for them like the horns of the wild ox.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For there is no enchantment against Jacob,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "no divination against Israel;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "now it shall be said of Jacob and Israel,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "‘What has God wrought!’",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, a people! As a lioness it rises up",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and as a lion it lifts itself;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "it does not lie down until it has devoured the prey",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and drunk the blood of the slain.”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And Balak said to Balaam, “Do not curse them at all, and do not bless them at all.”",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "But Balaam answered Balak, “Did I not tell you, ‘All that the Lord says, that I must do’?”",
+      "verse": 26
+    },
+    {
+      "text": "And Balak said to Balaam, “Come now, I will take you to another place. Perhaps it will please God that you may curse them for me from there.”",
+      "verse": 27
+    },
+    {
+      "text": "So Balak took Balaam to the top of Peor, which overlooks the desert.",
+      "verse": 28
+    },
+    {
+      "text": "And Balaam said to Balak, “Build for me here seven altars and prepare for me here seven bulls and seven rams.”",
+      "verse": 29
+    },
+    {
+      "text": "And Balak did as Balaam had said, and offered a bull and a ram on each altar.",
+      "verse": 30
+    }
+  ]
+}

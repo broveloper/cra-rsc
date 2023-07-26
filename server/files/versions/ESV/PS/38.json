@@ -1,0 +1,251 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 38,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Do Not Forsake Me, O Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David, for the memorial offering.",
+      "type": "title"
+    },
+    {
+      "text": "O Lord, rebuke me not in your anger,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor discipline me in your wrath!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For your arrows have sunk into me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and your hand has come down on me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no soundness in my flesh",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because of your indignation;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no health in my bones",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "because of my sin.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For my iniquities have gone over my head;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like a heavy burden, they are too heavy for me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My wounds stink and fester",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because of my foolishness,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I am utterly bowed down and prostrate;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "all the day I go about mourning.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For my sides are filled with burning,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and there is no soundness in my flesh.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am feeble and crushed;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I groan because of the tumult of my heart.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, all my longing is before you;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my sighing is not hidden from you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart throbs; my strength fails me,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the light of my eyes—it also has gone from me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My friends and companions stand aloof from my plague,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and my nearest kin stand far off.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who seek my life lay their snares;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "those who seek my hurt speak of ruin",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and meditate treachery all day long.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But I am like a deaf man; I do not hear,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "like a mute man who does not open his mouth.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I have become like a man who does not hear,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and in whose mouth are no rebukes.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But for you, O Lord, do I wait;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "it is you, O Lord my God, who will answer.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For I said, “Only let them not rejoice over me,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "who boast against me when my foot slips!”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am ready to fall,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my pain is ever before me.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I confess my iniquity;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I am sorry for my sin.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But my foes are vigorous, they are mighty,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and many are those who hate me wrongfully.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who render me evil for good",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "accuse me because I follow after good.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not forsake me, O Lord!",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O my God, be not far from me!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Make haste to help me,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, my salvation!",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

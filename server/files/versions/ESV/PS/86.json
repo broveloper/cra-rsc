@@ -1,0 +1,211 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 86,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Great Is Your Steadfast Love",
+      "type": "heading"
+    },
+    {
+      "text": "A Prayer of David.",
+      "type": "title"
+    },
+    {
+      "text": "Incline your ear, O Lord, and answer me,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I am poor and needy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Preserve my life, for I am godly;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "save your servant, who trusts in you—you are my God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Be gracious to me, O Lord,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for to you do I cry all the day.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Gladden the soul of your servant,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for to you, O Lord, do I lift up my soul.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For you, O Lord, are good and forgiving,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "abounding in steadfast love to all who call upon you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Give ear, O Lord, to my prayer;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "listen to my plea for grace.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of my trouble I call upon you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for you answer me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "There is none like you among the gods, O Lord,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor are there any works like yours.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All the nations you have made shall come",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and worship before you, O Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall glorify your name.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For you are great and do wondrous things;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "you alone are God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me your way, O Lord,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that I may walk in your truth;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "unite my heart to fear your name.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I give thanks to you, O Lord my God, with my whole heart,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will glorify your name forever.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For great is your steadfast love toward me;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "you have delivered my soul from the depths of Sheol.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, insolent men have risen up against me;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a band of ruthless men seeks my life,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and they do not set you before them.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, O Lord, are a God merciful and gracious,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "slow to anger and abounding in steadfast love and faithfulness.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn to me and be gracious to me;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "give your strength to your servant,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and save the son of your maidservant.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Show me a sign of your favor,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "that those who hate me may see and be put to shame",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "because you, Lord, have helped me and comforted me.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

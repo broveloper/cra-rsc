@@ -1,0 +1,277 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 50,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Israel’s Sin and the Servant’s Obedience",
+      "type": "heading"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Where is your mother’s certificate of divorce",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with which I sent her away?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Or to which of my creditors",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "did I sell you?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of your sins you were sold;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "because of your transgressions your mother was sent away.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "When I came, why was there no one?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I called, why was there no one to answer?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Was my arm too short to deliver you?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Do I lack the strength to rescue you?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "By a mere rebuke I dry up the sea,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I turn rivers into a desert;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "their fish rot for lack of water",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and die of thirst.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I clothe the heavens with darkness",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and make sackcloth its covering.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sovereign Lord has given me a well-instructed tongue,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to know the word that sustains the weary.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He wakens me morning by morning,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "wakens my ear to listen like one being instructed.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sovereign Lord has opened my ears;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not been rebellious,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not turned away.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I offered my back to those who beat me,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "my cheeks to those who pulled out my beard;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I did not hide my face",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "from mocking and spitting.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because the Sovereign Lord helps me,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not be disgraced.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore have I set my face like flint,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and I know I will not be put to shame.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who vindicates me is near.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who then will bring charges against me?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us face each other!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is my accuser?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him confront me!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "It is the Sovereign Lord who helps me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will condemn me?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They will all wear out like a garment;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the moths will eat them up.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who among you fears the Lord",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and obeys the word of his servant?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the one who walks in the dark,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "who has no light,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "trust in the name of the Lord",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and rely on their God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But now, all you who light fires",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and provide yourselves with flaming torches,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "go, walk in the light of your fires",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and of the torches you have set ablaze.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what you shall receive from my hand:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You will lie down in torment.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

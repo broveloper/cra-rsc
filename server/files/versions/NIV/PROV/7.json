@@ -1,0 +1,297 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 7,
+  "verses": 27,
+  "content": [
+    {
+      "text": "Warning Against the Adulterous Woman",
+      "type": "heading"
+    },
+    {
+      "text": "My son, keep my words",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and store up my commands within you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep my commands and you will live;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "guard my teachings as the apple of your eye.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Bind them on your fingers;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "write them on the tablet of your heart.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Say to wisdom, “You are my sister,”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and to insight, “You are my relative.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They will keep you from the adulterous woman,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "from the wayward woman with her seductive words.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "At the window of my house",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I looked down through the lattice.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I saw among the simple,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I noticed among the young men,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "a youth who had no sense.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He was going down the street near her corner,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "walking along in the direction of her house",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "at twilight, as the day was fading,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as the dark of night set in.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Then out came a woman to meet him,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "dressed like a prostitute and with crafty intent.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "(She is unruly and defiant,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "her feet never stay at home;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "now in the street, now in the squares,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "at every corner she lurks.)",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "She took hold of him and kissed him",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and with a brazen face she said:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Today I fulfilled my vows,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I have food from my fellowship offering at home.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So I came out to meet you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I looked for you and have found you!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I have covered my bed",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "with colored linens from Egypt.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I have perfumed my bed",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "with myrrh, aloes and cinnamon.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, let’s drink deeply of love till morning;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "let’s enjoy ourselves with love!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "My husband is not at home;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "he has gone on a long journey.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He took his purse filled with money",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and will not be home till full moon.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "With persuasive words she led him astray;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she seduced him with her smooth talk.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "All at once he followed her",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "like an ox going to the slaughter,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "like a deer stepping into a noose",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "    till an arrow pierces his liver,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "like a bird darting into a snare,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "little knowing it will cost him his life.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Now then, my sons, listen to me;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "pay attention to what I say.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let your heart turn to her ways",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "or stray into her paths.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Many are the victims she has brought down;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "her slain are a mighty throng.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Her house is a highway to the grave,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "leading down to the chambers of death.",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 60,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 60",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. To the tune of “The Lily of the Covenant.” A miktam of David. For teaching. When he fought Aram Naharaim and Aram Zobah, and when Joab returned and struck down twelve thousand Edomites in the Valley of Salt.",
+      "type": "title"
+    },
+    {
+      "text": "You have rejected us, God, and burst upon us;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have been angry—now restore us!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have shaken the land and torn it open;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "mend its fractures, for it is quaking.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You have shown your people desperate times;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you have given us wine that makes us stagger.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But for those who fear you, you have raised a banner",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to be unfurled against the bow.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Save us and help us with your right hand,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that those you love may be delivered.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "God has spoken from his sanctuary:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“In triumph I will parcel out Shechem",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and measure off the Valley of Sukkoth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Gilead is mine, and Manasseh is mine;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is my helmet,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah is my scepter.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Moab is my washbasin,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "on Edom I toss my sandal;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "over Philistia I shout in triumph.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will bring me to the fortified city?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who will lead me to Edom?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not you, God, you who have now rejected us",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and no longer go out with our armies?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Give us aid against the enemy,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for human help is worthless.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "With God we will gain the victory,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and he will trample down our enemies.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

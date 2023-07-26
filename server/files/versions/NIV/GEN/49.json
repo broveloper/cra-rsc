@@ -1,0 +1,443 @@
+{
+  "book_id": "GEN",
+  "book_name": "Genesis",
+  "chapter": 49,
+  "verses": 33,
+  "content": [
+    {
+      "text": "Jacob Blesses His Sons",
+      "type": "heading"
+    },
+    {
+      "text": "Then Jacob called for his sons and said: “Gather around so I can tell you what will happen to you in days to come.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Assemble and listen, sons of Jacob;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "listen to your father Israel.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Reuben, you are my firstborn,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my might, the first sign of my strength,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "excelling in honor, excelling in power.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Turbulent as the waters, you will no longer excel,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for you went up onto your father’s bed,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "onto my couch and defiled it.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Simeon and Levi are brothers—",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "their swords are weapons of violence.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me not enter their council,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "let me not join their assembly,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have killed men in their anger",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and hamstrung oxen as they pleased.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Cursed be their anger, so fierce,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and their fury, so cruel!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will scatter them in Jacob",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and disperse them in Israel.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Judah, your brothers will praise you;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your hand will be on the neck of your enemies;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "your father’s sons will bow down to you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You are a lion’s cub, Judah;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you return from the prey, my son.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a lion he crouches and lies down,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "like a lioness—who dares to rouse him?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The scepter will not depart from Judah,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "nor the ruler’s staff from between his feet,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "until he to whom it belongs shall come",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the obedience of the nations shall be his.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He will tether his donkey to a vine,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "his colt to the choicest branch;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "he will wash his garments in wine,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "his robes in the blood of grapes.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "His eyes will be darker than wine,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "his teeth whiter than milk.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Zebulun will live by the seashore",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and become a haven for ships;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "his border will extend toward Sidon.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Issachar is a rawboned donkey",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "lying down among the sheep pens.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "When he sees how good is his resting place",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and how pleasant is his land,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he will bend his shoulder to the burden",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and submit to forced labor.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Dan will provide justice for his people",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as one of the tribes of Israel.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Dan will be a snake by the roadside,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a viper along the path,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "that bites the horse’s heels",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "so that its rider tumbles backward.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“I look for your deliverance, Lord.",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Gad will be attacked by a band of raiders,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but he will attack them at their heels.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Asher’s food will be rich;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will provide delicacies fit for a king.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“Naphtali is a doe set free",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that bears beautiful fawns.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Joseph is a fruitful vine,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a fruitful vine near a spring,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "whose branches climb over a wall.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "With bitterness archers attacked him;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they shot at him with hostility.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "But his bow remained steady,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "his strong arms stayed limber,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the hand of the Mighty One of Jacob,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the Shepherd, the Rock of Israel,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "because of your father’s God, who helps you,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the Almighty, who blesses you",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "with blessings of the skies above,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "blessings of the deep springs below,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "blessings of the breast and womb.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Your father’s blessings are greater",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "than the blessings of the ancient mountains,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "than the bounty of the age-old hills.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all these rest on the head of Joseph,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "on the brow of the prince among his brothers.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“Benjamin is a ravenous wolf;",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the morning he devours the prey,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "in the evening he divides the plunder.”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "All these are the twelve tribes of Israel, and this is what their father said to them when he blessed them, giving each the blessing appropriate to him.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "The Death of Jacob",
+      "type": "heading"
+    },
+    {
+      "text": "Then he gave them these instructions: “I am about to be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite,",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "the cave in the field of Machpelah, near Mamre in Canaan, which Abraham bought along with the field as a burial place from Ephron the Hittite.",
+      "verse": 30
+    },
+    {
+      "text": "There Abraham and his wife Sarah were buried, there Isaac and his wife Rebekah were buried, and there I buried Leah.",
+      "verse": 31
+    },
+    {
+      "text": "The field and the cave in it were bought from the Hittites.”",
+      "verse": 32
+    },
+    {
+      "text": "When Jacob had finished giving instructions to his sons, he drew his feet up into the bed, breathed his last and was gathered to his people.",
+      "verse": 33,
+      "type": "newline"
+    }
+  ]
+}

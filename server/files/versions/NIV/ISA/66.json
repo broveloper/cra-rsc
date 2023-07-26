@@ -1,0 +1,443 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 66,
+  "verses": 24,
+  "content": [
+    {
+      "text": "Judgment and Hope",
+      "type": "heading"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Heaven is my throne,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the earth is my footstool.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is the house you will build for me?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Where will my resting place be?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Has not my hand made all these things,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and so they came into being?”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“These are the ones I look on with favor:",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "those who are humble and contrite in spirit,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and who tremble at my word.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But whoever sacrifices a bull",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "is like one who kills a person,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and whoever offers a lamb",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "is like one who breaks a dog’s neck;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "whoever makes a grain offering",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "is like one who presents pig’s blood,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and whoever burns memorial incense",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "is like one who worships an idol.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They have chosen their own ways,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and they delight in their abominations;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "so I also will choose harsh treatment for them",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and will bring on them what they dread.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For when I called, no one answered,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "when I spoke, no one listened.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They did evil in my sight",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and chose what displeases me.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear the word of the Lord,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you who tremble at his word:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Your own people who hate you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and exclude you because of my name, have said,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Let the Lord be glorified,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may see your joy!’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they will be put to shame.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear that uproar from the city,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "hear that noise from the temple!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It is the sound of the Lord",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "repaying his enemies all they deserve.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Before she goes into labor,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she gives birth;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "before the pains come upon her,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "she delivers a son.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has ever heard of such things?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has ever seen things like this?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Can a country be born in a day",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "or a nation be brought forth in a moment?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet no sooner is Zion in labor",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "than she gives birth to her children.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do I bring to the moment of birth",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and not give delivery?” says the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Do I close up the womb",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "when I bring to delivery?” says your God.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Rejoice with Jerusalem and be glad for her,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "all you who love her;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "rejoice greatly with her,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "all you who mourn over her.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For you will nurse and be satisfied",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "at her comforting breasts;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you will drink deeply",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and delight in her overflowing abundance.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For this is what the Lord says:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“I will extend peace to her like a river,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the wealth of nations like a flooding stream;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "you will nurse and be carried on her arm",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and dandled on her knees.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "As a mother comforts her child,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "so will I comfort you;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and you will be comforted over Jerusalem.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "When you see this, your heart will rejoice",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and you will flourish like grass;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the hand of the Lord will be made known to his servants,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but his fury will be shown to his foes.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "See, the Lord is coming with fire,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and his chariots are like a whirlwind;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he will bring down his anger with fury,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and his rebuke with flames of fire.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For with fire and with his sword",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord will execute judgment on all people,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and many will be those slain by the Lord.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Those who consecrate and purify themselves to go into the gardens, following one who is among those who eat the flesh of pigs, rats and other unclean things—they will meet their end together with the one they follow,” declares the Lord.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“And I, because of what they have planned and done, am about to come and gather the people of all nations and languages, and they will come and see my glory.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "“I will set a sign among them, and I will send some of those who survive to the nations—to Tarshish, to the Libyans and Lydians (famous as archers), to Tubal and Greece, and to the distant islands that have not heard of my fame or seen my glory. They will proclaim my glory among the nations.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "And they will bring all your people, from all the nations, to my holy mountain in Jerusalem as an offering to the Lord—on horses, in chariots and wagons, and on mules and camels,” says the Lord. “They will bring them, as the Israelites bring their grain offerings, to the temple of the Lord in ceremonially clean vessels.",
+      "verse": 20
+    },
+    {
+      "text": "And I will select some of them also to be priests and Levites,” says the Lord.",
+      "verse": 21
+    },
+    {
+      "text": "“As the new heavens and the new earth that I make will endure before me,” declares the Lord, “so will your name and descendants endure.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "From one New Moon to another and from one Sabbath to another, all mankind will come and bow down before me,” says the Lord.",
+      "verse": 23
+    },
+    {
+      "text": "“And they will go out and look on the dead bodies of those who rebelled against me; the worms that eat them will not die, the fire that burns them will not be quenched, and they will be loathsome to all mankind.”",
+      "verse": 24
+    }
+  ]
+}

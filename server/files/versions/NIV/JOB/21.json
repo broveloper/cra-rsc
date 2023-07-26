@@ -1,0 +1,357 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 21,
+  "verses": 34,
+  "content": [
+    {
+      "text": "Job",
+      "type": "heading"
+    },
+    {
+      "text": "Then Job replied:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Listen carefully to my words;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let this be the consolation you give me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Bear with me while I speak,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and after I have spoken, mock on.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is my complaint directed to a human being?",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why should I not be impatient?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Look at me and be appalled;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "clap your hand over your mouth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "When I think about this, I am terrified;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "trembling seizes my body.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do the wicked live on,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "growing old and increasing in power?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They see their children established around them,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "their offspring before their eyes.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their homes are safe and free from fear;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the rod of God is not on them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Their bulls never fail to breed;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "their cows calve and do not miscarry.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They send forth their children as a flock;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "their little ones dance about.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They sing to the music of timbrel and lyre;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they make merry to the sound of the pipe.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They spend their years in prosperity",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and go down to the grave in peace.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they say to God, ‘Leave us alone!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "We have no desire to know your ways.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is the Almighty, that we should serve him?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "What would we gain by praying to him?’",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But their prosperity is not in their own hands,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "so I stand aloof from the plans of the wicked.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet how often is the lamp of the wicked snuffed out?",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How often does calamity come upon them,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the fate God allots in his anger?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "How often are they like straw before the wind,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "like chaff swept away by a gale?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "It is said, ‘God stores up the punishment of the wicked for their children.’",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him repay the wicked, so that they themselves will experience it!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let their own eyes see their destruction;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "let them drink the cup of the wrath of the Almighty.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For what do they care about the families they leave behind",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "when their allotted months come to an end?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Can anyone teach knowledge to God,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "since he judges even the highest?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "One person dies in full vigor,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "completely secure and at ease,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "well nourished in body,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "bones rich with marrow.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Another dies in bitterness of soul,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "never having enjoyed anything good.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Side by side they lie in the dust,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and worms cover them both.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“I know full well what you are thinking,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the schemes by which you would wrong me.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "You say, ‘Where now is the house of the great,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "the tents where the wicked lived?’",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you never questioned those who travel?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you paid no regard to their accounts—",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "that the wicked are spared from the day of calamity,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "that they are delivered from the day of wrath?",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Who denounces their conduct to their face?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Who repays them for what they have done?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "They are carried to the grave,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and watch is kept over their tombs.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The soil in the valley is sweet to them;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "everyone follows after them,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and a countless throng goes before them.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "“So how can you console me with your nonsense?",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nothing is left of your answers but falsehood!”",
+      "verse": 34,
+      "type": "poetry"
+    }
+  ]
+}

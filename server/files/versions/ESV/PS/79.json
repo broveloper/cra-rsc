@@ -1,0 +1,201 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 79,
+  "verses": 13,
+  "content": [
+    {
+      "text": "How Long, O Lord?",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "O God, the nations have come into your inheritance;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they have defiled your holy temple;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "they have laid Jerusalem in ruins.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They have given the bodies of your servants",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to the birds of the heavens for food,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the flesh of your faithful to the beasts of the earth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They have poured out their blood like water",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "all around Jerusalem,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and there was no one to bury them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "We have become a taunt to our neighbors,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "mocked and derided by those around us.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, O Lord? Will you be angry forever?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will your jealousy burn like fire?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Pour out your anger on the nations",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that do not know you,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and on the kingdoms",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "that do not call upon your name!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have devoured Jacob",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and laid waste his habitation.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not remember against us our former iniquities;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let your compassion come speedily to meet us,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for we are brought very low.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Help us, O God of our salvation,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for the glory of your name;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "deliver us, and atone for our sins,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for your name's sake!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should the nations say,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Where is their God?”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the avenging of the outpoured blood of your servants",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "be known among the nations before our eyes!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the groans of the prisoners come before you;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "according to your great power, preserve those doomed to die!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Return sevenfold into the lap of our neighbors",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the taunts with which they have taunted you, O Lord!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But we your people, the sheep of your pasture,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "will give thanks to you forever;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "from generation to generation we will recount your praise.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

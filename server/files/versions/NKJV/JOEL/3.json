@@ -1,0 +1,386 @@
+{
+  "book_id": "JOEL",
+  "book_name": "Joel",
+  "chapter": 3,
+  "verses": 21,
+  "content": [
+    {
+      "text": "God Judges the Nations",
+      "type": "heading"
+    },
+    {
+      "text": "“For behold, in those days and at that time,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When I bring back the captives of Judah and Jerusalem,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also gather all nations,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And bring them down to the Valley of Jehoshaphat;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will enter into judgment with them there",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "On account of My people, My heritage Israel,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom they have scattered among the nations;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They have also divided up My land.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They have cast lots for My people,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Have given a boy as payment for a harlot,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And sold a girl for wine, that they may drink.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Indeed, what have you to do with Me,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Tyre and Sidon, and all the coasts of Philistia?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Will you retaliate against Me?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But if you retaliate against Me,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Swiftly and speedily I will return your retaliation upon your own head;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have taken My silver and My gold,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And have carried into your temples My prized possessions.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Also the people of Judah and the people of Jerusalem",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You have sold to the Greeks,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may remove them far from their borders.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I will raise them",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Out of the place to which you have sold them,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And will return your retaliation upon your own head.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sell your sons and your daughters",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Into the hand of the people of Judah,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And they will sell them to the Sabeans,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "To a people far off;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has spoken.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Proclaim this among the nations:",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Prepare for war!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Wake up the mighty men,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all the men of war draw near,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them come up.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Beat your plowshares into swords",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And your pruning hooks into spears;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the weak say, ‘I am strong.’ ”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Assemble and come, all you nations,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And gather together all around.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Cause Your mighty ones to go down there, O Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let the nations be wakened, and come up to the Valley of Jehoshaphat;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For there I will sit to judge all the surrounding nations.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Put in the sickle, for the harvest is ripe.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, go down;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the winepress is full,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The vats overflow—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For their wickedness is great.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Multitudes, multitudes in the valley of decision!",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the day of the Lord is near in the valley of decision.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun and moon will grow dark,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And the stars will diminish their brightness.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord also will roar from Zion,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And utter His voice from Jerusalem;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The heavens and earth will shake;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord will be a shelter for His people,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And the strength of the children of Israel.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“So you shall know that I am the Lord your God,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Dwelling in Zion My holy mountain.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Jerusalem shall be holy,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And no aliens shall ever pass through her again.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "God Blesses His People",
+      "type": "heading"
+    },
+    {
+      "text": "And it will come to pass in that day",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That the mountains shall drip with new wine,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The hills shall flow with milk,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And all the brooks of Judah shall be flooded with water;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "A fountain shall flow from the house of the Lord",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And water the Valley of Acacias.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Egypt shall be a desolation,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Edom a desolate wilderness,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of violence against the people of Judah,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have shed innocent blood in their land.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But Judah shall abide forever,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And Jerusalem from generation to generation.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will acquit them of the guilt of bloodshed, whom I had not acquitted;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord dwells in Zion.”",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 130,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 130",
+      "type": "heading"
+    },
+    {
+      "text": "A song of ascents.",
+      "type": "title"
+    },
+    {
+      "text": "Out of the depths I cry to you, Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    Lord, hear my voice.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let your ears be attentive",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to my cry for mercy.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "If you, Lord, kept a record of sins,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lord, who could stand?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But with you there is forgiveness,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "so that we can, with reverence, serve you.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I wait for the Lord, my whole being waits,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and in his word I put my hope.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I wait for the Lord",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "more than watchmen wait for the morning,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "more than watchmen wait for the morning.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel, put your hope in the Lord,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for with the Lord is unfailing love",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and with him is full redemption.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He himself will redeem Israel",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from all their sins.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "book_id": "1COR",
+  "book_name": "1 Corinthians",
+  "chapter": 13,
+  "verses": 13,
+  "content": [
+    {
+      "text": "The Way of Love",
+      "type": "heading"
+    },
+    {
+      "text": "If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing.",
+      "verse": 2
+    },
+    {
+      "text": "If I give away all I have, and if I deliver up my body to be burned, but have not love, I gain nothing.",
+      "verse": 3
+    },
+    {
+      "text": "Love is patient and kind; love does not envy or boast; it is not arrogant",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "or rude. It does not insist on its own way; it is not irritable or resentful;",
+      "verse": 5
+    },
+    {
+      "text": "it does not rejoice at wrongdoing, but rejoices with the truth.",
+      "verse": 6
+    },
+    {
+      "text": "Love bears all things, believes all things, hopes all things, endures all things.",
+      "verse": 7
+    },
+    {
+      "text": "Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "For we know in part and we prophesy in part,",
+      "verse": 9
+    },
+    {
+      "text": "but when the perfect comes, the partial will pass away.",
+      "verse": 10
+    },
+    {
+      "text": "When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways.",
+      "verse": 11
+    },
+    {
+      "text": "For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known.",
+      "verse": 12
+    },
+    {
+      "text": "So now faith, hope, and love abide, these three; but the greatest of these is love.",
+      "verse": 13,
+      "type": "newline"
+    }
+  ]
+}

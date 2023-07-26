@@ -1,0 +1,63 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 4,
+  "verses": 6,
+  "content": [
+    {
+      "text": "In that day seven women",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "will take hold of one man",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and say, “We will eat our own food",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and provide our own clothes;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "only let us be called by your name.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Take away our disgrace!”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Branch of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "In that day the Branch of the Lord will be beautiful and glorious, and the fruit of the land will be the pride and glory of the survivors in Israel.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Those who are left in Zion, who remain in Jerusalem, will be called holy, all who are recorded among the living in Jerusalem.",
+      "verse": 3
+    },
+    {
+      "text": "The Lord will wash away the filth of the women of Zion; he will cleanse the bloodstains from Jerusalem by a spirit of judgment and a spirit of fire.",
+      "verse": 4
+    },
+    {
+      "text": "Then the Lord will create over all of Mount Zion and over those who assemble there a cloud of smoke by day and a glow of flaming fire by night; over everything the glory will be a canopy.",
+      "verse": 5
+    },
+    {
+      "text": "It will be a shelter and shade from the heat of the day, and a refuge and hiding place from the storm and rain.",
+      "verse": 6
+    }
+  ]
+}

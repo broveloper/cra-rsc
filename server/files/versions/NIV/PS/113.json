@@ -1,0 +1,112 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 113,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Psalm 113",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Praise the Lord, you his servants;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "praise the name of the Lord.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the name of the Lord be praised,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "both now and forevermore.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "From the rising of the sun to the place where it sets,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the name of the Lord is to be praised.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is exalted over all the nations,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his glory above the heavens.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is like the Lord our God,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the One who sits enthroned on high,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who stoops down to look",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "on the heavens and the earth?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He raises the poor from the dust",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and lifts the needy from the ash heap;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he seats them with princes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with the princes of his people.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He settles the childless woman in her home",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as a happy mother of children.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord.",
+      "verse": 9,
+      "type": "poetry newline"
+    }
+  ]
+}

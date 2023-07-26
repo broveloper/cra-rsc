@@ -1,0 +1,72 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 79,
+  "verses": 13,
+  "content": [
+    {
+      "text": "O god, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
+      "verse": 1
+    },
+    {
+      "text": "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Their blood have they shed like water round about Jerusalem; and there was none to bury them.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "How long, Lord? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms that have not called upon thy name.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "For they have devoured Jacob, and laid waste his dwelling place.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Wherefore should the heathen say, Where is their God? let him be known among the heathen in our sight by the revenging of the blood of thy servants which is shed.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.",
+      "verse": 13,
+      "type": "newline"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 32,
+  "verses": 32,
+  "content": [
+    {
+      "text": "Lamentation for Pharaoh and Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "And it came to pass in the twelfth year, in the twelfth month, on the first day of the month, that the word of the Lord came to me, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, take up a lamentation for Pharaoh king of Egypt, and say to him:",
+      "verse": 2
+    },
+    {
+      "text": "‘You are like a young lion among the nations,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And you are like a monster in the seas,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Bursting forth in your rivers,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Troubling the waters with your feet,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And fouling their rivers.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Thus says the Lord God:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“I will therefore spread My net over you with a company of many people,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And they will draw you up in My net.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will leave you on the land;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cast you out on the open fields,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And cause to settle on you all the birds of the heavens.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And with you I will fill the beasts of the whole earth.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will lay your flesh on the mountains,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And fill the valleys with your carcass.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will also water the land with the flow of your blood,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Even to the mountains;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And the riverbeds will be full of you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When I put out your light,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cover the heavens, and make its stars dark;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cover the sun with a cloud,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And the moon shall not give her light.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All the bright lights of the heavens I will make dark over you,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And bring darkness upon your land,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will also trouble the hearts of many peoples, when I bring your destruction among the nations, into the countries which you have not known. ",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Yes, I will make many peoples astonished at you, and their kings shall be horribly afraid of you when I brandish My sword before them; and they shall tremble every moment, every man for his own life, in the day of your fall.",
+      "verse": 10
+    },
+    {
+      "text": "‘For thus says the Lord God: “The sword of the king of Babylon shall come upon you. ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "By the swords of the mighty warriors, all of them the most terrible of the nations, I will cause your multitude to fall.",
+      "verse": 12
+    },
+    {
+      "text": "“They shall plunder the pomp of Egypt,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And all its multitude shall be destroyed.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Also I will destroy all its animals",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "From beside its great waters;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The foot of man shall muddy them no more,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall the hooves of animals muddy them.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will make their waters clear,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And make their rivers run like oil,”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“When I make the land of Egypt desolate,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the country is destitute of all that once filled it,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "When I strike all who dwell in it,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they shall know that I am the Lord.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“This is the lamentation",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With which they shall lament her;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The daughters of the nations shall lament her;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall lament for her, for Egypt,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And for all her multitude,”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.’ ”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Egypt and Others Consigned to the Pit",
+      "type": "heading"
+    },
+    {
+      "text": "It came to pass also in the twelfth year, on the fifteenth day of the month, that the word of the Lord came to me, saying:",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, wail over the multitude of Egypt,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And cast them down to the depths of the earth,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Her and the daughters of the famous nations,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "With those who go down to the Pit:",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Whom do you surpass in beauty?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Go down, be placed with the uncircumcised.’",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“They shall fall in the midst of those slain by the sword;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "She is delivered to the sword,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Drawing her and all her multitudes.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The strong among the mighty",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall speak to him out of the midst of hell",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "With those who help him:",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "‘They have gone down,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They lie with the uncircumcised, slain by the sword.’",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Assyria is there, and all her company,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With their graves all around her,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them slain, fallen by the sword.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Her graves are set in the recesses of the Pit,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And her company is all around her grave,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them slain, fallen by the sword,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Who caused terror in the land of the living.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“There is Elam and all her multitude,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All around her grave,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them slain, fallen by the sword,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have gone down uncircumcised to the lower parts of the earth,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Who caused their terror in the land of the living;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Now they bear their shame with those who go down to the Pit.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "They have set her bed in the midst of the slain,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "With all her multitude,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "With her graves all around it,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them uncircumcised, slain by the sword;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Though their terror was caused",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "In the land of the living,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they bear their shame",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "With those who go down to the Pit;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "It was put in the midst of the slain.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“There are Meshech and Tubal and all their multitudes,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With all their graves around it,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them uncircumcised, slain by the sword,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they caused their terror in the land of the living.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not lie with the mighty",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Who are fallen of the uncircumcised,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have gone down to hell with their weapons of war;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "They have laid their swords under their heads,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "But their iniquities will be on their bones,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the terror of the mighty in the land of the living.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, you shall be broken in the midst of the uncircumcised,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And lie with those slain by the sword.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“There is Edom,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Her kings and all her princes,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Who despite their might",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Are laid beside those slain by the sword;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall lie with the uncircumcised,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And with those who go down to the Pit.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "There are the princes of the north,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "All of them, and all the Sidonians,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Who have gone down with the slain",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "In shame at the terror which they caused by their might;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "They lie uncircumcised with those slain by the sword,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And bear their shame with those who go down to the Pit.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "“Pharaoh will see them",
+      "verse": 31,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And be comforted over all his multitude,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Pharaoh and all his army,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Slain by the sword,”",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "“For I have caused My terror in the land of the living;",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he shall be placed in the midst of the uncircumcised",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "With those slain by the sword,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Pharaoh and all his multitude,”",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord God.",
+      "verse": 32,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 39,
+  "verses": 13,
+  "content": [
+    {
+      "text": "What Is the Measure of My Days?",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: to Jeduthun. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "I said, “I will guard my ways,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that I may not sin with my tongue;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will guard my mouth with a muzzle,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "so long as the wicked are in my presence.”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I was mute and silent;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I held my peace to no avail,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and my distress grew worse.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "    My heart became hot within me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "As I mused, the fire burned;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "then I spoke with my tongue:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“O Lord, make me know my end",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and what is the measure of my days;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "let me know how fleeting I am!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, you have made my days a few handbreadths,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and my lifetime is as nothing before you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely all mankind stands as a mere breath! Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    Surely a man goes about as a shadow!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely for nothing they are in turmoil;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "man heaps up wealth and does not know who will gather!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“And now, O Lord, for what do I wait?",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My hope is in you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me from all my transgressions.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not make me the scorn of the fool!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I am mute; I do not open my mouth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for it is you who have done it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove your stroke from me;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I am spent by the hostility of your hand.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When you discipline a man",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "with rebukes for sin,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you consume like a moth what is dear to him;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "surely all mankind is a mere breath! Selah",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear my prayer, O Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and give ear to my cry;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "hold not your peace at my tears!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am a sojourner with you,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "a guest, like all my fathers.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Look away from me, that I may smile again,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "before I depart and am no more!”",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

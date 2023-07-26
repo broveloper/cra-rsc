@@ -1,0 +1,92 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 114,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Tremble at the Presence of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "When Israel went out from Egypt,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the house of Jacob from a people of strange language,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah became his sanctuary,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel his dominion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The sea looked and fled;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Jordan turned back.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains skipped like rams,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the hills like lambs.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "What ails you, O sea, that you flee?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Jordan, that you turn back?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "O mountains, that you skip like rams?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "O hills, like lambs?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Tremble, O earth, at the presence of the Lord,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "at the presence of the God of Jacob,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "who turns the rock into a pool of water,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the flint into a spring of water.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

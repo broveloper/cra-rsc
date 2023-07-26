@@ -1,0 +1,195 @@
+{
+  "book_id": "GEN",
+  "book_name": "Genesis",
+  "chapter": 9,
+  "verses": 29,
+  "content": [
+    {
+      "text": "God’s Covenant With Noah",
+      "type": "heading"
+    },
+    {
+      "text": "Then God blessed Noah and his sons, saying to them, “Be fruitful and increase in number and fill the earth.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "The fear and dread of you will fall on all the beasts of the earth, and on all the birds in the sky, on every creature that moves along the ground, and on all the fish in the sea; they are given into your hands.",
+      "verse": 2
+    },
+    {
+      "text": "Everything that lives and moves about will be food for you. Just as I gave you the green plants, I now give you everything.",
+      "verse": 3
+    },
+    {
+      "text": "“But you must not eat meat that has its lifeblood still in it.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "And for your lifeblood I will surely demand an accounting. I will demand an accounting from every animal. And from each human being, too, I will demand an accounting for the life of another human being.",
+      "verse": 5
+    },
+    {
+      "text": "“Whoever sheds human blood,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "by humans shall their blood be shed;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for in the image of God",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "has God made mankind.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "As for you, be fruitful and increase in number; multiply on the earth and increase upon it.”",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Then God said to Noah and to his sons with him:",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“I now establish my covenant with you and with your descendants after you",
+      "verse": 9
+    },
+    {
+      "text": "and with every living creature that was with you—the birds, the livestock and all the wild animals, all those that came out of the ark with you—every living creature on earth.",
+      "verse": 10
+    },
+    {
+      "text": "I establish my covenant with you: Never again will all life be destroyed by the waters of a flood; never again will there be a flood to destroy the earth.”",
+      "verse": 11
+    },
+    {
+      "text": "And God said, “This is the sign of the covenant I am making between me and you and every living creature with you, a covenant for all generations to come:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "I have set my rainbow in the clouds, and it will be the sign of the covenant between me and the earth.",
+      "verse": 13
+    },
+    {
+      "text": "Whenever I bring clouds over the earth and the rainbow appears in the clouds,",
+      "verse": 14
+    },
+    {
+      "text": "I will remember my covenant between me and you and all living creatures of every kind. Never again will the waters become a flood to destroy all life.",
+      "verse": 15
+    },
+    {
+      "text": "Whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and all living creatures of every kind on the earth.”",
+      "verse": 16
+    },
+    {
+      "text": "So God said to Noah, “This is the sign of the covenant I have established between me and all life on the earth.”",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "The Sons of Noah",
+      "type": "heading"
+    },
+    {
+      "text": "The sons of Noah who came out of the ark were Shem, Ham and Japheth. (Ham was the father of Canaan.)",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "These were the three sons of Noah, and from them came the people who were scattered over the whole earth.",
+      "verse": 19
+    },
+    {
+      "text": "Noah, a man of the soil, proceeded to plant a vineyard.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "When he drank some of its wine, he became drunk and lay uncovered inside his tent.",
+      "verse": 21
+    },
+    {
+      "text": "Ham, the father of Canaan, saw his father naked and told his two brothers outside.",
+      "verse": 22
+    },
+    {
+      "text": "But Shem and Japheth took a garment and laid it across their shoulders; then they walked in backward and covered their father’s naked body. Their faces were turned the other way so that they would not see their father naked.",
+      "verse": 23
+    },
+    {
+      "text": "When Noah awoke from his wine and found out what his youngest son had done to him,",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "he said,",
+      "verse": 25
+    },
+    {
+      "text": "“Cursed be Canaan!",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The lowest of slaves",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "will he be to his brothers.”",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He also said,",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "“Praise be to the Lord, the God of Shem!",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "May Canaan be the slave of Shem.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "May God extend Japheth’s territory;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "may Japheth live in the tents of Shem,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and may Canaan be the slave of Japheth.”",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "After the flood Noah lived 350 years.",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "Noah lived a total of 950 years, and then he died.",
+      "verse": 29
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 57,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Let Your Glory Be over All the Earth",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: according to Do Not Destroy. A Miktam of David, when he fled from Saul, in the cave.",
+      "type": "title"
+    },
+    {
+      "text": "Be merciful to me, O God, be merciful to me,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for in you my soul takes refuge;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "in the shadow of your wings I will take refuge,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "till the storms of destruction pass by.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I cry out to God Most High,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to God who fulfills his purpose for me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He will send from heaven and save me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he will put to shame him who tramples on me. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "God will send out his steadfast love and his faithfulness!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul is in the midst of lions;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I lie down amid fiery beasts—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the children of man, whose teeth are spears and arrows,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "whose tongues are sharp swords.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O God, above the heavens!",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let your glory be over all the earth!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They set a net for my steps;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my soul was bowed down.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They dug a pit in my way,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but they have fallen into it themselves. Selah",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart is steadfast, O God,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "my heart is steadfast!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sing and make melody!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    Awake, my glory!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, O harp and lyre!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will awake the dawn!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give thanks to you, O Lord, among the peoples;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sing praises to you among the nations.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For your steadfast love is great to the heavens,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "your faithfulness to the clouds.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Be exalted, O God, above the heavens!",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let your glory be over all the earth!",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

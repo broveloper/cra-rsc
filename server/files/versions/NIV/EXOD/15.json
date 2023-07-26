@@ -1,0 +1,416 @@
+{
+  "book_id": "EXOD",
+  "book_name": "Exodus",
+  "chapter": 15,
+  "verses": 27,
+  "content": [
+    {
+      "text": "The Song of Moses and Miriam",
+      "type": "heading"
+    },
+    {
+      "text": "Then Moses and the Israelites sang this song to the Lord:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“I will sing to the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for he is highly exalted.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Both horse and driver",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "he has hurled into the sea.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord is my strength and my defense;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he has become my salvation.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He is my God, and I will praise him,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "my father’s God, and I will exalt him.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is a warrior;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord is his name.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Pharaoh’s chariots and his army",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he has hurled into the sea.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The best of Pharaoh’s officers",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "are drowned in the Red Sea.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The deep waters have covered them;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they sank to the depths like a stone.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your right hand, Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "was majestic in power.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Your right hand, Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "shattered the enemy.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“In the greatness of your majesty",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you threw down those who opposed you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You unleashed your burning anger;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "it consumed them like stubble.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "By the blast of your nostrils",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the waters piled up.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The surging waters stood up like a wall;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the deep waters congealed in the heart of the sea.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The enemy boasted,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I will pursue, I will overtake them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will divide the spoils;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will gorge myself on them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will draw my sword",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and my hand will destroy them.’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But you blew with your breath,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sea covered them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They sank like lead",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "in the mighty waters.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Who among the gods",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "is like you, Lord?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is like you—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "majestic in holiness,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "awesome in glory,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "working wonders?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“You stretch out your right hand,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the earth swallows your enemies.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "In your unfailing love you will lead",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the people you have redeemed.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In your strength you will guide them",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "to your holy dwelling.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The nations will hear and tremble;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "anguish will grip the people of Philistia.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The chiefs of Edom will be terrified,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the leaders of Moab will be seized with trembling,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the people of Canaan will melt away;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "    terror and dread will fall on them.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "By the power of your arm",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be as still as a stone—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "until your people pass by, Lord,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "until the people you bought pass by.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You will bring them in and plant them",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "on the mountain of your inheritance—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the place, Lord, you made for your dwelling,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the sanctuary, Lord, your hands established.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord reigns",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for ever and ever.”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "When Pharaoh’s horses, chariots and horsemen went into the sea, the Lord brought the waters of the sea back over them, but the Israelites walked through the sea on dry ground.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Then Miriam the prophet, Aaron’s sister, took a timbrel in her hand, and all the women followed her, with timbrels and dancing.",
+      "verse": 20
+    },
+    {
+      "text": "Miriam sang to them:",
+      "verse": 21
+    },
+    {
+      "text": "“Sing to the Lord,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for he is highly exalted.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Both horse and driver",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "he has hurled into the sea.”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The Waters of Marah and Elim",
+      "type": "heading"
+    },
+    {
+      "text": "Then Moses led Israel from the Red Sea and they went into the Desert of Shur. For three days they traveled in the desert without finding water.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "When they came to Marah, they could not drink its water because it was bitter. (That is why the place is called Marah.)",
+      "verse": 23
+    },
+    {
+      "text": "So the people grumbled against Moses, saying, “What are we to drink?”",
+      "verse": 24
+    },
+    {
+      "text": "Then Moses cried out to the Lord, and the Lord showed him a piece of wood. He threw it into the water, and the water became fit to drink.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "There the Lord issued a ruling and instruction for them and put them to the test.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "He said, “If you listen carefully to the Lord your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the Lord, who heals you.”",
+      "verse": 26
+    },
+    {
+      "text": "Then they came to Elim, where there were twelve springs and seventy palm trees, and they camped there near the water.",
+      "verse": 27,
+      "type": "newline"
+    }
+  ]
+}

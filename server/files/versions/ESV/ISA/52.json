@@ -1,0 +1,258 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 52,
+  "verses": 15,
+  "content": [
+    {
+      "text": "The Lord's Coming Salvation",
+      "type": "heading"
+    },
+    {
+      "text": "Awake, awake,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "put on your strength, O Zion;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "put on your beautiful garments,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O Jerusalem, the holy city;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for there shall no more come into you",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "the uncircumcised and the unclean.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Shake yourself from the dust and arise;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "be seated, O Jerusalem;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "loose the bonds from your neck,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "O captive daughter of Zion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord: “You were sold for nothing, and you shall be redeemed without money.”",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For thus says the Lord God: “My people went down at the first into Egypt to sojourn there, and the Assyrian oppressed them for nothing.",
+      "verse": 4
+    },
+    {
+      "text": "Now therefore what have I here,” declares the Lord, “seeing that my people are taken away for nothing? Their rulers wail,” declares the Lord, “and continually all the day my name is despised.",
+      "verse": 5
+    },
+    {
+      "text": "Therefore my people shall know my name. Therefore in that day they shall know that it is I who speak; here I am.”",
+      "verse": 6
+    },
+    {
+      "text": "How beautiful upon the mountains",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "are the feet of him who brings good news,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "who publishes peace, who brings good news of happiness,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "who publishes salvation,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "who says to Zion, “Your God reigns.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of your watchmen—they lift up their voice;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "together they sing for joy;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for eye to eye they see",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the return of the Lord to Zion.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Break forth together into singing,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you waste places of Jerusalem,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord has comforted his people;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "he has redeemed Jerusalem.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has bared his holy arm",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "before the eyes of all the nations,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the ends of the earth shall see",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the salvation of our God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Depart, depart, go out from there;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "touch no unclean thing;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "go out from the midst of her; purify yourselves,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you who bear the vessels of the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For you shall not go out in haste,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and you shall not go in flight,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord will go before you,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the God of Israel will be your rear guard.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He Was Pierced for Our Transgressions",
+      "type": "heading"
+    },
+    {
+      "text": "Behold, my servant shall act wisely;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he shall be high and lifted up,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall be exalted.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "As many were astonished at you—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "his appearance was so marred, beyond human semblance,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and his form beyond that of the children of mankind—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "so shall he sprinkle many nations.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Kings shall shut their mouths because of him,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "for that which has not been told them they see,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and that which they have not heard they understand.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

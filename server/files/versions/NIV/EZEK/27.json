@@ -1,0 +1,483 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 27,
+  "verses": 36,
+  "content": [
+    {
+      "text": "A Lament Over Tyre",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came to me:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, take up a lament concerning Tyre.",
+      "verse": 2
+    },
+    {
+      "text": "Say to Tyre, situated at the gateway to the sea, merchant of peoples on many coasts, ‘This is what the Sovereign Lord says:",
+      "verse": 3
+    },
+    {
+      "text": "“‘You say, Tyre,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“I am perfect in beauty.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your domain was on the high seas;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "your builders brought your beauty to perfection.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They made all your timbers",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "of juniper from Senir;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they took a cedar from Lebanon",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "to make a mast for you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Of oaks from Bashan",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they made your oars;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "of cypress wood from the coasts of Cyprus",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they made your deck, adorned with ivory.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Fine embroidered linen from Egypt was your sail",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and served as your banner;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "your awnings were of blue and purple",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "from the coasts of Elishah.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Men of Sidon and Arvad were your oarsmen;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "your skilled men, Tyre, were aboard as your sailors.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Veteran craftsmen of Byblos were on board",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as shipwrights to caulk your seams.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All the ships of the sea and their sailors",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "came alongside to trade for your wares.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘Men of Persia, Lydia and Put",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "served as soldiers in your army.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They hung their shields and helmets on your walls,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "bringing you splendor.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Men of Arvad and Helek",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "guarded your walls on every side;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "men of Gammad",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "were in your towers.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They hung their shields around your walls;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they brought your beauty to perfection.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘Tarshish did business with you because of your great wealth of goods; they exchanged silver, iron, tin and lead for your merchandise.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Greece, Tubal and Meshek did business with you; they traded human beings and articles of bronze for your wares.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Men of Beth Togarmah exchanged chariot horses, cavalry horses and mules for your merchandise.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "“‘The men of Rhodes traded with you, and many coastlands were your customers; they paid you with ivory tusks and ebony.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Aram did business with you because of your many products; they exchanged turquoise, purple fabric, embroidered work, fine linen, coral and rubies for your merchandise.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Judah and Israel traded with you; they exchanged wheat from Minnith and confections, honey, olive oil and balm for your wares.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Damascus did business with you because of your many products and great wealth of goods. They offered wine from Helbon, wool from Zahar",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "and casks of wine from Izal in exchange for your wares: wrought iron, cassia and calamus.",
+      "verse": 19
+    },
+    {
+      "text": "“‘Dedan traded in saddle blankets with you.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Arabia and all the princes of Kedar were your customers; they did business with you in lambs, rams and goats.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "“‘The merchants of Sheba and Raamah traded with you; for your merchandise they exchanged the finest of all kinds of spices and precious stones, and gold.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Harran, Kanneh and Eden and merchants of Sheba, Ashur and Kilmad traded with you.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "In your marketplace they traded with you beautiful garments, blue fabric, embroidered work and multicolored rugs with cords twisted and tightly knotted.",
+      "verse": 24
+    },
+    {
+      "text": "“‘The ships of Tarshish serve",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as carriers for your wares.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "You are filled with heavy cargo",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "as you sail the sea.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Your oarsmen take you",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "out to the high seas.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "But the east wind will break you to pieces",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "far out at sea.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wealth, merchandise and wares,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "your mariners, sailors and shipwrights,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "your merchants and all your soldiers,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and everyone else on board",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "will sink into the heart of the sea",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "on the day of your shipwreck.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The shorelands will quake",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "when your sailors cry out.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "All who handle the oars",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "will abandon their ships;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the mariners and all the sailors",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "will stand on the shore.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "They will raise their voice",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and cry bitterly over you;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "they will sprinkle dust on their heads",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and roll in ashes.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "They will shave their heads because of you",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and will put on sackcloth.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "They will weep over you with anguish of soul",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and with bitter mourning.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "As they wail and mourn over you,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "they will take up a lament concerning you:",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who was ever silenced like Tyre,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "surrounded by the sea?”",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "When your merchandise went out on the seas,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "you satisfied many nations;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "with your great wealth and your wares",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "you enriched the kings of the earth.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Now you are shattered by the sea",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "in the depths of the waters;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "your wares and all your company",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "have gone down with you.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "All who live in the coastlands",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "are appalled at you;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "their kings shudder with horror",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "and their faces are distorted with fear.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "The merchants among the nations scoff at you;",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "you have come to a horrible end",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "and will be no more.’”",
+      "verse": 36,
+      "type": "poetry"
+    }
+  ]
+}

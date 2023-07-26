@@ -1,0 +1,225 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 12,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Remember your Creator",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "in the days of your youth,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "before the days of trouble come",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and the years approach when you will say,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“I find no pleasure in them”—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "before the sun and the light",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the moon and the stars grow dark,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the clouds return after the rain;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when the keepers of the house tremble,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the strong men stoop,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when the grinders cease because they are few,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and those looking through the windows grow dim;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when the doors to the street are closed",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sound of grinding fades;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "when people rise up at the sound of birds,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but all their songs grow faint;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "when people are afraid of heights",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and of dangers in the streets;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "when the almond tree blossoms",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the grasshopper drags itself along",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and desire no longer is stirred.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Then people go to their eternal home",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and mourners go about the streets.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember him—before the silver cord is severed,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the golden bowl is broken;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "before the pitcher is shattered at the spring,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the wheel broken at the well,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the dust returns to the ground it came from,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the spirit returns to God who gave it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Meaningless! Meaningless!” says the Teacher.",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Everything is meaningless!”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Conclusion of the Matter",
+      "type": "heading"
+    },
+    {
+      "text": "Not only was the Teacher wise, but he also imparted knowledge to the people. He pondered and searched out and set in order many proverbs.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "The Teacher searched to find just the right words, and what he wrote was upright and true.",
+      "verse": 10
+    },
+    {
+      "text": "The words of the wise are like goads, their collected sayings like firmly embedded nails—given by one shepherd.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Be warned, my son, of anything in addition to them.",
+      "verse": 12
+    },
+    {
+      "text": "Of making many books there is no end, and much study wearies the body.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Now all has been heard;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "here is the conclusion of the matter:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Fear God and keep his commandments,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for this is the duty of all mankind.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For God will bring every deed into judgment,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "including every hidden thing,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "whether it is good or evil.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

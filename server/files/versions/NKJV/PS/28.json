@@ -1,0 +1,171 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 28,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Rejoicing in Answered Prayer",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "To You I will cry, O Lord my Rock:",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not be silent to me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest, if You are silent to me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I become like those who go down to the pit.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear the voice of my supplications",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I cry to You,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I lift up my hands toward Your holy sanctuary.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not take me away with the wicked",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And with the workers of iniquity,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who speak peace to their neighbors,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But evil is in their hearts.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Give them according to their deeds,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And according to the wickedness of their endeavors;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Give them according to the work of their hands;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Render to them what they deserve.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they do not regard the works of the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor the operation of His hands,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall destroy them",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And not build them up.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because He has heard the voice of my supplications!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is my strength and my shield;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart trusted in Him, and I am helped;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore my heart greatly rejoices,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And with my song I will praise Him.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is their strength,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And He is the saving refuge of His anointed.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Save Your people,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And bless Your inheritance;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Shepherd them also,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And bear them up forever.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

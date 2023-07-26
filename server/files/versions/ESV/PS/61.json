@@ -1,0 +1,106 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 61,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Lead Me to the Rock",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: with stringed instruments. Of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear my cry, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "listen to my prayer;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "from the end of the earth I call to you",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when my heart is faint.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Lead me to the rock",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that is higher than I,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for you have been my refuge,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "a strong tower against the enemy.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me dwell in your tent forever!",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let me take refuge under the shelter of your wings! Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For you, O God, have heard my vows;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "you have given me the heritage of those who fear your name.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Prolong the life of the king;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may his years endure to all generations!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "May he be enthroned forever before God;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "appoint steadfast love and faithfulness to watch over him!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "So will I ever sing praises to your name,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as I perform my vows day after day.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

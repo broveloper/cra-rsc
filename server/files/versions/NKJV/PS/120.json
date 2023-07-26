@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 120,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Plea for Relief from Bitter Foes",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "In my distress I cried to the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And He heard me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver my soul, O Lord, from lying lips",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And from a deceitful tongue.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "What shall be given to you,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Or what shall be done to you,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You false tongue?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Sharp arrows of the warrior,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With coals of the broom tree!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe is me, that I dwell in Meshech,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That I dwell among the tents of Kedar!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul has dwelt too long",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "With one who hates peace.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I am for peace;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But when I speak, they are for war.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

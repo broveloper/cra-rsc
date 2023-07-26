@@ -1,0 +1,376 @@
+{
+  "book_id": "AMOS",
+  "book_name": "Amos",
+  "chapter": 9,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Israel to Be Destroyed",
+      "type": "heading"
+    },
+    {
+      "text": "I saw the Lord standing by the altar, and he said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Strike the tops of the pillars",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so that the thresholds shake.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring them down on the heads of all the people;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "those who are left I will kill with the sword.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Not one will get away,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "none will escape.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they dig down to the depths below,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "from there my hand will take them.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they climb up to the heavens above,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "from there I will bring them down.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they hide themselves on the top of Carmel,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "there I will hunt them down and seize them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they hide from my eyes at the bottom of the sea,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "there I will command the serpent to bite them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Though they are driven into exile by their enemies,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "there I will command the sword to slay them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will keep my eye on them",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for harm and not for good.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord, the Lord Almighty—",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he touches the earth and it melts,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and all who live in it mourn;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the whole land rises like the Nile,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "then sinks like the river of Egypt;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he builds his lofty palace in the heavens",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and sets its foundation on the earth;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he calls for the waters of the sea",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and pours them out over the face of the land—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord is his name.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Are not you Israelites",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the same to me as the Cushites?”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Did I not bring Israel up from Egypt,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the Philistines from Caphtor",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Arameans from Kir?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely the eyes of the Sovereign Lord",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "are on the sinful kingdom.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy it",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from the face of the earth.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I will not totally destroy",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the descendants of Jacob,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“For I will give the command,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will shake the people of Israel",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "among all the nations",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as grain is shaken in a sieve,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and not a pebble will reach the ground.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All the sinners among my people",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "will die by the sword,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "all those who say,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Disaster will not overtake or meet us.’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel’s Restoration",
+      "type": "heading"
+    },
+    {
+      "text": "“In that day",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "“I will restore David’s fallen shelter—",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will repair its broken walls",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and restore its ruins—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and will rebuild it as it used to be,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "so that they may possess the remnant of Edom",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the nations that bear my name,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord, who will do these things.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“The days are coming,” declares the Lord,",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“when the reaper will be overtaken by the plowman",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the planter by the one treading grapes.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "New wine will drip from the mountains",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and flow from all the hills,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "    and I will bring my people Israel back from exile.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“They will rebuild the ruined cities and live in them.",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They will plant vineyards and drink their wine;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they will make gardens and eat their fruit.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will plant Israel in their own land,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "never again to be uprooted",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "from the land I have given them,”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord your God.",
+      "verse": 15,
+      "type": "poetry newline"
+    }
+  ]
+}

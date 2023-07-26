@@ -1,0 +1,237 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 27,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Job’s Final Word to His Friends",
+      "type": "heading"
+    },
+    {
+      "text": "And Job continued his discourse:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“As surely as God lives, who has denied me justice,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Almighty, who has made my life bitter,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as long as I have life within me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the breath of God in my nostrils,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my lips will not say anything wicked,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and my tongue will not utter lies.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will never admit you are in the right;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "till I die, I will not deny my integrity.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will maintain my innocence and never let go of it;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "my conscience will not reproach me as long as I live.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“May my enemy be like the wicked,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my adversary like the unjust!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For what hope have the godless when they are cut off,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "when God takes away their life?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Does God listen to their cry",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "when distress comes upon them?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Will they find delight in the Almighty?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will they call on God at all times?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will teach you about the power of God;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the ways of the Almighty I will not conceal.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You have all seen this yourselves.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Why then this meaningless talk?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Here is the fate God allots to the wicked,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the heritage a ruthless man receives from the Almighty:",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "However many his children, their fate is the sword;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "his offspring will never have enough to eat.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The plague will bury those who survive him,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and their widows will not weep for them.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Though he heaps up silver like dust",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and clothes like piles of clay,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "what he lays up the righteous will wear,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the innocent will divide his silver.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The house he builds is like a moth’s cocoon,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "like a hut made by a watchman.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He lies down wealthy, but will do so no more;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "when he opens his eyes, all is gone.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Terrors overtake him like a flood;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "a tempest snatches him away in the night.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The east wind carries him off, and he is gone;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "it sweeps him out of his place.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "It hurls itself against him without mercy",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "as he flees headlong from its power.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "It claps its hands in derision",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and hisses him out of his place.”",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

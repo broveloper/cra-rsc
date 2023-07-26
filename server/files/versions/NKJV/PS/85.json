@@ -1,0 +1,156 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 85,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Prayer that the Lord Will Restore Favor to the Land",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of the sons of Korah.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, You have been favorable to Your land;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have brought back the captivity of Jacob.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have forgiven the iniquity of Your people;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You have covered all their sin. Selah",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You have taken away all Your wrath;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You have turned from the fierceness of Your anger.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Restore us, O God of our salvation,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And cause Your anger toward us to cease.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Will You be angry with us forever?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Will You prolong Your anger to all generations?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Will You not revive us again,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That Your people may rejoice in You?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Show us Your mercy, Lord,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And grant us Your salvation.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will hear what God the Lord will speak,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For He will speak peace",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "To His people and to His saints;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But let them not turn back to folly.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely His salvation is near to those who fear Him,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That glory may dwell in our land.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Mercy and truth have met together;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Righteousness and peace have kissed.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Truth shall spring out of the earth,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And righteousness shall look down from heaven.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, the Lord will give what is good;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And our land will yield its increase.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Righteousness will go before Him,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall make His footsteps our pathway.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

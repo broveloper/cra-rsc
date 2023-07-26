@@ -1,0 +1,382 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 3,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Judgment on Jerusalem and Judah",
+      "type": "heading"
+    },
+    {
+      "text": "See now, the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord Almighty,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "is about to take from Jerusalem and Judah",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "both supply and support:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "all supplies of food and all supplies of water,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "    the hero and the warrior,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the judge and the prophet,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the diviner and the elder,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the captain of fifty and the man of rank,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the counselor, skilled craftsman and clever enchanter.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will make mere youths their officials;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "children will rule over them.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "People will oppress each other—",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "man against man, neighbor against neighbor.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The young will rise up against the old,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the nobody against the honored.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A man will seize one of his brothers",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in his father’s house, and say,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“You have a cloak, you be our leader;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "take charge of this heap of ruins!”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But in that day he will cry out,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“I have no remedy.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I have no food or clothing in my house;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "do not make me the leader of the people.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem staggers,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Judah is falling;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "their words and deeds are against the Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "defying his glorious presence.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The look on their faces testifies against them;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they parade their sin like Sodom;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "they do not hide it.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to them!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They have brought disaster upon themselves.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Tell the righteous it will be well with them,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for they will enjoy the fruit of their deeds.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to the wicked!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Disaster is upon them!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be paid back",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "for what their hands have done.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Youths oppress my people,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "women rule over them.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "My people, your guides lead you astray;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they turn you from the path.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord takes his place in court;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he rises to judge the people.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord enters into judgment",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "against the elders and leaders of his people:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“It is you who have ruined my vineyard;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the plunder from the poor is in your houses.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "What do you mean by crushing my people",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and grinding the faces of the poor?”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord, the Lord Almighty.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord says,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“The women of Zion are haughty,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "walking along with outstretched necks,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "flirting with their eyes,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "strutting along with swaying hips,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "with ornaments jingling on their ankles.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the Lord will bring sores on the heads of the women of Zion;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord will make their scalps bald.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day the Lord will snatch away their finery: the bangles and headbands and crescent necklaces,",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "the earrings and bracelets and veils,",
+      "verse": 19
+    },
+    {
+      "text": "the headdresses and anklets and sashes, the perfume bottles and charms,",
+      "verse": 20
+    },
+    {
+      "text": "the signet rings and nose rings,",
+      "verse": 21
+    },
+    {
+      "text": "the fine robes and the capes and cloaks, the purses",
+      "verse": 22
+    },
+    {
+      "text": "and mirrors, and the linen garments and tiaras and shawls.",
+      "verse": 23
+    },
+    {
+      "text": "Instead of fragrance there will be a stench;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "instead of a sash, a rope;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "instead of well-dressed hair, baldness;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "instead of fine clothing, sackcloth;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "instead of beauty, branding.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Your men will fall by the sword,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "your warriors in battle.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The gates of Zion will lament and mourn;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "destitute, she will sit on the ground.",
+      "verse": 26,
+      "type": "poetry"
+    }
+  ]
+}

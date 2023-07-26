@@ -1,0 +1,191 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 81,
+  "verses": 16,
+  "content": [
+    {
+      "text": "An Appeal for Israel’s Repentance",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. On an instrument of Gath. A Psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "Sing aloud to God our strength;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Make a joyful shout to the God of Jacob.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Raise a song and strike the timbrel,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The pleasant harp with the lute.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Blow the trumpet at the time of the New Moon,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "At the full moon, on our solemn feast day.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For this is a statute for Israel,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A law of the God of Jacob.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "This He established in Joseph as a testimony,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "When He went throughout the land of Egypt,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Where I heard a language I did not understand.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I removed his shoulder from the burden;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His hands were freed from the baskets.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You called in trouble, and I delivered you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I answered you in the secret place of thunder;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I tested you at the waters of Meribah. Selah",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear, O My people, and I will admonish you!",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Israel, if you will listen to Me!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "There shall be no foreign god among you;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall you worship any foreign god.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I am the Lord your God,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Who brought you out of the land of Egypt;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Open your mouth wide, and I will fill it.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“But My people would not heed My voice,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Israel would have none of Me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "So I gave them over to their own stubborn heart,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "To walk in their own counsels.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“Oh, that My people would listen to Me,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That Israel would walk in My ways!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I would soon subdue their enemies,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And turn My hand against their adversaries.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The haters of the Lord would pretend submission to Him,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But their fate would endure forever.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He would have fed them also with the finest of wheat;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And with honey from the rock I would have satisfied you.”",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

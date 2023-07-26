@@ -1,0 +1,246 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 17,
+  "verses": 14,
+  "content": [
+    {
+      "text": "An Oracle Concerning Damascus",
+      "type": "heading"
+    },
+    {
+      "text": "An oracle concerning Damascus.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, Damascus will cease to be a city",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and will become a heap of ruins.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The cities of Aroer are deserted;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be for flocks,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "which will lie down, and none will make them afraid.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The fortress will disappear from Ephraim,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the kingdom from Damascus;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the remnant of Syria will be",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like the glory of the children of Israel,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord of hosts.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And in that day the glory of Jacob will be brought low,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the fat of his flesh will grow lean.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall be as when the reaper gathers standing grain",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and his arm harvests the ears,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and as when one gleans the ears of grain",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in the Valley of Rephaim.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Gleanings will be left in it,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "as when an olive tree is beaten—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "two or three berries",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in the top of the highest bough,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "four or five",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "on the branches of a fruit tree,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord God of Israel.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day man will look to his Maker, and his eyes will look on the Holy One of Israel.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "He will not look to the altars, the work of his hands, and he will not look on what his own fingers have made, either the Asherim or the altars of incense.",
+      "verse": 8
+    },
+    {
+      "text": "In that day their strong cities will be like the deserted places of the wooded heights and the hilltops, which they deserted because of the children of Israel, and there will be desolation.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "For you have forgotten the God of your salvation",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and have not remembered the Rock of your refuge;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore, though you plant pleasant plants",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and sow the vine-branch of a stranger,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "though you make them grow on the day that you plant them,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and make them blossom in the morning that you sow,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "yet the harvest will flee away",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "in a day of grief and incurable pain.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Ah, the thunder of many peoples;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they thunder like the thundering of the sea!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Ah, the roar of nations;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they roar like the roaring of mighty waters!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The nations roar like the roaring of many waters,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but he will rebuke them, and they will flee far away,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "chased like chaff on the mountains before the wind",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and whirling dust before the storm.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "At evening time, behold, terror!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Before morning, they are no more!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the portion of those who loot us,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and the lot of those who plunder us.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

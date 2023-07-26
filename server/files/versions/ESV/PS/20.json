@@ -1,0 +1,116 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 20,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Trust in the Name of the Lord Our God",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "May the Lord answer you in the day of trouble!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "May the name of the God of Jacob protect you!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "May he send you help from the sanctuary",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and give you support from Zion!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May he remember all your offerings",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and regard with favor your burnt sacrifices! Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May he grant you your heart's desire",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and fulfill all your plans!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May we shout for joy over your salvation,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and in the name of our God set up our banners!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "May the Lord fulfill all your petitions!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Now I know that the Lord saves his anointed;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will answer him from his holy heaven",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with the saving might of his right hand.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Some trust in chariots and some in horses,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but we trust in the name of the Lord our God.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They collapse and fall,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but we rise and stand upright.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, save the king!",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "May he answer us when we call.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "book_id": "ZECH",
+  "book_name": "Zechariah",
+  "chapter": 10,
+  "verses": 12,
+  "content": [
+    {
+      "text": "The Restoration for Judah and Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Ask rain from the Lord",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the season of the spring rain,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "from the Lord who makes the storm clouds,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and he will give them showers of rain,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to everyone the vegetation in the field.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the household gods utter nonsense,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the diviners see lies;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they tell false dreams",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and give empty consolation.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the people wander like sheep;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they are afflicted for lack of a shepherd.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“My anger is hot against the shepherds,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I will punish the leaders;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord of hosts cares for his flock, the house of Judah,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and will make them like his majestic steed in battle.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "From him shall come the cornerstone,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "from him the tent peg,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "from him the battle bow,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "from him every ruler—all of them together.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall be like mighty men in battle,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "trampling the foe in the mud of the streets;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall fight because the Lord is with them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall put to shame the riders on horses.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will strengthen the house of Judah,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I will save the house of Joseph.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them back because I have compassion on them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall be as though I had not rejected them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am the Lord their God and I will answer them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Ephraim shall become like a mighty warrior,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and their hearts shall be glad as with wine.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their children shall see it and be glad;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their hearts shall rejoice in the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will whistle for them and gather them in,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I have redeemed them,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall be as many as they were before.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I scattered them among the nations,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "yet in far countries they shall remember me,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and with their children they shall live and return.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them home from the land of Egypt,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and gather them from Assyria,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will bring them to the land of Gilead and to Lebanon,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "till there is no room for them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall pass through the sea of troubles",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and strike down the waves of the sea,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the depths of the Nile shall be dried up.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The pride of Assyria shall be laid low,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and the scepter of Egypt shall depart.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make them strong in the Lord,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall walk in his name,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

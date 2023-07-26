@@ -1,0 +1,361 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 109,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Psalm 109",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. Of David. A psalm.",
+      "type": "title"
+    },
+    {
+      "text": "My God, whom I praise,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not remain silent,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for people who are wicked and deceitful",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "have opened their mouths against me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they have spoken against me with lying tongues.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "With words of hatred they surround me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they attack me without cause.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In return for my friendship they accuse me,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but I am a man of prayer.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They repay me evil for good,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and hatred for my friendship.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Appoint someone evil to oppose my enemy;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let an accuser stand at his right hand.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When he is tried, let him be found guilty,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and may his prayers condemn him.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "May his days be few;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "may another take his place of leadership.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "May his children be fatherless",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and his wife a widow.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "May his children be wandering beggars;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "may they be driven from their ruined homes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "May a creditor seize all he has;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "may strangers plunder the fruits of his labor.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "May no one extend kindness to him",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "or take pity on his fatherless children.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "May his descendants be cut off,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "their names blotted out from the next generation.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "May the iniquity of his fathers be remembered before the Lord;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "may the sin of his mother never be blotted out.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "May their sins always remain before the Lord,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "that he may blot out their name from the earth.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For he never thought of doing a kindness,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but hounded to death the poor",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the needy and the brokenhearted.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He loved to pronounce a curse—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "may it come back on him.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He found no pleasure in blessing—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "may it be far from him.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "He wore cursing as his garment;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "it entered into his body like water,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "into his bones like oil.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "May it be like a cloak wrapped about him,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "like a belt tied forever around him.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "May this be the Lord’s payment to my accusers,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to those who speak evil of me.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, Sovereign Lord,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "help me for your name’s sake;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "out of the goodness of your love, deliver me.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am poor and needy,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and my heart is wounded within me.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I fade away like an evening shadow;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I am shaken off like a locust.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "My knees give way from fasting;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "my body is thin and gaunt.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I am an object of scorn to my accusers;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "when they see me, they shake their heads.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Help me, Lord my God;",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "save me according to your unfailing love.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them know that it is your hand,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "that you, Lord, have done it.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "While they curse, may you bless;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "may those who attack me be put to shame,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "but may your servant rejoice.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "May my accusers be clothed with disgrace",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and wrapped in shame as in a cloak.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "With my mouth I will greatly extol the Lord;",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the great throng of worshipers I will praise him.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For he stands at the right hand of the needy,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "to save their lives from those who would condemn them.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

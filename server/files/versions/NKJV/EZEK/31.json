@@ -1,0 +1,207 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 31,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Egypt Cut Down Like a Great Tree",
+      "type": "heading"
+    },
+    {
+      "text": "Now it came to pass in the eleventh year, in the third month, on the first day of the month, that the word of the Lord came to me, saying, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, say to Pharaoh king of Egypt and to his multitude:",
+      "verse": 2
+    },
+    {
+      "text": "‘Whom are you like in your greatness?",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Indeed Assyria was a cedar in Lebanon,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "With fine branches that shaded the forest,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And of high stature;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And its top was among the thick boughs.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters made it grow;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Underground waters gave it height,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With their rivers running around the place where it was planted,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And sent out rivulets to all the trees of the field.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Therefore its height was exalted above all the trees of the field;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Its boughs were multiplied,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And its branches became long because of the abundance of water,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "As it sent them out.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "All the birds of the heavens made their nests in its boughs;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Under its branches all the beasts of the field brought forth their young;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And in its shadow all great nations made their home.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Thus it was beautiful in greatness and in the length of its branches,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because its roots reached to abundant waters.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The cedars in the garden of God could not hide it;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The fir trees were not like its boughs,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the chestnut trees were not like its branches;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "No tree in the garden of God was like it in beauty.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I made it beautiful with a multitude of branches,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "So that all the trees of Eden envied it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That were in the garden of God.’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore thus says the Lord God: ‘Because you have increased in height, and it set its top among the thick boughs, and its heart was lifted up in its height, ",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "therefore I will deliver it into the hand of the mighty one of the nations, and he shall surely deal with it; I have driven it out for its wickedness. ",
+      "verse": 11
+    },
+    {
+      "text": "And aliens, the most terrible of the nations, have cut it down and left it; its branches have fallen on the mountains and in all the valleys; its boughs lie broken by all the rivers of the land; and all the peoples of the earth have gone from under its shadow and left it.",
+      "verse": 12
+    },
+    {
+      "text": "‘On its ruin will remain all the birds of the heavens,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And all the beasts of the field will come to its branches—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So that no trees by the waters may ever again exalt themselves for their height, nor set their tops among the thick boughs, that no tree which drinks water may ever be high enough to reach up to them.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "‘For they have all been delivered to death,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To the depths of the earth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the children of men who go down to the Pit.’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Thus says the Lord God: ‘In the day when it went down to hell, I caused mourning. I covered the deep because of it. I restrained its rivers, and the great waters were held back. I caused Lebanon to mourn for it, and all the trees of the field wilted because of it. ",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "I made the nations shake at the sound of its fall, when I cast it down to hell together with those who descend into the Pit; and all the trees of Eden, the choice and best of Lebanon, all that drink water, were comforted in the depths of the earth. ",
+      "verse": 16
+    },
+    {
+      "text": "They also went down to hell with it, with those slain by the sword; and those who were its strong arm dwelt in its shadows among the nations.",
+      "verse": 17
+    },
+    {
+      "text": "‘To which of the trees in Eden will you then be likened in glory and greatness? Yet you shall be brought down with the trees of Eden to the depths of the earth; you shall lie in the midst of the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude,’ says the Lord God.”",
+      "verse": 18,
+      "type": "newline"
+    }
+  ]
+}

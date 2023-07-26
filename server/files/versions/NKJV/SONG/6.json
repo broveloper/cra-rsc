@@ -1,0 +1,290 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 6,
+  "verses": 13,
+  "content": [
+    {
+      "text": "I Am My Beloved’s",
+      "type": "heading"
+    },
+    {
+      "text": "The Daughters of Jerusalem",
+      "type": "title"
+    },
+    {
+      "text": "Where has your beloved gone,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O fairest among women?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Where has your beloved turned aside,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "That we may seek him with you?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "My beloved has gone to his garden,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To the beds of spices,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To feed his flock in the gardens,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And to gather lilies.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I am my beloved’s,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And my beloved is mine.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He feeds his flock among the lilies.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise of the Shulamite’s Beauty",
+      "type": "heading"
+    },
+    {
+      "text": "The Beloved",
+      "type": "title"
+    },
+    {
+      "text": "O my love, you are as beautiful as Tirzah,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lovely as Jerusalem,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Awesome as an army with banners!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn your eyes away from me,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have overcome me.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your hair is like a flock of goats",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Going down from Gilead.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Your teeth are like a flock of sheep",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Which have come up from the washing;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Every one bears twins,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And none is barren among them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a piece of pomegranate",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Are your temples behind your veil.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "There are sixty queens",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And eighty concubines,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And virgins without number.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My dove, my perfect one,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Is the only one,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The only one of her mother,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The favorite of the one who bore her.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The daughters saw her",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And called her blessed,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The queens and the concubines,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And they praised her.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is she who looks forth as the morning,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Fair as the moon,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Clear as the sun,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Awesome as an army with banners?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "I went down to the garden of nuts",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To see the verdure of the valley,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "To see whether the vine had budded",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And the pomegranates had bloomed.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Before I was even aware,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul had made me",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "As the chariots of my noble people.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Beloved and His Friends",
+      "type": "title"
+    },
+    {
+      "text": "Return, return, O Shulamite;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Return, return, that we may look upon you!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "What would you see in the Shulamite—",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As it were, the dance of the two camps?",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

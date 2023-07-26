@@ -1,0 +1,455 @@
+{
+  "book_id": "OBAD",
+  "book_name": "Obadiah",
+  "chapter": 1,
+  "verses": 21,
+  "content": [
+    {
+      "text": "The Coming Judgment on Edom",
+      "type": "heading"
+    },
+    {
+      "text": "The vision of Obadiah.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Thus says the Lord God concerning Edom",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "(We have heard a report from the Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And a messenger has been sent among the nations, saying,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Arise, and let us rise up against her for battle”):",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I will make you small among the nations;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You shall be greatly despised.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The pride of your heart has deceived you,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You who dwell in the clefts of the rock,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose habitation is high;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You who say in your heart, ‘Who will bring me down to the ground?’",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Though you ascend as high as the eagle,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And though you set your nest among the stars,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "From there I will bring you down,” says the Lord.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“If thieves had come to you,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "If robbers by night—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, how you will be cut off!—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Would they not have stolen till they had enough?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "If grape-gatherers had come to you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Would they not have left some gleanings?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Oh, how Esau shall be searched out!",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How his hidden treasures shall be sought after!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All the men in your confederacy",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall force you to the border;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The men at peace with you",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall deceive you and prevail against you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who eat your bread shall lay a trap for you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "No one is aware of it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Will I not in that day,” says the Lord,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Even destroy the wise men from Edom,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And understanding from the mountains of Esau?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Then your mighty men, O Teman, shall be dismayed,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To the end that everyone from the mountains of Esau",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "May be cut off by slaughter.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Edom Mistreated His Brother",
+      "type": "heading"
+    },
+    {
+      "text": "“For violence against your brother Jacob,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shame shall cover you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall be cut off forever.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day that you stood on the other side—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day that strangers carried captive his forces,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "When foreigners entered his gates",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And cast lots for Jerusalem—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Even you were as one of them.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“But you should not have gazed on the day of your brother",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In the day of his captivity;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor should you have rejoiced over the children of Judah",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of their destruction;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor should you have spoken proudly",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of distress.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You should not have entered the gate of My people",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of their calamity.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, you should not have gazed on their affliction",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of their calamity,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor laid hands on their substance",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of their calamity.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You should not have stood at the crossroads",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "To cut off those among them who escaped;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor should you have delivered up those among them who remained",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of distress.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“For the day of the Lord upon all the nations is near;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As you have done, it shall be done to you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Your reprisal shall return upon your own head.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For as you drank on My holy mountain,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall all the nations drink continually;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, they shall drink, and swallow,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall be as though they had never been.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel’s Final Triumph",
+      "type": "heading"
+    },
+    {
+      "text": "“But on Mount Zion there shall be deliverance,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And there shall be holiness;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The house of Jacob shall possess their possessions.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The house of Jacob shall be a fire,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And the house of Joseph a flame;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But the house of Esau shall be stubble;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall kindle them and devour them,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And no survivor shall remain of the house of Esau,”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has spoken.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The South shall possess the mountains of Esau,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the Lowland shall possess Philistia.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall possess the fields of Ephraim",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fields of Samaria.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Benjamin shall possess Gilead.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And the captives of this host of the children of Israel",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall possess the land of the Canaanites",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "As far as Zarephath.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The captives of Jerusalem who are in Sepharad",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall possess the cities of the South.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Then saviors shall come to Mount Zion",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "To judge the mountains of Esau,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And the kingdom shall be the Lord’s.",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

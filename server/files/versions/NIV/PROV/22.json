@@ -1,0 +1,336 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 22,
+  "verses": 29,
+  "content": [
+    {
+      "text": "A good name is more desirable than great riches;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to be esteemed is better than silver or gold.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Rich and poor have this in common:",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord is the Maker of them all.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The prudent see danger and take refuge,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but the simple keep going and pay the penalty.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Humility is the fear of the Lord;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "its wages are riches and honor and life.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In the paths of the wicked are snares and pitfalls,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but those who would preserve their life stay far from them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Start children off on the way they should go,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and even when they are old they will not turn from it.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The rich rule over the poor,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the borrower is slave to the lender.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever sows injustice reaps calamity,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the rod they wield in fury will be broken.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The generous will themselves be blessed,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for they share their food with the poor.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Drive out the mocker, and out goes strife;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "quarrels and insults are ended.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "One who loves a pure heart and who speaks with grace",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "will have the king for a friend.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The eyes of the Lord keep watch over knowledge,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but he frustrates the words of the unfaithful.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The sluggard says, “There’s a lion outside!",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I’ll be killed in the public square!”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The mouth of an adulterous woman is a deep pit;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a man who is under the Lord’s wrath falls into it.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Folly is bound up in the heart of a child,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but the rod of discipline will drive it far away.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "One who oppresses the poor to increase his wealth",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and one who gives gifts to the rich—both come to poverty.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Thirty Sayings of the Wise",
+      "type": "heading"
+    },
+    {
+      "text": "Saying 1",
+      "type": "title"
+    },
+    {
+      "text": "Pay attention and turn your ear to the sayings of the wise;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "apply your heart to what I teach,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for it is pleasing when you keep them in your heart",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and have all of them ready on your lips.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "So that your trust may be in the Lord,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "I teach you today, even you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Have I not written thirty sayings for you,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "sayings of counsel and knowledge,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "teaching you to be honest and to speak the truth,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "so that you bring back truthful reports",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "to those you serve?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 2",
+      "type": "title"
+    },
+    {
+      "text": "Do not exploit the poor because they are poor",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do not crush the needy in court,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord will take up their case",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and will exact life for life.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 3",
+      "type": "title"
+    },
+    {
+      "text": "Do not make friends with a hot-tempered person,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not associate with one easily angered,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "or you may learn their ways",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and get yourself ensnared.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 4",
+      "type": "title"
+    },
+    {
+      "text": "Do not be one who shakes hands in pledge",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or puts up security for debts;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "if you lack the means to pay,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "your very bed will be snatched from under you.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 5",
+      "type": "title"
+    },
+    {
+      "text": "Do not move an ancient boundary stone",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "set up by your ancestors.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying 6",
+      "type": "title"
+    },
+    {
+      "text": "Do you see someone skilled in their work?",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They will serve before kings;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "they will not serve before officials of low rank.",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

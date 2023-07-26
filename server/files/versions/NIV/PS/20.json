@@ -1,0 +1,121 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 20,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Psalm 20",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "May the Lord answer you when you are in distress;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may the name of the God of Jacob protect you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "May he send you help from the sanctuary",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and grant you support from Zion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May he remember all your sacrifices",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and accept your burnt offerings.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May he give you the desire of your heart",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and make all your plans succeed.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May we shout for joy over your victory",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and lift up our banners in the name of our God.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "May the Lord grant all your requests.",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Now this I know:",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord gives victory to his anointed.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He answers him from his heavenly sanctuary",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with the victorious power of his right hand.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Some trust in chariots and some in horses,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but we trust in the name of the Lord our God.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They are brought to their knees and fall,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but we rise up and stand firm.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, give victory to the king!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Answer us when we call!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

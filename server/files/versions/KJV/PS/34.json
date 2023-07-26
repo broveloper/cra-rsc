@@ -1,0 +1,117 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 34,
+  "verses": 22,
+  "content": [
+    {
+      "text": "I will bless the Lord at all times: his praise shall continually be in my mouth.",
+      "verse": 1
+    },
+    {
+      "text": "My soul shall make her boast in the Lord: the humble shall hear thereof, and be glad.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "O magnify the Lord with me, and let us exalt his name together.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "I sought the Lord, and he heard me, and delivered me from all my fears.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "They looked unto him, and were lightened: and their faces were not ashamed.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "This poor man cried, and the Lord heard him, and saved him out of all his troubles.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "The angel of the Lord encampeth round about them that fear him, and delivereth them.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "O taste and see that the Lord is good: blessed is the man that trusteth in him.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "O fear the Lord, ye his saints: for there is no want to them that fear him.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "The young lions do lack, and suffer hunger: but they that seek the Lord shall not want any good thing.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Come, ye children, hearken unto me: I will teach you the fear of the Lord.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "What man is he that desireth life, and loveth many days, that he may see good?",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Keep thy tongue from evil, and thy lips from speaking guile.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Depart from evil, and do good; seek peace, and pursue it.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "The eyes of the Lord are upon the righteous, and his ears are open unto their cry.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "The face of the Lord is against them that do evil, to cut off the remembrance of them from the earth.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "The righteous cry, and the Lord heareth, and delivereth them out of all their troubles.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Many are the afflictions of the righteous: but the Lord delivereth him out of them all.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "He keepeth all his bones: not one of them is broken.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+      "verse": 22,
+      "type": "newline"
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 28,
+  "verses": 28,
+  "content": [
+    {
+      "text": "The Righteous Are Bold as a Lion",
+      "type": "heading"
+    },
+    {
+      "text": "The wicked flee when no one pursues,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the righteous are bold as a lion.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the transgression of a land, many are its princes;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But by a man of understanding and knowledge",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Right will be prolonged.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "A poor man who oppresses the poor",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is like a driving rain which leaves no food.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who forsake the law praise the wicked,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But such as keep the law contend with them.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Evil men do not understand justice,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But those who seek the Lord understand all.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Better is the poor who walks in his integrity",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than one perverse in his ways, though he be rich.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever keeps the law is a discerning son,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a companion of gluttons shames his father.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "One who increases his possessions by usury and extortion",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Gathers it for him who will pity the poor.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "One who turns away his ear from hearing the law,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Even his prayer is an abomination.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever causes the upright to go astray in an evil way,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He himself will fall into his own pit;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But the blameless will inherit good.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The rich man is wise in his own eyes,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the poor who has understanding searches him out.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "When the righteous rejoice, there is great glory;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But when the wicked arise, men hide themselves.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He who covers his sins will not prosper,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But whoever confesses and forsakes them will have mercy.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Happy is the man who is always reverent,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who hardens his heart will fall into calamity.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a roaring lion and a charging bear",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Is a wicked ruler over poor people.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A ruler who lacks understanding is a great oppressor,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who hates covetousness will prolong his days.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "A man burdened with bloodshed will flee into a pit;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let no one help him.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever walks blamelessly will be saved,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who is perverse in his ways will suddenly fall.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He who tills his land will have plenty of bread,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who follows frivolity will have poverty enough!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "A faithful man will abound with blessings,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who hastens to be rich will not go unpunished.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "To show partiality is not good,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because for a piece of bread a man will transgress.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A man with an evil eye hastens after riches,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And does not consider that poverty will come upon him.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He who rebukes a man will find more favor afterward",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than he who flatters with the tongue.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever robs his father or his mother,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And says, “It is no transgression,”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The same is companion to a destroyer.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "He who is of a proud heart stirs up strife,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who trusts in the Lord will be prospered.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He who trusts in his own heart is a fool,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But whoever walks wisely will be delivered.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "He who gives to the poor will not lack,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who hides his eyes will have many curses.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "When the wicked arise, men hide themselves;",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But when they perish, the righteous increase.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

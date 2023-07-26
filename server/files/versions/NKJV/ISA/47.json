@@ -1,0 +1,372 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 47,
+  "verses": 15,
+  "content": [
+    {
+      "text": "The Humiliation of Babylon",
+      "type": "heading"
+    },
+    {
+      "text": "“Come down and sit in the dust,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O virgin daughter of Babylon;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Sit on the ground without a throne,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of the Chaldeans!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For you shall no more be called",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Tender and delicate.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Take the millstones and grind meal.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove your veil,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Take off the skirt,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Uncover the thigh,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Pass through the rivers.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Your nakedness shall be uncovered,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, your shame will be seen;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take vengeance,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will not arbitrate with a man.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "As for our Redeemer, the Lord of hosts is His name,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Holy One of Israel.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Sit in silence, and go into darkness,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O daughter of the Chaldeans;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For you shall no longer be called",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lady of Kingdoms.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I was angry with My people;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I have profaned My inheritance,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And given them into your hand.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You showed them no mercy;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "On the elderly you laid your yoke very heavily.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And you said, ‘I shall be a lady forever,’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "So that you did not take these things to heart,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor remember the latter end of them.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore hear this now, you who are given to pleasures,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who dwell securely,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who say in your heart, ‘I am, and there is no one else besides me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I shall not sit as a widow,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall I know the loss of children’;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But these two things shall come to you",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In a moment, in one day:",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The loss of children, and widowhood.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall come upon you in their fullness",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the multitude of your sorceries,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the great abundance of your enchantments.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“For you have trusted in your wickedness;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have said, ‘No one sees me’;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wisdom and your knowledge have warped you;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And you have said in your heart,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I am, and there is no one else besides me.’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore evil shall come upon you;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall not know from where it arises.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And trouble shall fall upon you;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You will not be able to put it off.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And desolation shall come upon you suddenly,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Which you shall not know.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Stand now with your enchantments",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the multitude of your sorceries,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "In which you have labored from your youth—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Perhaps you will be able to profit,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Perhaps you will prevail.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You are wearied in the multitude of your counsels;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let now the astrologers, the stargazers,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And the monthly prognosticators",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Stand up and save you",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "From what shall come upon you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, they shall be as stubble,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The fire shall burn them;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not deliver themselves",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "From the power of the flame;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall not be a coal to be warmed by,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor a fire to sit before!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus shall they be to you",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "With whom you have labored,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Your merchants from your youth;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall wander each one to his quarter.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "No one shall save you.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

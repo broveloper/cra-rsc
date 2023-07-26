@@ -1,0 +1,108 @@
+{
+  "book_id": "ROM",
+  "book_name": "Romans",
+  "chapter": 12,
+  "verses": 21,
+  "content": [
+    {
+      "text": "A Living Sacrifice",
+      "type": "heading"
+    },
+    {
+      "text": "I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.",
+      "verse": 2
+    },
+    {
+      "text": "Gifts of Grace",
+      "type": "heading"
+    },
+    {
+      "text": "For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For as in one body we have many members, and the members do not all have the same function,",
+      "verse": 4
+    },
+    {
+      "text": "so we, though many, are one body in Christ, and individually members one of another.",
+      "verse": 5
+    },
+    {
+      "text": "Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith;",
+      "verse": 6
+    },
+    {
+      "text": "if service, in our serving; the one who teaches, in his teaching;",
+      "verse": 7
+    },
+    {
+      "text": "the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness.",
+      "verse": 8
+    },
+    {
+      "text": "Marks of the True Christian",
+      "type": "heading"
+    },
+    {
+      "text": "Let love be genuine. Abhor what is evil; hold fast to what is good.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Love one another with brotherly affection. Outdo one another in showing honor.",
+      "verse": 10
+    },
+    {
+      "text": "Do not be slothful in zeal, be fervent in spirit, serve the Lord.",
+      "verse": 11
+    },
+    {
+      "text": "Rejoice in hope, be patient in tribulation, be constant in prayer.",
+      "verse": 12
+    },
+    {
+      "text": "Contribute to the needs of the saints and seek to show hospitality.",
+      "verse": 13
+    },
+    {
+      "text": "Bless those who persecute you; bless and do not curse them.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Rejoice with those who rejoice, weep with those who weep.",
+      "verse": 15
+    },
+    {
+      "text": "Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight.",
+      "verse": 16
+    },
+    {
+      "text": "Repay no one evil for evil, but give thought to do what is honorable in the sight of all.",
+      "verse": 17
+    },
+    {
+      "text": "If possible, so far as it depends on you, live peaceably with all.",
+      "verse": 18
+    },
+    {
+      "text": "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.”",
+      "verse": 19
+    },
+    {
+      "text": "To the contrary, “if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.”",
+      "verse": 20
+    },
+    {
+      "text": "Do not be overcome by evil, but overcome evil with good.",
+      "verse": 21
+    }
+  ]
+}

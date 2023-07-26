@@ -1,0 +1,166 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 41,
+  "verses": 13,
+  "content": [
+    {
+      "text": "The Blessing and Suffering of the Godly",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Blessed is he who considers the poor;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Lord will deliver him in time of trouble.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will preserve him and keep him alive,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And he will be blessed on the earth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "You will not deliver him to the will of his enemies.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will strengthen him on his bed of illness;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You will sustain him on his sickbed.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “Lord, be merciful to me;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Heal my soul, for I have sinned against You.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My enemies speak evil of me:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“When will he die, and his name perish?”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And if he comes to see me, he speaks lies;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "His heart gathers iniquity to itself;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When he goes out, he tells it.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All who hate me whisper together against me;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Against me they devise my hurt.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“An evil disease,” they say, “clings to him.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And now that he lies down, he will rise up no more.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Even my own familiar friend in whom I trusted,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who ate my bread,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Has lifted up his heel against me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But You, O Lord, be merciful to me, and raise me up,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That I may repay them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "By this I know that You are well pleased with me,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Because my enemy does not triumph over me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "As for me, You uphold me in my integrity,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And set me before Your face forever.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord God of Israel",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From everlasting to everlasting!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Amen and Amen.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

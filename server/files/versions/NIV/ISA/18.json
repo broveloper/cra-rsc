@@ -1,0 +1,177 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 18,
+  "verses": 7,
+  "content": [
+    {
+      "text": "A Prophecy Against Cush",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to the land of whirring wings",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "along the rivers of Cush,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "which sends envoys by sea",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in papyrus boats over the water.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Go, swift messengers,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to a people tall and smooth-skinned,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to a people feared far and wide,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "an aggressive nation of strange speech,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "whose land is divided by rivers.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "All you people of the world,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you who live on the earth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when a banner is raised on the mountains,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you will see it,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and when a trumpet sounds,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you will hear it.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says to me:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will remain quiet and will look on from my dwelling place,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like shimmering heat in the sunshine,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like a cloud of dew in the heat of harvest.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For, before the harvest, when the blossom is gone",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the flower becomes a ripening grape,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he will cut off the shoots with pruning knives,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and cut down and take away the spreading branches.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They will all be left to the mountain birds of prey",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and to the wild animals;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the birds will feed on them all summer,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the wild animals all winter.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "At that time gifts will be brought to the Lord Almighty",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "from a people tall and smooth-skinned,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from a people feared far and wide,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "an aggressive nation of strange speech,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "whose land is divided by rivers—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the gifts will be brought to Mount Zion, the place of the Name of the Lord Almighty.",
+      "verse": 7,
+      "type": "newline"
+    }
+  ]
+}

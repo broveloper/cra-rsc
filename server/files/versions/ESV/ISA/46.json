@@ -1,0 +1,237 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 46,
+  "verses": 13,
+  "content": [
+    {
+      "text": "The Idols of Babylon and the One True God",
+      "type": "heading"
+    },
+    {
+      "text": "Bel bows down; Nebo stoops;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "their idols are on beasts and livestock;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "these things you carry are borne",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "as burdens on weary beasts.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They stoop; they bow down together;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they cannot save the burden,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but themselves go into captivity.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Listen to me, O house of Jacob,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all the remnant of the house of Israel,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who have been borne by me from before your birth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "carried from the womb;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "even to your old age I am he,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and to gray hairs I will carry you.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I have made, and I will bear;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will carry and will save.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“To whom will you liken me and make me equal,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and compare me, that we may be alike?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who lavish gold from the purse,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and weigh out silver in the scales,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "hire a goldsmith, and he makes it into a god;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "then they fall down and worship!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They lift it to their shoulders, they carry it,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they set it in its place, and it stands there;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "it cannot move from its place.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "If one cries to it, it does not answer",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "or save him from his trouble.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Remember this and stand firm,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "recall it to mind, you transgressors,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "    remember the former things of old;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for I am God, and there is no other;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I am God, and there is none like me,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "declaring the end from the beginning",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and from ancient times things not yet done,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, ‘My counsel shall stand,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will accomplish all my purpose,’",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "calling a bird of prey from the east,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the man of my counsel from a far country.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I have spoken, and I will bring it to pass;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I have purposed, and I will do it.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Listen to me, you stubborn of heart,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you who are far from righteousness:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I bring near my righteousness; it is not far off,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and my salvation will not delay;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put salvation in Zion,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for Israel my glory.”",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

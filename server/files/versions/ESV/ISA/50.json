@@ -1,0 +1,292 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 50,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Israel's Sin and the Servant's Obedience",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Where is your mother's certificate of divorce,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "with which I sent her away?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Or which of my creditors is it",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to whom I have sold you?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, for your iniquities you were sold,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and for your transgressions your mother was sent away.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why, when I came, was there no man;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "why, when I called, was there no one to answer?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Is my hand shortened, that it cannot redeem?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Or have I no power to deliver?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, by my rebuke I dry up the sea,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I make the rivers a desert;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "their fish stink for lack of water",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and die of thirst.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I clothe the heavens with blackness",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and make sackcloth their covering.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord God has given me",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the tongue of those who are taught,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "that I may know how to sustain with a word",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "him who is weary.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Morning by morning he awakens;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he awakens my ear",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to hear as those who are taught.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord God has opened my ear,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and I was not rebellious;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I turned not backward.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I gave my back to those who strike,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and my cheeks to those who pull out the beard;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I hid not my face",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "from disgrace and spitting.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord God helps me;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "therefore I have not been disgraced;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore I have set my face like a flint,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and I know that I shall not be put to shame.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    He who vindicates me is near.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will contend with me?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let us stand up together.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is my adversary?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him come near to me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the Lord God helps me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who will declare me guilty?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, all of them will wear out like a garment;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the moth will eat them up.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who among you fears the Lord",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and obeys the voice of his servant?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him who walks in darkness",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and has no light",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "trust in the name of the Lord",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and rely on his God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, all you who kindle a fire,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who equip yourselves with burning torches!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Walk by the light of your fire,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and by the torches that you have kindled!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "This you have from my hand:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall lie down in torment.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

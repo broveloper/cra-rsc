@@ -1,0 +1,126 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 101,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Promised Faithfulness to the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "I will sing of mercy and justice;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To You, O Lord, I will sing praises.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will behave wisely in a perfect way.",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Oh, when will You come to me?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will walk within my house with a perfect heart.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will set nothing wicked before my eyes;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I hate the work of those who fall away;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall not cling to me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "A perverse heart shall depart from me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not know wickedness.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever secretly slanders his neighbor,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Him I will destroy;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The one who has a haughty look and a proud heart,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Him I will not endure.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes shall be on the faithful of the land,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That they may dwell with me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He who walks in a perfect way,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall serve me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He who works deceit shall not dwell within my house;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who tells lies shall not continue in my presence.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Early I will destroy all the wicked of the land,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may cut off all the evildoers from the city of the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

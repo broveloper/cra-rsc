@@ -1,0 +1,261 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 74,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Arise, O God, Defend Your Cause",
+      "type": "heading"
+    },
+    {
+      "text": "A Maskil of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "O God, why do you cast us off forever?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why does your anger smoke against the sheep of your pasture?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember your congregation, which you have purchased of old,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "which you have redeemed to be the tribe of your heritage!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember Mount Zion, where you have dwelt.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Direct your steps to the perpetual ruins;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the enemy has destroyed everything in the sanctuary!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your foes have roared in the midst of your meeting place;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they set up their own signs for signs.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They were like those who swing axes",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in a forest of trees.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And all its carved wood",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they broke down with hatchets and hammers.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They set your sanctuary on fire;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they profaned the dwelling place of your name,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "bringing it down to the ground.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They said to themselves, “We will utterly subdue them”;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they burned all the meeting places of God in the land.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "We do not see our signs;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "there is no longer any prophet,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and there is none among us who knows how long.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "How long, O God, is the foe to scoff?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Is the enemy to revile your name forever?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you hold back your hand, your right hand?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Take it from the fold of your garment and destroy them!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet God my King is from of old,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "working salvation in the midst of the earth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You divided the sea by your might;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "you broke the heads of the sea monsters on the waters.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You crushed the heads of Leviathan;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "you gave him as food for the creatures of the wilderness.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You split open springs and brooks;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you dried up ever-flowing streams.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Yours is the day, yours also the night;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you have established the heavenly lights and the sun.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You have fixed all the boundaries of the earth;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you have made summer and winter.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember this, O Lord, how the enemy scoffs,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a foolish people reviles your name.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not deliver the soul of your dove to the wild beasts;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "do not forget the life of your poor forever.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Have regard for the covenant,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the dark places of the land are full of the habitations of violence.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Let not the downtrodden turn back in shame;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "let the poor and needy praise your name.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O God, defend your cause;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "remember how the foolish scoff at you all the day!",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not forget the clamor of your foes,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "the uproar of those who rise against you, which goes up continually!",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

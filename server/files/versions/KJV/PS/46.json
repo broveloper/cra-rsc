@@ -1,0 +1,62 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 46,
+  "verses": 11,
+  "content": [
+    {
+      "text": "God is our refuge and strength, a very present help in trouble.",
+      "verse": 1
+    },
+    {
+      "text": "Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof. Selah.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "God is in the midst of her; she shall not be moved: God shall help her, and that right early.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord of hosts is with us; the God of Jacob is our refuge. Selah.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Come, behold the works of the Lord, what desolations he hath made in the earth.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord of hosts is with us; the God of Jacob is our refuge. Selah.",
+      "verse": 11,
+      "type": "newline"
+    }
+  ]
+}

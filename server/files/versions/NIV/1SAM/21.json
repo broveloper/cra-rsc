@@ -1,0 +1,101 @@
+{
+  "book_id": "1SAM",
+  "book_name": "1 Samuel",
+  "chapter": 21,
+  "verses": 15,
+  "content": [
+    {
+      "text": "David at Nob",
+      "type": "heading"
+    },
+    {
+      "text": "David went to Nob, to Ahimelek the priest. Ahimelek trembled when he met him, and asked, “Why are you alone? Why is no one with you?”",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "David answered Ahimelek the priest, “The king sent me on a mission and said to me, ‘No one is to know anything about the mission I am sending you on.’ As for my men, I have told them to meet me at a certain place.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Now then, what do you have on hand? Give me five loaves of bread, or whatever you can find.”",
+      "verse": 3
+    },
+    {
+      "text": "But the priest answered David, “I don’t have any ordinary bread on hand; however, there is some consecrated bread here—provided the men have kept themselves from women.”",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "David replied, “Indeed women have been kept from us, as usual whenever I set out. The men’s bodies are holy even on missions that are not holy. How much more so today!”",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "So the priest gave him the consecrated bread, since there was no bread there except the bread of the Presence that had been removed from before the Lord and replaced by hot bread on the day it was taken away.",
+      "verse": 6
+    },
+    {
+      "text": "Now one of Saul’s servants was there that day, detained before the Lord; he was Doeg the Edomite, Saul’s chief shepherd.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "David asked Ahimelek, “Don’t you have a spear or a sword here? I haven’t brought my sword or any other weapon, because the king’s mission was urgent.”",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "The priest replied, “The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want it, take it; there is no sword here but that one.”",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "David said, “There is none like it; give it to me.”",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "David at Gath",
+      "type": "heading"
+    },
+    {
+      "text": "That day David fled from Saul and went to Achish king of Gath.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "But the servants of Achish said to him, “Isn’t this David, the king of the land? Isn’t he the one they sing about in their dances:",
+      "verse": 11
+    },
+    {
+      "text": "“‘Saul has slain his thousands,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and David his tens of thousands’?”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "David took these words to heart and was very much afraid of Achish king of Gath.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "So he pretended to be insane in their presence; and while he was in their hands he acted like a madman, making marks on the doors of the gate and letting saliva run down his beard.",
+      "verse": 13
+    },
+    {
+      "text": "Achish said to his servants, “Look at the man! He is insane! Why bring him to me?",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Am I so short of madmen that you have to bring this fellow here to carry on like this in front of me? Must this man come into my house?”",
+      "verse": 15
+    }
+  ]
+}

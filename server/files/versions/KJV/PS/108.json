@@ -1,0 +1,72 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 108,
+  "verses": 13,
+  "content": [
+    {
+      "text": "O God, my heart is fixed; I will sing and give praise, even with my glory.",
+      "verse": 1
+    },
+    {
+      "text": "Awake, psaltery and harp: I myself will awake early.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "I will praise thee, O Lord, among the people: and I will sing praises unto thee among the nations.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "For thy mercy is great above the heavens: and thy truth reacheth unto the clouds.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Be thou exalted, O God, above the heavens: and thy glory above all the earth;",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "That thy beloved may be delivered: save with thy right hand, and answer me.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Who will bring me into the strong city? who will lead me into Edom?",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Wilt not thou, O God, who hast cast us off? and wilt not thou, O God, go forth with our hosts?",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Give us help from trouble: for vain is the help of man.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Through God we shall do valiantly: for he it is that shall tread down our enemies.",
+      "verse": 13,
+      "type": "newline"
+    }
+  ]
+}

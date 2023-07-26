@@ -1,0 +1,101 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 82,
+  "verses": 8,
+  "content": [
+    {
+      "text": "A Plea for Justice",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "God stands in the congregation of the mighty;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He judges among the gods.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will you judge unjustly,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And show partiality to the wicked? Selah",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Defend the poor and fatherless;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do justice to the afflicted and needy.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver the poor and needy;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Free them from the hand of the wicked.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not know, nor do they understand;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They walk about in darkness;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "All the foundations of the earth are unstable.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “You are gods,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And all of you are children of the Most High.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But you shall die like men,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And fall like one of the princes.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O God, judge the earth;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For You shall inherit all nations.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

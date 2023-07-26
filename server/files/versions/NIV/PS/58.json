@@ -1,0 +1,131 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 58,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 58",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. To the tune of “Do Not Destroy.” Of David. A miktam.",
+      "type": "title"
+    },
+    {
+      "text": "Do you rulers indeed speak justly?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do you judge people with equity?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "No, in your heart you devise injustice,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and your hands mete out violence on the earth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Even from birth the wicked go astray;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from the womb they are wayward, spreading lies.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their venom is like the venom of a snake,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "like that of a cobra that has stopped its ears,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "that will not heed the tune of the charmer,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "however skillful the enchanter may be.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Break the teeth in their mouths, O God;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lord, tear out the fangs of those lions!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them vanish like water that flows away;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "when they draw the bow, let their arrows fall short.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "May they be like a slug that melts away as it moves along,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "like a stillborn child that never sees the sun.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Before your pots can feel the heat of the thorns—",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whether they be green or dry—the wicked will be swept away.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous will be glad when they are avenged,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "when they dip their feet in the blood of the wicked.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then people will say,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely the righteous still are rewarded;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "surely there is a God who judges the earth.”",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 28,
+  "verses": 29,
+  "content": [
+    {
+      "text": "Woe to Ephraim and Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to the crown of pride, to the drunkards of Ephraim,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Whose glorious beauty is a fading flower",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Which is at the head of the verdant valleys,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To those who are overcome with wine!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the Lord has a mighty and strong one,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a tempest of hail and a destroying storm,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a flood of mighty waters overflowing,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will bring them down to the earth with His hand.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The crown of pride, the drunkards of Ephraim,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Will be trampled underfoot;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And the glorious beauty is a fading flower",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Which is at the head of the verdant valley,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the first fruit before the summer,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Which an observer sees;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He eats it up while it is still in his hand.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day the Lord of hosts will be",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For a crown of glory and a diadem of beauty",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "To the remnant of His people,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For a spirit of justice to him who sits in judgment,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And for strength to those who turn back the battle at the gate.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But they also have erred through wine,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And through intoxicating drink are out of the way;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The priest and the prophet have erred through intoxicating drink,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They are swallowed up by wine,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They are out of the way through intoxicating drink;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They err in vision, they stumble in judgment.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For all tables are full of vomit and filth;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "No place is clean.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Whom will he teach knowledge?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And whom will he make to understand the message?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Those just weaned from milk?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Those just drawn from the breasts?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For precept must be upon precept, precept upon precept,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Line upon line, line upon line,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Here a little, there a little.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For with stammering lips and another tongue",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He will speak to this people,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "To whom He said, “This is the rest with which",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You may cause the weary to rest,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And, “This is the refreshing”;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they would not hear.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But the word of the Lord was to them,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Precept upon precept, precept upon precept,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Line upon line, line upon line,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Here a little, there a little,”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That they might go and fall backward, and be broken",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And snared and caught.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore hear the word of the Lord, you scornful men,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who rule this people who are in Jerusalem,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have said, “We have made a covenant with death,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And with Sheol we are in agreement.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "When the overflowing scourge passes through,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "It will not come to us,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For we have made lies our refuge,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And under falsehood we have hidden ourselves.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A Cornerstone in Zion",
+      "type": "heading"
+    },
+    {
+      "text": "Therefore thus says the Lord God:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“Behold, I lay in Zion a stone for a foundation,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A tried stone, a precious cornerstone, a sure foundation;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever believes will not act hastily.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Also I will make justice the measuring line,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And righteousness the plummet;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "The hail will sweep away the refuge of lies,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And the waters will overflow the hiding place.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Your covenant with death will be annulled,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And your agreement with Sheol will not stand;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "When the overflowing scourge passes through,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will be trampled down by it.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "As often as it goes out it will take you;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For morning by morning it will pass over,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And by day and by night;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be a terror just to understand the report.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For the bed is too short to stretch out on,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the covering so narrow that one cannot wrap himself in it.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will rise up as at Mount Perazim,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "He will be angry as in the Valley of Gibeon—",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "That He may do His work, His awesome work,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And bring to pass His act, His unusual act.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Now therefore, do not be mockers,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest your bonds be made strong;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have heard from the Lord God of hosts,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A destruction determined even upon the whole earth.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen to the Teaching of God",
+      "type": "heading"
+    },
+    {
+      "text": "Give ear and hear my voice,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Listen and hear my speech.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Does the plowman keep plowing all day to sow?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Does he keep turning his soil and breaking the clods?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "When he has leveled its surface,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Does he not sow the black cummin",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And scatter the cummin,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Plant the wheat in rows,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The barley in the appointed place,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And the spelt in its place?",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For He instructs him in right judgment,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "His God teaches him.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "For the black cummin is not threshed with a threshing sledge,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor is a cartwheel rolled over the cummin;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "But the black cummin is beaten out with a stick,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And the cummin with a rod.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Bread flour must be ground;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore he does not thresh it forever,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Break it with his cartwheel,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Or crush it with his horsemen.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "This also comes from the Lord of hosts,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is wonderful in counsel and excellent in guidance.",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

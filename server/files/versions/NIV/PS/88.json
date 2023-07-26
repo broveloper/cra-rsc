@@ -1,0 +1,216 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 88,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Psalm 88",
+      "type": "heading"
+    },
+    {
+      "text": "A song. A psalm of the Sons of Korah. For the director of music. According to mahalath leannoth. A maskil of Heman the Ezrahite.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, you are the God who saves me;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "day and night I cry out to you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "May my prayer come before you;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "turn your ear to my cry.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I am overwhelmed with troubles",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my life draws near to death.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I am counted among those who go down to the pit;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I am like one without strength.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I am set apart with the dead,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like the slain who lie in the grave,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "whom you remember no more,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who are cut off from your care.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You have put me in the lowest pit,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the darkest depths.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wrath lies heavily on me;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you have overwhelmed me with all your waves.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have taken from me my closest friends",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and have made me repulsive to them.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I am confined and cannot escape;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "    my eyes are dim with grief.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I call to you, Lord, every day;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I spread out my hands to you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do you show your wonders to the dead?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Do their spirits rise up and praise you?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Is your love declared in the grave,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "your faithfulness in Destruction?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Are your wonders known in the place of darkness,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "or your righteous deeds in the land of oblivion?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But I cry to you for help, Lord;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the morning my prayer comes before you.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Why, Lord, do you reject me",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and hide your face from me?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "From my youth I have suffered and been close to death;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have borne your terrors and am in despair.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wrath has swept over me;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "your terrors have destroyed me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "All day long they surround me like a flood;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they have completely engulfed me.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "You have taken from me friend and neighbor—",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "darkness is my closest friend.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 8,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Psalm 8",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. According to gittith. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, our Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "how majestic is your name in all the earth!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have set your glory",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the heavens.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Through the praise of children and infants",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "you have established a stronghold against your enemies,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to silence the foe and the avenger.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I consider your heavens,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the work of your fingers,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the moon and the stars,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "which you have set in place,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "what is mankind that you are mindful of them,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "human beings that you care for them?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made them a little lower than the angels",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and crowned them with glory and honor.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You made them rulers over the works of your hands;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you put everything under their feet:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "all flocks and herds,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the animals of the wild,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the birds in the sky,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fish in the sea,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all that swim the paths of the seas.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, our Lord,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "how majestic is your name in all the earth!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

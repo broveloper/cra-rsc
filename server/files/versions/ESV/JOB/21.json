@@ -1,0 +1,357 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 21,
+  "verses": 34,
+  "content": [
+    {
+      "text": "Job Replies: The Wicked Do Prosper",
+      "type": "heading"
+    },
+    {
+      "text": "Then Job answered and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Keep listening to my words,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and let this be your comfort.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Bear with me, and I will speak,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and after I have spoken, mock on.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "As for me, is my complaint against man?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why should I not be impatient?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Look at me and be appalled,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay your hand over your mouth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "When I remember, I am dismayed,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and shuddering seizes my flesh.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do the wicked live,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "reach old age, and grow mighty in power?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Their offspring are established in their presence,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and their descendants before their eyes.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their houses are safe from fear,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and no rod of God is upon them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Their bull breeds without fail;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "their cow calves and does not miscarry.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They send out their little boys like a flock,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and their children dance.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They sing to the tambourine and the lyre",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and rejoice to the sound of the pipe.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They spend their days in prosperity,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and in peace they go down to Sheol.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They say to God, ‘Depart from us!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "We do not desire the knowledge of your ways.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "What is the Almighty, that we should serve him?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And what profit do we get if we pray to him?’",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, is not their prosperity in their hand?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The counsel of the wicked is far from me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“How often is it that the lamp of the wicked is put out?",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That their calamity comes upon them?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "That God distributes pains in his anger?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "That they are like straw before the wind,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and like chaff that the storm carries away?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You say, ‘God stores up their iniquity for their children.’",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let him pay it out to them, that they may know it.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Let their own eyes see their destruction,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and let them drink of the wrath of the Almighty.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For what do they care for their houses after them,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "when the number of their months is cut off?",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Will any teach God knowledge,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "seeing that he judges those who are on high?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "One dies in his full vigor,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "being wholly at ease and secure,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "his pails full of milk",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and the marrow of his bones moist.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Another dies in bitterness of soul,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "never having tasted of prosperity.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They lie down alike in the dust,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and the worms cover them.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I know your thoughts",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and your schemes to wrong me.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For you say, ‘Where is the house of the prince?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Where is the tent in which the wicked lived?’",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you not asked those who travel the roads,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and do you not accept their testimony",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "that the evil man is spared in the day of calamity,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "that he is rescued in the day of wrath?",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Who declares his way to his face,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and who repays him for what he has done?",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "When he is carried to the grave,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "watch is kept over his tomb.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The clods of the valley are sweet to him;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "all mankind follows after him,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and those who go before him are innumerable.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "How then will you comfort me with empty nothings?",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "There is nothing left of your answers but falsehood.”",
+      "verse": 34,
+      "type": "poetry"
+    }
+  ]
+}

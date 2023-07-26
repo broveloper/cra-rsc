@@ -1,0 +1,386 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 24,
+  "verses": 34,
+  "content": [
+    {
+      "text": "Do Not Envy Evil Men",
+      "type": "heading"
+    },
+    {
+      "text": "Do not be envious of evil men,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor desire to be with them;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For their heart devises violence,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And their lips talk of troublemaking.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Through wisdom a house is built,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And by understanding it is established;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "By knowledge the rooms are filled",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With all precious and pleasant riches.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A wise man is strong,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, a man of knowledge increases strength;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For by wise counsel you will wage your own war,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And in a multitude of counselors there is safety.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom is too lofty for a fool;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He does not open his mouth in the gate.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He who plots to do evil",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will be called a schemer.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The devising of foolishness is sin,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the scoffer is an abomination to men.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "If you faint in the day of adversity,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your strength is small.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver those who are drawn toward death,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And hold back those stumbling to the slaughter.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If you say, “Surely we did not know this,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Does not He who weighs the hearts consider it?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He who keeps your soul, does He not know it?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And will He not render to each man according to his deeds?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, eat honey because it is good,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the honeycomb which is sweet to your taste;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall the knowledge of wisdom be to your soul;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "If you have found it, there is a prospect,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And your hope will not be cut off.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not lie in wait, O wicked man, against the dwelling of the righteous;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not plunder his resting place;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For a righteous man may fall seven times",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And rise again,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wicked shall fall by calamity.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not rejoice when your enemy falls,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And do not let your heart be glad when he stumbles;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Lest the Lord see it, and it displease Him,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And He turn away His wrath from him.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not fret because of evildoers,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor be envious of the wicked;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For there will be no prospect for the evil man;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The lamp of the wicked will be put out.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "My son, fear the Lord and the king;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not associate with those given to change;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For their calamity will rise suddenly,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And who knows the ruin those two can bring?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Further Sayings of the Wise",
+      "type": "heading"
+    },
+    {
+      "text": "These things also belong to the wise:",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "It is not good to show partiality in judgment.",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He who says to the wicked, “You are righteous,”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Him the people will curse;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Nations will abhor him.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "But those who rebuke the wicked will have delight,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And a good blessing will come upon them.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He who gives a right answer kisses the lips.",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Prepare your outside work,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Make it fit for yourself in the field;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And afterward build your house.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be a witness against your neighbor without cause,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For would you deceive with your lips?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not say, “I will do to him just as he has done to me;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I will render to the man according to his work.”",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I went by the field of the lazy man,",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And by the vineyard of the man devoid of understanding;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And there it was, all overgrown with thorns;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Its surface was covered with nettles;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Its stone wall was broken down.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "When I saw it, I considered it well;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "I looked on it and received instruction:",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "A little sleep, a little slumber,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "A little folding of the hands to rest;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall your poverty come like a prowler,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And your need like an armed man.",
+      "verse": 34,
+      "type": "poetry"
+    }
+  ]
+}

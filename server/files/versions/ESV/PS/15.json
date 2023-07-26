@@ -1,0 +1,81 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 15,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Who Shall Dwell on Your Holy Hill?",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "O Lord, who shall sojourn in your tent?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who shall dwell on your holy hill?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He who walks blamelessly and does what is right",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and speaks truth in his heart;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who does not slander with his tongue",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and does no evil to his neighbor,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "nor takes up a reproach against his friend;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "in whose eyes a vile person is despised,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but who honors those who fear the Lord;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who swears to his own hurt and does not change;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who does not put out his money at interest",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and does not take a bribe against the innocent.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He who does these things shall never be moved.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

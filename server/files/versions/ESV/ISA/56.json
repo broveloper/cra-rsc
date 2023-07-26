@@ -1,0 +1,281 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 56,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Salvation for Foreigners",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Keep justice, and do righteousness,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for soon my salvation will come,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and my righteousness be revealed.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man who does this,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the son of man who holds it fast,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who keeps the Sabbath, not profaning it,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and keeps his hand from doing any evil.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let not the foreigner who has joined himself to the Lord say,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“The Lord will surely separate me from his people”;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and let not the eunuch say,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I am a dry tree.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“To the eunuchs who keep my Sabbaths,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who choose the things that please me",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and hold fast my covenant,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give in my house and within my walls",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "a monument and a name",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "better than sons and daughters;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give them an everlasting name",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that shall not be cut off.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“And the foreigners who join themselves to the Lord,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to minister to him, to love the name of the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and to be his servants,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "everyone who keeps the Sabbath and does not profane it,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and holds fast my covenant—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "these I will bring to my holy mountain,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and make them joyful in my house of prayer;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "their burnt offerings and their sacrifices",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "will be accepted on my altar;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for my house shall be called a house of prayer",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for all peoples.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord God,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "who gathers the outcasts of Israel, declares,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will gather yet others to him",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "besides those already gathered.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel's Irresponsible Leaders",
+      "type": "heading"
+    },
+    {
+      "text": "All you beasts of the field, come to devour—",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all you beasts in the forest.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "His watchmen are blind;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they are all without knowledge;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they are all silent dogs;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they cannot bark,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "dreaming, lying down,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "loving to slumber.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The dogs have a mighty appetite;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they never have enough.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But they are shepherds who have no understanding;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they have all turned to their own way,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "each to his own gain, one and all.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come,” they say, “let me get wine;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "let us fill ourselves with strong drink;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and tomorrow will be like this day,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "great beyond measure.”",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

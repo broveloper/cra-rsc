@@ -1,0 +1,422 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 7,
+  "verses": 29,
+  "content": [
+    {
+      "text": "Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "A good name is better than fine perfume,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the day of death better than the day of birth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "It is better to go to a house of mourning",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "than to go to a house of feasting,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for death is the destiny of everyone;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the living should take this to heart.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Frustration is better than laughter,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "because a sad face is good for the heart.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The heart of the wise is in the house of mourning,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "but the heart of fools is in the house of pleasure.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "It is better to heed the rebuke of a wise person",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "than to listen to the song of fools.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the crackling of thorns under the pot,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "so is the laughter of fools.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "This too is meaningless.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Extortion turns a wise person into a fool,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a bribe corrupts the heart.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The end of a matter is better than its beginning,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and patience is better than pride.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be quickly provoked in your spirit,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for anger resides in the lap of fools.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not say, “Why were the old days better than these?”",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For it is not wise to ask such questions.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom, like an inheritance, is a good thing",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and benefits those who see the sun.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom is a shelter",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "as money is a shelter,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but the advantage of knowledge is this:",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom preserves those who have it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Consider what God has done:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Who can straighten",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "what he has made crooked?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "When times are good, be happy;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but when times are bad, consider this:",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "God has made the one",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "as well as the other.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, no one can discover",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "anything about their future.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "In this meaningless life of mine I have seen both of these:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "the righteous perishing in their righteousness,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the wicked living long in their wickedness.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be overrighteous,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "neither be overwise—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "why destroy yourself?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not be overwicked,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not be a fool—",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "why die before your time?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "It is good to grasp the one",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and not let go of the other.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever fears God will avoid all extremes.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom makes one wise person more powerful",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than ten rulers in a city.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, there is no one on earth who is righteous,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "no one who does what is right and never sins.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not pay attention to every word people say,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or you may hear your servant cursing you—",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for you know in your heart",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "that many times you yourself have cursed others.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "All this I tested by wisdom and I said,",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "“I am determined to be wise”—",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but this was beyond me.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Whatever exists is far off and most profound—",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who can discover it?",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "So I turned my mind to understand,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "to investigate and to search out wisdom and the scheme of things",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and to understand the stupidity of wickedness",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and the madness of folly.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I find more bitter than death",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the woman who is a snare,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "whose heart is a trap",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and whose hands are chains.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The man who pleases God will escape her,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "but the sinner she will ensnare.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“Look,” says the Teacher, “this is what I have discovered:",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "“Adding one thing to another to discover the scheme of things—",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    while I was still searching",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "but not finding—",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "I found one upright man among a thousand,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "but not one upright woman among them all.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "This only have I found:",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "God created mankind upright,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "but they have gone in search of many schemes.”",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

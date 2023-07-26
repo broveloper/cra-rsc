@@ -1,0 +1,967 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 50,
+  "verses": 46,
+  "content": [
+    {
+      "text": "Judgment on Babylon and Babylonia",
+      "type": "heading"
+    },
+    {
+      "text": "The word that the Lord spoke against Babylon and against the land of the Chaldeans by Jeremiah the prophet.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Declare among the nations,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Proclaim, and set up a standard;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Proclaim—do not conceal it—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Say, ‘Babylon is taken, Bel is shamed.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Merodach is broken in pieces;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Her idols are humiliated,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Her images are broken in pieces.’",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For out of the north a nation comes up against her,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Which shall make her land desolate,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And no one shall dwell therein.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall move, they shall depart,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Both man and beast.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“In those days and in that time,” says the Lord,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“The children of Israel shall come,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They and the children of Judah together;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With continual weeping they shall come,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And seek the Lord their God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall ask the way to Zion,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "With their faces toward it, saying,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Come and let us join ourselves to the Lord",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "In a perpetual covenant",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That will not be forgotten.’",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“My people have been lost sheep.",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Their shepherds have led them astray;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have turned them away on the mountains.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have gone from mountain to hill;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They have forgotten their resting place.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All who found them have devoured them;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And their adversaries said, ‘We have not offended,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they have sinned against the Lord, the habitation of justice,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord, the hope of their fathers.’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Move from the midst of Babylon,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Go out of the land of the Chaldeans;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And be like the rams before the flocks.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, I will raise and cause to come up against Babylon",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "An assembly of great nations from the north country,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall array themselves against her;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "From there she shall be captured.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Their arrows shall be like those of an expert warrior;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "None shall return in vain.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And Chaldea shall become plunder;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "All who plunder her shall be satisfied,” says the Lord.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Because you were glad, because you rejoiced,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You destroyers of My heritage,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have grown fat like a heifer threshing grain,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And you bellow like bulls,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Your mother shall be deeply ashamed;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "She who bore you shall be ashamed.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the least of the nations shall be a wilderness,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A dry land and a desert.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the wrath of the Lord",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "She shall not be inhabited,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But she shall be wholly desolate.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone who goes by Babylon shall be horrified",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And hiss at all her plagues.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Put yourselves in array against Babylon all around,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All you who bend the bow;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Shoot at her, spare no arrows,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For she has sinned against the Lord.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Shout against her all around;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "She has given her hand,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Her foundations have fallen,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Her walls are thrown down;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is the vengeance of the Lord.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Take vengeance on her.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "As she has done, so do to her.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Cut off the sower from Babylon,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And him who handles the sickle at harvest time.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For fear of the oppressing sword",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone shall turn to his own people,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And everyone shall flee to his own land.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Israel is like scattered sheep;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The lions have driven him away.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "First the king of Assyria devoured him;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Now at last this Nebuchadnezzar king of Babylon has broken his bones.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord of hosts, the God of Israel:",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "“Behold, I will punish the king of Babylon and his land,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As I have punished the king of Assyria.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will bring back Israel to his home,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shall feed on Carmel and Bashan;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "His soul shall be satisfied on Mount Ephraim and Gilead.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "In those days and in that time,” says the Lord,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“The iniquity of Israel shall be sought, but there shall be none;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And the sins of Judah, but they shall not be found;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will pardon those whom I preserve.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“Go up against the land of Merathaim, against it,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And against the inhabitants of Pekod.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Waste and utterly destroy them,” says the Lord,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“And do according to all that I have commanded you.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A sound of battle is in the land,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And of great destruction.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "How the hammer of the whole earth has been cut apart and broken!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "How Babylon has become a desolation among the nations!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I have laid a snare for you;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "You have indeed been trapped, O Babylon,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And you were not aware;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "You have been found and also caught,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have contended against the Lord.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has opened His armory,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And has brought out the weapons of His indignation;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For this is the work of the Lord God of hosts",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "In the land of the Chaldeans.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Come against her from the farthest border;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Open her storehouses;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Cast her up as heaps of ruins,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And destroy her utterly;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Let nothing of her be left.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Slay all her bulls,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them go down to the slaughter.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to them!",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For their day has come, the time of their punishment.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of those who flee and escape from the land of Babylon",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Declares in Zion the vengeance of the Lord our God,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "The vengeance of His temple.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“Call together the archers against Babylon.",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All you who bend the bow, encamp against it all around;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Let none of them escape.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Repay her according to her work;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "According to all she has done, do to her;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "For she has been proud against the Lord,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Against the Holy One of Israel.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore her young men shall fall in the streets,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And all her men of war shall be cut off in that day,” says the Lord.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I am against you,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "O most haughty one!” says the Lord God of hosts;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "“For your day has come,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "The time that I will punish you.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "The most proud shall stumble and fall,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And no one will raise him up;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "I will kindle a fire in his cities,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And it will devour all around him.”",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord of hosts:",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "“The children of Israel were oppressed,",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Along with the children of Judah;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "All who took them captive have held them fast;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "They have refused to let them go.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Their Redeemer is strong;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord of hosts is His name.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "He will thoroughly plead their case,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "That He may give rest to the land,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And disquiet the inhabitants of Babylon.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "“A sword is against the Chaldeans,” says the Lord,",
+      "verse": 35,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Against the inhabitants of Babylon,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "And against her princes and her wise men.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "A sword is against the soothsayers, and they will be fools.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "A sword is against her mighty men, and they will be dismayed.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "A sword is against their horses,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Against their chariots,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "And against all the mixed peoples who are in her midst;",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "And they will become like women.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "A sword is against her treasures, and they will be robbed.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "A drought is against her waters, and they will be dried up.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is the land of carved images,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "And they are insane with their idols.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore the wild desert beasts shall dwell there with the jackals,",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the ostriches shall dwell in it.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall be inhabited no more forever,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall it be dwelt in from generation to generation.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "As God overthrew Sodom and Gomorrah",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "And their neighbors,” says the Lord,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "“So no one shall reside there,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor son of man dwell in it.",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, a people shall come from the north,",
+      "verse": 41,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a great nation and many kings",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be raised up from the ends of the earth.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall hold the bow and the lance;",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "They are cruel and shall not show mercy.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Their voice shall roar like the sea;",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall ride on horses,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Set in array, like a man for the battle,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Against you, O daughter of Babylon.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "“The king of Babylon has heard the report about them,",
+      "verse": 43,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his hands grow feeble;",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "Anguish has taken hold of him,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "Pangs as of a woman in childbirth.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, he shall come up like a lion from the floodplain of the Jordan",
+      "verse": 44,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Against the dwelling place of the strong;",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will make them suddenly run away from her.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "And who is a chosen man that I may appoint over her?",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "For who is like Me?",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will arraign Me?",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "And who is that shepherd",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will withstand Me?”",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore hear the counsel of the Lord that He has taken against Babylon,",
+      "verse": 45,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And His purposes that He has proposed against the land of the Chaldeans:",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the least of the flock shall draw them out;",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely He will make their dwelling place desolate with them.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "At the noise of the taking of Babylon",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth trembles,",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "And the cry is heard among the nations.",
+      "verse": 46,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 114,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 114",
+      "type": "heading"
+    },
+    {
+      "text": "When Israel came out of Egypt,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Jacob from a people of foreign tongue,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah became God’s sanctuary,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel his dominion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The sea looked and fled,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Jordan turned back;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the mountains leaped like rams,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the hills like lambs.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why was it, sea, that you fled?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why, Jordan, did you turn back?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Why, mountains, did you leap like rams,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you hills, like lambs?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Tremble, earth, at the presence of the Lord,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "at the presence of the God of Jacob,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "who turned the rock into a pool,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the hard rock into springs of water.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

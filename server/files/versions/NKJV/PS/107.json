@@ -1,0 +1,464 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 107,
+  "verses": 43,
+  "content": [
+    {
+      "text": "BOOK FIVE",
+      "verse": 1
+    },
+    {
+      "text": "Psalms 107–150",
+      "type": "heading"
+    },
+    {
+      "text": "BOOK FIVEPsalms 107–150",
+      "type": "heading"
+    },
+    {
+      "text": "Thanksgiving to the Lord for His Great Works of Deliverance",
+      "type": "heading"
+    },
+    {
+      "text": "Oh, give thanks to the Lord, for He is good!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the redeemed of the Lord say so,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom He has redeemed from the hand of the enemy,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And gathered out of the lands,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "From the east and from the west,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "From the north and from the south.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They wandered in the wilderness in a desolate way;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They found no city to dwell in.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Hungry and thirsty,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Their soul fainted in them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cried out to the Lord in their trouble,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And He delivered them out of their distresses.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And He led them forth by the right way,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "That they might go to a city for a dwelling place.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that men would give thanks to the Lord for His goodness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And for His wonderful works to the children of men!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For He satisfies the longing soul,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And fills the hungry soul with goodness.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who sat in darkness and in the shadow of death,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Bound in affliction and irons—",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they rebelled against the words of God,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And despised the counsel of the Most High,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore He brought down their heart with labor;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They fell down, and there was none to help.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cried out to the Lord in their trouble,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And He saved them out of their distresses.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He brought them out of darkness and the shadow of death,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And broke their chains in pieces.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that men would give thanks to the Lord for His goodness,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And for His wonderful works to the children of men!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For He has broken the gates of bronze,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And cut the bars of iron in two.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Fools, because of their transgression,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And because of their iniquities, were afflicted.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Their soul abhorred all manner of food,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And they drew near to the gates of death.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cried out to the Lord in their trouble,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And He saved them out of their distresses.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He sent His word and healed them,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And delivered them from their destructions.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that men would give thanks to the Lord for His goodness,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And for His wonderful works to the children of men!",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them sacrifice the sacrifices of thanksgiving,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And declare His works with rejoicing.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who go down to the sea in ships,",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who do business on great waters,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They see the works of the Lord,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And His wonders in the deep.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For He commands and raises the stormy wind,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Which lifts up the waves of the sea.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They mount up to the heavens,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "They go down again to the depths;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Their soul melts because of trouble.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "They reel to and fro, and stagger like a drunken man,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And are at their wits’ end.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they cry out to the Lord in their trouble,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And He brings them out of their distresses.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "He calms the storm,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "So that its waves are still.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they are glad because they are quiet;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "So He guides them to their desired haven.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that men would give thanks to the Lord for His goodness,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And for His wonderful works to the children of men!",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them exalt Him also in the assembly of the people,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And praise Him in the company of the elders.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "He turns rivers into a wilderness,",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the watersprings into dry ground;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "A fruitful land into barrenness,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "For the wickedness of those who dwell in it.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "He turns a wilderness into pools of water,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "And dry land into watersprings.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "There He makes the hungry dwell,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may establish a city for a dwelling place,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "And sow fields and plant vineyards,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may yield a fruitful harvest.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "He also blesses them, and they multiply greatly;",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "And He does not let their cattle decrease.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "When they are diminished and brought low",
+      "verse": 39,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Through oppression, affliction, and sorrow,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "He pours contempt on princes,",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "And causes them to wander in the wilderness where there is no way;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet He sets the poor on high, far from affliction,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "And makes their families like a flock.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous see it and rejoice,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "And all iniquity stops its mouth.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever is wise will observe these things,",
+      "verse": 43,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And they will understand the lovingkindness of the Lord.",
+      "verse": 43,
+      "type": "poetry"
+    }
+  ]
+}

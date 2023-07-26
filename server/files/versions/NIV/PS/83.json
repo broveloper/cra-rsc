@@ -1,0 +1,201 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 83,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Psalm 83",
+      "type": "heading"
+    },
+    {
+      "text": "A song. A psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "O God, do not remain silent;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do not turn a deaf ear,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "do not stand aloof, O God.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "See how your enemies growl,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "how your foes rear their heads.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "With cunning they conspire against your people;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they plot against those you cherish.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come,” they say, “let us destroy them as a nation,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "so that Israel’s name is remembered no more.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With one mind they plot together;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they form an alliance against you—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the tents of Edom and the Ishmaelites,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "of Moab and the Hagrites,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Byblos, Ammon and Amalek,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Philistia, with the people of Tyre.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Even Assyria has joined them",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to reinforce Lot’s descendants.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do to them as you did to Midian,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "as you did to Sisera and Jabin at the river Kishon,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who perished at Endor",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and became like dung on the ground.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Make their nobles like Oreb and Zeeb,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "all their princes like Zebah and Zalmunna,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who said, “Let us take possession",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "of the pasturelands of God.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Make them like tumbleweed, my God,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "like chaff before the wind.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "As fire consumes the forest",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "or a flame sets the mountains ablaze,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "so pursue them with your tempest",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and terrify them with your storm.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Cover their faces with shame, Lord,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "so that they will seek your name.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "May they ever be ashamed and dismayed;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may they perish in disgrace.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them know that you, whose name is the Lord—",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "that you alone are the Most High over all the earth.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

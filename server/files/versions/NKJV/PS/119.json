@@ -1,0 +1,1900 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 119,
+  "verses": 176,
+  "content": [
+    {
+      "text": "Meditations on the Excellencies of the Word of God",
+      "type": "heading"
+    },
+    {
+      "text": "א ALEPH",
+      "type": "title"
+    },
+    {
+      "text": "Blessed are the undefiled in the way,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who walk in the law of the Lord!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are those who keep His testimonies,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who seek Him with the whole heart!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They also do no iniquity;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They walk in His ways.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You have commanded us",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To keep Your precepts diligently.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, that my ways were directed",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "To keep Your statutes!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I would not be ashamed,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When I look into all Your commandments.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise You with uprightness of heart,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "When I learn Your righteous judgments.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will keep Your statutes;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, do not forsake me utterly!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "ב BETH",
+      "type": "title"
+    },
+    {
+      "text": "How can a young man cleanse his way?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "By taking heed according to Your word.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "With my whole heart I have sought You;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, let me not wander from Your commandments!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your word I have hidden in my heart,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That I might not sin against You.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are You, O Lord!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me Your statutes.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "With my lips I have declared",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "All the judgments of Your mouth.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I have rejoiced in the way of Your testimonies,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "As much as in all riches.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will meditate on Your precepts,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And contemplate Your ways.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will delight myself in Your statutes;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not forget Your word.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "ג GIMEL",
+      "type": "title"
+    },
+    {
+      "text": "Deal bountifully with Your servant,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That I may live and keep Your word.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Open my eyes, that I may see",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Wondrous things from Your law.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I am a stranger in the earth;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not hide Your commandments from me.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul breaks with longing",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your judgments at all times.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "You rebuke the proud—the cursed,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Who stray from Your commandments.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove from me reproach and contempt,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have kept Your testimonies.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Princes also sit and speak against me,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "But Your servant meditates on Your statutes.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Your testimonies also are my delight",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And my counselors.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "ד DALETH",
+      "type": "title"
+    },
+    {
+      "text": "My soul clings to the dust;",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Revive me according to Your word.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I have declared my ways, and You answered me;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me Your statutes.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Make me understand the way of Your precepts;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall I meditate on Your wonderful works.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul melts from heaviness;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Strengthen me according to Your word.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Remove from me the way of lying,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And grant me Your law graciously.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I have chosen the way of truth;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Your judgments I have laid before me.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "I cling to Your testimonies;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, do not put me to shame!",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "I will run the course of Your commandments,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "For You shall enlarge my heart.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "ה HE",
+      "type": "title"
+    },
+    {
+      "text": "Teach me, O Lord, the way of Your statutes,",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And I shall keep it to the end.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Give me understanding, and I shall keep Your law;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Indeed, I shall observe it with my whole heart.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Make me walk in the path of Your commandments,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "For I delight in it.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Incline my heart to Your testimonies,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "And not to covetousness.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn away my eyes from looking at worthless things,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "And revive me in Your way.",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "Establish Your word to Your servant,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is devoted to fearing You.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn away my reproach which I dread,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your judgments are good.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I long for Your precepts;",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive me in Your righteousness.",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "ו WAW",
+      "type": "title"
+    },
+    {
+      "text": "Let Your mercies come also to me, O Lord—",
+      "verse": 41,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your salvation according to Your word.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall I have an answer for him who reproaches me,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "For I trust in Your word.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "And take not the word of truth utterly out of my mouth,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have hoped in Your ordinances.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall I keep Your law continually,",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "Forever and ever.",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will walk at liberty,",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "For I seek Your precepts.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "I will speak of Your testimonies also before kings,",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "And will not be ashamed.",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will delight myself in Your commandments,",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "Which I love.",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "My hands also I will lift up to Your commandments,",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "Which I love,",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will meditate on Your statutes.",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "ז ZAYIN",
+      "type": "title"
+    },
+    {
+      "text": "Remember the word to Your servant,",
+      "verse": 49,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Upon which You have caused me to hope.",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "This is my comfort in my affliction,",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your word has given me life.",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "The proud have me in great derision,",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I do not turn aside from Your law.",
+      "verse": 51,
+      "type": "poetry"
+    },
+    {
+      "text": "I remembered Your judgments of old, O Lord,",
+      "verse": 52,
+      "type": "poetry"
+    },
+    {
+      "text": "And have comforted myself.",
+      "verse": 52,
+      "type": "poetry"
+    },
+    {
+      "text": "Indignation has taken hold of me",
+      "verse": 53,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the wicked, who forsake Your law.",
+      "verse": 53,
+      "type": "poetry"
+    },
+    {
+      "text": "Your statutes have been my songs",
+      "verse": 54,
+      "type": "poetry"
+    },
+    {
+      "text": "In the house of my pilgrimage.",
+      "verse": 54,
+      "type": "poetry"
+    },
+    {
+      "text": "I remember Your name in the night, O Lord,",
+      "verse": 55,
+      "type": "poetry"
+    },
+    {
+      "text": "And I keep Your law.",
+      "verse": 55,
+      "type": "poetry"
+    },
+    {
+      "text": "This has become mine,",
+      "verse": 56,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I kept Your precepts.",
+      "verse": 56,
+      "type": "poetry"
+    },
+    {
+      "text": "ח HETH",
+      "type": "title"
+    },
+    {
+      "text": "You are my portion, O Lord;",
+      "verse": 57,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I have said that I would keep Your words.",
+      "verse": 57,
+      "type": "poetry"
+    },
+    {
+      "text": "I entreated Your favor with my whole heart;",
+      "verse": 58,
+      "type": "poetry"
+    },
+    {
+      "text": "Be merciful to me according to Your word.",
+      "verse": 58,
+      "type": "poetry"
+    },
+    {
+      "text": "I thought about my ways,",
+      "verse": 59,
+      "type": "poetry"
+    },
+    {
+      "text": "And turned my feet to Your testimonies.",
+      "verse": 59,
+      "type": "poetry"
+    },
+    {
+      "text": "I made haste, and did not delay",
+      "verse": 60,
+      "type": "poetry"
+    },
+    {
+      "text": "To keep Your commandments.",
+      "verse": 60,
+      "type": "poetry"
+    },
+    {
+      "text": "The cords of the wicked have bound me,",
+      "verse": 61,
+      "type": "poetry"
+    },
+    {
+      "text": "But I have not forgotten Your law.",
+      "verse": 61,
+      "type": "poetry"
+    },
+    {
+      "text": "At midnight I will rise to give thanks to You,",
+      "verse": 62,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of Your righteous judgments.",
+      "verse": 62,
+      "type": "poetry"
+    },
+    {
+      "text": "I am a companion of all who fear You,",
+      "verse": 63,
+      "type": "poetry"
+    },
+    {
+      "text": "And of those who keep Your precepts.",
+      "verse": 63,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth, O Lord, is full of Your mercy;",
+      "verse": 64,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me Your statutes.",
+      "verse": 64,
+      "type": "poetry"
+    },
+    {
+      "text": "ט TETH",
+      "type": "title"
+    },
+    {
+      "text": "You have dealt well with Your servant,",
+      "verse": 65,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O Lord, according to Your word.",
+      "verse": 65,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me good judgment and knowledge,",
+      "verse": 66,
+      "type": "poetry"
+    },
+    {
+      "text": "For I believe Your commandments.",
+      "verse": 66,
+      "type": "poetry"
+    },
+    {
+      "text": "Before I was afflicted I went astray,",
+      "verse": 67,
+      "type": "poetry"
+    },
+    {
+      "text": "But now I keep Your word.",
+      "verse": 67,
+      "type": "poetry"
+    },
+    {
+      "text": "You are good, and do good;",
+      "verse": 68,
+      "type": "poetry"
+    },
+    {
+      "text": "Teach me Your statutes.",
+      "verse": 68,
+      "type": "poetry"
+    },
+    {
+      "text": "The proud have forged a lie against me,",
+      "verse": 69,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will keep Your precepts with my whole heart.",
+      "verse": 69,
+      "type": "poetry"
+    },
+    {
+      "text": "Their heart is as fat as grease,",
+      "verse": 70,
+      "type": "poetry"
+    },
+    {
+      "text": "But I delight in Your law.",
+      "verse": 70,
+      "type": "poetry"
+    },
+    {
+      "text": "It is good for me that I have been afflicted,",
+      "verse": 71,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may learn Your statutes.",
+      "verse": 71,
+      "type": "poetry"
+    },
+    {
+      "text": "The law of Your mouth is better to me",
+      "verse": 72,
+      "type": "poetry"
+    },
+    {
+      "text": "Than thousands of coins of gold and silver.",
+      "verse": 72,
+      "type": "poetry"
+    },
+    {
+      "text": "י YOD",
+      "type": "title"
+    },
+    {
+      "text": "Your hands have made me and fashioned me;",
+      "verse": 73,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Give me understanding, that I may learn Your commandments.",
+      "verse": 73,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who fear You will be glad when they see me,",
+      "verse": 74,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I have hoped in Your word.",
+      "verse": 74,
+      "type": "poetry"
+    },
+    {
+      "text": "I know, O Lord, that Your judgments are right,",
+      "verse": 75,
+      "type": "poetry"
+    },
+    {
+      "text": "And that in faithfulness You have afflicted me.",
+      "verse": 75,
+      "type": "poetry"
+    },
+    {
+      "text": "Let, I pray, Your merciful kindness be for my comfort,",
+      "verse": 76,
+      "type": "poetry"
+    },
+    {
+      "text": "According to Your word to Your servant.",
+      "verse": 76,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Your tender mercies come to me, that I may live;",
+      "verse": 77,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your law is my delight.",
+      "verse": 77,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the proud be ashamed,",
+      "verse": 78,
+      "type": "poetry"
+    },
+    {
+      "text": "For they treated me wrongfully with falsehood;",
+      "verse": 78,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will meditate on Your precepts.",
+      "verse": 78,
+      "type": "poetry"
+    },
+    {
+      "text": "Let those who fear You turn to me,",
+      "verse": 79,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who know Your testimonies.",
+      "verse": 79,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my heart be blameless regarding Your statutes,",
+      "verse": 80,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may not be ashamed.",
+      "verse": 80,
+      "type": "poetry"
+    },
+    {
+      "text": "כ KAPH",
+      "type": "title"
+    },
+    {
+      "text": "My soul faints for Your salvation,",
+      "verse": 81,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But I hope in Your word.",
+      "verse": 81,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes fail from searching Your word,",
+      "verse": 82,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying, “When will You comfort me?”",
+      "verse": 82,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have become like a wineskin in smoke,",
+      "verse": 83,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I do not forget Your statutes.",
+      "verse": 83,
+      "type": "poetry"
+    },
+    {
+      "text": "How many are the days of Your servant?",
+      "verse": 84,
+      "type": "poetry"
+    },
+    {
+      "text": "When will You execute judgment on those who persecute me?",
+      "verse": 84,
+      "type": "poetry"
+    },
+    {
+      "text": "The proud have dug pits for me,",
+      "verse": 85,
+      "type": "poetry"
+    },
+    {
+      "text": "Which is not according to Your law.",
+      "verse": 85,
+      "type": "poetry"
+    },
+    {
+      "text": "All Your commandments are faithful;",
+      "verse": 86,
+      "type": "poetry"
+    },
+    {
+      "text": "They persecute me wrongfully;",
+      "verse": 86,
+      "type": "poetry"
+    },
+    {
+      "text": "Help me!",
+      "verse": 86,
+      "type": "poetry"
+    },
+    {
+      "text": "They almost made an end of me on earth,",
+      "verse": 87,
+      "type": "poetry"
+    },
+    {
+      "text": "But I did not forsake Your precepts.",
+      "verse": 87,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive me according to Your lovingkindness,",
+      "verse": 88,
+      "type": "poetry"
+    },
+    {
+      "text": "So that I may keep the testimony of Your mouth.",
+      "verse": 88,
+      "type": "poetry"
+    },
+    {
+      "text": "ל LAMED",
+      "type": "title"
+    },
+    {
+      "text": "Forever, O Lord,",
+      "verse": 89,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your word is settled in heaven.",
+      "verse": 89,
+      "type": "poetry"
+    },
+    {
+      "text": "Your faithfulness endures to all generations;",
+      "verse": 90,
+      "type": "poetry"
+    },
+    {
+      "text": "You established the earth, and it abides.",
+      "verse": 90,
+      "type": "poetry"
+    },
+    {
+      "text": "They continue this day according to Your ordinances,",
+      "verse": 91,
+      "type": "poetry"
+    },
+    {
+      "text": "For all are Your servants.",
+      "verse": 91,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless Your law had been my delight,",
+      "verse": 92,
+      "type": "poetry"
+    },
+    {
+      "text": "I would then have perished in my affliction.",
+      "verse": 92,
+      "type": "poetry"
+    },
+    {
+      "text": "I will never forget Your precepts,",
+      "verse": 93,
+      "type": "poetry"
+    },
+    {
+      "text": "For by them You have given me life.",
+      "verse": 93,
+      "type": "poetry"
+    },
+    {
+      "text": "I am Yours, save me;",
+      "verse": 94,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have sought Your precepts.",
+      "verse": 94,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked wait for me to destroy me,",
+      "verse": 95,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will consider Your testimonies.",
+      "verse": 95,
+      "type": "poetry"
+    },
+    {
+      "text": "I have seen the consummation of all perfection,",
+      "verse": 96,
+      "type": "poetry"
+    },
+    {
+      "text": "But Your commandment is exceedingly broad.",
+      "verse": 96,
+      "type": "poetry"
+    },
+    {
+      "text": "מ MEM",
+      "type": "title"
+    },
+    {
+      "text": "Oh, how I love Your law!",
+      "verse": 97,
+      "type": "poetry newline"
+    },
+    {
+      "text": "It is my meditation all the day.",
+      "verse": 97,
+      "type": "poetry"
+    },
+    {
+      "text": "You, through Your commandments, make me wiser than my enemies;",
+      "verse": 98,
+      "type": "poetry"
+    },
+    {
+      "text": "For they are ever with me.",
+      "verse": 98,
+      "type": "poetry"
+    },
+    {
+      "text": "I have more understanding than all my teachers,",
+      "verse": 99,
+      "type": "poetry"
+    },
+    {
+      "text": "For Your testimonies are my meditation.",
+      "verse": 99,
+      "type": "poetry"
+    },
+    {
+      "text": "I understand more than the ancients,",
+      "verse": 100,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I keep Your precepts.",
+      "verse": 100,
+      "type": "poetry"
+    },
+    {
+      "text": "I have restrained my feet from every evil way,",
+      "verse": 101,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may keep Your word.",
+      "verse": 101,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not departed from Your judgments,",
+      "verse": 102,
+      "type": "poetry"
+    },
+    {
+      "text": "For You Yourself have taught me.",
+      "verse": 102,
+      "type": "poetry"
+    },
+    {
+      "text": "How sweet are Your words to my taste,",
+      "verse": 103,
+      "type": "poetry"
+    },
+    {
+      "text": "Sweeter than honey to my mouth!",
+      "verse": 103,
+      "type": "poetry"
+    },
+    {
+      "text": "Through Your precepts I get understanding;",
+      "verse": 104,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I hate every false way.",
+      "verse": 104,
+      "type": "poetry"
+    },
+    {
+      "text": "נ NUN",
+      "type": "title"
+    },
+    {
+      "text": "Your word is a lamp to my feet",
+      "verse": 105,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a light to my path.",
+      "verse": 105,
+      "type": "poetry"
+    },
+    {
+      "text": "I have sworn and confirmed",
+      "verse": 106,
+      "type": "poetry"
+    },
+    {
+      "text": "That I will keep Your righteous judgments.",
+      "verse": 106,
+      "type": "poetry"
+    },
+    {
+      "text": "I am afflicted very much;",
+      "verse": 107,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive me, O Lord, according to Your word.",
+      "verse": 107,
+      "type": "poetry"
+    },
+    {
+      "text": "Accept, I pray, the freewill offerings of my mouth, O Lord,",
+      "verse": 108,
+      "type": "poetry"
+    },
+    {
+      "text": "And teach me Your judgments.",
+      "verse": 108,
+      "type": "poetry"
+    },
+    {
+      "text": "My life is continually in my hand,",
+      "verse": 109,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I do not forget Your law.",
+      "verse": 109,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked have laid a snare for me,",
+      "verse": 110,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I have not strayed from Your precepts.",
+      "verse": 110,
+      "type": "poetry"
+    },
+    {
+      "text": "Your testimonies I have taken as a heritage forever,",
+      "verse": 111,
+      "type": "poetry"
+    },
+    {
+      "text": "For they are the rejoicing of my heart.",
+      "verse": 111,
+      "type": "poetry"
+    },
+    {
+      "text": "I have inclined my heart to perform Your statutes",
+      "verse": 112,
+      "type": "poetry"
+    },
+    {
+      "text": "Forever, to the very end.",
+      "verse": 112,
+      "type": "poetry"
+    },
+    {
+      "text": "ס SAMEK",
+      "type": "title"
+    },
+    {
+      "text": "I hate the double-minded,",
+      "verse": 113,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But I love Your law.",
+      "verse": 113,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my hiding place and my shield;",
+      "verse": 114,
+      "type": "poetry"
+    },
+    {
+      "text": "I hope in Your word.",
+      "verse": 114,
+      "type": "poetry"
+    },
+    {
+      "text": "Depart from me, you evildoers,",
+      "verse": 115,
+      "type": "poetry"
+    },
+    {
+      "text": "For I will keep the commandments of my God!",
+      "verse": 115,
+      "type": "poetry"
+    },
+    {
+      "text": "Uphold me according to Your word, that I may live;",
+      "verse": 116,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not let me be ashamed of my hope.",
+      "verse": 116,
+      "type": "poetry"
+    },
+    {
+      "text": "Hold me up, and I shall be safe,",
+      "verse": 117,
+      "type": "poetry"
+    },
+    {
+      "text": "And I shall observe Your statutes continually.",
+      "verse": 117,
+      "type": "poetry"
+    },
+    {
+      "text": "You reject all those who stray from Your statutes,",
+      "verse": 118,
+      "type": "poetry"
+    },
+    {
+      "text": "For their deceit is falsehood.",
+      "verse": 118,
+      "type": "poetry"
+    },
+    {
+      "text": "You put away all the wicked of the earth like dross;",
+      "verse": 119,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I love Your testimonies.",
+      "verse": 119,
+      "type": "poetry"
+    },
+    {
+      "text": "My flesh trembles for fear of You,",
+      "verse": 120,
+      "type": "poetry"
+    },
+    {
+      "text": "And I am afraid of Your judgments.",
+      "verse": 120,
+      "type": "poetry"
+    },
+    {
+      "text": "ע AYIN",
+      "type": "title"
+    },
+    {
+      "text": "I have done justice and righteousness;",
+      "verse": 121,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do not leave me to my oppressors.",
+      "verse": 121,
+      "type": "poetry"
+    },
+    {
+      "text": "Be surety for Your servant for good;",
+      "verse": 122,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let the proud oppress me.",
+      "verse": 122,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes fail from seeking Your salvation",
+      "verse": 123,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your righteous word.",
+      "verse": 123,
+      "type": "poetry"
+    },
+    {
+      "text": "Deal with Your servant according to Your mercy,",
+      "verse": 124,
+      "type": "poetry"
+    },
+    {
+      "text": "And teach me Your statutes.",
+      "verse": 124,
+      "type": "poetry"
+    },
+    {
+      "text": "I am Your servant;",
+      "verse": 125,
+      "type": "poetry"
+    },
+    {
+      "text": "Give me understanding,",
+      "verse": 125,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may know Your testimonies.",
+      "verse": 125,
+      "type": "poetry"
+    },
+    {
+      "text": "It is time for You to act, O Lord,",
+      "verse": 126,
+      "type": "poetry"
+    },
+    {
+      "text": "For they have regarded Your law as void.",
+      "verse": 126,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I love Your commandments",
+      "verse": 127,
+      "type": "poetry"
+    },
+    {
+      "text": "More than gold, yes, than fine gold!",
+      "verse": 127,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore all Your precepts concerning all things",
+      "verse": 128,
+      "type": "poetry"
+    },
+    {
+      "text": "I consider to be right;",
+      "verse": 128,
+      "type": "poetry"
+    },
+    {
+      "text": "I hate every false way.",
+      "verse": 128,
+      "type": "poetry"
+    },
+    {
+      "text": "פ PE",
+      "type": "title"
+    },
+    {
+      "text": "Your testimonies are wonderful;",
+      "verse": 129,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore my soul keeps them.",
+      "verse": 129,
+      "type": "poetry"
+    },
+    {
+      "text": "The entrance of Your words gives light;",
+      "verse": 130,
+      "type": "poetry"
+    },
+    {
+      "text": "It gives understanding to the simple.",
+      "verse": 130,
+      "type": "poetry"
+    },
+    {
+      "text": "I opened my mouth and panted,",
+      "verse": 131,
+      "type": "poetry"
+    },
+    {
+      "text": "For I longed for Your commandments.",
+      "verse": 131,
+      "type": "poetry"
+    },
+    {
+      "text": "Look upon me and be merciful to me,",
+      "verse": 132,
+      "type": "poetry"
+    },
+    {
+      "text": "As Your custom is toward those who love Your name.",
+      "verse": 132,
+      "type": "poetry"
+    },
+    {
+      "text": "Direct my steps by Your word,",
+      "verse": 133,
+      "type": "poetry"
+    },
+    {
+      "text": "And let no iniquity have dominion over me.",
+      "verse": 133,
+      "type": "poetry"
+    },
+    {
+      "text": "Redeem me from the oppression of man,",
+      "verse": 134,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may keep Your precepts.",
+      "verse": 134,
+      "type": "poetry"
+    },
+    {
+      "text": "Make Your face shine upon Your servant,",
+      "verse": 135,
+      "type": "poetry"
+    },
+    {
+      "text": "And teach me Your statutes.",
+      "verse": 135,
+      "type": "poetry"
+    },
+    {
+      "text": "Rivers of water run down from my eyes,",
+      "verse": 136,
+      "type": "poetry"
+    },
+    {
+      "text": "Because men do not keep Your law.",
+      "verse": 136,
+      "type": "poetry"
+    },
+    {
+      "text": "צ TSADDE",
+      "type": "title"
+    },
+    {
+      "text": "Righteous are You, O Lord,",
+      "verse": 137,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And upright are Your judgments.",
+      "verse": 137,
+      "type": "poetry"
+    },
+    {
+      "text": "Your testimonies, which You have commanded,",
+      "verse": 138,
+      "type": "poetry"
+    },
+    {
+      "text": "Are righteous and very faithful.",
+      "verse": 138,
+      "type": "poetry"
+    },
+    {
+      "text": "My zeal has consumed me,",
+      "verse": 139,
+      "type": "poetry"
+    },
+    {
+      "text": "Because my enemies have forgotten Your words.",
+      "verse": 139,
+      "type": "poetry"
+    },
+    {
+      "text": "Your word is very pure;",
+      "verse": 140,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore Your servant loves it.",
+      "verse": 140,
+      "type": "poetry"
+    },
+    {
+      "text": "I am small and despised,",
+      "verse": 141,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I do not forget Your precepts.",
+      "verse": 141,
+      "type": "poetry"
+    },
+    {
+      "text": "Your righteousness is an everlasting righteousness,",
+      "verse": 142,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your law is truth.",
+      "verse": 142,
+      "type": "poetry"
+    },
+    {
+      "text": "Trouble and anguish have overtaken me,",
+      "verse": 143,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet Your commandments are my delights.",
+      "verse": 143,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteousness of Your testimonies is everlasting;",
+      "verse": 144,
+      "type": "poetry"
+    },
+    {
+      "text": "Give me understanding, and I shall live.",
+      "verse": 144,
+      "type": "poetry"
+    },
+    {
+      "text": "ק QOPH",
+      "type": "title"
+    },
+    {
+      "text": "I cry out with my whole heart;",
+      "verse": 145,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Hear me, O Lord!",
+      "verse": 145,
+      "type": "poetry"
+    },
+    {
+      "text": "I will keep Your statutes.",
+      "verse": 145,
+      "type": "poetry"
+    },
+    {
+      "text": "I cry out to You;",
+      "verse": 146,
+      "type": "poetry"
+    },
+    {
+      "text": "Save me, and I will keep Your testimonies.",
+      "verse": 146,
+      "type": "poetry"
+    },
+    {
+      "text": "I rise before the dawning of the morning,",
+      "verse": 147,
+      "type": "poetry"
+    },
+    {
+      "text": "And cry for help;",
+      "verse": 147,
+      "type": "poetry"
+    },
+    {
+      "text": "I hope in Your word.",
+      "verse": 147,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes are awake through the night watches,",
+      "verse": 148,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may meditate on Your word.",
+      "verse": 148,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear my voice according to Your lovingkindness;",
+      "verse": 149,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, revive me according to Your justice.",
+      "verse": 149,
+      "type": "poetry"
+    },
+    {
+      "text": "They draw near who follow after wickedness;",
+      "verse": 150,
+      "type": "poetry"
+    },
+    {
+      "text": "They are far from Your law.",
+      "verse": 150,
+      "type": "poetry"
+    },
+    {
+      "text": "You are near, O Lord,",
+      "verse": 151,
+      "type": "poetry"
+    },
+    {
+      "text": "And all Your commandments are truth.",
+      "verse": 151,
+      "type": "poetry"
+    },
+    {
+      "text": "Concerning Your testimonies,",
+      "verse": 152,
+      "type": "poetry"
+    },
+    {
+      "text": "I have known of old that You have founded them forever.",
+      "verse": 152,
+      "type": "poetry"
+    },
+    {
+      "text": "ר RESH",
+      "type": "title"
+    },
+    {
+      "text": "Consider my affliction and deliver me,",
+      "verse": 153,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For I do not forget Your law.",
+      "verse": 153,
+      "type": "poetry"
+    },
+    {
+      "text": "Plead my cause and redeem me;",
+      "verse": 154,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive me according to Your word.",
+      "verse": 154,
+      "type": "poetry"
+    },
+    {
+      "text": "Salvation is far from the wicked,",
+      "verse": 155,
+      "type": "poetry"
+    },
+    {
+      "text": "For they do not seek Your statutes.",
+      "verse": 155,
+      "type": "poetry"
+    },
+    {
+      "text": "Great are Your tender mercies, O Lord;",
+      "verse": 156,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive me according to Your judgments.",
+      "verse": 156,
+      "type": "poetry"
+    },
+    {
+      "text": "Many are my persecutors and my enemies,",
+      "verse": 157,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I do not turn from Your testimonies.",
+      "verse": 157,
+      "type": "poetry"
+    },
+    {
+      "text": "I see the treacherous, and am disgusted,",
+      "verse": 158,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they do not keep Your word.",
+      "verse": 158,
+      "type": "poetry"
+    },
+    {
+      "text": "Consider how I love Your precepts;",
+      "verse": 159,
+      "type": "poetry"
+    },
+    {
+      "text": "Revive me, O Lord, according to Your lovingkindness.",
+      "verse": 159,
+      "type": "poetry"
+    },
+    {
+      "text": "The entirety of Your word is truth,",
+      "verse": 160,
+      "type": "poetry"
+    },
+    {
+      "text": "And every one of Your righteous judgments endures forever.",
+      "verse": 160,
+      "type": "poetry"
+    },
+    {
+      "text": "ש SHIN",
+      "type": "title"
+    },
+    {
+      "text": "Princes persecute me without a cause,",
+      "verse": 161,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But my heart stands in awe of Your word.",
+      "verse": 161,
+      "type": "poetry"
+    },
+    {
+      "text": "I rejoice at Your word",
+      "verse": 162,
+      "type": "poetry"
+    },
+    {
+      "text": "As one who finds great treasure.",
+      "verse": 162,
+      "type": "poetry"
+    },
+    {
+      "text": "I hate and abhor lying,",
+      "verse": 163,
+      "type": "poetry"
+    },
+    {
+      "text": "But I love Your law.",
+      "verse": 163,
+      "type": "poetry"
+    },
+    {
+      "text": "Seven times a day I praise You,",
+      "verse": 164,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of Your righteous judgments.",
+      "verse": 164,
+      "type": "poetry"
+    },
+    {
+      "text": "Great peace have those who love Your law,",
+      "verse": 165,
+      "type": "poetry"
+    },
+    {
+      "text": "And nothing causes them to stumble.",
+      "verse": 165,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, I hope for Your salvation,",
+      "verse": 166,
+      "type": "poetry"
+    },
+    {
+      "text": "And I do Your commandments.",
+      "verse": 166,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul keeps Your testimonies,",
+      "verse": 167,
+      "type": "poetry"
+    },
+    {
+      "text": "And I love them exceedingly.",
+      "verse": 167,
+      "type": "poetry"
+    },
+    {
+      "text": "I keep Your precepts and Your testimonies,",
+      "verse": 168,
+      "type": "poetry"
+    },
+    {
+      "text": "For all my ways are before You.",
+      "verse": 168,
+      "type": "poetry"
+    },
+    {
+      "text": "ת TAU",
+      "type": "title"
+    },
+    {
+      "text": "Let my cry come before You, O Lord;",
+      "verse": 169,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Give me understanding according to Your word.",
+      "verse": 169,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my supplication come before You;",
+      "verse": 170,
+      "type": "poetry"
+    },
+    {
+      "text": "Deliver me according to Your word.",
+      "verse": 170,
+      "type": "poetry"
+    },
+    {
+      "text": "My lips shall utter praise,",
+      "verse": 171,
+      "type": "poetry"
+    },
+    {
+      "text": "For You teach me Your statutes.",
+      "verse": 171,
+      "type": "poetry"
+    },
+    {
+      "text": "My tongue shall speak of Your word,",
+      "verse": 172,
+      "type": "poetry"
+    },
+    {
+      "text": "For all Your commandments are righteousness.",
+      "verse": 172,
+      "type": "poetry"
+    },
+    {
+      "text": "Let Your hand become my help,",
+      "verse": 173,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have chosen Your precepts.",
+      "verse": 173,
+      "type": "poetry"
+    },
+    {
+      "text": "I long for Your salvation, O Lord,",
+      "verse": 174,
+      "type": "poetry"
+    },
+    {
+      "text": "And Your law is my delight.",
+      "verse": 174,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my soul live, and it shall praise You;",
+      "verse": 175,
+      "type": "poetry"
+    },
+    {
+      "text": "And let Your judgments help me.",
+      "verse": 175,
+      "type": "poetry"
+    },
+    {
+      "text": "I have gone astray like a lost sheep;",
+      "verse": 176,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek Your servant,",
+      "verse": 176,
+      "type": "poetry"
+    },
+    {
+      "text": "For I do not forget Your commandments.",
+      "verse": 176,
+      "type": "poetry"
+    }
+  ]
+}

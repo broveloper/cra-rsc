@@ -1,0 +1,606 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 5,
+  "verses": 30,
+  "content": [
+    {
+      "text": "The Song of the Vineyard",
+      "type": "heading"
+    },
+    {
+      "text": "I will sing for the one I love",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a song about his vineyard:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "My loved one had a vineyard",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "on a fertile hillside.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He dug it up and cleared it of stones",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and planted it with the choicest vines.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He built a watchtower in it",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and cut out a winepress as well.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he looked for a crop of good grapes,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "but it yielded only bad fruit.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Now you dwellers in Jerusalem and people of Judah,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "judge between me and my vineyard.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "What more could have been done for my vineyard",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "than I have done for it?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "When I looked for good grapes,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "why did it yield only bad?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Now I will tell you",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "what I am going to do to my vineyard:",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take away its hedge,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and it will be destroyed;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will break down its wall,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and it will be trampled.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make it a wasteland,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "neither pruned nor cultivated,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and briers and thorns will grow there.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will command the clouds",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "not to rain on it.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The vineyard of the Lord Almighty",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is the nation of Israel,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the people of Judah",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "are the vines he delighted in.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And he looked for justice, but saw bloodshed;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for righteousness, but heard cries of distress.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Woes and Judgments",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to you who add house to house",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and join field to field",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "till no space is left",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and you live alone in the land.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Almighty has declared in my hearing:",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“Surely the great houses will become desolate,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the fine mansions left without occupants.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "A ten-acre vineyard will produce only a bath of wine;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "a homer of seed will yield only an ephah of grain.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to those who rise early in the morning",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to run after their drinks,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who stay up late at night",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "till they are inflamed with wine.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They have harps and lyres at their banquets,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "pipes and timbrels and wine,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but they have no regard for the deeds of the Lord,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "no respect for the work of his hands.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore my people will go into exile",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for lack of understanding;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "those of high rank will die of hunger",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and the common people will be parched with thirst.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore Death expands its jaws,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "opening wide its mouth;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "into it will descend their nobles and masses",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with all their brawlers and revelers.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So people will be brought low",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and everyone humbled,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the eyes of the arrogant humbled.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord Almighty will be exalted by his justice,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the holy God will be proved holy by his righteous acts.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Then sheep will graze as in their own pasture;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "lambs will feed among the ruins of the rich.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to those who draw sin along with cords of deceit,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and wickedness as with cart ropes,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "to those who say, “Let God hurry;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "let him hasten his work",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "so we may see it.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The plan of the Holy One of Israel—",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "let it approach, let it come into view,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "so we may know it.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to those who call evil good",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and good evil,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "who put darkness for light",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and light for darkness,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "who put bitter for sweet",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and sweet for bitter.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to those who are wise in their own eyes",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and clever in their own sight.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to those who are heroes at drinking wine",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and champions at mixing drinks,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "who acquit the guilty for a bribe,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "but deny justice to the innocent.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, as tongues of fire lick up straw",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and as dry grass sinks down in the flames,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "so their roots will decay",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and their flowers blow away like dust;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have rejected the law of the Lord Almighty",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and spurned the word of the Holy One of Israel.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the Lord’s anger burns against his people;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "his hand is raised and he strikes them down.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains shake,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and the dead bodies are like refuse in the streets.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet for all this, his anger is not turned away,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his hand is still upraised.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "He lifts up a banner for the distant nations,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he whistles for those at the ends of the earth.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Here they come,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "swiftly and speedily!",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Not one of them grows tired or stumbles,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "not one slumbers or sleeps;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "not a belt is loosened at the waist,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "not a sandal strap is broken.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Their arrows are sharp,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "all their bows are strung;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "their horses’ hooves seem like flint,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "their chariot wheels like a whirlwind.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Their roar is like that of the lion,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "they roar like young lions;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "they growl as they seize their prey",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "and carry it off with no one to rescue.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day they will roar over it",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "like the roaring of the sea.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And if one looks at the land,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "there is only darkness and distress;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "even the sun will be darkened by clouds.",
+      "verse": 30,
+      "type": "poetry"
+    }
+  ]
+}

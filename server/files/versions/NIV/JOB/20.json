@@ -1,0 +1,312 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 20,
+  "verses": 29,
+  "content": [
+    {
+      "text": "Zophar",
+      "type": "heading"
+    },
+    {
+      "text": "Then Zophar the Naamathite replied:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“My troubled thoughts prompt me to answer",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because I am greatly disturbed.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I hear a rebuke that dishonors me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and my understanding inspires me to reply.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely you know how it has been from of old,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ever since mankind was placed on the earth,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "that the mirth of the wicked is brief,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the joy of the godless lasts but a moment.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Though the pride of the godless person reaches to the heavens",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and his head touches the clouds,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he will perish forever, like his own dung;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "those who have seen him will say, ‘Where is he?’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a dream he flies away, no more to be found,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "banished like a vision of the night.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The eye that saw him will not see him again;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "his place will look on him no more.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "His children must make amends to the poor;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "his own hands must give back his wealth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The youthful vigor that fills his bones",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "will lie with him in the dust.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Though evil is sweet in his mouth",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he hides it under his tongue,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "though he cannot bear to let it go",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and lets it linger in his mouth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "yet his food will turn sour in his stomach;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "it will become the venom of serpents within him.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He will spit out the riches he swallowed;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "God will make his stomach vomit them up.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He will suck the poison of serpents;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "the fangs of an adder will kill him.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not enjoy the streams,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the rivers flowing with honey and cream.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "What he toiled for he must give back uneaten;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "he will not enjoy the profit from his trading.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For he has oppressed the poor and left them destitute;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "he has seized houses he did not build.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Surely he will have no respite from his craving;",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he cannot save himself by his treasure.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Nothing is left for him to devour;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "his prosperity will not endure.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "In the midst of his plenty, distress will overtake him;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the full force of misery will come upon him.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "When he has filled his belly,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "God will vent his burning anger against him",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and rain down his blows on him.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Though he flees from an iron weapon,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "a bronze-tipped arrow pierces him.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "He pulls it out of his back,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "the gleaming point out of his liver.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Terrors will come over him;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "    total darkness lies in wait for his treasures.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "A fire unfanned will consume him",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and devour what is left in his tent.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The heavens will expose his guilt;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth will rise up against him.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "A flood will carry off his house,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "rushing waters on the day of God’s wrath.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Such is the fate God allots the wicked,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the heritage appointed for them by God.”",
+      "verse": 29,
+      "type": "poetry"
+    }
+  ]
+}

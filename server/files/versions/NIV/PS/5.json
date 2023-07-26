@@ -1,0 +1,201 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 5,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 5",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. For pipes. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Listen to my words, Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "consider my lament.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear my cry for help,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "my King and my God,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for to you I pray.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "In the morning, Lord, you hear my voice;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the morning I lay my requests before you",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and wait expectantly.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For you are not a God who is pleased with wickedness;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "with you, evil people are not welcome.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The arrogant cannot stand",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in your presence.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You hate all who do wrong;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    you destroy those who tell lies.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The bloodthirsty and deceitful",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you, Lord, detest.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But I, by your great love,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "can come into your house;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "in reverence I bow down",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "toward your holy temple.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Lead me, Lord, in your righteousness",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because of my enemies—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "make your way straight before me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Not a word from their mouth can be trusted;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "their heart is filled with malice.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Their throat is an open grave;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "with their tongues they tell lies.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Declare them guilty, O God!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let their intrigues be their downfall.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Banish them for their many sins,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have rebelled against you.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But let all who take refuge in you be glad;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "let them ever sing for joy.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Spread your protection over them,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that those who love your name may rejoice in you.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely, Lord, you bless the righteous;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you surround them with your favor as with a shield.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

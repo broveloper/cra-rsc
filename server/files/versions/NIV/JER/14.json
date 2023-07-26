@@ -1,0 +1,404 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 14,
+  "verses": 22,
+  "content": [
+    {
+      "text": "Drought, Famine, Sword",
+      "type": "heading"
+    },
+    {
+      "text": "This is the word of the Lord that came to Jeremiah concerning the drought:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Judah mourns,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "her cities languish;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they wail for the land,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and a cry goes up from Jerusalem.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The nobles send their servants for water;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they go to the cisterns",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "but find no water.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They return with their jars unfilled;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "dismayed and despairing,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they cover their heads.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The ground is cracked",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "because there is no rain in the land;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the farmers are dismayed",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and cover their heads.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the doe in the field",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "deserts her newborn fawn",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because there is no grass.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Wild donkeys stand on the barren heights",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and pant like jackals;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "their eyes fail",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for lack of food.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Although our sins testify against us,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "do something, Lord, for the sake of your name.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For we have often rebelled;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "we have sinned against you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You who are the hope of Israel,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "its Savior in times of distress,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "why are you like a stranger in the land,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "like a traveler who stays only a night?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are you like a man taken by surprise,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "like a warrior powerless to save?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You are among us, Lord,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and we bear your name;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "do not forsake us!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says about this people:",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "“They greatly love to wander;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they do not restrain their feet.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "So the Lord does not accept them;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he will now remember their wickedness",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and punish them for their sins.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the Lord said to me, “Do not pray for the well-being of this people.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Although they fast, I will not listen to their cry; though they offer burnt offerings and grain offerings, I will not accept them. Instead, I will destroy them with the sword, famine and plague.”",
+      "verse": 12
+    },
+    {
+      "text": "But I said, “Alas, Sovereign Lord! The prophets keep telling them, ‘You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place.’”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord said to me, “The prophets are prophesying lies in my name. I have not sent them or appointed them or spoken to them. They are prophesying to you false visions, divinations, idolatries and the delusions of their own minds.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore this is what the Lord says about the prophets who are prophesying in my name: I did not send them, yet they are saying, ‘No sword or famine will touch this land.’ Those same prophets will perish by sword and famine.",
+      "verse": 15
+    },
+    {
+      "text": "And the people they are prophesying to will be thrown out into the streets of Jerusalem because of the famine and sword. There will be no one to bury them, their wives, their sons and their daughters. I will pour out on them the calamity they deserve.",
+      "verse": 16
+    },
+    {
+      "text": "“Speak this word to them:",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Let my eyes overflow with tears",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "night and day without ceasing;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Virgin Daughter, my people,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "has suffered a grievous wound,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a crushing blow.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "If I go into the country,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I see those slain by the sword;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "if I go into the city,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I see the ravages of famine.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Both prophet and priest",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "have gone to a land they know not.’”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Have you rejected Judah completely?",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Do you despise Zion?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Why have you afflicted us",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "so that we cannot be healed?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "We hoped for peace",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "but no good has come,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for a time of healing",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "but there is only terror.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "We acknowledge our wickedness, Lord,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and the guilt of our ancestors;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "we have indeed sinned against you.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the sake of your name do not despise us;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "do not dishonor your glorious throne.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember your covenant with us",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and do not break it.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Do any of the worthless idols of the nations bring rain?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Do the skies themselves send down showers?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "No, it is you, Lord our God.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore our hope is in you,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are the one who does all this.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

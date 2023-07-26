@@ -1,0 +1,247 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 94,
+  "verses": 23,
+  "content": [
+    {
+      "text": "God the Refuge of the Righteous",
+      "type": "heading"
+    },
+    {
+      "text": "O Lord God, to whom vengeance belongs—",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O God, to whom vengeance belongs, shine forth!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Rise up, O Judge of the earth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Render punishment to the proud.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, how long will the wicked,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will the wicked triumph?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They utter speech, and speak insolent things;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All the workers of iniquity boast in themselves.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They break in pieces Your people, O Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And afflict Your heritage.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They slay the widow and the stranger,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And murder the fatherless.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they say, “The Lord does not see,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor does the God of Jacob understand.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Understand, you senseless among the people;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And you fools, when will you be wise?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He who planted the ear, shall He not hear?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He who formed the eye, shall He not see?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He who instructs the nations, shall He not correct,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He who teaches man knowledge?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord knows the thoughts of man,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That they are futile.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man whom You instruct, O Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And teach out of Your law,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "That You may give him rest from the days of adversity,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Until the pit is dug for the wicked.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will not cast off His people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will He forsake His inheritance.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But judgment will return to righteousness,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And all the upright in heart will follow it.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will rise up for me against the evildoers?",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who will stand up for me against the workers of iniquity?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Unless the Lord had been my help,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul would soon have settled in silence.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "If I say, “My foot slips,”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Your mercy, O Lord, will hold me up.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "In the multitude of my anxieties within me,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Your comforts delight my soul.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall the throne of iniquity, which devises evil by law,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Have fellowship with You?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They gather together against the life of the righteous,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And condemn innocent blood.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord has been my defense,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And my God the rock of my refuge.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He has brought on them their own iniquity,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall cut them off in their own wickedness;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord our God shall cut them off.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

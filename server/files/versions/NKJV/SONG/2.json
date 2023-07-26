@@ -1,0 +1,334 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 2,
+  "verses": 17,
+  "content": [
+    {
+      "text": "A Country Girl in a Palace",
+      "type": "heading"
+    },
+    {
+      "text": "I am the rose of Sharon,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the lily of the valleys.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Beloved",
+      "type": "title"
+    },
+    {
+      "text": "Like a lily among thorns,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So is my love among the daughters.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "Like an apple tree among the trees of the woods,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So is my beloved among the sons.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I sat down in his shade with great delight,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And his fruit was sweet to my taste.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite to the Daughters of Jerusalem",
+      "type": "title"
+    },
+    {
+      "text": "He brought me to the banqueting house,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his banner over me was love.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Sustain me with cakes of raisins,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Refresh me with apples,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am lovesick.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "His left hand is under my head,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his right hand embraces me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I charge you, O daughters of Jerusalem,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "By the gazelles or by the does of the field,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not stir up nor awaken love",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Until it pleases.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Beloved’s Request",
+      "type": "heading"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "The voice of my beloved!",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Behold, he comes",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Leaping upon the mountains,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Skipping upon the hills.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved is like a gazelle or a young stag.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, he stands behind our wall;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He is looking through the windows,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Gazing through the lattice.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved spoke, and said to me:",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Rise up, my love, my fair one,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And come away.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For lo, the winter is past,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The rain is over and gone.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The flowers appear on the earth;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The time of singing has come,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And the voice of the turtledove",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Is heard in our land.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The fig tree puts forth her green figs,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And the vines with the tender grapes",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Give a good smell.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Rise up, my love, my fair one,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And come away!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“O my dove, in the clefts of the rock,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In the secret places of the cliff,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me see your face,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let me hear your voice;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For your voice is sweet,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And your face is lovely.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Her Brothers",
+      "type": "title"
+    },
+    {
+      "text": "Catch us the foxes,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The little foxes that spoil the vines,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For our vines have tender grapes.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "My beloved is mine, and I am his.",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He feeds his flock among the lilies.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "(To Her Beloved)",
+      "type": "title"
+    },
+    {
+      "text": "Until the day breaks",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the shadows flee away,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn, my beloved,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And be like a gazelle",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Or a young stag",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Upon the mountains of Bether.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 134,
+  "verses": 3,
+  "content": [
+    {
+      "text": "Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord.",
+      "verse": 1
+    },
+    {
+      "text": "Lift up your hands in the sanctuary, and bless the Lord.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord that made heaven and earth bless thee out of Zion.",
+      "verse": 3,
+      "type": "newline"
+    }
+  ]
+}

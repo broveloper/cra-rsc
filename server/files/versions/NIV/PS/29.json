@@ -1,0 +1,136 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 29,
+  "verses": 11,
+  "content": [
+    {
+      "text": "Psalm 29",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Ascribe to the Lord, you heavenly beings,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ascribe to the Lord glory and strength.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Ascribe to the Lord the glory due his name;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "worship the Lord in the splendor of his holiness.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord is over the waters;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the God of glory thunders,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord thunders over the mighty waters.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord is powerful;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the voice of the Lord is majestic.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord breaks the cedars;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord breaks in pieces the cedars of Lebanon.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes Lebanon leap like a calf,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Sirion like a young wild ox.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord strikes",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "with flashes of lightning.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord shakes the desert;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord shakes the Desert of Kadesh.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The voice of the Lord twists the oaks",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and strips the forests bare.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And in his temple all cry, “Glory!”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord sits enthroned over the flood;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord is enthroned as King forever.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord gives strength to his people;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord blesses his people with peace.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

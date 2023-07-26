@@ -1,0 +1,281 @@
+{
+  "book_id": "2SAM",
+  "book_name": "2 Samuel",
+  "chapter": 1,
+  "verses": 27,
+  "content": [
+    {
+      "text": "David Hears of Saul’s Death",
+      "type": "heading"
+    },
+    {
+      "text": "After the death of Saul, David returned from striking down the Amalekites and stayed in Ziklag two days.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "On the third day a man arrived from Saul’s camp with his clothes torn and dust on his head. When he came to David, he fell to the ground to pay him honor.",
+      "verse": 2
+    },
+    {
+      "text": "“Where have you come from?” David asked him.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "He answered, “I have escaped from the Israelite camp.”",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“What happened?” David asked. “Tell me.”",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“The men fled from the battle,” he replied. “Many of them fell and died. And Saul and his son Jonathan are dead.”",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Then David said to the young man who brought him the report, “How do you know that Saul and his son Jonathan are dead?”",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“I happened to be on Mount Gilboa,” the young man said, “and there was Saul, leaning on his spear, with the chariots and their drivers in hot pursuit.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "When he turned around and saw me, he called out to me, and I said, ‘What can I do?’",
+      "verse": 7
+    },
+    {
+      "text": "“He asked me, ‘Who are you?’",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“‘An Amalekite,’ I answered.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "“Then he said to me, ‘Stand here by me and kill me! I’m in the throes of death, but I’m still alive.’",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“So I stood beside him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and have brought them here to my lord.”",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Then David and all the men with him took hold of their clothes and tore them.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the Lord and for the nation of Israel, because they had fallen by the sword.",
+      "verse": 12
+    },
+    {
+      "text": "David said to the young man who brought him the report, “Where are you from?”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“I am the son of a foreigner, an Amalekite,” he answered.",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "David asked him, “Why weren’t you afraid to lift your hand to destroy the Lord’s anointed?”",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Then David called one of his men and said, “Go, strike him down!” So he struck him down, and he died.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "For David had said to him, “Your blood be on your own head. Your own mouth testified against you when you said, ‘I killed the Lord’s anointed.’”",
+      "verse": 16
+    },
+    {
+      "text": "David’s Lament for Saul and Jonathan",
+      "type": "heading"
+    },
+    {
+      "text": "David took up this lament concerning Saul and his son Jonathan,",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "and he ordered that the people of Judah be taught this lament of the bow (it is written in the Book of Jashar):",
+      "verse": 18
+    },
+    {
+      "text": "“A gazelle lies slain on your heights, Israel.",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How the mighty have fallen!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Tell it not in Gath,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "proclaim it not in the streets of Ashkelon,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "lest the daughters of the Philistines be glad,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "lest the daughters of the uncircumcised rejoice.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“Mountains of Gilboa,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may you have neither dew nor rain,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "may no showers fall on your terraced fields.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "For there the shield of the mighty was despised,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "the shield of Saul—no longer rubbed with oil.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“From the blood of the slain,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from the flesh of the mighty,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the bow of Jonathan did not turn back,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the sword of Saul did not return unsatisfied.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Saul and Jonathan—",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "in life they were loved and admired,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and in death they were not parted.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They were swifter than eagles,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they were stronger than lions.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“Daughters of Israel,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "weep for Saul,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who clothed you in scarlet and finery,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who adorned your garments with ornaments of gold.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "“How the mighty have fallen in battle!",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Jonathan lies slain on your heights.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "I grieve for you, Jonathan my brother;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "you were very dear to me.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Your love for me was wonderful,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "more wonderful than that of women.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "“How the mighty have fallen!",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The weapons of war have perished!”",
+      "verse": 27,
+      "type": "poetry"
+    }
+  ]
+}

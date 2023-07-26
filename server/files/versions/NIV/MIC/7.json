@@ -1,0 +1,445 @@
+{
+  "book_id": "MIC",
+  "book_name": "Micah",
+  "chapter": 7,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Israel’s Misery",
+      "type": "heading"
+    },
+    {
+      "text": "What misery is mine!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I am like one who gathers summer fruit",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "at the gleaning of the vineyard;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no cluster of grapes to eat,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "none of the early figs that I crave.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The faithful have been swept from the land;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "not one upright person remains.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone lies in wait to shed blood;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they hunt each other with nets.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Both hands are skilled in doing evil;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the ruler demands gifts,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the judge accepts bribes,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the powerful dictate what they desire—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they all conspire together.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The best of them is like a brier,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the most upright worse than a thorn hedge.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The day God visits you has come,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the day your watchmen sound the alarm.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Now is the time of your confusion.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not trust a neighbor;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "put no confidence in a friend.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Even with the woman who lies in your embrace",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "guard the words of your lips.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For a son dishonors his father,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a daughter rises up against her mother,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a daughter-in-law against her mother-in-law—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a man’s enemies are the members of his own household.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But as for me, I watch in hope for the Lord,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I wait for God my Savior;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "my God will hear me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel Will Rise",
+      "type": "heading"
+    },
+    {
+      "text": "Do not gloat over me, my enemy!",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Though I have fallen, I will rise.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I sit in darkness,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord will be my light.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I have sinned against him,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bear the Lord’s wrath,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "until he pleads my case",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and upholds my cause.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He will bring me out into the light;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will see his righteousness.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Then my enemy will see it",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and will be covered with shame,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "she who said to me,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Where is the Lord your God?”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes will see her downfall;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "even now she will be trampled underfoot",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "like mire in the streets.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The day for building your walls will come,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the day for extending your boundaries.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day people will come to you",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "from Assyria and the cities of Egypt,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "even from Egypt to the Euphrates",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and from sea to sea",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and from mountain to mountain.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth will become desolate because of its inhabitants,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "as the result of their deeds.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Prayer and Praise",
+      "type": "heading"
+    },
+    {
+      "text": "Shepherd your people with your staff,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the flock of your inheritance,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "which lives by itself in a forest,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "in fertile pasturelands.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them feed in Bashan and Gilead",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "as in days long ago.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“As in the days when you came out of Egypt,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will show them my wonders.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Nations will see and be ashamed,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "deprived of all their power.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They will put their hands over their mouths",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and their ears will become deaf.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They will lick dust like a snake,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "like creatures that crawl on the ground.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They will come trembling out of their dens;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they will turn in fear to the Lord our God",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and will be afraid of you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Who is a God like you,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "who pardons sin and forgives the transgression",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "of the remnant of his inheritance?",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You do not stay angry forever",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "but delight to show mercy.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You will again have compassion on us;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "you will tread our sins underfoot",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and hurl all our iniquities into the depths of the sea.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You will be faithful to Jacob,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and show love to Abraham,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "as you pledged on oath to our ancestors",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "in days long ago.",
+      "verse": 20,
+      "type": "poetry"
+    }
+  ]
+}

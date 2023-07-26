@@ -1,0 +1,47 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 130,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Out of the depths have I cried unto thee, O Lord.",
+      "verse": 1
+    },
+    {
+      "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "But there is forgiveness with thee, that thou mayest be feared.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "I wait for the Lord, my soul doth wait, and in his word do I hope.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And he shall redeem Israel from all his iniquities.",
+      "verse": 8,
+      "type": "newline"
+    }
+  ]
+}

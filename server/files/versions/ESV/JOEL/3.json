@@ -1,0 +1,315 @@
+{
+  "book_id": "JOEL",
+  "book_name": "Joel",
+  "chapter": 3,
+  "verses": 21,
+  "content": [
+    {
+      "text": "The Lord Judges the Nations",
+      "type": "heading"
+    },
+    {
+      "text": " “For behold, in those days and at that time, when I restore the fortunes of Judah and Jerusalem,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "I will gather all the nations and bring them down to the Valley of Jehoshaphat. And I will enter into judgment with them there, on behalf of my people and my heritage Israel, because they have scattered them among the nations and have divided up my land,",
+      "verse": 2
+    },
+    {
+      "text": "and have cast lots for my people, and have traded a boy for a prostitute, and have sold a girl for wine and have drunk it.",
+      "verse": 3
+    },
+    {
+      "text": "“What are you to me, O Tyre and Sidon, and all the regions of Philistia? Are you paying me back for something? If you are paying me back, I will return your payment on your own head swiftly and speedily.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For you have taken my silver and my gold, and have carried my rich treasures into your temples.",
+      "verse": 5
+    },
+    {
+      "text": "You have sold the people of Judah and Jerusalem to the Greeks in order to remove them far from their own border.",
+      "verse": 6
+    },
+    {
+      "text": "Behold, I will stir them up from the place to which you have sold them, and I will return your payment on your own head.",
+      "verse": 7
+    },
+    {
+      "text": "I will sell your sons and your daughters into the hand of the people of Judah, and they will sell them to the Sabeans, to a nation far away, for the Lord has spoken.”",
+      "verse": 8
+    },
+    {
+      "text": "Proclaim this among the nations:",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Consecrate for war;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "stir up the mighty men.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all the men of war draw near;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "let them come up.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Beat your plowshares into swords,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and your pruning hooks into spears;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "let the weak say, “I am a warrior.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Hasten and come,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all you surrounding nations,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and gather yourselves there.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring down your warriors, O Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the nations stir themselves up",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and come up to the Valley of Jehoshaphat;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for there I will sit to judge",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "all the surrounding nations.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Put in the sickle,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the harvest is ripe.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Go in, tread,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for the winepress is full.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The vats overflow,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for their evil is great.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Multitudes, multitudes,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the valley of decision!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For the day of the Lord is near",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "in the valley of decision.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun and the moon are darkened,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the stars withdraw their shining.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord roars from Zion,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and utters his voice from Jerusalem,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and the heavens and the earth quake.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord is a refuge to his people,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "a stronghold to the people of Israel.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The Glorious Future of Judah",
+      "type": "heading"
+    },
+    {
+      "text": "“So you shall know that I am the Lord your God,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who dwells in Zion, my holy mountain.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And Jerusalem shall be holy,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and strangers shall never again pass through it.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“And in that day",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the mountains shall drip sweet wine,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hills shall flow with milk,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the streambeds of Judah",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "shall flow with water;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and a fountain shall come forth from the house of the Lord",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and water the Valley of Shittim.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Egypt shall become a desolation",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and Edom a desolate wilderness,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for the violence done to the people of Judah,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have shed innocent blood in their land.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But Judah shall be inhabited forever,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and Jerusalem to all generations.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I will avenge their blood,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "blood I have not avenged,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord dwells in Zion.”",
+      "verse": 21,
+      "type": "poetry"
+    }
+  ]
+}

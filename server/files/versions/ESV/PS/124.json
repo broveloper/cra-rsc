@@ -1,0 +1,111 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 124,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Our Help Is in the Name of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents. Of David.",
+      "type": "title"
+    },
+    {
+      "text": "If it had not been the Lord who was on our side—",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let Israel now say—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "if it had not been the Lord who was on our side",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when people rose up against us,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "then they would have swallowed us up alive,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when their anger was kindled against us;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "then the flood would have swept us away,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the torrent would have gone over us;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "then over us would have gone",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the raging waters.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who has not given us",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "as prey to their teeth!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "We have escaped like a bird",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "from the snare of the fowlers;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the snare is broken,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and we have escaped!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Our help is in the name of the Lord,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who made heaven and earth.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

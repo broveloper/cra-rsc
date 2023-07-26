@@ -1,0 +1,342 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 4,
+  "verses": 19,
+  "content": [
+    {
+      "text": "The Lord Accuses Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Hear the word of the Lord, O children of Israel,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the Lord has a controversy with the inhabitants of the land.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no faithfulness or steadfast love,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and no knowledge of God in the land;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "there is swearing, lying, murder, stealing, and committing adultery;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they break all bounds, and bloodshed follows bloodshed.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the land mourns,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and all who dwell in it languish,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and also the beasts of the field",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the birds of the heavens,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and even the fish of the sea are taken away.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet let no one contend,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and let none accuse,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for with you is my contention, O priest.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall stumble by day;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the prophet also shall stumble with you by night;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will destroy your mother.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "My people are destroyed for lack of knowledge;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "because you have rejected knowledge,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I reject you from being a priest to me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And since you have forgotten the law of your God,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I also will forget your children.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The more they increased,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the more they sinned against me;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will change their glory into shame.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They feed on the sin of my people;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they are greedy for their iniquity.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall be like people, like priest;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will punish them for their ways",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and repay them for their deeds.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall eat, but not be satisfied;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall play the whore, but not multiply,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have forsaken the Lord",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to cherish",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "whoredom, wine, and new wine,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "which take away the understanding.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My people inquire of a piece of wood,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and their walking staff gives them oracles.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For a spirit of whoredom has led them astray,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and they have left their God to play the whore.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They sacrifice on the tops of the mountains",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and burn offerings on the hills,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "under oak, poplar, and terebinth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "because their shade is good.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore your daughters play the whore,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and your brides commit adultery.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not punish your daughters when they play the whore,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "nor your brides when they commit adultery;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for the men themselves go aside with prostitutes",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and sacrifice with cult prostitutes,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and a people without understanding shall come to ruin.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Though you play the whore, O Israel,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let not Judah become guilty.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Enter not into Gilgal,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "nor go up to Beth-aven,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and swear not, “As the Lord lives.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a stubborn heifer,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Israel is stubborn;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "can the Lord now feed them",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "like a lamb in a broad pasture?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is joined to idols;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "leave him alone.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When their drink is gone, they give themselves to whoring;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "their rulers dearly love shame.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "A wind has wrapped them in its wings,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and they shall be ashamed because of their sacrifices.",
+      "verse": 19,
+      "type": "poetry"
+    }
+  ]
+}

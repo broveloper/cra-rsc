@@ -1,0 +1,166 @@
+{
+  "book_id": "GEN",
+  "book_name": "Genesis",
+  "chapter": 4,
+  "verses": 26,
+  "content": [
+    {
+      "text": "Cain Murders Abel",
+      "type": "heading"
+    },
+    {
+      "text": "Now Adam knew Eve his wife, and she conceived and bore Cain, and said, “I have acquired a man from the Lord.” ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Then she bore again, this time his brother Abel. Now Abel was a keeper of sheep, but Cain was a tiller of the ground. ",
+      "verse": 2
+    },
+    {
+      "text": "And in the process of time it came to pass that Cain brought an offering of the fruit of the ground to the Lord. ",
+      "verse": 3
+    },
+    {
+      "text": "Abel also brought of the firstborn of his flock and of their fat. And the Lord respected Abel and his offering, ",
+      "verse": 4
+    },
+    {
+      "text": "but He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.",
+      "verse": 5
+    },
+    {
+      "text": "So the Lord said to Cain, “Why are you angry? And why has your countenance fallen? ",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "If you do well, will you not be accepted? And if you do not do well, sin lies at the door. And its desire is for you, but you should rule over it.”",
+      "verse": 7
+    },
+    {
+      "text": "Now Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord said to Cain, “Where is Abel your brother?”",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "He said, “I do not know. Am I my brother’s keeper?”",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground. ",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "So now you are cursed from the earth, which has opened its mouth to receive your brother’s blood from your hand. ",
+      "verse": 11
+    },
+    {
+      "text": "When you till the ground, it shall no longer yield its strength to you. A fugitive and a vagabond you shall be on the earth.”",
+      "verse": 12
+    },
+    {
+      "text": "And Cain said to the Lord, “My punishment is greater than I can bear! ",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Surely You have driven me out this day from the face of the ground; I shall be hidden from Your face; I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me.”",
+      "verse": 14
+    },
+    {
+      "text": "And the Lord said to him, “Therefore, whoever kills Cain, vengeance shall be taken on him sevenfold.” And the Lord set a mark on Cain, lest anyone finding him should kill him.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "The Family of Cain",
+      "type": "heading"
+    },
+    {
+      "text": "Then Cain went out from the presence of the Lord and dwelt in the land of Nod on the east of Eden. ",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And Cain knew his wife, and she conceived and bore Enoch. And he built a city, and called the name of the city after the name of his son—Enoch. ",
+      "verse": 17
+    },
+    {
+      "text": "To Enoch was born Irad; and Irad begot Mehujael, and Mehujael begot Methushael, and Methushael begot Lamech.",
+      "verse": 18
+    },
+    {
+      "text": "Then Lamech took for himself two wives: the name of one was Adah, and the name of the second was Zillah. ",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "And Adah bore Jabal. He was the father of those who dwell in tents and have livestock. ",
+      "verse": 20
+    },
+    {
+      "text": "His brother’s name was Jubal. He was the father of all those who play the harp and flute. ",
+      "verse": 21
+    },
+    {
+      "text": "And as for Zillah, she also bore Tubal-Cain, an instructor of every craftsman in bronze and iron. And the sister of Tubal-Cain was Naamah.",
+      "verse": 22
+    },
+    {
+      "text": "Then Lamech said to his wives:",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "“Adah and Zillah, hear my voice;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Wives of Lamech, listen to my speech!",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "For I have killed a man for wounding me,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Even a young man for hurting me.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "If Cain shall be avenged sevenfold,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Lamech seventy-sevenfold.”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "A New Son",
+      "type": "heading"
+    },
+    {
+      "text": "And Adam knew his wife again, and she bore a son and named him Seth, “For God has appointed another seed for me instead of Abel, whom Cain killed.” ",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "And as for Seth, to him also a son was born; and he named him Enosh. Then men began to call on the name of the Lord.",
+      "verse": 26
+    }
+  ]
+}

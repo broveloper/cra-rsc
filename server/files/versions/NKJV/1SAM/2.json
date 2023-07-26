@@ -1,0 +1,317 @@
+{
+  "book_id": "1SAM",
+  "book_name": "1 Samuel",
+  "chapter": 2,
+  "verses": 36,
+  "content": [
+    {
+      "text": "Hannah’s Prayer",
+      "type": "heading"
+    },
+    {
+      "text": "And Hannah prayed and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“My heart rejoices in the Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My horn is exalted in the Lord.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I smile at my enemies,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Because I rejoice in Your salvation.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“No one is holy like the Lord,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For there is none besides You,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor is there any rock like our God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Talk no more so very proudly;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let no arrogance come from your mouth,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is the God of knowledge;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And by Him actions are weighed.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“The bows of the mighty men are broken,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And those who stumbled are girded with strength.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who were full have hired themselves out for bread,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the hungry have ceased to hunger.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the barren has borne seven,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And she who has many children has become feeble.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“The Lord kills and makes alive;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He brings down to the grave and brings up.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord makes poor and makes rich;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He brings low and lifts up.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He raises the poor from the dust",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And lifts the beggar from the ash heap,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "To set them among princes",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And make them inherit the throne of glory.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“For the pillars of the earth are the Lord’s,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And He has set the world upon them.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He will guard the feet of His saints,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But the wicked shall be silent in darkness.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“For by strength no man shall prevail.",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The adversaries of the Lord shall be broken in pieces;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "From heaven He will thunder against them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will judge the ends of the earth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“He will give strength to His king,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And exalt the horn of His anointed.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Elkanah went to his house at Ramah. But the child ministered to the Lord before Eli the priest.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "The Wicked Sons of Eli",
+      "type": "heading"
+    },
+    {
+      "text": "Now the sons of Eli were corrupt; they did not know the Lord. ",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And the priests’ custom with the people was that when any man offered a sacrifice, the priest’s servant would come with a three-pronged fleshhook in his hand while the meat was boiling. ",
+      "verse": 13
+    },
+    {
+      "text": "Then he would thrust it into the pan, or kettle, or caldron, or pot; and the priest would take for himself all that the fleshhook brought up. So they did in Shiloh to all the Israelites who came there. ",
+      "verse": 14
+    },
+    {
+      "text": "Also, before they burned the fat, the priest’s servant would come and say to the man who sacrificed, “Give meat for roasting to the priest, for he will not take boiled meat from you, but raw.”",
+      "verse": 15
+    },
+    {
+      "text": "And if the man said to him, “They should really burn the fat first; then you may take as much as your heart desires,” he would then answer him, “No, but you must give it now; and if not, I will take it by force.”",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Therefore the sin of the young men was very great before the Lord, for men abhorred the offering of the Lord.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Samuel’s Childhood Ministry",
+      "type": "heading"
+    },
+    {
+      "text": "But Samuel ministered before the Lord, even as a child, wearing a linen ephod. ",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "Moreover his mother used to make him a little robe, and bring it to him year by year when she came up with her husband to offer the yearly sacrifice. ",
+      "verse": 19
+    },
+    {
+      "text": "And Eli would bless Elkanah and his wife, and say, “The Lord give you descendants from this woman for the loan that was given to the Lord.” Then they would go to their own home.",
+      "verse": 20
+    },
+    {
+      "text": "And the Lord visited Hannah, so that she conceived and bore three sons and two daughters. Meanwhile the child Samuel grew before the Lord.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Prophecy Against Eli’s Household",
+      "type": "heading"
+    },
+    {
+      "text": "Now Eli was very old; and he heard everything his sons did to all Israel, and how they lay with the women who assembled at the door of the tabernacle of meeting. ",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "So he said to them, “Why do you do such things? For I hear of your evil dealings from all the people. ",
+      "verse": 23
+    },
+    {
+      "text": "No, my sons! For it is not a good report that I hear. You make the Lord’s people transgress. ",
+      "verse": 24
+    },
+    {
+      "text": "If one man sins against another, God will judge him. But if a man sins against the Lord, who will intercede for him?” Nevertheless they did not heed the voice of their father, because the Lord desired to kill them.",
+      "verse": 25
+    },
+    {
+      "text": "And the child Samuel grew in stature, and in favor both with the Lord and men.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "Then a man of God came to Eli and said to him, “Thus says the Lord: ‘Did I not clearly reveal Myself to the house of your father when they were in Egypt in Pharaoh’s house? ",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "Did I not choose him out of all the tribes of Israel to be My priest, to offer upon My altar, to burn incense, and to wear an ephod before Me? And did I not give to the house of your father all the offerings of the children of Israel made by fire? ",
+      "verse": 28
+    },
+    {
+      "text": "Why do you kick at My sacrifice and My offering which I have commanded in My dwelling place, and honor your sons more than Me, to make yourselves fat with the best of all the offerings of Israel My people?’ ",
+      "verse": 29
+    },
+    {
+      "text": "Therefore the Lord God of Israel says: ‘I said indeed that your house and the house of your father would walk before Me forever.’ But now the Lord says: ‘Far be it from Me; for those who honor Me I will honor, and those who despise Me shall be lightly esteemed. ",
+      "verse": 30
+    },
+    {
+      "text": "Behold, the days are coming that I will cut off your arm and the arm of your father’s house, so that there will not be an old man in your house. ",
+      "verse": 31
+    },
+    {
+      "text": "And you will see an enemy in My dwelling place, despite all the good which God does for Israel. And there shall not be an old man in your house forever. ",
+      "verse": 32
+    },
+    {
+      "text": "But any of your men whom I do not cut off from My altar shall consume your eyes and grieve your heart. And all the descendants of your house shall die in the flower of their age. ",
+      "verse": 33
+    },
+    {
+      "text": "Now this shall be a sign to you that will come upon your two sons, on Hophni and Phinehas: in one day they shall die, both of them. ",
+      "verse": 34
+    },
+    {
+      "text": "Then I will raise up for Myself a faithful priest who shall do according to what is in My heart and in My mind. I will build him a sure house, and he shall walk before My anointed forever. ",
+      "verse": 35
+    },
+    {
+      "text": "And it shall come to pass that everyone who is left in your house will come and bow down to him for a piece of silver and a morsel of bread, and say, “Please, put me in one of the priestly positions, that I may eat a piece of bread.” ’ ”",
+      "verse": 36
+    }
+  ]
+}

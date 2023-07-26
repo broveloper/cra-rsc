@@ -1,0 +1,103 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 6,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Wealth Is Not the Goal of Life",
+      "type": "heading"
+    },
+    {
+      "text": "There is an evil which I have seen under the sun, and it is common among men: ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "A man to whom God has given riches and wealth and honor, so that he lacks nothing for himself of all he desires; yet God does not give him power to eat of it, but a foreigner consumes it. This is vanity, and it is an evil affliction.",
+      "verse": 2
+    },
+    {
+      "text": "If a man begets a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with goodness, or indeed he has no burial, I say that a stillborn child is better than he— ",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "for it comes in vanity and departs in darkness, and its name is covered with darkness. ",
+      "verse": 4
+    },
+    {
+      "text": "Though it has not seen the sun or known anything, this has more rest than that man, ",
+      "verse": 5
+    },
+    {
+      "text": "even if he lives a thousand years twice—but has not seen goodness. Do not all go to one place?",
+      "verse": 6
+    },
+    {
+      "text": "All the labor of man is for his mouth,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And yet the soul is not satisfied.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For what more has the wise man than the fool?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "What does the poor man have,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Who knows how to walk before the living?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Better is the sight of the eyes than the wandering of desire.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This also is vanity and grasping for the wind.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Whatever one is, he has been named already,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For it is known that he is man;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And he cannot contend with Him who is mightier than he.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Since there are many things that increase vanity,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "How is man the better?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For who knows what is good for man in life, all the days of his vain life which he passes like a shadow? Who can tell a man what will happen after him under the sun?",
+      "verse": 12,
+      "type": "newline"
+    }
+  ]
+}

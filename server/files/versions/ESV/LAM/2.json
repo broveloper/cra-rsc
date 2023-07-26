@@ -1,0 +1,677 @@
+{
+  "book_id": "LAM",
+  "book_name": "Lamentations",
+  "chapter": 2,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Lord Has Destroyed Without Pity",
+      "type": "heading"
+    },
+    {
+      "text": "How the Lord in his anger",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "has set the daughter of Zion under a cloud!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He has cast down from heaven to earth",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "the splendor of Israel;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "he has not remembered his footstool",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "in the day of his anger.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has swallowed up without mercy",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all the habitations of Jacob;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in his wrath he has broken down",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the strongholds of the daughter of Judah;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he has brought down to the ground in dishonor",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the kingdom and its rulers.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He has cut down in fierce anger",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all the might of Israel;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he has withdrawn from them his right hand",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "in the face of the enemy;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he has burned like a flaming fire in Jacob,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "consuming all around.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He has bent his bow like an enemy,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "with his right hand set like a foe;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and he has killed all who were delightful in our eyes",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "in the tent of the daughter of Zion;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he has poured out his fury like fire.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has become like an enemy;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he has swallowed up Israel;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he has swallowed up all its palaces;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he has laid in ruins its strongholds,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and he has multiplied in the daughter of Judah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "mourning and lamentation.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He has laid waste his booth like a garden,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "laid in ruins his meeting place;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord has made Zion forget",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "festival and Sabbath,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and in his fierce indignation has spurned king and priest.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has scorned his altar,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "disowned his sanctuary;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he has delivered into the hand of the enemy",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the walls of her palaces;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they raised a clamor in the house of the Lord",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "as on the day of festival.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord determined to lay in ruins",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the wall of the daughter of Zion;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he stretched out the measuring line;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he did not restrain his hand from destroying;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he caused rampart and wall to lament;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "they languished together.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Her gates have sunk into the ground;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he has ruined and broken her bars;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "her king and princes are among the nations;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the law is no more,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and her prophets find",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "no vision from the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The elders of the daughter of Zion",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "sit on the ground in silence;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they have thrown dust on their heads",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and put on sackcloth;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the young women of Jerusalem",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "have bowed their heads to the ground.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes are spent with weeping;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my stomach churns;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "my bile is poured out to the ground",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the destruction of the daughter of my people,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "because infants and babies faint",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "in the streets of the city.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They cry to their mothers,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Where is bread and wine?”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "as they faint like a wounded man",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "in the streets of the city,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "as their life is poured out",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "on their mothers' bosom.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "What can I say for you, to what compare you,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O daughter of Jerusalem?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "What can I liken to you, that I may comfort you,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "O virgin daughter of Zion?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For your ruin is vast as the sea;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who can heal you?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Your prophets have seen for you",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "false and deceptive visions;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they have not exposed your iniquity",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "to restore your fortunes,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but have seen for you oracles",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that are false and misleading.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "All who pass along the way",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "clap their hands at you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "they hiss and wag their heads",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "at the daughter of Jerusalem:",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is this the city that was called",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the perfection of beauty,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the joy of all the earth?”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "All your enemies",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "rail against you;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they hiss, they gnash their teeth,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they cry: “We have swallowed her!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Ah, this is the day we longed for;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "now we have it; we see it!”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has done what he purposed;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he has carried out his word,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "which he commanded long ago;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "he has thrown down without pity;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "he has made the enemy rejoice over you",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and exalted the might of your foes.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Their heart cried to the Lord.",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O wall of the daughter of Zion,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "let tears stream down like a torrent",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "day and night!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Give yourself no rest,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "your eyes no respite!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“Arise, cry out in the night,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "at the beginning of the night watches!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Pour out your heart like water",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "before the presence of the Lord!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift your hands to him",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for the lives of your children,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "who faint for hunger",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "at the head of every street.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Look, O Lord, and see!",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With whom have you dealt thus?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Should women eat the fruit of their womb,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the children of their tender care?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Should priest and prophet be killed",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "in the sanctuary of the Lord?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "In the dust of the streets",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "lie the young and the old;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "my young women and my young men",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "have fallen by the sword;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "you have killed them in the day of your anger,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "slaughtering without pity.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "You summoned as if to a festival day",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my terrors on every side,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and on the day of the anger of the Lord",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "no one escaped or survived;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "those whom I held and raised",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "my enemy destroyed.",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

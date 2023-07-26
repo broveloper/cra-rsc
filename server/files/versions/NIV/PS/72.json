@@ -1,0 +1,261 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 72,
+  "verses": 20,
+  "content": [
+    {
+      "text": "Psalm 72",
+      "type": "heading"
+    },
+    {
+      "text": "Of Solomon.",
+      "type": "title"
+    },
+    {
+      "text": "Endow the king with your justice, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the royal son with your righteousness.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "May he judge your people in righteousness,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "your afflicted ones with justice.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "May the mountains bring prosperity to the people,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the hills the fruit of righteousness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May he defend the afflicted among the people",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and save the children of the needy;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "may he crush the oppressor.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May he endure as long as the sun,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "as long as the moon, through all generations.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "May he be like rain falling on a mown field,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like showers watering the earth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In his days may the righteous flourish",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and prosperity abound till the moon is no more.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "May he rule from sea to sea",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and from the River to the ends of the earth.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "May the desert tribes bow before him",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and his enemies lick the dust.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "May the kings of Tarshish and of distant shores",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "bring tribute to him.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "May the kings of Sheba and Seba",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "present him gifts.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "May all kings bow down to him",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and all nations serve him.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For he will deliver the needy who cry out,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the afflicted who have no one to help.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He will take pity on the weak and the needy",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and save the needy from death.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He will rescue them from oppression and violence,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for precious is their blood in his sight.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Long may he live!",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "May gold from Sheba be given him.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "May people ever pray for him",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and bless him all day long.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "May grain abound throughout the land;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "on the tops of the hills may it sway.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "May the crops flourish like Lebanon",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and thrive like the grass of the field.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "May his name endure forever;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "may it continue as long as the sun.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then all nations will be blessed through him,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and they will call him blessed.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise be to the Lord God, the God of Israel,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who alone does marvelous deeds.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise be to his glorious name forever;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "may the whole earth be filled with his glory.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Amen and Amen.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "This concludes the prayers of David son of Jesse.",
+      "verse": 20,
+      "type": "poetry newline"
+    }
+  ]
+}

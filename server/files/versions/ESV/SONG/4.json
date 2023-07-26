@@ -1,0 +1,319 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 4,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Solomon Admires His Bride's Beauty",
+      "type": "heading"
+    },
+    {
+      "text": "He",
+      "type": "title"
+    },
+    {
+      "text": "Behold, you are beautiful, my love,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "behold, you are beautiful!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your eyes are doves",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "behind your veil.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your hair is like a flock of goats",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "leaping down the slopes of Gilead.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Your teeth are like a flock of shorn ewes",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that have come up from the washing,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "all of which bear twins,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and not one among them has lost its young.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Your lips are like a scarlet thread,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and your mouth is lovely.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your cheeks are like halves of a pomegranate",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "behind your veil.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your neck is like the tower of David,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "built in rows of stone;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "on it hang a thousand shields,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them shields of warriors.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your two breasts are like two fawns,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "twins of a gazelle,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "that graze among the lilies.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Until the day breathes",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the shadows flee,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will go away to the mountain of myrrh",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hill of frankincense.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You are altogether beautiful, my love;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "there is no flaw in you.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Come with me from Lebanon, my bride;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "come with me from Lebanon.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Depart from the peak of Amana,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from the peak of Senir and Hermon,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from the dens of lions,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from the mountains of leopards.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You have captivated my heart, my sister, my bride;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have captivated my heart with one glance of your eyes,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "with one jewel of your necklace.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "How beautiful is your love, my sister, my bride!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "How much better is your love than wine,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the fragrance of your oils than any spice!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your lips drip nectar, my bride;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "honey and milk are under your tongue;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "the fragrance of your garments is like the fragrance of Lebanon.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "A garden locked is my sister, my bride,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "a spring locked, a fountain sealed.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Your shoots are an orchard of pomegranates",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "with all choicest fruits,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "henna with nard,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "nard and saffron, calamus and cinnamon,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with all trees of frankincense,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "myrrh and aloes,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with all choice spices—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "a garden fountain, a well of living water,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and flowing streams from Lebanon.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, O north wind,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and come, O south wind!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Blow upon my garden,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "let its spices flow.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Together in the Garden of Love",
+      "type": "heading"
+    },
+    {
+      "text": "She",
+      "type": "title"
+    },
+    {
+      "text": "Let my beloved come to his garden,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and eat its choicest fruits.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

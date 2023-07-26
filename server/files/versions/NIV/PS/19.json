@@ -1,0 +1,221 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 19,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Psalm 19",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. A psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The heavens declare the glory of God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the skies proclaim the work of his hands.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Day after day they pour forth speech;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "night after night they reveal knowledge.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "They have no speech, they use no words;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "no sound is heard from them.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet their voice goes out into all the earth,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "their words to the ends of the world.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In the heavens God has pitched a tent for the sun.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "    It is like a bridegroom coming out of his chamber,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like a champion rejoicing to run his course.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "It rises at one end of the heavens",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and makes its circuit to the other;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "nothing is deprived of its warmth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The law of the Lord is perfect,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "refreshing the soul.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The statutes of the Lord are trustworthy,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "making wise the simple.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The precepts of the Lord are right,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "giving joy to the heart.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The commands of the Lord are radiant,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "giving light to the eyes.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is pure,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "enduring forever.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The decrees of the Lord are firm,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and all of them are righteous.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They are more precious than gold,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "than much pure gold;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they are sweeter than honey,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "than honey from the honeycomb.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "By them your servant is warned;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "in keeping them there is great reward.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But who can discern their own errors?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Forgive my hidden faults.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep your servant also from willful sins;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "may they not rule over me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I will be blameless,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "innocent of great transgression.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "May these words of my mouth and this meditation of my heart",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "be pleasing in your sight,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, my Rock and my Redeemer.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

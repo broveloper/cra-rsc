@@ -1,0 +1,337 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 58,
+  "verses": 14,
+  "content": [
+    {
+      "text": "True and False Fasting",
+      "type": "heading"
+    },
+    {
+      "text": "“Cry aloud; do not hold back;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "lift up your voice like a trumpet;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "declare to my people their transgression,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to the house of Jacob their sins.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet they seek me daily",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and delight to know my ways,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as if they were a nation that did righteousness",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and did not forsake the judgment of their God;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they ask of me righteous judgments;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they delight to draw near to God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Why have we fasted, and you see it not?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Why have we humbled ourselves, and you take no knowledge of it?’",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, in the day of your fast you seek your own pleasure,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and oppress all your workers.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, you fast only to quarrel and to fight",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and to hit with a wicked fist.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Fasting like yours this day",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "will not make your voice to be heard on high.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Is such the fast that I choose,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "a day for a person to humble himself?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it to bow down his head like a reed,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and to spread sackcloth and ashes under him?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Will you call this a fast,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and a day acceptable to the Lord?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is not this the fast that I choose:",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to loose the bonds of wickedness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to undo the straps of the yoke,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to let the oppressed go free,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and to break every yoke?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not to share your bread with the hungry",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and bring the homeless poor into your house;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "when you see the naked, to cover him,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and not to hide yourself from your own flesh?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then shall your light break forth like the dawn,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and your healing shall spring up speedily;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "your righteousness shall go before you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the glory of the Lord shall be your rear guard.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you shall call, and the Lord will answer;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall cry, and he will say, ‘Here I am.’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "If you take away the yoke from your midst,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the pointing of the finger, and speaking wickedness,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "if you pour yourself out for the hungry",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and satisfy the desire of the afflicted,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "then shall your light rise in the darkness",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and your gloom be as the noonday.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Lord will guide you continually",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and satisfy your desire in scorched places",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and make your bones strong;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and you shall be like a watered garden,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "like a spring of water,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "whose waters do not fail.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And your ancient ruins shall be rebuilt;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall raise up the foundations of many generations;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "you shall be called the repairer of the breach,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the restorer of streets to dwell in.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“If you turn back your foot from the Sabbath,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "from doing your pleasure on my holy day,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and call the Sabbath a delight",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and the holy day of the Lord honorable;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "if you honor it, not going your own ways,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "or seeking your own pleasure, or talking idly;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "then you shall take delight in the Lord,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will make you ride on the heights of the earth;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will feed you with the heritage of Jacob your father,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for the mouth of the Lord has spoken.”",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

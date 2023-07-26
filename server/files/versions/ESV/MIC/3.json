@@ -1,0 +1,267 @@
+{
+  "book_id": "MIC",
+  "book_name": "Micah",
+  "chapter": 3,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Rulers and Prophets Denounced",
+      "type": "heading"
+    },
+    {
+      "text": "And I said:",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Hear, you heads of Jacob",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and rulers of the house of Israel!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it not for you to know justice?—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "    you who hate the good and love the evil,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who tear the skin from off my people",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and their flesh from off their bones,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who eat the flesh of my people,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and flay their skin from off them,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and break their bones in pieces",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and chop them up like meat in a pot,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like flesh in a cauldron.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they will cry to the Lord,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but he will not answer them;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he will hide his face from them at that time,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "because they have made their deeds evil.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord concerning the prophets",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who lead my people astray,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who cry “Peace”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "when they have something to eat,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "but declare war against him",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who puts nothing into their mouths.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore it shall be night to you, without vision,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and darkness to you, without divination.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The sun shall go down on the prophets,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and the day shall be black over them;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the seers shall be disgraced,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the diviners put to shame;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall all cover their lips,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "for there is no answer from God.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But as for me, I am filled with power,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with the Spirit of the Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and with justice and might,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to declare to Jacob his transgression",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and to Israel his sin.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear this, you heads of the house of Jacob",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and rulers of the house of Israel,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who detest justice",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and make crooked all that is straight,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who build Zion with blood",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and Jerusalem with iniquity.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Its heads give judgment for a bribe;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "its priests teach for a price;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "its prophets practice divination for money;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "yet they lean on the Lord and say,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is not the Lord in the midst of us?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "No disaster shall come upon us.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore because of you",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Zion shall be plowed as a field;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Jerusalem shall become a heap of ruins,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and the mountain of the house a wooded height.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

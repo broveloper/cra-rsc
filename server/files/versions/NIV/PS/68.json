@@ -1,0 +1,446 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 68,
+  "verses": 35,
+  "content": [
+    {
+      "text": "Psalm 68",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. Of David. A psalm. A song.",
+      "type": "title"
+    },
+    {
+      "text": "May God arise, may his enemies be scattered;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may his foes flee before him.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "May you blow them away like smoke—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "as wax melts before the fire,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "may the wicked perish before God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But may the righteous be glad",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and rejoice before God;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "may they be happy and joyful.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to God, sing in praise of his name,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "extol him who rides on the clouds;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "rejoice before him—his name is the Lord.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A father to the fatherless, a defender of widows,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "is God in his holy dwelling.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "God sets the lonely in families,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he leads out the prisoners with singing;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but the rebellious live in a sun-scorched land.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "When you, God, went out before your people,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when you marched through the wilderness,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth shook, the heavens poured down rain,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "before God, the One of Sinai,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "before God, the God of Israel.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You gave abundant showers, O God;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you refreshed your weary inheritance.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Your people settled in it,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and from your bounty, God, you provided for the poor.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord announces the word,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the women who proclaim it are a mighty throng:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Kings and armies flee in haste;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the women at home divide the plunder.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Even while you sleep among the sheep pens,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the wings of my dove are sheathed with silver,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "its feathers with shining gold.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "When the Almighty scattered the kings in the land,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "it was like snow fallen on Mount Zalmon.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Mount Bashan, majestic mountain,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Mount Bashan, rugged mountain,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "why gaze in envy, you rugged mountain,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "at the mountain where God chooses to reign,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "where the Lord himself will dwell forever?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The chariots of God are tens of thousands",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and thousands of thousands;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord has come from Sinai into his sanctuary.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When you ascended on high,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "you took many captives;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "you received gifts from people,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "even from the rebellious—",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "that you, Lord God, might dwell there.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise be to the Lord, to God our Savior,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who daily bears our burdens.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Our God is a God who saves;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "from the Sovereign Lord comes escape from death.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely God will crush the heads of his enemies,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "the hairy crowns of those who go on in their sins.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord says, “I will bring them from Bashan;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring them from the depths of the sea,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "that your feet may wade in the blood of your foes,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "while the tongues of your dogs have their share.”",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Your procession, God, has come into view,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the procession of my God and King into the sanctuary.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "In front are the singers, after them the musicians;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "with them are the young women playing the timbrels.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise God in the great congregation;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "praise the Lord in the assembly of Israel.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "There is the little tribe of Benjamin, leading them,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "there the great throng of Judah’s princes,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and there the princes of Zebulun and of Naphtali.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Summon your power, God;",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "show us your strength, our God, as you have done before.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of your temple at Jerusalem",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "kings will bring you gifts.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Rebuke the beast among the reeds,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "the herd of bulls among the calves of the nations.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Humbled, may the beast bring bars of silver.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Scatter the nations who delight in war.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Envoys will come from Egypt;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Cush will submit herself to God.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to God, you kingdoms of the earth,",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "sing praise to the Lord,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "to him who rides across the highest heavens, the ancient heavens,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "who thunders with mighty voice.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Proclaim the power of God,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "whose majesty is over Israel,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "whose power is in the heavens.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "You, God, are awesome in your sanctuary;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "the God of Israel gives power and strength to his people.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise be to God!",
+      "verse": 35,
+      "type": "poetry newline"
+    }
+  ]
+}

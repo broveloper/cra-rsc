@@ -1,0 +1,47 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 82,
+  "verses": 8,
+  "content": [
+    {
+      "text": "God standeth in the congregation of the mighty; he judgeth among the gods.",
+      "verse": 1
+    },
+    {
+      "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Deliver the poor and needy: rid them out of the hand of the wicked.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "I have said, Ye are gods; and all of you are children of the most High.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "But ye shall die like men, and fall like one of the princes.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+      "verse": 8,
+      "type": "newline"
+    }
+  ]
+}

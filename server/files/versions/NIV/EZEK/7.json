@@ -1,0 +1,591 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 7,
+  "verses": 27,
+  "content": [
+    {
+      "text": "The End Has Come",
+      "type": "heading"
+    },
+    {
+      "text": "The word of the Lord came to me:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Son of man, this is what the Sovereign Lord says to the land of Israel:",
+      "verse": 2
+    },
+    {
+      "text": "“‘The end! The end has come",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "upon the four corners of the land!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The end is now upon you,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will unleash my anger against you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will judge you according to your conduct",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and repay you for all your detestable practices.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not look on you with pity;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not spare you.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I will surely repay you for your conduct",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and for the detestable practices among you.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘Then you will know that I am the Lord.’",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“This is what the Sovereign Lord says:",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Disaster! Unheard-of disaster!",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "See, it comes!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The end has come!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The end has come!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It has roused itself against you.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "See, it comes!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Doom has come upon you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "upon you who dwell in the land.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The time has come! The day is near!",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "There is panic, not joy, on the mountains.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am about to pour out my wrath on you",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and spend my anger against you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will judge you according to your conduct",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and repay you for all your detestable practices.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not look on you with pity;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will not spare you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will repay you for your conduct",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and for the detestable practices among you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘Then you will know that it is I the Lord who strikes you.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“‘See, the day!",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "See, it comes!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Doom has burst forth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the rod has budded,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "arrogance has blossomed!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Violence has arisen,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "a rod to punish the wicked.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "None of the people will be left,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "none of that crowd—",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "none of their wealth,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "nothing of value.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The time has come!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The day has arrived!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let not the buyer rejoice",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "nor the seller grieve,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for my wrath is on the whole crowd.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The seller will not recover",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the property that was sold—",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "as long as both buyer and seller live.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the vision concerning the whole crowd",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "will not be reversed.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of their sins, not one of them",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "will preserve their life.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘They have blown the trumpet,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they have made all things ready,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but no one will go into battle,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for my wrath is on the whole crowd.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Outside is the sword;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "inside are plague and famine.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Those in the country",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "will die by the sword;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "those in the city",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "will be devoured by famine and plague.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The fugitives who escape",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "will flee to the mountains.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Like doves of the valleys,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "they will all moan,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "each for their own sins.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Every hand will go limp;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "every leg will be wet with urine.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "They will put on sackcloth",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and be clothed with terror.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Every face will be covered with shame,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and every head will be shaved.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘They will throw their silver into the streets,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and their gold will be treated as a thing unclean.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Their silver and gold",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "will not be able to deliver them",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "in the day of the Lord’s wrath.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "It will not satisfy their hunger",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "or fill their stomachs,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "for it has caused them to stumble into sin.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "They took pride in their beautiful jewelry",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and used it to make their detestable idols.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They made it into vile images;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "therefore I will make it a thing unclean for them.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give their wealth as plunder to foreigners",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and as loot to the wicked of the earth,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "who will defile it.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "I will turn my face away from the people,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and robbers will desecrate the place I treasure.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "They will enter it",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and will defile it.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘Prepare chains!",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the land is full of bloodshed,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and the city is full of violence.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring the most wicked of nations",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "to take possession of their houses.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put an end to the pride of the mighty,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and their sanctuaries will be desecrated.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "When terror comes,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "they will seek peace in vain.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Calamity upon calamity will come,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and rumor upon rumor.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "They will go searching for a vision from the prophet,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "priestly instruction in the law will cease,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "the counsel of the elders will come to an end.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "The king will mourn,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "the prince will be clothed with despair,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hands of the people of the land will tremble.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "I will deal with them according to their conduct,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and by their own standards I will judge them.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“‘Then they will know that I am the Lord.’”",
+      "verse": 27,
+      "type": "newline"
+    }
+  ]
+}

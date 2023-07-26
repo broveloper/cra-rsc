@@ -1,0 +1,146 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 26,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Psalm 26",
+      "type": "heading"
+    },
+    {
+      "text": "Of David.",
+      "type": "title"
+    },
+    {
+      "text": "Vindicate me, Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I have led a blameless life;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I have trusted in the Lord",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and have not faltered.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Test me, Lord, and try me,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "examine my heart and my mind;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for I have always been mindful of your unfailing love",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and have lived in reliance on your faithfulness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I do not sit with the deceitful,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "nor do I associate with hypocrites.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I abhor the assembly of evildoers",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and refuse to sit with the wicked.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I wash my hands in innocence,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and go about your altar, Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "proclaiming aloud your praise",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and telling of all your wonderful deeds.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, I love the house where you live,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the place where your glory dwells.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not take away my soul along with sinners,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "my life with those who are bloodthirsty,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "in whose hands are wicked schemes,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "whose right hands are full of bribes.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I lead a blameless life;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "deliver me and be merciful to me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "My feet stand on level ground;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the great congregation I will praise the Lord.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 22,
+  "verses": 30,
+  "content": [
+    {
+      "text": "Prophecies Against the Kings of Judah",
+      "type": "heading"
+    },
+    {
+      "text": "Thus says the Lord: “Go down to the house of the king of Judah, and there speak this word, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "and say, ‘Hear the word of the Lord, O king of Judah, you who sit on the throne of David, you and your servants and your people who enter these gates! ",
+      "verse": 2
+    },
+    {
+      "text": "Thus says the Lord: “Execute judgment and righteousness, and deliver the plundered out of the hand of the oppressor. Do no wrong and do no violence to the stranger, the fatherless, or the widow, nor shed innocent blood in this place. ",
+      "verse": 3
+    },
+    {
+      "text": "For if you indeed do this thing, then shall enter the gates of this house, riding on horses and in chariots, accompanied by servants and people, kings who sit on the throne of David. ",
+      "verse": 4
+    },
+    {
+      "text": "But if you will not hear these words, I swear by Myself,” says the Lord, “that this house shall become a desolation.” ’ ”",
+      "verse": 5
+    },
+    {
+      "text": "For thus says the Lord to the house of the king of Judah:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "“You are Gilead to Me,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The head of Lebanon;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I surely will make you a wilderness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Cities which are not inhabited.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will prepare destroyers against you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone with his weapons;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall cut down your choice cedars",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And cast them into the fire.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And many nations will pass by this city; and everyone will say to his neighbor, ‘Why has the Lord done so to this great city?’ ",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Then they will answer, ‘Because they have forsaken the covenant of the Lord their God, and worshiped other gods and served them.’ ”",
+      "verse": 9
+    },
+    {
+      "text": "Weep not for the dead, nor bemoan him;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Weep bitterly for him who goes away,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For he shall return no more,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor see his native country.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Message to the Sons of Josiah",
+      "type": "heading"
+    },
+    {
+      "text": "For thus says the Lord concerning Shallum the son of Josiah, king of Judah, who reigned instead of Josiah his father, who went from this place: “He shall not return here anymore, ",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "but he shall die in the place where they have led him captive, and shall see this land no more.",
+      "verse": 12
+    },
+    {
+      "text": "“Woe to him who builds his house by unrighteousness",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his chambers by injustice,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Who uses his neighbor’s service without wages",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And gives him nothing for his work,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Who says, ‘I will build myself a wide house with spacious chambers,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And cut out windows for it,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Paneling it with cedar",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And painting it with vermilion.’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Shall you reign because you enclose yourself in cedar?",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Did not your father eat and drink,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And do justice and righteousness?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Then it was well with him.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He judged the cause of the poor and needy;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Then it was well.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Was not this knowing Me?” says the Lord.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet your eyes and your heart are for nothing but your covetousness,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "For shedding innocent blood,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And practicing oppression and violence.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord concerning Jehoiakim the son of Josiah, king of Judah:",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "“They shall not lament for him,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Saying, ‘Alas, my brother!’ or ‘Alas, my sister!’",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not lament for him,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Saying, ‘Alas, master!’ or ‘Alas, his glory!’",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall be buried with the burial of a donkey,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Dragged and cast out beyond the gates of Jerusalem.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“Go up to Lebanon, and cry out,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And lift up your voice in Bashan;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Cry from Abarim,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For all your lovers are destroyed.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I spoke to you in your prosperity,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But you said, ‘I will not hear.’",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "This has been your manner from your youth,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "That you did not obey My voice.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The wind shall eat up all your rulers,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And your lovers shall go into captivity;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely then you will be ashamed and humiliated",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For all your wickedness.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "O inhabitant of Lebanon,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Making your nest in the cedars,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "How gracious will you be when pangs come upon you,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the pain of a woman in labor?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Message to Coniah",
+      "type": "heading"
+    },
+    {
+      "text": "“As I live,” says the Lord, “though Coniah the son of Jehoiakim, king of Judah, were the signet on My right hand, yet I would pluck you off; ",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "and I will give you into the hand of those who seek your life, and into the hand of those whose face you fear—the hand of Nebuchadnezzar king of Babylon and the hand of the Chaldeans. ",
+      "verse": 25
+    },
+    {
+      "text": "So I will cast you out, and your mother who bore you, into another country where you were not born; and there you shall die. ",
+      "verse": 26
+    },
+    {
+      "text": "But to the land to which they desire to return, there they shall not return.",
+      "verse": 27
+    },
+    {
+      "text": "“Is this man Coniah a despised, broken idol—",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A vessel in which is no pleasure?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are they cast out, he and his descendants,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And cast into a land which they do not know?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "O earth, earth, earth,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear the word of the Lord!",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Write this man down as childless,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "A man who shall not prosper in his days;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For none of his descendants shall prosper,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Sitting on the throne of David,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And ruling anymore in Judah.’ ”",
+      "verse": 30,
+      "type": "poetry"
+    }
+  ]
+}

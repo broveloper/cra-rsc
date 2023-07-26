@@ -1,0 +1,107 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 12,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Songs of Praise",
+      "type": "heading"
+    },
+    {
+      "text": "In that day you will say:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“I will praise you, Lord.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Although you were angry with me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "your anger has turned away",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and you have comforted me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely God is my salvation;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will trust and not be afraid.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord, the Lord himself, is my strength and my defense;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he has become my salvation.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "With joy you will draw water",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "from the wells of salvation.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day you will say:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“Give praise to the Lord, proclaim his name;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make known among the nations what he has done,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and proclaim that his name is exalted.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to the Lord, for he has done glorious things;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "let this be known to all the world.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Shout aloud and sing for joy, people of Zion,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for great is the Holy One of Israel among you.”",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

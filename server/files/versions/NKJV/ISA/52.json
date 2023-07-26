@@ -1,0 +1,331 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 52,
+  "verses": 15,
+  "content": [
+    {
+      "text": "God Redeems Jerusalem",
+      "type": "heading"
+    },
+    {
+      "text": "Awake, awake!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Put on your strength, O Zion;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Put on your beautiful garments,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O Jerusalem, the holy city!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For the uncircumcised and the unclean",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall no longer come to you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Shake yourself from the dust, arise;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Sit down, O Jerusalem!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Loose yourself from the bonds of your neck,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "O captive daughter of Zion!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“You have sold yourselves for nothing,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And you shall be redeemed without money.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord God:",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“My people went down at first",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Into Egypt to dwell there;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the Assyrian oppressed them without cause.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Now therefore, what have I here,” says the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“That My people are taken away for nothing?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who rule over them",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Make them wail,” says the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“And My name is blasphemed continually every day.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore My people shall know My name;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore they shall know in that day",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That I am He who speaks:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Behold, it is I.’ ”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "How beautiful upon the mountains",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Are the feet of him who brings good news,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who proclaims peace,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who brings glad tidings of good things,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who proclaims salvation,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who says to Zion,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Your God reigns!”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Your watchmen shall lift up their voices,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "With their voices they shall sing together;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For they shall see eye to eye",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "When the Lord brings back Zion.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Break forth into joy, sing together,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "You waste places of Jerusalem!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord has comforted His people,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He has redeemed Jerusalem.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has made bare His holy arm",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In the eyes of all the nations;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And all the ends of the earth shall see",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The salvation of our God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Depart! Depart! Go out from there,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Touch no unclean thing;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Go out from the midst of her,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Be clean,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "You who bear the vessels of the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For you shall not go out with haste,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor go by flight;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will go before you,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And the God of Israel will be your rear guard.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sin-Bearing Servant",
+      "type": "heading"
+    },
+    {
+      "text": "Behold, My Servant shall deal prudently;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He shall be exalted and extolled and be very high.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Just as many were astonished at you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So His visage was marred more than any man,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And His form more than the sons of men;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall He sprinkle many nations.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Kings shall shut their mouths at Him;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For what had not been told them they shall see,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And what they had not heard they shall consider.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

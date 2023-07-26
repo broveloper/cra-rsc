@@ -1,0 +1,321 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 102,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Do Not Hide Your Face from Me",
+      "type": "heading"
+    },
+    {
+      "text": "A Prayer of one afflicted, when he is faint and pours out his complaint before the Lord.",
+      "type": "title"
+    },
+    {
+      "text": "Hear my prayer, O Lord;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let my cry come to you!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not hide your face from me",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in the day of my distress!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Incline your ear to me;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "answer me speedily in the day when I call!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For my days pass away like smoke,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and my bones burn like a furnace.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My heart is struck down like grass and has withered;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I forget to eat my bread.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of my loud groaning",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my bones cling to my flesh.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I am like a desert owl of the wilderness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "like an owl of the waste places;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I lie awake;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am like a lonely sparrow on the housetop.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All the day my enemies taunt me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "those who deride me use my name for a curse.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For I eat ashes like bread",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and mingle tears with my drink,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "because of your indignation and anger;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for you have taken me up and thrown me down.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My days are like an evening shadow;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I wither away like grass.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But you, O Lord, are enthroned forever;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you are remembered throughout all generations.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You will arise and have pity on Zion;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "it is the time to favor her;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the appointed time has come.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For your servants hold her stones dear",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and have pity on her dust.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Nations will fear the name of the Lord,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the kings of the earth will fear your glory.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord builds up Zion;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "he appears in his glory;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "he regards the prayer of the destitute",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and does not despise their prayer.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Let this be recorded for a generation to come,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so that a people yet to be created may praise the Lord:",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "that he looked down from his holy height;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "from heaven the Lord looked at the earth,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "to hear the groans of the prisoners,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "to set free those who were doomed to die,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "that they may declare in Zion the name of the Lord,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and in Jerusalem his praise,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "when peoples gather together,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and kingdoms, to worship the Lord.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He has broken my strength in midcourse;",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he has shortened my days.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“O my God,” I say, “take me not away",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "in the midst of my days—",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "you whose years endure",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "throughout all generations!”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Of old you laid the foundation of the earth,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the heavens are the work of your hands.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They will perish, but you will remain;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "they will all wear out like a garment.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "You will change them like a robe, and they will pass away,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "    but you are the same, and your years have no end.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "The children of your servants shall dwell secure;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "their offspring shall be established before you.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

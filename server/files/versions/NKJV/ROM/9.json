@@ -1,0 +1,228 @@
+{
+  "book_id": "ROM",
+  "book_name": "Romans",
+  "chapter": 9,
+  "verses": 33,
+  "content": [
+    {
+      "text": "Israel’s Rejection of Christ",
+      "type": "heading"
+    },
+    {
+      "text": "I tell the truth in Christ, I am not lying, my conscience also bearing me witness in the Holy Spirit, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "that I have great sorrow and continual grief in my heart. ",
+      "verse": 2
+    },
+    {
+      "text": "For I could wish that I myself were accursed from Christ for my brethren, my countrymen according to the flesh, ",
+      "verse": 3
+    },
+    {
+      "text": "who are Israelites, to whom pertain the adoption, the glory, the covenants, the giving of the law, the service of God, and the promises; ",
+      "verse": 4
+    },
+    {
+      "text": "of whom are the fathers and from whom, according to the flesh, Christ came, who is over all, the eternally blessed God. Amen.",
+      "verse": 5
+    },
+    {
+      "text": "Israel’s Rejection and God’s Purpose",
+      "type": "heading"
+    },
+    {
+      "text": "But it is not that the word of God has taken no effect. For they are not all Israel who are of Israel, ",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "nor are they all children because they are the seed of Abraham; but, “In Isaac your seed shall be called.” ",
+      "verse": 7
+    },
+    {
+      "text": "That is, those who are the children of the flesh, these are not the children of God; but the children of the promise are counted as the seed. ",
+      "verse": 8
+    },
+    {
+      "text": "For this is the word of promise: “At this time I will come and Sarah shall have a son.”",
+      "verse": 9
+    },
+    {
+      "text": "And not only this, but when Rebecca also had conceived by one man, even by our father Isaac ",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "(for the children not yet being born, nor having done any good or evil, that the purpose of God according to election might stand, not of works but of Him who calls), ",
+      "verse": 11
+    },
+    {
+      "text": "it was said to her, “The older shall serve the younger.” ",
+      "verse": 12
+    },
+    {
+      "text": "As it is written, “Jacob I have loved, but Esau I have hated.”",
+      "verse": 13
+    },
+    {
+      "text": "Israel’s Rejection and God’s Justice",
+      "type": "heading"
+    },
+    {
+      "text": "What shall we say then? Is there unrighteousness with God? Certainly not! ",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "For He says to Moses, “I will have mercy on whomever I will have mercy, and I will have compassion on whomever I will have compassion.” ",
+      "verse": 15
+    },
+    {
+      "text": "So then it is not of him who wills, nor of him who runs, but of God who shows mercy. ",
+      "verse": 16
+    },
+    {
+      "text": "For the Scripture says to the Pharaoh, “For this very purpose I have raised you up, that I may show My power in you, and that My name may be declared in all the earth.” ",
+      "verse": 17
+    },
+    {
+      "text": "Therefore He has mercy on whom He wills, and whom He wills He hardens.",
+      "verse": 18
+    },
+    {
+      "text": "You will say to me then, “Why does He still find fault? For who has resisted His will?” ",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "But indeed, O man, who are you to reply against God? Will the thing formed say to him who formed it, “Why have you made me like this?” ",
+      "verse": 20
+    },
+    {
+      "text": "Does not the potter have power over the clay, from the same lump to make one vessel for honor and another for dishonor?",
+      "verse": 21
+    },
+    {
+      "text": "What if God, wanting to show His wrath and to make His power known, endured with much longsuffering the vessels of wrath prepared for destruction, ",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "and that He might make known the riches of His glory on the vessels of mercy, which He had prepared beforehand for glory, ",
+      "verse": 23
+    },
+    {
+      "text": "even us whom He called, not of the Jews only, but also of the Gentiles?",
+      "verse": 24
+    },
+    {
+      "text": "As He says also in Hosea:",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "“I will call them My people, who were not My people,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And her beloved, who was not beloved.”",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“And it shall come to pass in the place where it was said to them,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "‘You are not My people,’",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "There they shall be called sons of the living God.”",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Isaiah also cries out concerning Israel:",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "“Though the number of the children of Israel be as the sand of the sea,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The remnant will be saved.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "For He will finish the work and cut it short in righteousness,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Because the Lord will make a short work upon the earth.”",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And as Isaiah said before:",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "“Unless the Lord of Sabaoth had left us a seed,",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "We would have become like Sodom,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And we would have been made like Gomorrah.”",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Present Condition of Israel",
+      "type": "heading"
+    },
+    {
+      "text": "What shall we say then? That Gentiles, who did not pursue righteousness, have attained to righteousness, even the righteousness of faith; ",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "but Israel, pursuing the law of righteousness, has not attained to the law of righteousness. ",
+      "verse": 31
+    },
+    {
+      "text": "Why? Because they did not seek it by faith, but as it were, by the works of the law. For they stumbled at that stumbling stone. ",
+      "verse": 32
+    },
+    {
+      "text": "As it is written:",
+      "verse": 33
+    },
+    {
+      "text": "“Behold, I lay in Zion a stumbling stone and rock of offense,",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And whoever believes on Him will not be put to shame.”",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

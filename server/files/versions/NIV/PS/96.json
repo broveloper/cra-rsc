@@ -1,0 +1,157 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 96,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Psalm 96",
+      "type": "heading"
+    },
+    {
+      "text": "Sing to the Lord a new song;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "sing to the Lord, all the earth.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to the Lord, praise his name;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "proclaim his salvation day after day.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Declare his glory among the nations,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "his marvelous deeds among all peoples.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For great is the Lord and most worthy of praise;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he is to be feared above all gods.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For all the gods of the nations are idols,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "but the Lord made the heavens.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Splendor and majesty are before him;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "strength and glory are in his sanctuary.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Ascribe to the Lord, all you families of nations,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ascribe to the Lord glory and strength.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Ascribe to the Lord the glory due his name;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "bring an offering and come into his courts.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Worship the Lord in the splendor of his holiness;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "tremble before him, all the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Say among the nations, “The Lord reigns.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The world is firmly established, it cannot be moved;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he will judge the peoples with equity.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the heavens rejoice, let the earth be glad;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let the sea resound, and all that is in it.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the fields be jubilant, and everything in them;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "let all the trees of the forest sing for joy.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all creation rejoice before the Lord, for he comes,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "he comes to judge the earth.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He will judge the world in righteousness",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and the peoples in his faithfulness.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

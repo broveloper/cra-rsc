@@ -1,0 +1,126 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 138,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 138",
+      "type": "heading"
+    },
+    {
+      "text": "Of David.",
+      "type": "title"
+    },
+    {
+      "text": "I will praise you, Lord, with all my heart;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "before the “gods” I will sing your praise.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bow down toward your holy temple",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and will praise your name",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for your unfailing love and your faithfulness,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for you have so exalted your solemn decree",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "that it surpasses your fame.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I called, you answered me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you greatly emboldened me.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "May all the kings of the earth praise you, Lord,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "when they hear what you have decreed.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "May they sing of the ways of the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for the glory of the Lord is great.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Though the Lord is exalted, he looks kindly on the lowly;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "though lofty, he sees them from afar.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Though I walk in the midst of trouble,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you preserve my life.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You stretch out your hand against the anger of my foes;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "with your right hand you save me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will vindicate me;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "your love, Lord, endures forever—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "do not abandon the works of your hands.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 61,
+  "verses": 11,
+  "content": [
+    {
+      "text": "The Year of the Lord’s Favor",
+      "type": "heading"
+    },
+    {
+      "text": "The Spirit of the Sovereign Lord is on me,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "because the Lord has anointed me",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to proclaim good news to the poor.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He has sent me to bind up the brokenhearted,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to proclaim freedom for the captives",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and release from darkness for the prisoners,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to proclaim the year of the Lord’s favor",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and the day of vengeance of our God,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to comfort all who mourn,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "    and provide for those who grieve in Zion—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "to bestow on them a crown of beauty",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "instead of ashes,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the oil of joy",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "instead of mourning,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and a garment of praise",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "instead of a spirit of despair.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be called oaks of righteousness,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "a planting of the Lord",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "for the display of his splendor.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They will rebuild the ancient ruins",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and restore the places long devastated;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they will renew the ruined cities",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "that have been devastated for generations.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Strangers will shepherd your flocks;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "foreigners will work your fields and vineyards.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And you will be called priests of the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "you will be named ministers of our God.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You will feed on the wealth of nations,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and in their riches you will boast.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Instead of your shame",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you will receive a double portion,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and instead of disgrace",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "you will rejoice in your inheritance.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And so you will inherit a double portion in your land,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and everlasting joy will be yours.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“For I, the Lord, love justice;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I hate robbery and wrongdoing.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In my faithfulness I will reward my people",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and make an everlasting covenant with them.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Their descendants will be known among the nations",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and their offspring among the peoples.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "All who see them will acknowledge",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "that they are a people the Lord has blessed.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I delight greatly in the Lord;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my soul rejoices in my God.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For he has clothed me with garments of salvation",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and arrayed me in a robe of his righteousness,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "as a bridegroom adorns his head like a priest,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and as a bride adorns herself with her jewels.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For as the soil makes the sprout come up",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and a garden causes seeds to grow,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "so the Sovereign Lord will make righteousness",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and praise spring up before all nations.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 69,
+  "verses": 36,
+  "content": [
+    {
+      "text": "Psalm 69",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. To the tune of “Lilies.” Of David.",
+      "type": "title"
+    },
+    {
+      "text": "Save me, O God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the waters have come up to my neck.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I sink in the miry depths,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "where there is no foothold.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I have come into the deep waters;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the floods engulf me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I am worn out calling for help;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my throat is parched.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "My eyes fail,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "looking for my God.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who hate me without reason",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "outnumber the hairs of my head;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "many are my enemies without cause,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "those who seek to destroy me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I am forced to restore",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "what I did not steal.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "You, God, know my folly;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "my guilt is not hidden from you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, the Lord Almighty,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may those who hope in you",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "not be disgraced because of me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "God of Israel,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "may those who seek you",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "not be put to shame because of me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For I endure scorn for your sake,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and shame covers my face.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am a foreigner to my own family,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "a stranger to my own mother’s children;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for zeal for your house consumes me,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and the insults of those who insult you fall on me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "When I weep and fast,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I must endure scorn;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "when I put on sackcloth,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "people make sport of me.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who sit at the gate mock me,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and I am the song of the drunkards.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But I pray to you, Lord,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the time of your favor;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "in your great love, O God,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "answer me with your sure salvation.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Rescue me from the mire,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "do not let me sink;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "deliver me from those who hate me,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "from the deep waters.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let the floodwaters engulf me",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "or the depths swallow me up",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "or the pit close its mouth over me.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Answer me, Lord, out of the goodness of your love;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in your great mercy turn to me.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not hide your face from your servant;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "answer me quickly, for I am in trouble.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Come near and rescue me;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "deliver me because of my foes.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You know how I am scorned, disgraced and shamed;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all my enemies are before you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Scorn has broken my heart",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and has left me helpless;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "I looked for sympathy, but there was none,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "for comforters, but I found none.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They put gall in my food",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and gave me vinegar for my thirst.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "May the table set before them become a snare;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may it become retribution and a trap.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "May their eyes be darkened so they cannot see,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and their backs be bent forever.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Pour out your wrath on them;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "let your fierce anger overtake them.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "May their place be deserted;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "let there be no one to dwell in their tents.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For they persecute those you wound",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and talk about the pain of those you hurt.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Charge them with crime upon crime;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "do not let them share in your salvation.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "May they be blotted out of the book of life",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and not be listed with the righteous.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "But as for me, afflicted and in pain—",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "may your salvation, God, protect me.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "I will praise God’s name in song",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and glorify him with thanksgiving.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "This will please the Lord more than an ox,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "more than a bull with its horns and hooves.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "The poor will see and be glad—",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "you who seek God, may your hearts live!",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord hears the needy",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and does not despise his captive people.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Let heaven and earth praise him,",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the seas and all that move in them,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "for God will save Zion",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "and rebuild the cities of Judah.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Then people will settle there and possess it;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "    the children of his servants will inherit it,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "and those who love his name will dwell there.",
+      "verse": 36,
+      "type": "poetry"
+    }
+  ]
+}

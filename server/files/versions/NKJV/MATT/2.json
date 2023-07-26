@@ -1,0 +1,164 @@
+{
+  "book_id": "MATT",
+  "book_name": "Matthew",
+  "chapter": 2,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Wise Men from the East",
+      "type": "heading"
+    },
+    {
+      "text": "Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "saying, “Where is He who has been born King of the Jews? For we have seen His star in the East and have come to worship Him.”",
+      "verse": 2
+    },
+    {
+      "text": "When Herod the king heard this, he was troubled, and all Jerusalem with him. ",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "And when he had gathered all the chief priests and scribes of the people together, he inquired of them where the Christ was to be born.",
+      "verse": 4
+    },
+    {
+      "text": "So they said to him, “In Bethlehem of Judea, for thus it is written by the prophet:",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "‘But you, Bethlehem, in the land of Judah,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Are not the least among the rulers of Judah;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For out of you shall come a Ruler",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who will shepherd My people Israel.’ ”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Herod, when he had secretly called the wise men, determined from them what time the star appeared. ",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "And he sent them to Bethlehem and said, “Go and search carefully for the young Child, and when you have found Him, bring back word to me, that I may come and worship Him also.”",
+      "verse": 8
+    },
+    {
+      "text": "When they heard the king, they departed; and behold, the star which they had seen in the East went before them, till it came and stood over where the young Child was. ",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "When they saw the star, they rejoiced with exceedingly great joy. ",
+      "verse": 10
+    },
+    {
+      "text": "And when they had come into the house, they saw the young Child with Mary His mother, and fell down and worshiped Him. And when they had opened their treasures, they presented gifts to Him: gold, frankincense, and myrrh.",
+      "verse": 11
+    },
+    {
+      "text": "Then, being divinely warned in a dream that they should not return to Herod, they departed for their own country another way.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "The Flight into Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, “Arise, take the young Child and His mother, flee to Egypt, and stay there until I bring you word; for Herod will seek the young Child to destroy Him.”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "When he arose, he took the young Child and His mother by night and departed for Egypt, ",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "and was there until the death of Herod, that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Out of Egypt I called My Son.”",
+      "verse": 15
+    },
+    {
+      "text": "Massacre of the Innocents",
+      "type": "heading"
+    },
+    {
+      "text": "Then Herod, when he saw that he was deceived by the wise men, was exceedingly angry; and he sent forth and put to death all the male children who were in Bethlehem and in all its districts, from two years old and under, according to the time which he had determined from the wise men. ",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Then was fulfilled what was spoken by Jeremiah the prophet, saying:",
+      "verse": 17
+    },
+    {
+      "text": "“A voice was heard in Ramah,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lamentation, weeping, and great mourning,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Rachel weeping for her children,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Refusing to be comforted,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they are no more.”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The Home in Nazareth",
+      "type": "heading"
+    },
+    {
+      "text": "Now when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, ",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "saying, “Arise, take the young Child and His mother, and go to the land of Israel, for those who sought the young Child’s life are dead.” ",
+      "verse": 20
+    },
+    {
+      "text": "Then he arose, took the young Child and His mother, and came into the land of Israel.",
+      "verse": 21
+    },
+    {
+      "text": "But when he heard that Archelaus was reigning over Judea instead of his father Herod, he was afraid to go there. And being warned by God in a dream, he turned aside into the region of Galilee. ",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "And he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets, “He shall be called a Nazarene.”",
+      "verse": 23
+    }
+  ]
+}

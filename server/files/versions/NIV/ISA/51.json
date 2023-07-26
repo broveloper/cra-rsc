@@ -1,0 +1,546 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 51,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Everlasting Salvation for Zion",
+      "type": "heading"
+    },
+    {
+      "text": "“Listen to me, you who pursue righteousness",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and who seek the Lord:",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Look to the rock from which you were cut",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and to the quarry from which you were hewn;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "look to Abraham, your father,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and to Sarah, who gave you birth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I called him he was only one man,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and I blessed him and made him many.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will surely comfort Zion",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and will look with compassion on all her ruins;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he will make her deserts like Eden,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "her wastelands like the garden of the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Joy and gladness will be found in her,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "thanksgiving and the sound of singing.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Listen to me, my people;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "hear me, my nation:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Instruction will go out from me;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "my justice will become a light to the nations.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "My righteousness draws near speedily,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "my salvation is on the way,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and my arm will bring justice to the nations.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The islands will look to me",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and wait in hope for my arm.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your eyes to the heavens,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "look at the earth beneath;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the heavens will vanish like smoke,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the earth will wear out like a garment",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and its inhabitants die like flies.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But my salvation will last forever,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "my righteousness will never fail.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Hear me, you who know what is right,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you people who have taken my instruction to heart:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not fear the reproach of mere mortals",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "or be terrified by their insults.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the moth will eat them up like a garment;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the worm will devour them like wool.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But my righteousness will last forever,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "my salvation through all generations.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, awake, arm of the Lord,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "clothe yourself with strength!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Awake, as in days gone by,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "as in generations of old.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Was it not you who cut Rahab to pieces,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who pierced that monster through?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Was it not you who dried up the sea,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "the waters of the great deep,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "who made a road in the depths of the sea",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "so that the redeemed might cross over?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Those the Lord has rescued will return.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They will enter Zion with singing;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "everlasting joy will crown their heads.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Gladness and joy will overtake them,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and sorrow and sighing will flee away.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“I, even I, am he who comforts you.",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who are you that you fear mere mortals,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "human beings who are but grass,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "that you forget the Lord your Maker,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who stretches out the heavens",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and who lays the foundations of the earth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that you live in constant terror every day",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the wrath of the oppressor,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "who is bent on destruction?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For where is the wrath of the oppressor?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "    The cowering prisoners will soon be set free;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they will not die in their dungeon,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "nor will they lack bread.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For I am the Lord your God,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who stirs up the sea so that its waves roar—",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord Almighty is his name.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I have put my words in your mouth",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and covered you with the shadow of my hand—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I who set the heavens in place,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "who laid the foundations of the earth,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and who say to Zion, ‘You are my people.’”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The Cup of the Lord’s Wrath",
+      "type": "heading"
+    },
+    {
+      "text": "Awake, awake!",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Rise up, Jerusalem,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you who have drunk from the hand of the Lord",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the cup of his wrath,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you who have drained to its dregs",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the goblet that makes people stagger.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Among all the children she bore",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "there was none to guide her;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "among all the children she reared",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "there was none to take her by the hand.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "These double calamities have come upon you—",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "who can comfort you?—",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "ruin and destruction, famine and sword—",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "who can console you?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Your children have fainted;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "they lie at every street corner,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "like antelope caught in a net.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They are filled with the wrath of the Lord,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "with the rebuke of your God.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore hear this, you afflicted one,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "made drunk, but not with wine.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what your Sovereign Lord says,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "your God, who defends his people:",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“See, I have taken out of your hand",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "the cup that made you stagger;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "from that cup, the goblet of my wrath,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "you will never drink again.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I will put it into the hands of your tormentors,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "who said to you,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Fall prostrate that we may walk on you.’",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And you made your back like the ground,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "like a street to be walked on.”",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

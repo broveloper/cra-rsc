@@ -1,0 +1,150 @@
+{
+  "book_id": "ECCL",
+  "book_name": "Ecclesiastes",
+  "chapter": 8,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Obey Authorities for God’s Sake",
+      "type": "heading"
+    },
+    {
+      "text": "Who is like a wise man?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And who knows the interpretation of a thing?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A man’s wisdom makes his face shine,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the sternness of his face is changed.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Obey Authorities for God’s Sake",
+      "type": "heading"
+    },
+    {
+      "text": "I say, “Keep the king’s commandment for the sake of your oath to God. ",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.”",
+      "verse": 3
+    },
+    {
+      "text": "Where the word of a king is, there is power;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And who may say to him, “What are you doing?”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He who keeps his command will experience nothing harmful;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And a wise man’s heart discerns both time and judgment,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Because for every matter there is a time and judgment,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Though the misery of man increases greatly.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For he does not know what will happen;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "So who can tell him when it will occur?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "No one has power over the spirit to retain the spirit,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And no one has power in the day of death.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no release from that war,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And wickedness will not deliver those who are given to it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All this I have seen, and applied my heart to every work that is done under the sun: There is a time in which one man rules over another to his own hurt.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Death Comes to All",
+      "type": "heading"
+    },
+    {
+      "text": "Then I saw the wicked buried, who had come and gone from the place of holiness, and they were forgotten in the city where they had so done. This also is vanity. ",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil. ",
+      "verse": 11
+    },
+    {
+      "text": "Though a sinner does evil a hundred times, and his days are prolonged, yet I surely know that it will be well with those who fear God, who fear before Him. ",
+      "verse": 12
+    },
+    {
+      "text": "But it will not be well with the wicked; nor will he prolong his days, which are as a shadow, because he does not fear before God.",
+      "verse": 13
+    },
+    {
+      "text": "There is a vanity which occurs on earth, that there are just men to whom it happens according to the work of the wicked; again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "So I commended enjoyment, because a man has nothing better under the sun than to eat, drink, and be merry; for this will remain with him in his labor all the days of his life which God gives him under the sun.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "When I applied my heart to know wisdom and to see the business that is done on earth, even though one sees no sleep day or night, ",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "then I saw all the work of God, that a man cannot find out the work that is done under the sun. For though a man labors to discover it, yet he will not find it; moreover, though a wise man attempts to know it, he will not be able to find it.",
+      "verse": 17
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "book_id": "HOS",
+  "book_name": "Hosea",
+  "chapter": 10,
+  "verses": 15,
+  "content": [
+    {
+      "text": "Israel’s Sin and Captivity",
+      "type": "heading"
+    },
+    {
+      "text": "Israel empties his vine;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He brings forth fruit for himself.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "According to the multitude of his fruit",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "He has increased the altars;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "According to the bounty of his land",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "They have embellished his sacred pillars.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Their heart is divided;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Now they are held guilty.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He will break down their altars;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He will ruin their sacred pillars.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For now they say,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“We have no king,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Because we did not fear the Lord.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And as for a king, what would he do for us?”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They have spoken words,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Swearing falsely in making a covenant.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus judgment springs up like hemlock in the furrows of the field.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The inhabitants of Samaria fear",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Because of the calf of Beth Aven.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For its people mourn for it,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And its priests shriek for it—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Because its glory has departed from it.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The idol also shall be carried to Assyria",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "As a present for King Jareb.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim shall receive shame,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And Israel shall be ashamed of his own counsel.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "As for Samaria, her king is cut off",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Like a twig on the water.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Also the high places of Aven, the sin of Israel,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be destroyed.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The thorn and thistle shall grow on their altars;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall say to the mountains, “Cover us!”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the hills, “Fall on us!”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“O Israel, you have sinned from the days of Gibeah;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "There they stood.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The battle in Gibeah against the children of iniquity",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Did not overtake them.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "When it is My desire, I will chasten them.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Peoples shall be gathered against them",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "When I bind them for their two transgressions.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Ephraim is a trained heifer",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That loves to thresh grain;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But I harnessed her fair neck,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make Ephraim pull a plow.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah shall plow;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Jacob shall break his clods.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Sow for yourselves righteousness;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Reap in mercy;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Break up your fallow ground,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For it is time to seek the Lord,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Till He comes and rains righteousness on you.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "You have plowed wickedness;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have reaped iniquity.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You have eaten the fruit of lies,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you trusted in your own way,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the multitude of your mighty men.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore tumult shall arise among your people,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And all your fortresses shall be plundered",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "As Shalman plundered Beth Arbel in the day of battle—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "A mother dashed in pieces upon her children.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus it shall be done to you, O Bethel,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of your great wickedness.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "At dawn the king of Israel",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be cut off utterly.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

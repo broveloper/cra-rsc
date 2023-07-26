@@ -1,0 +1,47 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 129,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Many a time have they afflicted me from my youth, may Israel now say:",
+      "verse": 1
+    },
+    {
+      "text": "Many a time have they afflicted me from my youth: yet they have not prevailed against me.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "The plowers plowed upon my back: they made long their furrows.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord is righteous: he hath cut asunder the cords of the wicked.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Let them all be confounded and turned back that hate Zion.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Let them be as the grass upon the housetops, which withereth afore it groweth up:",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Neither do they which go by say, The blessing of the Lord be upon you: we bless you in the name of the Lord.",
+      "verse": 8,
+      "type": "newline"
+    }
+  ]
+}

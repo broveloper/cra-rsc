@@ -1,0 +1,152 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 99,
+  "verses": 9,
+  "content": [
+    {
+      "text": "Psalm 99",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord reigns,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let the nations tremble;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "he sits enthroned between the cherubim,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "let the earth shake.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Great is the Lord in Zion;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "he is exalted over all the nations.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them praise your great and awesome name—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "he is holy.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The King is mighty, he loves justice—",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have established equity;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "in Jacob you have done",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "what is just and right.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Exalt the Lord our God",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and worship at his footstool;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "he is holy.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Moses and Aaron were among his priests,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Samuel was among those who called on his name;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they called on the Lord",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and he answered them.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He spoke to them from the pillar of cloud;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they kept his statutes and the decrees he gave them.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord our God,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you answered them;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "you were to Israel a forgiving God,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "though you punished their misdeeds.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Exalt the Lord our God",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and worship at his holy mountain,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord our God is holy.",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

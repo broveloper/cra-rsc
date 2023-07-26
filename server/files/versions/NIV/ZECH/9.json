@@ -1,0 +1,355 @@
+{
+  "book_id": "ZECH",
+  "book_name": "Zechariah",
+  "chapter": 9,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Judgment on Israel’s Enemies",
+      "type": "heading"
+    },
+    {
+      "text": "A prophecy:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "The word of the Lord is against the land of Hadrak",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and will come to rest on Damascus—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for the eyes of all people and all the tribes of Israel",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "are on the Lord—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and on Hamath too, which borders on it,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and on Tyre and Sidon, though they are very skillful.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Tyre has built herself a stronghold;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "she has heaped up silver like dust,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and gold like the dirt of the streets.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord will take away her possessions",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and destroy her power on the sea,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and she will be consumed by fire.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Ashkelon will see it and fear;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Gaza will writhe in agony,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and Ekron too, for her hope will wither.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Gaza will lose her king",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and Ashkelon will be deserted.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "A mongrel people will occupy Ashdod,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will put an end to the pride of the Philistines.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take the blood from their mouths,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the forbidden food from between their teeth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who are left will belong to our God",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and become a clan in Judah,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and Ekron will be like the Jebusites.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But I will encamp at my temple",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "to guard it against marauding forces.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Never again will an oppressor overrun my people,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for now I am keeping watch.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Coming of Zion’s King",
+      "type": "heading"
+    },
+    {
+      "text": "Rejoice greatly, Daughter Zion!",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Shout, Daughter Jerusalem!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "See, your king comes to you,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "righteous and victorious,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "lowly and riding on a donkey,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "on a colt, the foal of a donkey.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will take away the chariots from Ephraim",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the warhorses from Jerusalem,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the battle bow will be broken.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He will proclaim peace to the nations.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "His rule will extend from sea to sea",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and from the River to the ends of the earth.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "As for you, because of the blood of my covenant with you,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will free your prisoners from the waterless pit.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Return to your fortress, you prisoners of hope;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "even now I announce that I will restore twice as much to you.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bend Judah as I bend my bow",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and fill it with Ephraim.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "I will rouse your sons, Zion,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "against your sons, Greece,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and make you like a warrior’s sword.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord Will Appear",
+      "type": "heading"
+    },
+    {
+      "text": "Then the Lord will appear over them;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his arrow will flash like lightning.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sovereign Lord will sound the trumpet;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "he will march in the storms of the south,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "    and the Lord Almighty will shield them.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They will destroy",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and overcome with slingstones.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They will drink and roar as with wine;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be full like a bowl",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "used for sprinkling the corners of the altar.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord their God will save his people on that day",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "as a shepherd saves his flock.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They will sparkle in his land",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "like jewels in a crown.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "How attractive and beautiful they will be!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Grain will make the young men thrive,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and new wine the young women.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

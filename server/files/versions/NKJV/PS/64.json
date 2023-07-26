@@ -1,0 +1,131 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 64,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Oppressed by the Wicked but Rejoicing in the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Hear my voice, O God, in my meditation;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Preserve my life from fear of the enemy.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide me from the secret plots of the wicked,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "From the rebellion of the workers of iniquity,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who sharpen their tongue like a sword,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And bend their bows to shoot their arrows—bitter words,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may shoot in secret at the blameless;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Suddenly they shoot at him and do not fear.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They encourage themselves in an evil matter;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They talk of laying snares secretly;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They say, “Who will see them?”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They devise iniquities:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“We have perfected a shrewd scheme.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Both the inward thought and the heart of man are deep.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But God shall shoot at them with an arrow;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Suddenly they shall be wounded.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "So He will make them stumble over their own tongue;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All who see them shall flee away.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "All men shall fear,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And shall declare the work of God;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For they shall wisely consider His doing.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous shall be glad in the Lord, and trust in Him.",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And all the upright in heart shall glory.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

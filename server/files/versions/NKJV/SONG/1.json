@@ -1,0 +1,310 @@
+{
+  "book_id": "SONG",
+  "book_name": "Song of Solomon",
+  "chapter": 1,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Solomon’s Love for a Shulamite Girl",
+      "type": "heading"
+    },
+    {
+      "text": "The song of songs, which is Solomon’s.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "The Banquet",
+      "type": "heading"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "Let him kiss me with the kisses of his mouth—",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For your love is better than wine.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of the fragrance of your good ointments,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your name is ointment poured forth;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the virgins love you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Draw me away!",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The Daughters of Jerusalem",
+      "type": "title"
+    },
+    {
+      "text": "We will run after you.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "The king has brought me into his chambers.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Daughters of Jerusalem",
+      "type": "title"
+    },
+    {
+      "text": "We will be glad and rejoice in you.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "We will remember your love more than wine.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "Rightly do they love you.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I am dark, but lovely,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O daughters of Jerusalem,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the tents of Kedar,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the curtains of Solomon.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not look upon me, because I am dark,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because the sun has tanned me.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "My mother’s sons were angry with me;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They made me the keeper of the vineyards,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But my own vineyard I have not kept.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "(To Her Beloved)",
+      "type": "title"
+    },
+    {
+      "text": "Tell me, O you whom I love,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Where you feed your flock,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Where you make it rest at noon.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For why should I be as one who veils herself",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "By the flocks of your companions?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Beloved",
+      "type": "title"
+    },
+    {
+      "text": "If you do not know, O fairest among women,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Follow in the footsteps of the flock,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And feed your little goats",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Beside the shepherds’ tents.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I have compared you, my love,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To my filly among Pharaoh’s chariots.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Your cheeks are lovely with ornaments,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Your neck with chains of gold.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The Daughters of Jerusalem",
+      "type": "title"
+    },
+    {
+      "text": "We will make you ornaments of gold",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With studs of silver.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "While the king is at his table,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "My spikenard sends forth its fragrance.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "A bundle of myrrh is my beloved to me,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "That lies all night between my breasts.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "My beloved is to me a cluster of henna blooms",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "In the vineyards of En Gedi.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The Beloved",
+      "type": "title"
+    },
+    {
+      "text": "Behold, you are fair, my love!",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Behold, you are fair!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You have dove’s eyes.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The Shulamite",
+      "type": "title"
+    },
+    {
+      "text": "Behold, you are handsome, my beloved!",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yes, pleasant!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Also our bed is green.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The beams of our houses are cedar,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And our rafters of fir.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

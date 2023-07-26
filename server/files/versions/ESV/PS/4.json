@@ -1,0 +1,101 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 4,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Answer Me When I Call",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: with stringed instruments. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Answer me when I call, O God of my righteousness!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You have given me relief when I was in distress.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Be gracious to me and hear my prayer!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O men, how long shall my honor be turned into shame?",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How long will you love vain words and seek after lies? Selah",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But know that the Lord has set apart the godly for himself;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord hears when I call to him.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Be angry, and do not sin;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ponder in your own hearts on your beds, and be silent. Selah",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Offer right sacrifices,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and put your trust in the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "There are many who say, “Who will show us some good?",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Lift up the light of your face upon us, O Lord!”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You have put more joy in my heart",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "than they have when their grain and wine abound.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "In peace I will both lie down and sleep;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for you alone, O Lord, make me dwell in safety.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

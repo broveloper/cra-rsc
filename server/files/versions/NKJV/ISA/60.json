@@ -1,0 +1,456 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 60,
+  "verses": 22,
+  "content": [
+    {
+      "text": "The Gentiles Bless Zion",
+      "type": "heading"
+    },
+    {
+      "text": "Arise, shine;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For your light has come!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the glory of the Lord is risen upon you.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For behold, the darkness shall cover the earth,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And deep darkness the people;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord will arise over you,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And His glory will be seen upon you.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Gentiles shall come to your light,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And kings to the brightness of your rising.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Lift up your eyes all around, and see:",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They all gather together, they come to you;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your sons shall come from afar,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And your daughters shall be nursed at your side.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you shall see and become radiant,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And your heart shall swell with joy;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Because the abundance of the sea shall be turned to you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The wealth of the Gentiles shall come to you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The multitude of camels shall cover your land,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The dromedaries of Midian and Ephah;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All those from Sheba shall come;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall bring gold and incense,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall proclaim the praises of the Lord.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "All the flocks of Kedar shall be gathered together to you,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The rams of Nebaioth shall minister to you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall ascend with acceptance on My altar,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will glorify the house of My glory.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who are these who fly like a cloud,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And like doves to their roosts?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the coastlands shall wait for Me;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the ships of Tarshish will come first,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To bring your sons from afar,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Their silver and their gold with them,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To the name of the Lord your God,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the Holy One of Israel,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because He has glorified you.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“The sons of foreigners shall build up your walls,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And their kings shall minister to you;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For in My wrath I struck you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But in My favor I have had mercy on you.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore your gates shall be open continually;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not be shut day or night,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "That men may bring to you the wealth of the Gentiles,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And their kings in procession.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For the nation and kingdom which will not serve you shall perish,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And those nations shall be utterly ruined.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“The glory of Lebanon shall come to you,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The cypress, the pine, and the box tree together,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "To beautify the place of My sanctuary;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will make the place of My feet glorious.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Also the sons of those who afflicted you",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall come bowing to you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And all those who despised you shall fall prostrate at the soles of your feet;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall call you The City of the Lord,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Zion of the Holy One of Israel.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "“Whereas you have been forsaken and hated,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So that no one went through you,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will make you an eternal excellence,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A joy of many generations.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall drink the milk of the Gentiles,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And milk the breast of kings;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall know that I, the Lord, am your Savior",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And your Redeemer, the Mighty One of Jacob.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Instead of bronze I will bring gold,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Instead of iron I will bring silver,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Instead of wood, bronze,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And instead of stones, iron.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "I will also make your officers peace,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And your magistrates righteousness.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Violence shall no longer be heard in your land,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Neither wasting nor destruction within your borders;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But you shall call your walls Salvation,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And your gates Praise.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "God the Glory of His People",
+      "type": "heading"
+    },
+    {
+      "text": "“The sun shall no longer be your light by day,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor for brightness shall the moon give light to you;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord will be to you an everlasting light,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And your God your glory.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Your sun shall no longer go down,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall your moon withdraw itself;",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will be your everlasting light,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And the days of your mourning shall be ended.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Also your people shall all be righteous;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall inherit the land forever,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The branch of My planting,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "The work of My hands,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may be glorified.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A little one shall become a thousand,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And a small one a strong nation.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I, the Lord, will hasten it in its time.”",
+      "verse": 22,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 28,
+  "verses": 28,
+  "content": [
+    {
+      "text": "Job’s Discourse on Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "“Surely there is a mine for silver,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a place where gold is refined.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Iron is taken from the earth,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And copper is smelted from ore.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Man puts an end to darkness,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And searches every recess",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For ore in the darkness and the shadow of death.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He breaks open a shaft away from people;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In places forgotten by feet",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They hang far away from men;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They swing to and fro.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As for the earth, from it comes bread,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But underneath it is turned up as by fire;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Its stones are the source of sapphires,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And it contains gold dust.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "That path no bird knows,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor has the falcon’s eye seen it.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The proud lions have not trodden it,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor has the fierce lion passed over it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He puts his hand on the flint;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He overturns the mountains at the roots.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He cuts out channels in the rocks,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And his eye sees every precious thing.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He dams up the streams from trickling;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "What is hidden he brings forth to light.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“But where can wisdom be found?",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And where is the place of understanding?",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Man does not know its value,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor is it found in the land of the living.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The deep says, ‘It is not in me’;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And the sea says, ‘It is not with me.’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "It cannot be purchased for gold,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor can silver be weighed for its price.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "It cannot be valued in the gold of Ophir,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "In precious onyx or sapphire.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Neither gold nor crystal can equal it,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor can it be exchanged for jewelry of fine gold.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "No mention shall be made of coral or quartz,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For the price of wisdom is above rubies.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The topaz of Ethiopia cannot equal it,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor can it be valued in pure gold.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "“From where then does wisdom come?",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And where is the place of understanding?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "It is hidden from the eyes of all living,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "And concealed from the birds of the air.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Destruction and Death say,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "‘We have heard a report about it with our ears.’",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "God understands its way,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And He knows its place.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "For He looks to the ends of the earth,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And sees under the whole heavens,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "To establish a weight for the wind,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And apportion the waters by measure.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "When He made a law for the rain,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And a path for the thunderbolt,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Then He saw wisdom and declared it;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He prepared it, indeed, He searched it out.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And to man He said,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Behold, the fear of the Lord, that is wisdom,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And to depart from evil is understanding.’ ”",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

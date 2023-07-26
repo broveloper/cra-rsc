@@ -1,0 +1,401 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 6,
+  "verses": 35,
+  "content": [
+    {
+      "text": "Warnings Against Folly",
+      "type": "heading"
+    },
+    {
+      "text": "My son, if you have put up security for your neighbor,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "if you have shaken hands in pledge for a stranger,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "you have been trapped by what you said,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "ensnared by the words of your mouth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "So do this, my son, to free yourself,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "since you have fallen into your neighbor’s hands:",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Go—to the point of exhaustion—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and give your neighbor no rest!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Allow no sleep to your eyes,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "no slumber to your eyelids.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Free yourself, like a gazelle from the hand of the hunter,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "like a bird from the snare of the fowler.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Go to the ant, you sluggard;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "consider its ways and be wise!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "It has no commander,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "no overseer or ruler,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "yet it stores its provisions in summer",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and gathers its food at harvest.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will you lie there, you sluggard?",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When will you get up from your sleep?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "A little sleep, a little slumber,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "a little folding of the hands to rest—",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and poverty will come on you like a thief",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and scarcity like an armed man.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "A troublemaker and a villain,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who goes about with a corrupt mouth,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "    who winks maliciously with his eye,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "signals with his feet",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and motions with his fingers,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "    who plots evil with deceit in his heart—",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "he always stirs up conflict.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore disaster will overtake him in an instant;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "he will suddenly be destroyed—without remedy.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "There are six things the Lord hates,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "seven that are detestable to him:",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "        haughty eyes,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "a lying tongue,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "hands that shed innocent blood,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "        a heart that devises wicked schemes,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "feet that are quick to rush into evil,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "        a false witness who pours out lies",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and a person who stirs up conflict in the community.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Warning Against Adultery",
+      "type": "heading"
+    },
+    {
+      "text": "My son, keep your father’s command",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do not forsake your mother’s teaching.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Bind them always on your heart;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "fasten them around your neck.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "When you walk, they will guide you;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "when you sleep, they will watch over you;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "when you awake, they will speak to you.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "For this command is a lamp,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "this teaching is a light,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and correction and instruction",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "are the way to life,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "keeping you from your neighbor’s wife,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "from the smooth talk of a wayward woman.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not lust in your heart after her beauty",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or let her captivate you with her eyes.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For a prostitute can be had for a loaf of bread,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but another man’s wife preys on your very life.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Can a man scoop fire into his lap",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "without his clothes being burned?",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Can a man walk on hot coals",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "without his feet being scorched?",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "So is he who sleeps with another man’s wife;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "no one who touches her will go unpunished.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "People do not despise a thief if he steals",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "to satisfy his hunger when he is starving.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet if he is caught, he must pay sevenfold,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "though it costs him all the wealth of his house.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "But a man who commits adultery has no sense;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "whoever does so destroys himself.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Blows and disgrace are his lot,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "and his shame will never be wiped away.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "For jealousy arouses a husband’s fury,",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he will show no mercy when he takes revenge.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not accept any compensation;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "he will refuse a bribe, however great it is.",
+      "verse": 35,
+      "type": "poetry"
+    }
+  ]
+}

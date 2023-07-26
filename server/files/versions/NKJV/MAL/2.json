@@ -1,0 +1,406 @@
+{
+  "book_id": "MAL",
+  "book_name": "Malachi",
+  "chapter": 2,
+  "verses": 17,
+  "content": [
+    {
+      "text": "Corrupt Priests",
+      "type": "heading"
+    },
+    {
+      "text": "“And now, O priests, this commandment is for you.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "If you will not hear,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And if you will not take it to heart,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To give glory to My name,”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will send a curse upon you,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will curse your blessings.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, I have cursed them already,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you do not take it to heart.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, I will rebuke your descendants",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And spread refuse on your faces,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The refuse of your solemn feasts;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And one will take you away with it.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you shall know that I have sent this commandment to you,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That My covenant with Levi may continue,”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“My covenant was with him, one of life and peace,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And I gave them to him that he might fear Me;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "So he feared Me",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And was reverent before My name.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The law of truth was in his mouth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And injustice was not found on his lips.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He walked with Me in peace and equity,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And turned many away from iniquity.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“For the lips of a priest should keep knowledge,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And people should seek the law from his mouth;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For he is the messenger of the Lord of hosts.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But you have departed from the way;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You have caused many to stumble at the law.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You have corrupted the covenant of Levi,”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore I also have made you contemptible and base",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Before all the people,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Because you have not kept My ways",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "But have shown partiality in the law.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Treachery of Infidelity",
+      "type": "heading"
+    },
+    {
+      "text": "Have we not all one Father?",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Has not one God created us?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do we deal treacherously with one another",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "By profaning the covenant of the fathers?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Judah has dealt treacherously,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And an abomination has been committed in Israel and in Jerusalem,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For Judah has profaned",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord’s holy institution which He loves:",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He has married the daughter of a foreign god.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "May the Lord cut off from the tents of Jacob",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The man who does this, being awake and aware,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet who brings an offering to the Lord of hosts!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And this is the second thing you do:",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You cover the altar of the Lord with tears,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "With weeping and crying;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "So He does not regard the offering anymore,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor receive it with goodwill from your hands.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet you say, “For what reason?”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Because the Lord has been witness",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Between you and the wife of your youth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "With whom you have dealt treacherously;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet she is your companion",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And your wife by covenant.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "But did He not make them one,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Having a remnant of the Spirit?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And why one?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He seeks godly offspring.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore take heed to your spirit,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And let none deal treacherously with the wife of his youth.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“For the Lord God of Israel says",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That He hates divorce,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For it covers one’s garment with violence,”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore take heed to your spirit,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "That you do not deal treacherously.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You have wearied the Lord with your words;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yet you say,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“In what way have we wearied Him?”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In that you say,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“Everyone who does evil",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Is good in the sight of the Lord,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And He delights in them,”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Or, “Where is the God of justice?”",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

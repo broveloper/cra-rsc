@@ -1,0 +1,142 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 137,
+  "verses": 9,
+  "content": [
+    {
+      "text": "How Shall We Sing the Lord's Song?",
+      "type": "heading"
+    },
+    {
+      "text": "By the waters of Babylon,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "there we sat down and wept,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "when we remembered Zion.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "On the willows there",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "we hung up our lyres.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For there our captors",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "required of us songs,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and our tormentors, mirth, saying,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Sing us one of the songs of Zion!”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How shall we sing the Lord's song",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in a foreign land?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If I forget you, O Jerusalem,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "let my right hand forget its skill!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my tongue stick to the roof of my mouth,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "if I do not remember you,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "if I do not set Jerusalem",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "above my highest joy!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember, O Lord, against the Edomites",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the day of Jerusalem,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "how they said, “Lay it bare, lay it bare,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "down to its foundations!”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "O daughter of Babylon, doomed to be destroyed,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "blessed shall he be who repays you",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "with what you have done to us!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed shall he be who takes your little ones",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and dashes them against the rock!",
+      "verse": 9,
+      "type": "poetry"
+    }
+  ]
+}

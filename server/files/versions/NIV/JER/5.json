@@ -1,0 +1,581 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 5,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Not One Is Upright",
+      "type": "heading"
+    },
+    {
+      "text": "“Go up and down the streets of Jerusalem,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "look around and consider,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "search through her squares.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "If you can find but one person",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "who deals honestly and seeks the truth,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I will forgive this city.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Although they say, ‘As surely as the Lord lives,’",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "still they are swearing falsely.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Lord, do not your eyes look for truth?",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You struck them, but they felt no pain;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "you crushed them, but they refused correction.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They made their faces harder than stone",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and refused to repent.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I thought, “These are only the poor;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "they are foolish,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for they do not know the way of the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the requirements of their God.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "So I will go to the leaders",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and speak to them;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "surely they know the way of the Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the requirements of their God.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But with one accord they too had broken off the yoke",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and torn off the bonds.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore a lion from the forest will attack them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a wolf from the desert will ravage them,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a leopard will lie in wait near their towns",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "to tear to pieces any who venture out,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for their rebellion is great",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and their backslidings many.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Why should I forgive you?",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your children have forsaken me",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and sworn by gods that are not gods.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I supplied all their needs,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "yet they committed adultery",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and thronged to the houses of prostitutes.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They are well-fed, lusty stallions,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "each neighing for another man’s wife.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Should I not punish them for this?”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Should I not avenge myself",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "on such a nation as this?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Go through her vineyards and ravage them,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but do not destroy them completely.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Strip off her branches,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for these people do not belong to the Lord.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The people of Israel and the people of Judah",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "have been utterly unfaithful to me,”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "They have lied about the Lord;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they said, “He will do nothing!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "No harm will come to us;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "we will never see sword or famine.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The prophets are but wind",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and the word is not in them;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "so let what they say be done to them.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore this is what the Lord God Almighty says:",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "“Because the people have spoken these words,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will make my words in your mouth a fire",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and these people the wood it consumes.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "People of Israel,” declares the Lord,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am bringing a distant nation against you—",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "an ancient and enduring nation,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "a people whose language you do not know,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "whose speech you do not understand.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Their quivers are like an open grave;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "all of them are mighty warriors.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They will devour your harvests and food,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "devour your sons and daughters;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "they will devour your flocks and herds,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "devour your vines and fig trees.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "With the sword they will destroy",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "the fortified cities in which you trust.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet even in those days,” declares the Lord, “I will not destroy you completely.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "And when the people ask, ‘Why has the Lord our God done all this to us?’ you will tell them, ‘As you have forsaken me and served foreign gods in your own land, so now you will serve foreigners in a land not your own.’",
+      "verse": 19
+    },
+    {
+      "text": "“Announce this to the descendants of Jacob",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and proclaim it in Judah:",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear this, you foolish and senseless people,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "who have eyes but do not see,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "who have ears but do not hear:",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Should you not fear me?” declares the Lord.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“Should you not tremble in my presence?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "I made the sand a boundary for the sea,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "an everlasting barrier it cannot cross.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The waves may roll, but they cannot prevail;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "they may roar, but they cannot cross it.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "But these people have stubborn and rebellious hearts;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they have turned aside and gone away.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not say to themselves,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Let us fear the Lord our God,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who gives autumn and spring rains in season,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "who assures us of the regular weeks of harvest.’",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Your wrongdoings have kept these away;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "your sins have deprived you of good.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“Among my people are the wicked",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who lie in wait like men who snare birds",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and like those who set traps to catch people.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Like cages full of birds,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "their houses are full of deceit;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "they have become rich and powerful",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "    and have grown fat and sleek.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Their evil deeds have no limit;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "they do not seek justice.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "They do not promote the case of the fatherless;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "they do not defend the just cause of the poor.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Should I not punish them for this?”",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "“Should I not avenge myself",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "on such a nation as this?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "“A horrible and shocking thing",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "has happened in the land:",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "The prophets prophesy lies,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "the priests rule by their own authority,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and my people love it this way.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "But what will you do in the end?",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

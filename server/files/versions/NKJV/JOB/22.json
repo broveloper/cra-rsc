@@ -1,0 +1,317 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 22,
+  "verses": 30,
+  "content": [
+    {
+      "text": "Eliphaz Accuses Job of Wickedness",
+      "type": "heading"
+    },
+    {
+      "text": "Then Eliphaz the Temanite answered and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Can a man be profitable to God,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Though he who is wise may be profitable to himself?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Is it any pleasure to the Almighty that you are righteous?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Or is it gain to Him that you make your ways blameless?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is it because of your fear of Him that He corrects you,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And enters into judgment with you?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Is not your wickedness great,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And your iniquity without end?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have taken pledges from your brother for no reason,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And stripped the naked of their clothing.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You have not given the weary water to drink,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And you have withheld bread from the hungry.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But the mighty man possessed the land,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the honorable man dwelt in it.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You have sent widows away empty,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And the strength of the fatherless was crushed.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore snares are all around you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And sudden fear troubles you,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Or darkness so that you cannot see;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And an abundance of water covers you.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“Is not God in the height of heaven?",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And see the highest stars, how lofty they are!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And you say, ‘What does God know?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Can He judge through the deep darkness?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Thick clouds cover Him, so that He cannot see,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And He walks above the circle of heaven.’",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Will you keep to the old way",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Which wicked men have trod,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Who were cut down before their time,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose foundations were swept away by a flood?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "They said to God, ‘Depart from us!",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "What can the Almighty do to them?’",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet He filled their houses with good things;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "But the counsel of the wicked is far from me.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "“The righteous see it and are glad,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the innocent laugh at them:",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Surely our adversaries are cut down,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "And the fire consumes their remnant.’",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "“Now acquaint yourself with Him, and be at peace;",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Thereby good will come to you.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Receive, please, instruction from His mouth,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And lay up His words in your heart.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "If you return to the Almighty, you will be built up;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "You will remove iniquity far from your tents.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you will lay your gold in the dust,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And the gold of Ophir among the stones of the brooks.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, the Almighty will be your gold",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And your precious silver;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For then you will have your delight in the Almighty,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And lift up your face to God.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "You will make your prayer to Him,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "He will hear you,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And you will pay your vows.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "You will also declare a thing,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And it will be established for you;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "So light will shine on your ways.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "When they cast you down, and you say, ‘Exaltation will come!’",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Then He will save the humble person.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "He will even deliver one who is not innocent;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, he will be delivered by the purity of your hands.”",
+      "verse": 30,
+      "type": "poetry"
+    }
+  ]
+}

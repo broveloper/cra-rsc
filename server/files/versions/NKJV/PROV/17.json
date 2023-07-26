@@ -1,0 +1,292 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 17,
+  "verses": 28,
+  "content": [
+    {
+      "text": "The Lord Tests Hearts",
+      "type": "heading"
+    },
+    {
+      "text": "Better is a dry morsel with quietness,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than a house full of feasting with strife.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "A wise servant will rule over a son who causes shame,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And will share an inheritance among the brothers.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The refining pot is for silver and the furnace for gold,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the Lord tests the hearts.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "An evildoer gives heed to false lips;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "A liar listens eagerly to a spiteful tongue.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He who mocks the poor reproaches his Maker;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He who is glad at calamity will not go unpunished.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Children’s children are the crown of old men,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the glory of children is their father.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Excellent speech is not becoming to a fool,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Much less lying lips to a prince.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A present is a precious stone in the eyes of its possessor;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Wherever he turns, he prospers.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He who covers a transgression seeks love,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But he who repeats a matter separates friends.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Rebuke is more effective for a wise man",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than a hundred blows on a fool.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "An evil man seeks only rebellion;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore a cruel messenger will be sent against him.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Let a man meet a bear robbed of her cubs,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Rather than a fool in his folly.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever rewards evil for good,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Evil will not depart from his house.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The beginning of strife is like releasing water;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore stop contention before a quarrel starts.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He who justifies the wicked, and he who condemns the just,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Both of them alike are an abomination to the Lord.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Why is there in the hand of a fool the purchase price of wisdom,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Since he has no heart for it?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "A friend loves at all times,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a brother is born for adversity.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "A man devoid of understanding shakes hands in a pledge,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And becomes surety for his friend.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "He who loves transgression loves strife,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who exalts his gate seeks destruction.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He who has a deceitful heart finds no good,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he who has a perverse tongue falls into evil.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "He who begets a scoffer does so to his sorrow,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the father of a fool has no joy.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "A merry heart does good, like medicine,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But a broken spirit dries the bones.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "A wicked man accepts a bribe behind the back",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "To pervert the ways of justice.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Wisdom is in the sight of him who has understanding,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But the eyes of a fool are on the ends of the earth.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "A foolish son is a grief to his father,",
+      "verse": 25,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And bitterness to her who bore him.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Also, to punish the righteous is not good,",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor to strike princes for their uprightness.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "He who has knowledge spares his words,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And a man of understanding is of a calm spirit.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Even a fool is counted wise when he holds his peace;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "When he shuts his lips, he is considered perceptive.",
+      "verse": 28,
+      "type": "poetry"
+    }
+  ]
+}

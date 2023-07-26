@@ -1,0 +1,87 @@
+{
+  "book_id": "TITUS",
+  "book_name": "Titus",
+  "chapter": 1,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God's elect, and the acknowledging of the truth which is after godliness;",
+      "verse": 1
+    },
+    {
+      "text": "In hope of eternal life, which God, that cannot lie, promised before the world began;",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "One of themselves, even a prophet of their own, said, the Cretians are alway liars, evil beasts, slow bellies.",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
+      "verse": 16,
+      "type": "newline"
+    }
+  ]
+}

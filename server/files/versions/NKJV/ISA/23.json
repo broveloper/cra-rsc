@@ -1,0 +1,291 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 23,
+  "verses": 18,
+  "content": [
+    {
+      "text": "Proclamation Against Tyre",
+      "type": "heading"
+    },
+    {
+      "text": "The burden against Tyre.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Wail, you ships of Tarshish!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For it is laid waste,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "So that there is no house, no harbor;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "From the land of Cyprus it is revealed to them.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Be still, you inhabitants of the coastland,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You merchants of Sidon,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom those who cross the sea have filled.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And on great waters the grain of Shihor,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The harvest of the River, is her revenue;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And she is a marketplace for the nations.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Be ashamed, O Sidon;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For the sea has spoken,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The strength of the sea, saying,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“I do not labor, nor bring forth children;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Neither do I rear young men,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor bring up virgins.”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "When the report reaches Egypt,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They also will be in agony at the report of Tyre.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Cross over to Tarshish;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Wail, you inhabitants of the coastland!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Is this your joyous city,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose antiquity is from ancient days,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose feet carried her far off to dwell?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has taken this counsel against Tyre, the crowning city,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose merchants are princes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose traders are the honorable of the earth?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord of hosts has purposed it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To bring to dishonor the pride of all glory,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To bring into contempt all the honorable of the earth.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Overflow through your land like the River,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O daughter of Tarshish;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no more strength.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He stretched out His hand over the sea,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He shook the kingdoms;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has given a commandment against Canaan",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "To destroy its strongholds.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And He said, “You will rejoice no more,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "O you oppressed virgin daughter of Sidon.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, cross over to Cyprus;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "There also you will have no rest.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the land of the Chaldeans,",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "This people which was not;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Assyria founded it for wild beasts of the desert.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They set up its towers,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They raised up its palaces,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And brought it to ruin.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Wail, you ships of Tarshish!",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For your strength is laid waste.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Now it shall come to pass in that day that Tyre will be forgotten seventy years, according to the days of one king. At the end of seventy years it will happen to Tyre as in the song of the harlot:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“Take a harp, go about the city,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You forgotten harlot;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Make sweet melody, sing many songs,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "That you may be remembered.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall be, at the end of seventy years, that the Lord will deal with Tyre. She will return to her hire, and commit fornication with all the kingdoms of the world on the face of the earth. ",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Her gain and her pay will be set apart for the Lord; it will not be treasured nor laid up, for her gain will be for those who dwell before the Lord, to eat sufficiently, and for fine clothing.",
+      "verse": 18
+    }
+  ]
+}

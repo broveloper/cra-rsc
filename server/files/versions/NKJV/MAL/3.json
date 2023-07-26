@@ -1,0 +1,454 @@
+{
+  "book_id": "MAL",
+  "book_name": "Malachi",
+  "chapter": 3,
+  "verses": 18,
+  "content": [
+    {
+      "text": "The Coming Messenger",
+      "type": "heading"
+    },
+    {
+      "text": "“Behold, I send My messenger,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And he will prepare the way before Me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And the Lord, whom you seek,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Will suddenly come to His temple,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Even the Messenger of the covenant,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In whom you delight.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, He is coming,”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“But who can endure the day of His coming?",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And who can stand when He appears?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For He is like a refiner’s fire",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And like launderers’ soap.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "He will sit as a refiner and a purifier of silver;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He will purify the sons of Levi,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And purge them as gold and silver,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may offer to the Lord",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "An offering in righteousness.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Then the offering of Judah and Jerusalem",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Will be pleasant to the Lord,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As in the days of old,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "As in former years.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will come near you for judgment;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will be a swift witness",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Against sorcerers,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Against adulterers,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Against perjurers,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Against those who exploit wage earners and widows and orphans,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And against those who turn away an alien—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they do not fear Me,”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“For I am the Lord, I do not change;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore you are not consumed, O sons of Jacob.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet from the days of your fathers",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You have gone away from My ordinances",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And have not kept them.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Return to Me, and I will return to you,”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“But you said,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘In what way shall we return?’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do Not Rob God",
+      "type": "heading"
+    },
+    {
+      "text": "“Will a man rob God?",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Yet you have robbed Me!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "But you say,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "‘In what way have we robbed You?’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In tithes and offerings.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "You are cursed with a curse,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have robbed Me,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Even this whole nation.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Bring all the tithes into the storehouse,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "That there may be food in My house,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And try Me now in this,”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“If I will not open for you the windows of heaven",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And pour out for you such blessing",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "That there will not be room enough to receive it.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“And I will rebuke the devourer for your sakes,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So that he will not destroy the fruit of your ground,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor shall the vine fail to bear fruit for you in the field,”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“And all nations will call you blessed,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For you will be a delightful land,”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord of hosts.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The People Complain Harshly",
+      "type": "heading"
+    },
+    {
+      "text": "“Your words have been harsh against Me,”",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Says the Lord,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Yet you say,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "‘What have we spoken against You?’",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "You have said,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "‘It is useless to serve God;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "What profit is it that we have kept His ordinance,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And that we have walked as mourners",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the Lord of hosts?",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So now we call the proud blessed,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "For those who do wickedness are raised up;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "They even tempt God and go free.’ ”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "A Book of Remembrance",
+      "type": "heading"
+    },
+    {
+      "text": "Then those who feared the Lord spoke to one another,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the Lord listened and heard them;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "So a book of remembrance was written before Him",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For those who fear the Lord",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And who meditate on His name.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“They shall be Mine,” says the Lord of hosts,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“On the day that I make them My jewels.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will spare them",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "As a man spares his own son who serves him.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Then you shall again discern",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Between the righteous and the wicked,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Between one who serves God",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And one who does not serve Him.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

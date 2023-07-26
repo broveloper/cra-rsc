@@ -1,0 +1,247 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 94,
+  "verses": 23,
+  "content": [
+    {
+      "text": "The Lord Will Not Forsake His People",
+      "type": "heading"
+    },
+    {
+      "text": "O Lord, God of vengeance,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "O God of vengeance, shine forth!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Rise up, O judge of the earth;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "repay to the proud what they deserve!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, how long shall the wicked,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "how long shall the wicked exult?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "They pour out their arrogant words;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "all the evildoers boast.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They crush your people, O Lord,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and afflict your heritage.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They kill the widow and the sojourner,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and murder the fatherless;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and they say, “The Lord does not see;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the God of Jacob does not perceive.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Understand, O dullest of the people!",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Fools, when will you be wise?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He who planted the ear, does he not hear?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He who formed the eye, does he not see?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He who disciplines the nations, does he not rebuke?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He who teaches man knowledge—",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "    the Lord—knows the thoughts of man,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "that they are but a breath.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed is the man whom you discipline, O Lord,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and whom you teach out of your law,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "to give him rest from days of trouble,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "until a pit is dug for the wicked.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord will not forsake his people;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "he will not abandon his heritage;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for justice will return to the righteous,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the upright in heart will follow it.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Who rises up for me against the wicked?",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who stands up for me against evildoers?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "If the Lord had not been my help,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "my soul would soon have lived in the land of silence.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When I thought, “My foot slips,”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "your steadfast love, O Lord, held me up.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "When the cares of my heart are many,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "your consolations cheer my soul.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Can wicked rulers be allied with you,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "those who frame injustice by statute?",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They band together against the life of the righteous",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and condemn the innocent to death.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But the Lord has become my stronghold,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and my God the rock of my refuge.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "He will bring back on them their iniquity",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and wipe them out for their wickedness;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord our God will wipe them out.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

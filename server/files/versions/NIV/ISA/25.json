@@ -1,0 +1,262 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 25,
+  "verses": 12,
+  "content": [
+    {
+      "text": "Praise to the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "Lord, you are my God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will exalt you and praise your name,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for in perfect faithfulness",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "you have done wonderful things,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "things planned long ago.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "You have made the city a heap of rubble,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the fortified town a ruin,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the foreigners’ stronghold a city no more;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "it will never be rebuilt.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore strong peoples will honor you;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "cities of ruthless nations will revere you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You have been a refuge for the poor,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "a refuge for the needy in their distress,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "a shelter from the storm",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and a shade from the heat.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For the breath of the ruthless",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "is like a storm driving against a wall",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "    and like the heat of the desert.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You silence the uproar of foreigners;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "as heat is reduced by the shadow of a cloud,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "so the song of the ruthless is stilled.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "On this mountain the Lord Almighty will prepare",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a feast of rich food for all peoples,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a banquet of aged wine—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the best of meats and the finest of wines.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "On this mountain he will destroy",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the shroud that enfolds all peoples,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the sheet that covers all nations;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    he will swallow up death forever.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Sovereign Lord will wipe away the tears",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from all faces;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he will remove his people’s disgrace",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "from all the earth.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has spoken.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day they will say,",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "“Surely this is our God;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "we trusted in him, and he saved us.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the Lord, we trusted in him;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "let us rejoice and be glad in his salvation.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The hand of the Lord will rest on this mountain;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but Moab will be trampled in their land",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "as straw is trampled down in the manure.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "They will stretch out their hands in it,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "as swimmers stretch out their hands to swim.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "God will bring down their pride",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "despite the cleverness of their hands.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He will bring down your high fortified walls",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay them low;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he will bring them down to the ground,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "to the very dust.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

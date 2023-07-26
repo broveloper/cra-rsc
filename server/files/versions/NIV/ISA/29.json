@@ -1,0 +1,421 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 29,
+  "verses": 24,
+  "content": [
+    {
+      "text": "Woe to David’s City",
+      "type": "heading"
+    },
+    {
+      "text": "Woe to you, Ariel, Ariel,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the city where David settled!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Add year to year",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and let your cycle of festivals go on.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet I will besiege Ariel;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she will mourn and lament,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she will be to me like an altar hearth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will encamp against you on all sides;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will encircle you with towers",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and set up my siege works against you.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Brought low, you will speak from the ground;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "your speech will mumble out of the dust.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Your voice will come ghostlike from the earth;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "out of the dust your speech will whisper.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But your many enemies will become like fine dust,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the ruthless hordes like blown chaff.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Suddenly, in an instant,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "    the Lord Almighty will come",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with thunder and earthquake and great noise,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with windstorm and tempest and flames of a devouring fire.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the hordes of all the nations that fight against Ariel,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "that attack her and her fortress and besiege her,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "will be as it is with a dream,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "with a vision in the night—",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "as when a hungry person dreams of eating,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but awakens hungry still;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "as when a thirsty person dreams of drinking,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "but awakens faint and thirsty still.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "So will it be with the hordes of all the nations",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "that fight against Mount Zion.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Be stunned and amazed,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "blind yourselves and be sightless;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "be drunk, but not from wine,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "stagger, but not from beer.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has brought over you a deep sleep:",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He has sealed your eyes (the prophets);",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "he has covered your heads (the seers).",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For you this whole vision is nothing but words sealed in a scroll. And if you give the scroll to someone who can read, and say, “Read this, please,” they will answer, “I can’t; it is sealed.”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Or if you give the scroll to someone who cannot read, and say, “Read this, please,” they will answer, “I don’t know how to read.”",
+      "verse": 12
+    },
+    {
+      "text": "The Lord says:",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "“These people come near to me with their mouth",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and honor me with their lips,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but their hearts are far from me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Their worship of me",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "is based on merely human rules they have been taught.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore once more I will astound these people",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "with wonder upon wonder;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the wisdom of the wise will perish,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the intelligence of the intelligent will vanish.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to those who go to great depths",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "to hide their plans from the Lord,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who do their work in darkness and think,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Who sees us? Who will know?”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "You turn things upside down,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "as if the potter were thought to be like the clay!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall what is formed say to the one who formed it,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“You did not make me”?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Can the pot say to the potter,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“You know nothing”?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "In a very short time, will not Lebanon be turned into a fertile field",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the fertile field seem like a forest?",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day the deaf will hear the words of the scroll,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and out of gloom and darkness",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "the eyes of the blind will see.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Once more the humble will rejoice in the Lord;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "the needy will rejoice in the Holy One of Israel.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "The ruthless will vanish,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "the mockers will disappear,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and all who have an eye for evil will be cut down—",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "those who with a word make someone out to be guilty,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "who ensnare the defender in court",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and with false testimony deprive the innocent of justice.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore this is what the Lord, who redeemed Abraham, says to the descendants of Jacob:",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "“No longer will Jacob be ashamed;",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "no longer will their faces grow pale.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "When they see among them their children,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "the work of my hands,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they will keep my name holy;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "they will acknowledge the holiness of the Holy One of Jacob,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and will stand in awe of the God of Israel.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who are wayward in spirit will gain understanding;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "those who complain will accept instruction.”",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 76,
+  "verses": 12,
+  "content": [
+    {
+      "text": "The Majesty of God in Judgment",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. On stringed instruments. A Psalm of Asaph. A Song.",
+      "type": "title"
+    },
+    {
+      "text": "In Judah God is known;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "His name is great in Israel.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "In Salem also is His tabernacle,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And His dwelling place in Zion.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "There He broke the arrows of the bow,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The shield and sword of battle. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "You are more glorious and excellent",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Than the mountains of prey.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The stouthearted were plundered;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They have sunk into their sleep;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And none of the mighty men have found the use of their hands.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "At Your rebuke, O God of Jacob,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Both the chariot and horse were cast into a dead sleep.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You, Yourself, are to be feared;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And who may stand in Your presence",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "When once You are angry?",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "You caused judgment to be heard from heaven;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth feared and was still,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "When God arose to judgment,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "To deliver all the oppressed of the earth. Selah",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely the wrath of man shall praise You;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With the remainder of wrath You shall gird Yourself.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Make vows to the Lord your God, and pay them;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let all who are around Him bring presents to Him who ought to be feared.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall cut off the spirit of princes;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "He is awesome to the kings of the earth.",
+      "verse": 12,
+      "type": "poetry"
+    }
+  ]
+}

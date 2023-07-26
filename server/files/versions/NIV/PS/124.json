@@ -1,0 +1,106 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 124,
+  "verses": 8,
+  "content": [
+    {
+      "text": "Psalm 124",
+      "type": "heading"
+    },
+    {
+      "text": "A song of ascents. Of David.",
+      "type": "title"
+    },
+    {
+      "text": "If the Lord had not been on our side—",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let Israel say—",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "if the Lord had not been on our side",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "when people attacked us,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "they would have swallowed us alive",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "when their anger flared against us;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the flood would have engulfed us,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the torrent would have swept over us,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "the raging waters",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "would have swept us away.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise be to the Lord,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "who has not let us be torn by their teeth.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "We have escaped like a bird",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "from the fowler’s snare;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "the snare has been broken,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and we have escaped.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Our help is in the name of the Lord,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the Maker of heaven and earth.",
+      "verse": 8,
+      "type": "poetry"
+    }
+  ]
+}

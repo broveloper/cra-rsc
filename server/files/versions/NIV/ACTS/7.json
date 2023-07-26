@@ -1,0 +1,324 @@
+{
+  "book_id": "ACTS",
+  "book_name": "Acts",
+  "chapter": 7,
+  "verses": 60,
+  "content": [
+    {
+      "text": "Stephen’s Speech to the Sanhedrin",
+      "type": "heading"
+    },
+    {
+      "text": "Then the high priest asked Stephen, “Are these charges true?”",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "To this he replied: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Harran.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "‘Leave your country and your people,’ God said, ‘and go to the land I will show you.’",
+      "verse": 3
+    },
+    {
+      "text": "“So he left the land of the Chaldeans and settled in Harran. After the death of his father, God sent him to this land where you are now living.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "He gave him no inheritance here, not even enough ground to set his foot on. But God promised him that he and his descendants after him would possess the land, even though at that time Abraham had no child.",
+      "verse": 5
+    },
+    {
+      "text": "God spoke to him in this way: ‘For four hundred years your descendants will be strangers in a country not their own, and they will be enslaved and mistreated.",
+      "verse": 6
+    },
+    {
+      "text": "But I will punish the nation they serve as slaves,’ God said, ‘and afterward they will come out of that country and worship me in this place.’",
+      "verse": 7
+    },
+    {
+      "text": "Then he gave Abraham the covenant of circumcision. And Abraham became the father of Isaac and circumcised him eight days after his birth. Later Isaac became the father of Jacob, and Jacob became the father of the twelve patriarchs.",
+      "verse": 8
+    },
+    {
+      "text": "“Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "and rescued him from all his troubles. He gave Joseph wisdom and enabled him to gain the goodwill of Pharaoh king of Egypt. So Pharaoh made him ruler over Egypt and all his palace.",
+      "verse": 10
+    },
+    {
+      "text": "“Then a famine struck all Egypt and Canaan, bringing great suffering, and our ancestors could not find food.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "When Jacob heard that there was grain in Egypt, he sent our forefathers on their first visit.",
+      "verse": 12
+    },
+    {
+      "text": "On their second visit, Joseph told his brothers who he was, and Pharaoh learned about Joseph’s family.",
+      "verse": 13
+    },
+    {
+      "text": "After this, Joseph sent for his father Jacob and his whole family, seventy-five in all.",
+      "verse": 14
+    },
+    {
+      "text": "Then Jacob went down to Egypt, where he and our ancestors died.",
+      "verse": 15
+    },
+    {
+      "text": "Their bodies were brought back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a certain sum of money.",
+      "verse": 16
+    },
+    {
+      "text": "“As the time drew near for God to fulfill his promise to Abraham, the number of our people in Egypt had greatly increased.",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Then ‘a new king, to whom Joseph meant nothing, came to power in Egypt.’",
+      "verse": 18
+    },
+    {
+      "text": "He dealt treacherously with our people and oppressed our ancestors by forcing them to throw out their newborn babies so that they would die.",
+      "verse": 19
+    },
+    {
+      "text": "“At that time Moses was born, and he was no ordinary child. For three months he was cared for by his family.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "When he was placed outside, Pharaoh’s daughter took him and brought him up as her own son.",
+      "verse": 21
+    },
+    {
+      "text": "Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.",
+      "verse": 22
+    },
+    {
+      "text": "“When Moses was forty years old, he decided to visit his own people, the Israelites.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "He saw one of them being mistreated by an Egyptian, so he went to his defense and avenged him by killing the Egyptian.",
+      "verse": 24
+    },
+    {
+      "text": "Moses thought that his own people would realize that God was using him to rescue them, but they did not.",
+      "verse": 25
+    },
+    {
+      "text": "The next day Moses came upon two Israelites who were fighting. He tried to reconcile them by saying, ‘Men, you are brothers; why do you want to hurt each other?’",
+      "verse": 26
+    },
+    {
+      "text": "“But the man who was mistreating the other pushed Moses aside and said, ‘Who made you ruler and judge over us?",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "Are you thinking of killing me as you killed the Egyptian yesterday?’",
+      "verse": 28
+    },
+    {
+      "text": "When Moses heard this, he fled to Midian, where he settled as a foreigner and had two sons.",
+      "verse": 29
+    },
+    {
+      "text": "“After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "When he saw this, he was amazed at the sight. As he went over to get a closer look, he heard the Lord say:",
+      "verse": 31
+    },
+    {
+      "text": "‘I am the God of your fathers, the God of Abraham, Isaac and Jacob.’ Moses trembled with fear and did not dare to look.",
+      "verse": 32
+    },
+    {
+      "text": "“Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "I have indeed seen the oppression of my people in Egypt. I have heard their groaning and have come down to set them free. Now come, I will send you back to Egypt.’",
+      "verse": 34
+    },
+    {
+      "text": "“This is the same Moses they had rejected with the words, ‘Who made you ruler and judge?’ He was sent to be their ruler and deliverer by God himself, through the angel who appeared to him in the bush.",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "He led them out of Egypt and performed wonders and signs in Egypt, at the Red Sea and for forty years in the wilderness.",
+      "verse": 36
+    },
+    {
+      "text": "“This is the Moses who told the Israelites, ‘God will raise up for you a prophet like me from your own people.’",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "He was in the assembly in the wilderness, with the angel who spoke to him on Mount Sinai, and with our ancestors; and he received living words to pass on to us.",
+      "verse": 38
+    },
+    {
+      "text": "“But our ancestors refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "They told Aaron, ‘Make us gods who will go before us. As for this fellow Moses who led us out of Egypt—we don’t know what has happened to him!’",
+      "verse": 40
+    },
+    {
+      "text": "That was the time they made an idol in the form of a calf. They brought sacrifices to it and reveled in what their own hands had made.",
+      "verse": 41
+    },
+    {
+      "text": "But God turned away from them and gave them over to the worship of the sun, moon and stars. This agrees with what is written in the book of the prophets:",
+      "verse": 42
+    },
+    {
+      "text": "“‘Did you bring me sacrifices and offerings",
+      "verse": 42,
+      "type": "poetry newline"
+    },
+    {
+      "text": "forty years in the wilderness, people of Israel?",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "You have taken up the tabernacle of Molek",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "and the star of your god Rephan,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "the idols you made to worship.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will send you into exile’ beyond Babylon.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "“Our ancestors had the tabernacle of the covenant law with them in the wilderness. It had been made as God directed Moses, according to the pattern he had seen.",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "After receiving the tabernacle, our ancestors under Joshua brought it with them when they took the land from the nations God drove out before them. It remained in the land until the time of David,",
+      "verse": 45
+    },
+    {
+      "text": "who enjoyed God’s favor and asked that he might provide a dwelling place for the God of Jacob.",
+      "verse": 46
+    },
+    {
+      "text": "But it was Solomon who built a house for him.",
+      "verse": 47
+    },
+    {
+      "text": "“However, the Most High does not live in houses made by human hands. As the prophet says:",
+      "verse": 48,
+      "type": "newline"
+    },
+    {
+      "text": "“‘Heaven is my throne,",
+      "verse": 49,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the earth is my footstool.",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "What kind of house will you build for me?",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "Or where will my resting place be?",
+      "verse": 49,
+      "type": "poetry"
+    },
+    {
+      "text": "Has not my hand made all these things?’",
+      "verse": 50,
+      "type": "poetry"
+    },
+    {
+      "text": "“You stiff-necked people! Your hearts and ears are still uncircumcised. You are just like your ancestors: You always resist the Holy Spirit!",
+      "verse": 51,
+      "type": "newline"
+    },
+    {
+      "text": "Was there ever a prophet your ancestors did not persecute? They even killed those who predicted the coming of the Righteous One. And now you have betrayed and murdered him—",
+      "verse": 52
+    },
+    {
+      "text": "you who have received the law that was given through angels but have not obeyed it.”",
+      "verse": 53
+    },
+    {
+      "text": "The Stoning of Stephen",
+      "type": "heading"
+    },
+    {
+      "text": "When the members of the Sanhedrin heard this, they were furious and gnashed their teeth at him.",
+      "verse": 54,
+      "type": "newline"
+    },
+    {
+      "text": "But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.",
+      "verse": 55
+    },
+    {
+      "text": "“Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”",
+      "verse": 56
+    },
+    {
+      "text": "At this they covered their ears and, yelling at the top of their voices, they all rushed at him,",
+      "verse": 57,
+      "type": "newline"
+    },
+    {
+      "text": "dragged him out of the city and began to stone him. Meanwhile, the witnesses laid their coats at the feet of a young man named Saul.",
+      "verse": 58
+    },
+    {
+      "text": "While they were stoning him, Stephen prayed, “Lord Jesus, receive my spirit.”",
+      "verse": 59,
+      "type": "newline"
+    },
+    {
+      "text": "Then he fell on his knees and cried out, “Lord, do not hold this sin against them.” When he had said this, he fell asleep.",
+      "verse": 60
+    }
+  ]
+}

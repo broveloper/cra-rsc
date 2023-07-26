@@ -1,0 +1,352 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 36,
+  "verses": 33,
+  "content": [
+    {
+      "text": "Elihu Extols God's Greatness",
+      "type": "heading"
+    },
+    {
+      "text": "And Elihu continued, and said:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Bear with me a little, and I will show you,",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for I have yet something to say on God's behalf.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "I will get my knowledge from afar",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and ascribe righteousness to my Maker.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For truly my words are not false;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "one who is perfect in knowledge is with you.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, God is mighty, and does not despise any;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he is mighty in strength of understanding.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He does not keep the wicked alive,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "but gives the afflicted their right.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He does not withdraw his eyes from the righteous,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "but with kings on the throne",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "he sets them forever, and they are exalted.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And if they are bound in chains",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and caught in the cords of affliction,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "then he declares to them their work",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and their transgressions, that they are behaving arrogantly.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He opens their ears to instruction",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and commands that they return from iniquity.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "If they listen and serve him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "they complete their days in prosperity,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and their years in pleasantness.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But if they do not listen, they perish by the sword",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and die without knowledge.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "“The godless in heart cherish anger;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they do not cry for help when he binds them.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "They die in youth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and their life ends among the cult prostitutes.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He delivers the afflicted by their affliction",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and opens their ear by adversity.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He also allured you out of distress",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "into a broad place where there was no cramping,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and what was set on your table was full of fatness.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“But you are full of the judgment on the wicked;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "judgment and justice seize you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Beware lest wrath entice you into scoffing,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and let not the greatness of the ransom turn you aside.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Will your cry for help avail to keep you from distress,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "or all the force of your strength?",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not long for the night,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "when peoples vanish in their place.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Take care; do not turn to iniquity,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for this you have chosen rather than affliction.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, God is exalted in his power;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "who is a teacher like him?",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Who has prescribed for him his way,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "or who can say, ‘You have done wrong’?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "“Remember to extol his work,",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "of which men have sung.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "All mankind has looked on it;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "man beholds it from afar.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, God is great, and we know him not;",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "the number of his years is unsearchable.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "For he draws up the drops of water;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "they distill his mist in rain,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "which the skies pour down",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "and drop on mankind abundantly.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Can anyone understand the spreading of the clouds,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "the thunderings of his pavilion?",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, he scatters his lightning about him",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "and covers the roots of the sea.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For by these he judges peoples;",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "he gives food in abundance.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "He covers his hands with the lightning",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "and commands it to strike the mark.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Its crashing declares his presence;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "the cattle also declare that he rises.",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

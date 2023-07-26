@@ -1,0 +1,156 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 141,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Prayer for Safekeeping from Wickedness",
+      "type": "heading"
+    },
+    {
+      "text": "A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "Lord, I cry out to You;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Make haste to me!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Give ear to my voice when I cry out to You.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my prayer be set before You as incense,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The lifting up of my hands as the evening sacrifice.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Set a guard, O Lord, over my mouth;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Keep watch over the door of my lips.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not incline my heart to any evil thing,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To practice wicked works",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With men who work iniquity;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And do not let me eat of their delicacies.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the righteous strike me;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "It shall be a kindness.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And let him rebuke me;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "It shall be as excellent oil;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let my head not refuse it.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For still my prayer is against the deeds of the wicked.",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Their judges are overthrown by the sides of the cliff,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And they hear my words, for they are sweet.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Our bones are scattered at the mouth of the grave,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "As when one plows and breaks up the earth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But my eyes are upon You, O God the Lord;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In You I take refuge;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not leave my soul destitute.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep me from the snares they have laid for me,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And from the traps of the workers of iniquity.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the wicked fall into their own nets,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "While I escape safely.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

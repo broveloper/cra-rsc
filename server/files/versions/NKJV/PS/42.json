@@ -1,0 +1,218 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 42,
+  "verses": 11,
+  "content": [
+    {
+      "text": "BOOK TWO",
+      "verse": 1
+    },
+    {
+      "text": "Psalms 42–72",
+      "type": "heading"
+    },
+    {
+      "text": "BOOK TWOPsalms 42–72",
+      "type": "heading"
+    },
+    {
+      "text": "Yearning for God in the Midst of Distresses",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Contemplation of the sons of Korah.",
+      "type": "title"
+    },
+    {
+      "text": "As the deer pants for the water brooks,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So pants my soul for You, O God.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "My soul thirsts for God, for the living God.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When shall I come and appear before God?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "My tears have been my food day and night,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "While they continually say to me,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Where is your God?”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "When I remember these things,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I pour out my soul within me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For I used to go with the multitude;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "I went with them to the house of God,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With the voice of joy and praise,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "With a multitude that kept a pilgrim feast.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are you cast down, O my soul?",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And why are you disquieted within me?",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Hope in God, for I shall yet praise Him",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "For the help of His countenance.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "O my God, my soul is cast down within me;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Therefore I will remember You from the land of the Jordan,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And from the heights of Hermon,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "From the Hill Mizar.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Deep calls unto deep at the noise of Your waterfalls;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "All Your waves and billows have gone over me.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will command His lovingkindness in the daytime,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And in the night His song shall be with me—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "A prayer to the God of my life.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will say to God my Rock,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Why have You forgotten me?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do I go mourning because of the oppression of the enemy?”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "As with a breaking of my bones,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "My enemies reproach me,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "While they say to me all day long,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "“Where is your God?”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Why are you cast down, O my soul?",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And why are you disquieted within me?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Hope in God;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "For I shall yet praise Him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "The help of my countenance and my God.",
+      "verse": 11,
+      "type": "poetry"
+    }
+  ]
+}

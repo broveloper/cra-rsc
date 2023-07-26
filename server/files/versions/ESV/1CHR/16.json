@@ -1,0 +1,395 @@
+{
+  "book_id": "1CHR",
+  "book_name": "1 Chronicles",
+  "chapter": 16,
+  "verses": 43,
+  "content": [
+    {
+      "text": "The Ark Placed in a Tent",
+      "type": "heading"
+    },
+    {
+      "text": "And they brought in the ark of God and set it inside the tent that David had pitched for it, and they offered burnt offerings and peace offerings before God.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And when David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the Lord",
+      "verse": 2
+    },
+    {
+      "text": "and distributed to all Israel, both men and women, to each a loaf of bread, a portion of meat, and a cake of raisins.",
+      "verse": 3
+    },
+    {
+      "text": "Then he appointed some of the Levites as ministers before the ark of the Lord, to invoke, to thank, and to praise the Lord, the God of Israel.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Asaph was the chief, and second to him were Zechariah, Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel, who were to play harps and lyres; Asaph was to sound the cymbals,",
+      "verse": 5
+    },
+    {
+      "text": "and Benaiah and Jahaziel the priests were to blow trumpets regularly before the ark of the covenant of God.",
+      "verse": 6
+    },
+    {
+      "text": "Then on that day David first appointed that thanksgiving be sung to the Lord by Asaph and his brothers.",
+      "verse": 7
+    },
+    {
+      "text": "David's Song of Thanks",
+      "type": "heading"
+    },
+    {
+      "text": "Oh give thanks to the Lord; call upon his name;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "make known his deeds among the peoples!",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to him, sing praises to him;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "tell of all his wondrous works!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Glory in his holy name;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "let the hearts of those who seek the Lord rejoice!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Seek the Lord and his strength;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "seek his presence continually!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember the wondrous works that he has done,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "his miracles and the judgments he uttered,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "O offspring of Israel his servant,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "children of Jacob, his chosen ones!",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "He is the Lord our God;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "his judgments are in all the earth.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember his covenant forever,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the word that he commanded, for a thousand generations,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "the covenant that he made with Abraham,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "his sworn promise to Isaac,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "which he confirmed to Jacob as a statute,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "to Israel as an everlasting covenant,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, “To you I will give the land of Canaan,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "as your portion for an inheritance.”",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "When you were few in number,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "of little account, and sojourners in it,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "wandering from nation to nation,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "from one kingdom to another people,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "he allowed no one to oppress them;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "he rebuked kings on their account,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "saying, “Touch not my anointed ones,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "do my prophets no harm!”",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Sing to the Lord, all the earth!",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Tell of his salvation from day to day.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Declare his glory among the nations,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "his marvelous works among all the peoples!",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "For great is the Lord, and greatly to be praised,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and he is to be feared above all gods.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "For all the gods of the peoples are worthless idols,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "but the Lord made the heavens.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Splendor and majesty are before him;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "strength and joy are in his place.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Ascribe to the Lord, O families of the peoples,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ascribe to the Lord glory and strength!",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Ascribe to the Lord the glory due his name;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "bring an offering and come before him!",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Worship the Lord in the splendor of holiness;",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "    tremble before him, all the earth;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "yes, the world is established; it shall never be moved.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the heavens be glad, and let the earth rejoice,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and let them say among the nations, “The Lord reigns!”",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the sea roar, and all that fills it;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "let the field exult, and everything in it!",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Then shall the trees of the forest sing for joy",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "before the Lord, for he comes to judge the earth.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh give thanks to the Lord, for he is good;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "for his steadfast love endures forever!",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Say also:",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "“Save us, O God of our salvation,",
+      "verse": 35,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and gather and deliver us from among the nations,",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "that we may give thanks to your holy name",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "and glory in your praise.",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord, the God of Israel,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "from everlasting to everlasting!”",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Then all the people said, “Amen!” and praised the Lord.",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "Worship Before the Ark",
+      "type": "heading"
+    },
+    {
+      "text": "So David left Asaph and his brothers there before the ark of the covenant of the Lord to minister regularly before the ark as each day required,",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "and also Obed-edom and his sixty-eight brothers, while Obed-edom, the son of Jeduthun, and Hosah were to be gatekeepers.",
+      "verse": 38
+    },
+    {
+      "text": "And he left Zadok the priest and his brothers the priests before the tabernacle of the Lord in the high place that was at Gibeon",
+      "verse": 39
+    },
+    {
+      "text": "to offer burnt offerings to the Lord on the altar of burnt offering regularly morning and evening, to do all that is written in the Law of the Lord that he commanded Israel.",
+      "verse": 40
+    },
+    {
+      "text": "With them were Heman and Jeduthun and the rest of those chosen and expressly named to give thanks to the Lord, for his steadfast love endures forever.",
+      "verse": 41
+    },
+    {
+      "text": "Heman and Jeduthun had trumpets and cymbals for the music and instruments for sacred song. The sons of Jeduthun were appointed to the gate.",
+      "verse": 42
+    },
+    {
+      "text": "Then all the people departed each to his house, and David went home to bless his household.",
+      "verse": 43,
+      "type": "newline"
+    }
+  ]
+}

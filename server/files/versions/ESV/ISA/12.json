@@ -1,0 +1,106 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 12,
+  "verses": 6,
+  "content": [
+    {
+      "text": "The Lord Is My Strength and My Song",
+      "type": "heading"
+    },
+    {
+      "text": "You will say in that day:",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“I will give thanks to you, O Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "for though you were angry with me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "your anger turned away,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "that you might comfort me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“Behold, God is my salvation;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will trust, and will not be afraid;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "for the Lord God is my strength and my song,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and he has become my salvation.”",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "With joy you will draw water from the wells of salvation.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "And you will say in that day:",
+      "verse": 4
+    },
+    {
+      "text": "“Give thanks to the Lord,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "call upon his name,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "make known his deeds among the peoples,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "proclaim that his name is exalted.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Sing praises to the Lord, for he has done gloriously;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "let this be made known in all the earth.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Shout, and sing for joy, O inhabitant of Zion,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for great in your midst is the Holy One of Israel.”",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

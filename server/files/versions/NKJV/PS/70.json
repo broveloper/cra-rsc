@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 70,
+  "verses": 5,
+  "content": [
+    {
+      "text": "Prayer for Relief from Adversaries",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David. To bring to remembrance.",
+      "type": "title"
+    },
+    {
+      "text": "Make haste, O God, to deliver me!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Make haste to help me, O Lord!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be ashamed and confounded",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who seek my life;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be turned back and confused",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Who desire my hurt.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them be turned back because of their shame,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Who say, “Aha, aha!”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Let all those who seek You rejoice and be glad in You;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And let those who love Your salvation say continually,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Let God be magnified!”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "But I am poor and needy;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Make haste to me, O God!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "You are my help and my deliverer;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, do not delay.",
+      "verse": 5,
+      "type": "poetry"
+    }
+  ]
+}

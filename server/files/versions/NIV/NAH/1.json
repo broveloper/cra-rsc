@@ -1,0 +1,291 @@
+{
+  "book_id": "NAH",
+  "book_name": "Nahum",
+  "chapter": 1,
+  "verses": 15,
+  "content": [
+    {
+      "text": "A prophecy concerning Nineveh. The book of the vision of Nahum the Elkoshite.",
+      "verse": 1
+    },
+    {
+      "text": "The Lord’s Anger Against Nineveh",
+      "type": "heading"
+    },
+    {
+      "text": "The Lord is a jealous and avenging God;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord takes vengeance and is filled with wrath.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord takes vengeance on his foes",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and vents his wrath against his enemies.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is slow to anger but great in power;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord will not leave the guilty unpunished.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "His way is in the whirlwind and the storm,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and clouds are the dust of his feet.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He rebukes the sea and dries it up;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "he makes all the rivers run dry.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Bashan and Carmel wither",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the blossoms of Lebanon fade.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The mountains quake before him",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hills melt away.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth trembles at his presence,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "the world and all who live in it.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can withstand his indignation?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can endure his fierce anger?",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "His wrath is poured out like fire;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the rocks are shattered before him.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord is good,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "a refuge in times of trouble.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He cares for those who trust in him,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    but with an overwhelming flood",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he will make an end of Nineveh;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "he will pursue his foes into the realm of darkness.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Whatever they plot against the Lord",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he will bring to an end;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "trouble will not come a second time.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They will be entangled among thorns",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and drunk from their wine;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be consumed like dry stubble.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "From you, Nineveh, has one come forth",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who plots evil against the Lord",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and devises wicked plans.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "This is what the Lord says:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“Although they have allies and are numerous,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they will be destroyed and pass away.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Although I have afflicted you, Judah,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "I will afflict you no more.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Now I will break their yoke from your neck",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and tear your shackles away.”",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has given a command concerning you, Nineveh:",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“You will have no descendants to bear your name.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destroy the images and idols",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "that are in the temple of your gods.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "I will prepare your grave,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are vile.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Look, there on the mountains,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the feet of one who brings good news,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who proclaims peace!",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Celebrate your festivals, Judah,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and fulfill your vows.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "No more will the wicked invade you;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "they will be completely destroyed.",
+      "verse": 15,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "book_id": "REV",
+  "book_name": "Revelation",
+  "chapter": 18,
+  "verses": 24,
+  "content": [
+    {
+      "text": "The Fall of Babylon",
+      "type": "heading"
+    },
+    {
+      "text": "After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And he called out with a mighty voice,",
+      "verse": 2
+    },
+    {
+      "text": "“Fallen, fallen is Babylon the great!",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "She has become a dwelling place for demons,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a haunt for every unclean spirit,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a haunt for every unclean bird,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a haunt for every unclean and detestable beast.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For all nations have drunk",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the wine of the passion of her sexual immorality,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the kings of the earth have committed immorality with her,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and the merchants of the earth have grown rich from the power of her luxurious living.”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I heard another voice from heaven saying,",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "“Come out of her, my people,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "lest you take part in her sins,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "lest you share in her plagues;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "for her sins are heaped high as heaven,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and God has remembered her iniquities.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Pay her back as she herself has paid back others,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and repay her double for her deeds;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "mix a double portion for her in the cup she mixed.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "As she glorified herself and lived in luxury,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "so give her a like measure of torment and mourning,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "since in her heart she says,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "‘I sit as a queen,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am no widow,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and mourning I shall never see.’",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For this reason her plagues will come in a single day,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "death and mourning and famine,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and she will be burned up with fire;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for mighty is the Lord God who has judged her.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And the kings of the earth, who committed sexual immorality and lived in luxury with her, will weep and wail over her when they see the smoke of her burning.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "They will stand far off, in fear of her torment, and say,",
+      "verse": 10
+    },
+    {
+      "text": "“Alas! Alas! You great city,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you mighty city, Babylon!",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For in a single hour your judgment has come.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And the merchants of the earth weep and mourn for her, since no one buys their cargo anymore,",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "cargo of gold, silver, jewels, pearls, fine linen, purple cloth, silk, scarlet cloth, all kinds of scented wood, all kinds of articles of ivory, all kinds of articles of costly wood, bronze, iron and marble,",
+      "verse": 12
+    },
+    {
+      "text": "cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cattle and sheep, horses and chariots, and slaves, that is, human souls.",
+      "verse": 13
+    },
+    {
+      "text": "“The fruit for which your soul longed",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "has gone from you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and all your delicacies and your splendors",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "are lost to you,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "never to be found again!”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "The merchants of these wares, who gained wealth from her, will stand far off, in fear of her torment, weeping and mourning aloud,",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“Alas, alas, for the great city",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "that was clothed in fine linen,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "in purple and scarlet,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "adorned with gold,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "with jewels, and with pearls!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "For in a single hour all this wealth has been laid waste.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And all shipmasters and seafaring men, sailors and all whose trade is on the sea, stood far off",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "and cried out as they saw the smoke of her burning,",
+      "verse": 18
+    },
+    {
+      "text": "“What city was like the great city?”",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And they threw dust on their heads as they wept and mourned, crying out,",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "“Alas, alas, for the great city",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "where all who had ships at sea",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "grew rich by her wealth!",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For in a single hour she has been laid waste.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Rejoice over her, O heaven,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and you saints and apostles and prophets,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "for God has given judgment for you against her!”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Then a mighty angel took up a stone like a great millstone and threw it into the sea, saying,",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "“So will Babylon the great city be thrown down with violence,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and will be found no more;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sound of harpists and musicians, of flute players and trumpeters,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "will be heard in you no more,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and a craftsman of any craft",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "will be found in you no more,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sound of the mill",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "will be heard in you no more,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and the light of a lamp",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "will shine in you no more,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and the voice of bridegroom and bride",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "will be heard in you no more,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "for your merchants were the great ones of the earth,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and all nations were deceived by your sorcery.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And in her was found the blood of prophets and of saints,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and of all who have been slain on earth.”",
+      "verse": 24,
+      "type": "poetry"
+    }
+  ]
+}

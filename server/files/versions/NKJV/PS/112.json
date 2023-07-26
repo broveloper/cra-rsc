@@ -1,0 +1,137 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 112,
+  "verses": 10,
+  "content": [
+    {
+      "text": "The Blessed State of the Righteous",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Blessed is the man who fears the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who delights greatly in His commandments.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "His descendants will be mighty on earth;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The generation of the upright will be blessed.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Wealth and riches will be in his house,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And his righteousness endures forever.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Unto the upright there arises light in the darkness;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He is gracious, and full of compassion, and righteous.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "A good man deals graciously and lends;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He will guide his affairs with discretion.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely he will never be shaken;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The righteous will be in everlasting remembrance.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not be afraid of evil tidings;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "His heart is steadfast, trusting in the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "His heart is established;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He will not be afraid,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Until he sees his desire upon his enemies.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He has dispersed abroad,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has given to the poor;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "His righteousness endures forever;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "His horn will be exalted with honor.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The wicked will see it and be grieved;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "He will gnash his teeth and melt away;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The desire of the wicked shall perish.",
+      "verse": 10,
+      "type": "poetry"
+    }
+  ]
+}

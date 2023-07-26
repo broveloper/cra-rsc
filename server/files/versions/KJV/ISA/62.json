@@ -1,0 +1,67 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 62,
+  "verses": 12,
+  "content": [
+    {
+      "text": "For Zion's sake will I not hold my peace, and for Jerusalem's sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.",
+      "verse": 1
+    },
+    {
+      "text": "And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the Lord shall name.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Thou shalt also be a crown of glory in the hand of the Lord, and a royal diadem in the hand of thy God.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Thou shalt no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzibah, and thy land Beulah: for the Lord delighteth in thee, and thy land shall be married.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For as a young man marrieth a virgin, so shall thy sons marry thee: and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "I have set watchmen upon thy walls, O Jerusalem, which shall never hold their peace day nor night: ye that make mention of the Lord, keep not silence,",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "But they that have gathered it shall eat it, and praise the Lord; and they that have brought it together shall drink it in the courts of my holiness.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, the Lord hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And they shall call them, The holy people, The redeemed of the Lord: and thou shalt be called, Sought out, A city not forsaken.",
+      "verse": 12,
+      "type": "newline"
+    }
+  ]
+}

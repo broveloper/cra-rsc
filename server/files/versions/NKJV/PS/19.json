@@ -1,0 +1,186 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 19,
+  "verses": 14,
+  "content": [
+    {
+      "text": "The Perfect Revelation of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "To the Chief Musician. A Psalm of David.",
+      "type": "title"
+    },
+    {
+      "text": "The heavens declare the glory of God;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the firmament shows His handiwork.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Day unto day utters speech,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And night unto night reveals knowledge.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "There is no speech nor language",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Where their voice is not heard.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Their line has gone out through all the earth,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And their words to the end of the world.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In them He has set a tabernacle for the sun,",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Which is like a bridegroom coming out of his chamber,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And rejoices like a strong man to run its race.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Its rising is from one end of heaven,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And its circuit to the other end;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And there is nothing hidden from its heat.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The law of the Lord is perfect, converting the soul;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The testimony of the Lord is sure, making wise the simple;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The statutes of the Lord are right, rejoicing the heart;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The commandment of the Lord is pure, enlightening the eyes;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is clean, enduring forever;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The judgments of the Lord are true and righteous altogether.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "More to be desired are they than gold,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Yea, than much fine gold;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Sweeter also than honey and the honeycomb.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Moreover by them Your servant is warned,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And in keeping them there is great reward.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can understand his errors?",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Cleanse me from secret faults.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep back Your servant also from presumptuous sins;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them not have dominion over me.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Then I shall be blameless,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And I shall be innocent of great transgression.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the words of my mouth and the meditation of my heart",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Be acceptable in Your sight,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, my strength and my Redeemer.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

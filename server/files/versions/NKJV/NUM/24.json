@@ -1,0 +1,332 @@
+{
+  "book_id": "NUM",
+  "book_name": "Numbers",
+  "chapter": 24,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Balaam Foretells the Happiness of Israel",
+      "type": "heading"
+    },
+    {
+      "text": "Now when Balaam saw that it pleased the Lord to bless Israel, he did not go as at other times, to seek to use sorcery, but he set his face toward the wilderness. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And Balaam raised his eyes, and saw Israel encamped according to their tribes; and the Spirit of God came upon him.",
+      "verse": 2
+    },
+    {
+      "text": "Then he took up his oracle and said:",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "“The utterance of Balaam the son of Beor,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "The utterance of the man whose eyes are opened,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The utterance of him who hears the words of God,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who sees the vision of the Almighty,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Who falls down, with eyes wide open:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“How lovely are your tents, O Jacob!",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your dwellings, O Israel!",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Like valleys that stretch out,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like gardens by the riverside,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like aloes planted by the Lord,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Like cedars beside the waters.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall pour water from his buckets,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And his seed shall be in many waters.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“His king shall be higher than Agag,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And his kingdom shall be exalted.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "“God brings him out of Egypt;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He has strength like a wild ox;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall consume the nations, his enemies;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall break their bones",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And pierce them with his arrows.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "‘He bows down, he lies down as a lion;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And as a lion, who shall rouse him?’",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“Blessed is he who blesses you,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And cursed is he who curses you.”",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Balak’s anger was aroused against Balaam, and he struck his hands together; and Balak said to Balaam, “I called you to curse my enemies, and look, you have bountifully blessed them these three times! ",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "Now therefore, flee to your place. I said I would greatly honor you, but in fact, the Lord has kept you back from honor.”",
+      "verse": 11
+    },
+    {
+      "text": "So Balaam said to Balak, “Did I not also speak to your messengers whom you sent to me, saying, ",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "‘If Balak were to give me his house full of silver and gold, I could not go beyond the word of the Lord, to do good or bad of my own will. What the Lord says, that I must speak’? ",
+      "verse": 13
+    },
+    {
+      "text": "And now, indeed, I am going to my people. Come, I will advise you what this people will do to your people in the latter days.”",
+      "verse": 14
+    },
+    {
+      "text": "Balaam’s Fourth Prophecy",
+      "type": "heading"
+    },
+    {
+      "text": "So he took up his oracle and said:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“The utterance of Balaam the son of Beor,",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the utterance of the man whose eyes are opened;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The utterance of him who hears the words of God,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And has the knowledge of the Most High,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Who sees the vision of the Almighty,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Who falls down, with eyes wide open:",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“I see Him, but not now;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I behold Him, but not near;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "A Star shall come out of Jacob;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "A Scepter shall rise out of Israel,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And batter the brow of Moab,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And destroy all the sons of tumult.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "“And Edom shall be a possession;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Seir also, his enemies, shall be a possession,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "While Israel does valiantly.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Out of Jacob One shall have dominion,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And destroy the remains of the city.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he looked on Amalek, and he took up his oracle and said:",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "“Amalek was first among the nations,",
+      "verse": 20,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But shall be last until he perishes.”",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he looked on the Kenites, and he took up his oracle and said:",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "“Firm is your dwelling place,",
+      "verse": 21,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And your nest is set in the rock;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Nevertheless Kain shall be burned.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "How long until Asshur carries you away captive?”",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Then he took up his oracle and said:",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "“Alas! Who shall live when God does this?",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "But ships shall come from the coasts of Cyprus,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And they shall afflict Asshur and afflict Eber,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And so shall Amalek, until he perishes.”",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "So Balaam rose and departed and returned to his place; Balak also went his way.",
+      "verse": 25,
+      "type": "newline"
+    }
+  ]
+}

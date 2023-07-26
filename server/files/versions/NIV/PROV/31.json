@@ -1,0 +1,331 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 31,
+  "verses": 31,
+  "content": [
+    {
+      "text": "Sayings of King Lemuel",
+      "type": "heading"
+    },
+    {
+      "text": "The sayings of King Lemuel—an inspired utterance his mother taught him.",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Listen, my son! Listen, son of my womb!",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Listen, my son, the answer to my prayers!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not spend your strength on women,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "your vigor on those who ruin kings.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "It is not for kings, Lemuel—",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "it is not for kings to drink wine,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "not for rulers to crave beer,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "lest they drink and forget what has been decreed,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and deprive all the oppressed of their rights.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Let beer be for those who are perishing,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "wine for those who are in anguish!",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let them drink and forget their poverty",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and remember their misery no more.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Speak up for those who cannot speak for themselves,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for the rights of all who are destitute.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Speak up and judge fairly;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "defend the rights of the poor and needy.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Epilogue: The Wife of Noble Character",
+      "type": "heading"
+    },
+    {
+      "text": "A wife of noble character who can find?",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "She is worth far more than rubies.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Her husband has full confidence in her",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and lacks nothing of value.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "She brings him good, not harm,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "all the days of her life.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "She selects wool and flax",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and works with eager hands.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "She is like the merchant ships,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "bringing her food from afar.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "She gets up while it is still night;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "she provides food for her family",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and portions for her female servants.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "She considers a field and buys it;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "out of her earnings she plants a vineyard.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "She sets about her work vigorously;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "her arms are strong for her tasks.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "She sees that her trading is profitable,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and her lamp does not go out at night.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "In her hand she holds the distaff",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and grasps the spindle with her fingers.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "She opens her arms to the poor",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and extends her hands to the needy.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "When it snows, she has no fear for her household;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "for all of them are clothed in scarlet.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "She makes coverings for her bed;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "she is clothed in fine linen and purple.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Her husband is respected at the city gate,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "where he takes his seat among the elders of the land.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "She makes linen garments and sells them,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "and supplies the merchants with sashes.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "She is clothed with strength and dignity;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "she can laugh at the days to come.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "She speaks with wisdom,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "and faithful instruction is on her tongue.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "She watches over the affairs of her household",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "and does not eat the bread of idleness.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "Her children arise and call her blessed;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "her husband also, and he praises her:",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "“Many women do noble things,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "but you surpass them all.”",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Charm is deceptive, and beauty is fleeting;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "but a woman who fears the Lord is to be praised.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Honor her for all that her hands have done,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "and let her works bring her praise at the city gate.",
+      "verse": 31,
+      "type": "poetry"
+    }
+  ]
+}

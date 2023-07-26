@@ -1,0 +1,242 @@
+{
+  "book_id": "GEN",
+  "book_name": "Genesis",
+  "chapter": 3,
+  "verses": 24,
+  "content": [
+    {
+      "text": "The Temptation and Fall of Man",
+      "type": "heading"
+    },
+    {
+      "text": "Now the serpent was more cunning than any beast of the field which the Lord God had made. And he said to the woman, “Has God indeed said, ‘You shall not eat of every tree of the garden’?”",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "And the woman said to the serpent, “We may eat the fruit of the trees of the garden; ",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "but of the fruit of the tree which is in the midst of the garden, God has said, ‘You shall not eat it, nor shall you touch it, lest you die.’ ”",
+      "verse": 3
+    },
+    {
+      "text": "Then the serpent said to the woman, “You will not surely die. ",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”",
+      "verse": 5
+    },
+    {
+      "text": "So when the woman saw that the tree was good for food, that it was pleasant to the eyes, and a tree desirable to make one wise, she took of its fruit and ate. She also gave to her husband with her, and he ate. ",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Then the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves coverings.",
+      "verse": 7
+    },
+    {
+      "text": "And they heard the sound of the Lord God walking in the garden in the cool of the day, and Adam and his wife hid themselves from the presence of the Lord God among the trees of the garden.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord God called to Adam and said to him, “Where are you?”",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "So he said, “I heard Your voice in the garden, and I was afraid because I was naked; and I hid myself.”",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "And He said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you that you should not eat?”",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "Then the man said, “The woman whom You gave to be with me, she gave me of the tree, and I ate.”",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "And the Lord God said to the woman, “What is this you have done?”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "The woman said, “The serpent deceived me, and I ate.”",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "So the Lord God said to the serpent:",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "“Because you have done this,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You are cursed more than all cattle,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And more than every beast of the field;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "On your belly you shall go,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall eat dust",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of your life.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will put enmity",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Between you and the woman,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And between your seed and her Seed;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall bruise your head,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall bruise His heel.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "To the woman He said:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“I will greatly multiply your sorrow and your conception;",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In pain you shall bring forth children;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Your desire shall be for your husband,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shall rule over you.”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Then to Adam He said, “Because you have heeded the voice of your wife, and have eaten from the tree of which I commanded you, saying, ‘You shall not eat of it’:",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "“Cursed is the ground for your sake;",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In toil you shall eat of it",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "All the days of your life.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Both thorns and thistles it shall bring forth for you,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "And you shall eat the herb of the field.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "In the sweat of your face you shall eat bread",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Till you return to the ground,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For out of it you were taken;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "For dust you are,",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And to dust you shall return.”",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And Adam called his wife’s name Eve, because she was the mother of all living.",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Also for Adam and his wife the Lord God made tunics of skin, and clothed them.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "Then the Lord God said, “Behold, the man has become like one of Us, to know good and evil. And now, lest he put out his hand and take also of the tree of life, and eat, and live forever”— ",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "therefore the Lord God sent him out of the garden of Eden to till the ground from which he was taken. ",
+      "verse": 23
+    },
+    {
+      "text": "So He drove out the man; and He placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.",
+      "verse": 24
+    }
+  ]
+}

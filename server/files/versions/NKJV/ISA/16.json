@@ -1,0 +1,271 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 16,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Moab Destroyed",
+      "type": "heading"
+    },
+    {
+      "text": "Send the lamb to the ruler of the land,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From Sela to the wilderness,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "To the mount of the daughter of Zion.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "For it shall be as a wandering bird thrown out of the nest;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "So shall be the daughters of Moab at the fords of the Arnon.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "“Take counsel, execute judgment;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Make your shadow like the night in the middle of the day;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Hide the outcasts,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not betray him who escapes.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Let My outcasts dwell with you, O Moab;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Be a shelter to them from the face of the spoiler.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "For the extortioner is at an end,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Devastation ceases,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The oppressors are consumed out of the land.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "In mercy the throne will be established;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And One will sit on it in truth, in the tabernacle of David,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Judging and seeking justice and hastening righteousness.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "We have heard of the pride of Moab—",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "He is very proud—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Of his haughtiness and his pride and his wrath;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "But his lies shall not be so.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore Moab shall wail for Moab;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Everyone shall wail.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the foundations of Kir Hareseth you shall mourn;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely they are stricken.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For the fields of Heshbon languish,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the vine of Sibmah;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The lords of the nations have broken down its choice plants,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Which have reached to Jazer",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And wandered through the wilderness.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Her branches are stretched out,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They are gone over the sea.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will bewail the vine of Sibmah,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "With the weeping of Jazer;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "I will drench you with my tears,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "O Heshbon and Elealeh;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "For battle cries have fallen",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Over your summer fruits and your harvest.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Gladness is taken away,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And joy from the plentiful field;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "In the vineyards there will be no singing,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor will there be shouting;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "No treaders will tread out wine in the presses;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I have made their shouting cease.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore my heart shall resound like a harp for Moab,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And my inner being for Kir Heres.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And it shall come to pass,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When it is seen that Moab is weary on the high place,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "That he will come to his sanctuary to pray;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "But he will not prevail.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the word which the Lord has spoken concerning Moab since that time. ",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "But now the Lord has spoken, saying, “Within three years, as the years of a hired man, the glory of Moab will be despised with all that great multitude, and the remnant will be very small and feeble.”",
+      "verse": 14
+    }
+  ]
+}

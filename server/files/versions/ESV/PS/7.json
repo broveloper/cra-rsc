@@ -1,0 +1,216 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 7,
+  "verses": 17,
+  "content": [
+    {
+      "text": "In You Do I Take Refuge",
+      "type": "heading"
+    },
+    {
+      "text": "A Shiggaion of David, which he sang to the Lord concerning the words of Cush, a Benjaminite.",
+      "type": "title"
+    },
+    {
+      "text": "O Lord my God, in you do I take refuge;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "save me from all my pursuers and deliver me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "lest like a lion they tear my soul apart,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "rending it in pieces, with none to deliver.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord my God, if I have done this,",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "if there is wrong in my hands,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "if I have repaid my friend with evil",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "or plundered my enemy without cause,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "let the enemy pursue my soul and overtake it,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and let him trample my life to the ground",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and lay my glory in the dust. Selah",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Arise, O Lord, in your anger;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "lift yourself up against the fury of my enemies;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "awake for me; you have appointed a judgment.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Let the assembly of the peoples be gathered about you;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "over it return on high.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord judges the peoples;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "judge me, O Lord, according to my righteousness",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and according to the integrity that is in me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Oh, let the evil of the wicked come to an end,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and may you establish the righteous—",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "you who test the minds and hearts,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "O righteous God!",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "My shield is with God,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "who saves the upright in heart.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "God is a righteous judge,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and a God who feels indignation every day.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If a man does not repent, God will whet his sword;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he has bent and readied his bow;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "he has prepared for him his deadly weapons,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "making his arrows fiery shafts.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, the wicked man conceives evil",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and is pregnant with mischief",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and gives birth to lies.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He makes a pit, digging it out,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and falls into the hole that he has made.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "His mischief returns upon his own head,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and on his own skull his violence descends.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "I will give to the Lord the thanks due to his righteousness,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and I will sing praise to the name of the Lord, the Most High.",
+      "verse": 17,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "book_id": "JOB",
+  "book_name": "Job",
+  "chapter": 25,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Bildad",
+      "type": "heading"
+    },
+    {
+      "text": "Then Bildad the Shuhite replied:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“Dominion and awe belong to God;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he establishes order in the heights of heaven.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Can his forces be numbered?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "On whom does his light not rise?",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "How then can a mortal be righteous before God?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "How can one born of woman be pure?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "If even the moon is not bright",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and the stars are not pure in his eyes,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "how much less a mortal, who is but a maggot—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "a human being, who is only a worm!”",
+      "verse": 6,
+      "type": "poetry"
+    }
+  ]
+}

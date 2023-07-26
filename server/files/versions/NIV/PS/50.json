@@ -1,0 +1,281 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 50,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Psalm 50",
+      "type": "heading"
+    },
+    {
+      "text": "A psalm of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "The Mighty One, God, the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "speaks and summons the earth",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "from the rising of the sun to where it sets.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "From Zion, perfect in beauty,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "God shines forth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Our God comes",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and will not be silent;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "a fire devours before him,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and around him a tempest rages.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He summons the heavens above,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and the earth, that he may judge his people:",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Gather to me this consecrated people,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "who made a covenant with me by sacrifice.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "And the heavens proclaim his righteousness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "for he is a God of justice.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Listen, my people, and I will speak;",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will testify against you, Israel:",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I am God, your God.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I bring no charges against you concerning your sacrifices",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "or concerning your burnt offerings, which are ever before me.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I have no need of a bull from your stall",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "or of goats from your pens,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "for every animal of the forest is mine,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the cattle on a thousand hills.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "I know every bird in the mountains,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and the insects in the fields are mine.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If I were hungry I would not tell you,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "for the world is mine, and all that is in it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Do I eat the flesh of bulls",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "or drink the blood of goats?",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "“Sacrifice thank offerings to God,",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "fulfill your vows to the Most High,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and call on me in the day of trouble;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I will deliver you, and you will honor me.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But to the wicked person, God says:",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "“What right have you to recite my laws",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or take my covenant on your lips?",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You hate my instruction",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and cast my words behind you.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "When you see a thief, you join with him;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "you throw in your lot with adulterers.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "You use your mouth for evil",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and harness your tongue to deceit.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "You sit and testify against your brother",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and slander your own mother’s son.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "When you did these things and I kept silent,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "you thought I was exactly like you.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "But I now arraign you",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "and set my accusations before you.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“Consider this, you who forget God,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "or I will tear you to pieces, with no one to rescue you:",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who sacrifice thank offerings honor me,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and to the blameless I will show my salvation.”",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

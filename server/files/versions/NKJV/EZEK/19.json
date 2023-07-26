@@ -1,0 +1,246 @@
+{
+  "book_id": "EZEK",
+  "book_name": "Ezekiel",
+  "chapter": 19,
+  "verses": 14,
+  "content": [
+    {
+      "text": "Israel Degraded",
+      "type": "heading"
+    },
+    {
+      "text": "“Moreover take up a lamentation for the princes of Israel, ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "and say:",
+      "verse": 2
+    },
+    {
+      "text": "‘What is your mother? A lioness:",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "She lay down among the lions;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Among the young lions she nourished her cubs.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "She brought up one of her cubs,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And he became a young lion;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "He learned to catch prey,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And he devoured men.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "The nations also heard of him;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He was trapped in their pit,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And they brought him with chains to the land of Egypt.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "‘When she saw that she waited, that her hope was lost,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "She took another of her cubs and made him a young lion.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He roved among the lions,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And became a young lion;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He learned to catch prey;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He devoured men.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He knew their desolate places,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "And laid waste their cities;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The land with its fullness was desolated",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "By the noise of his roaring.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Then the nations set against him from the provinces on every side,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "And spread their net over him;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He was trapped in their pit.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They put him in a cage with chains,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "And brought him to the king of Babylon;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "They brought him in nets,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "That his voice should no longer be heard on the mountains of Israel.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "‘Your mother was like a vine in your bloodline,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Planted by the waters,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Fruitful and full of branches",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of many waters.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "She had strong branches for scepters of rulers.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "She towered in stature above the thick branches,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "And was seen in her height amid the dense foliage.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But she was plucked up in fury,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "She was cast down to the ground,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And the east wind dried her fruit.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Her strong branches were broken and withered;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The fire consumed them.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And now she is planted in the wilderness,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In a dry and thirsty land.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Fire has come out from a rod of her branches",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And devoured her fruit,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So that she has no strong branch—a scepter for ruling.’ ”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is a lamentation, and has become a lamentation.",
+      "verse": 14,
+      "type": "newline"
+    }
+  ]
+}

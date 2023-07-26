@@ -1,0 +1,176 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 56,
+  "verses": 13,
+  "content": [
+    {
+      "text": "Psalm 56",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. To the tune of “A Dove on Distant Oaks.” Of David. A miktam. When the Philistines had seized him in Gath.",
+      "type": "title"
+    },
+    {
+      "text": "Be merciful to me, my God,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "for my enemies are in hot pursuit;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "all day long they press their attack.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "My adversaries pursue me all day long;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "in their pride many are attacking me.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "When I am afraid, I put my trust in you.",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "    In God, whose word I praise—",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "in God I trust and am not afraid.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "What can mere mortals do to me?",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "All day long they twist my words;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "all their schemes are for my ruin.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They conspire, they lurk,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "they watch my steps,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "hoping to take my life.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Because of their wickedness do not let them escape;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "in your anger, God, bring the nations down.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Record my misery;",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "list my tears on your scroll—",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "are they not in your record?",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Then my enemies will turn back",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "when I call for help.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "By this I will know that God is for me.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "In God, whose word I praise,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in the Lord, whose word I praise—",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "in God I trust and am not afraid.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "What can man do to me?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I am under vows to you, my God;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will present my thank offerings to you.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "For you have delivered me from death",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and my feet from stumbling,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "that I may walk before God",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "in the light of life.",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 55,
+  "verses": 13,
+  "content": [
+    {
+      "text": "The Compassion of the Lord",
+      "type": "heading"
+    },
+    {
+      "text": "“Come, everyone who thirsts,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "come to the waters;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and he who has no money,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "come, buy and eat!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Come, buy wine and milk",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "without money and without price.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you spend your money for that which is not bread,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and your labor for that which does not satisfy?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Listen diligently to me, and eat what is good,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and delight yourselves in rich food.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Incline your ear, and come to me;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "hear, that your soul may live;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will make with you an everlasting covenant,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "my steadfast, sure love for David.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, I made him a witness to the peoples,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "a leader and commander for the peoples.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, you shall call a nation that you do not know,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and a nation that did not know you shall run to you,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "because of the Lord your God, and of the Holy One of Israel,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "for he has glorified you.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "“Seek the Lord while he may be found;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "call upon him while he is near;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "let the wicked forsake his way,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and the unrighteous man his thoughts;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "let him return to the Lord, that he may have compassion on him,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and to our God, for he will abundantly pardon.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "For my thoughts are not your thoughts,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "neither are your ways my ways, declares the Lord.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "For as the heavens are higher than the earth,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "so are my ways higher than your ways",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and my thoughts than your thoughts.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“For as the rain and the snow come down from heaven",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and do not return there but water the earth,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "making it bring forth and sprout,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "giving seed to the sower and bread to the eater,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "so shall my word be that goes out from my mouth;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "it shall not return to me empty,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "but it shall accomplish that which I purpose,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall succeed in the thing for which I sent it.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“For you shall go out in joy",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and be led forth in peace;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "the mountains and the hills before you",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "shall break forth into singing,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the trees of the field shall clap their hands.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Instead of the thorn shall come up the cypress;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "instead of the brier shall come up the myrtle;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "and it shall make a name for the Lord,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "an everlasting sign that shall not be cut off.”",
+      "verse": 13,
+      "type": "poetry"
+    }
+  ]
+}

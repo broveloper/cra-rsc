@@ -1,0 +1,257 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 17,
+  "verses": 14,
+  "content": [
+    {
+      "text": "A Prophecy Against Damascus",
+      "type": "heading"
+    },
+    {
+      "text": "A prophecy against Damascus:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "“See, Damascus will no longer be a city",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "but will become a heap of ruins.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The cities of Aroer will be deserted",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "and left to flocks, which will lie down,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "with no one to make them afraid.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The fortified city will disappear from Ephraim,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and royal power from Damascus;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the remnant of Aram will be",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "like the glory of the Israelites,”",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord Almighty.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“In that day the glory of Jacob will fade;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the fat of his body will waste away.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be as when reapers harvest the standing grain,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "gathering the grain in their arms—",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "as when someone gleans heads of grain",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in the Valley of Rephaim.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet some gleanings will remain,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "as when an olive tree is beaten,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "leaving two or three olives on the topmost branches,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "four or five on the fruitful boughs,”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord, the God of Israel.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day people will look to their Maker",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and turn their eyes to the Holy One of Israel.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They will not look to the altars,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the work of their hands,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and they will have no regard for the Asherah poles",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and the incense altars their fingers have made.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day their strong cities, which they left because of the Israelites, will be like places abandoned to thickets and undergrowth. And all will be desolation.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "You have forgotten God your Savior;",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you have not remembered the Rock, your fortress.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore, though you set out the finest plants",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and plant imported vines,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "though on the day you set them out, you make them grow,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and on the morning when you plant them, you bring them to bud,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "yet the harvest will be as nothing",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "in the day of disease and incurable pain.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to the many nations that rage—",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they rage like the raging sea!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Woe to the peoples who roar—",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "they roar like the roaring of great waters!",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Although the peoples roar like the roar of surging waters,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "when he rebukes them they flee far away,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "driven before the wind like chaff on the hills,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "like tumbleweed before a gale.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "In the evening, sudden terror!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Before the morning, they are gone!",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "This is the portion of those who loot us,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "the lot of those who plunder us.",
+      "verse": 14,
+      "type": "poetry"
+    }
+  ]
+}

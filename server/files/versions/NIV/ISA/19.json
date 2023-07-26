@@ -1,0 +1,326 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 19,
+  "verses": 25,
+  "content": [
+    {
+      "text": "A Prophecy Against Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "A prophecy against Egypt:",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "See, the Lord rides on a swift cloud",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and is coming to Egypt.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "The idols of Egypt tremble before him,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "and the hearts of the Egyptians melt with fear.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will stir up Egyptian against Egyptian—",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "brother will fight against brother,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "neighbor against neighbor,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "city against city,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "kingdom against kingdom.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Egyptians will lose heart,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and I will bring their plans to nothing;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they will consult the idols and the spirits of the dead,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "the mediums and the spiritists.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "I will hand the Egyptians over",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "to the power of a cruel master,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and a fierce king will rule over them,”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "declares the Lord, the Lord Almighty.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters of the river will dry up,",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and the riverbed will be parched and dry.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The canals will stink;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "the streams of Egypt will dwindle and dry up.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The reeds and rushes will wither,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "    also the plants along the Nile,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "at the mouth of the river.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Every sown field along the Nile",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "will become parched, will blow away and be no more.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The fishermen will groan and lament,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "all who cast hooks into the Nile;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "those who throw nets on the water",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "will pine away.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Those who work with combed flax will despair,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "the weavers of fine linen will lose hope.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The workers in cloth will be dejected,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and all the wage earners will be sick at heart.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The officials of Zoan are nothing but fools;",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the wise counselors of Pharaoh give senseless advice.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "How can you say to Pharaoh,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "“I am one of the wise men,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "a disciple of the ancient kings”?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Where are your wise men now?",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Let them show you and make known",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "what the Lord Almighty",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "has planned against Egypt.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The officials of Zoan have become fools,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the leaders of Memphis are deceived;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "the cornerstones of her peoples",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "have led Egypt astray.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord has poured into them",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "a spirit of dizziness;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "they make Egypt stagger in all that she does,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "as a drunkard staggers around in his vomit.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "There is nothing Egypt can do—",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "head or tail, palm branch or reed.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day the Egyptians will become weaklings. They will shudder with fear at the uplifted hand that the Lord Almighty raises against them.",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "And the land of Judah will bring terror to the Egyptians; everyone to whom Judah is mentioned will be terrified, because of what the Lord Almighty is planning against them.",
+      "verse": 17
+    },
+    {
+      "text": "In that day five cities in Egypt will speak the language of Canaan and swear allegiance to the Lord Almighty. One of them will be called the City of the Sun.",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "In that day there will be an altar to the Lord in the heart of Egypt, and a monument to the Lord at its border.",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "It will be a sign and witness to the Lord Almighty in the land of Egypt. When they cry out to the Lord because of their oppressors, he will send them a savior and defender, and he will rescue them.",
+      "verse": 20
+    },
+    {
+      "text": "So the Lord will make himself known to the Egyptians, and in that day they will acknowledge the Lord. They will worship with sacrifices and grain offerings; they will make vows to the Lord and keep them.",
+      "verse": 21
+    },
+    {
+      "text": "The Lord will strike Egypt with a plague; he will strike them and heal them. They will turn to the Lord, and he will respond to their pleas and heal them.",
+      "verse": 22
+    },
+    {
+      "text": "In that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt and the Egyptians to Assyria. The Egyptians and Assyrians will worship together.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "In that day Israel will be the third, along with Egypt and Assyria, a blessing on the earth.",
+      "verse": 24
+    },
+    {
+      "text": "The Lord Almighty will bless them, saying, “Blessed be Egypt my people, Assyria my handiwork, and Israel my inheritance.”",
+      "verse": 25
+    }
+  ]
+}

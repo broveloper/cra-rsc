@@ -1,0 +1,37 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 128,
+  "verses": 6,
+  "content": [
+    {
+      "text": "Blessed is every one that feareth the Lord; that walketh in his ways.",
+      "verse": 1
+    },
+    {
+      "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee.",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Behold, that thus shall the man be blessed that feareth the Lord.",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Yea, thou shalt see thy children's children, and peace upon Israel.",
+      "verse": 6,
+      "type": "newline"
+    }
+  ]
+}

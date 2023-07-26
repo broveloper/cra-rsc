@@ -1,0 +1,546 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 65,
+  "verses": 25,
+  "content": [
+    {
+      "text": "Judgment and Salvation",
+      "type": "heading"
+    },
+    {
+      "text": "I was ready to be sought by those who did not ask for me;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I was ready to be found by those who did not seek me.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I said, “Here I am, here I am,”",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "to a nation that was not called by my name.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "I spread out my hands all the day",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "to a rebellious people,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "who walk in a way that is not good,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "following their own devices;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "a people who provoke me",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "to my face continually,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "sacrificing in gardens",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "and making offerings on bricks;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "who sit in tombs,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and spend the night in secret places;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who eat pig's flesh,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "and broth of tainted meat is in their vessels;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "who say, “Keep to yourself,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "do not come near me, for I am too holy for you.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "These are a smoke in my nostrils,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "a fire that burns all the day.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, it is written before me:",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“I will not keep silent, but I will repay;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "I will indeed repay into their lap",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "    both your iniquities and your fathers' iniquities together,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "because they made offerings on the mountains",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and insulted me on the hills,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "I will measure into their lap",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "payment for their former deeds.”",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“As the new wine is found in the cluster,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and they say, ‘Do not destroy it,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for there is a blessing in it,’",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "so I will do for my servants' sake,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and not destroy them all.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "I will bring forth offspring from Jacob,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and from Judah possessors of my mountains;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "my chosen shall possess it,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and my servants shall dwell there.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Sharon shall become a pasture for flocks,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Valley of Achor a place for herds to lie down,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "for my people who have sought me.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "But you who forsake the Lord,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who forget my holy mountain,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "who set a table for Fortune",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and fill cups of mixed wine for Destiny,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "I will destine you to the sword,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and all of you shall bow down to the slaughter,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "because, when I called, you did not answer;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "when I spoke, you did not listen,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "but you did what was evil in my eyes",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "and chose what I did not delight in.”",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Lord God:",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Behold, my servants shall eat,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but you shall be hungry;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, my servants shall drink,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but you shall be thirsty;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, my servants shall rejoice,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "but you shall be put to shame;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "behold, my servants shall sing for gladness of heart,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "but you shall cry out for pain of heart",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall wail for breaking of spirit.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall leave your name to my chosen for a curse,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "and the Lord God will put you to death,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "but his servants he will call by another name,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "so that he who blesses himself in the land",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "shall bless himself by the God of truth,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and he who takes an oath in the land",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "shall swear by the God of truth;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "because the former troubles are forgotten",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "and are hidden from my eyes.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "New Heavens and a New Earth",
+      "type": "heading"
+    },
+    {
+      "text": "“For behold, I create new heavens",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and a new earth,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and the former things shall not be remembered",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "or come into mind.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But be glad and rejoice forever",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "in that which I create;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "for behold, I create Jerusalem to be a joy,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "and her people to be a gladness.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "I will rejoice in Jerusalem",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and be glad in my people;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "no more shall be heard in it the sound of weeping",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "and the cry of distress.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "No more shall there be in it",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "an infant who lives but a few days,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "or an old man who does not fill out his days,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "for the young man shall die a hundred years old,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "and the sinner a hundred years old shall be accursed.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall build houses and inhabit them;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall plant vineyards and eat their fruit.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not build and another inhabit;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "they shall not plant and another eat;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "for like the days of a tree shall the days of my people be,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "and my chosen shall long enjoy the work of their hands.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not labor in vain",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "or bear children for calamity,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "for they shall be the offspring of the blessed of the Lord,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "and their descendants with them.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Before they call I will answer;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "while they are yet speaking I will hear.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "The wolf and the lamb shall graze together;",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "the lion shall eat straw like the ox,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "and dust shall be the serpent's food.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "They shall not hurt or destroy",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "in all my holy mountain,”",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "says the Lord.",
+      "verse": 25,
+      "type": "poetry"
+    }
+  ]
+}

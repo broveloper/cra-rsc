@@ -1,0 +1,256 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 74,
+  "verses": 23,
+  "content": [
+    {
+      "text": "Psalm 74",
+      "type": "heading"
+    },
+    {
+      "text": "A maskil of Asaph.",
+      "type": "title"
+    },
+    {
+      "text": "O God, why have you rejected us forever?",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Why does your anger smolder against the sheep of your pasture?",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember the nation you purchased long ago,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "the people of your inheritance, whom you redeemed—",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Mount Zion, where you dwelt.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn your steps toward these everlasting ruins,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "all this destruction the enemy has brought on the sanctuary.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Your foes roared in the place where you met with us;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "they set up their standards as signs.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They behaved like men wielding axes",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "to cut through a thicket of trees.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "They smashed all the carved paneling",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "with their axes and hatchets.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They burned your sanctuary to the ground;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "they defiled the dwelling place of your Name.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They said in their hearts, “We will crush them completely!”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "They burned every place where God was worshiped in the land.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "We are given no signs from God;",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "no prophets are left,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and none of us knows how long this will be.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "How long will the enemy mock you, God?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Will the foe revile your name forever?",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Why do you hold back your hand, your right hand?",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Take it from the folds of your garment and destroy them!",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "But God is my King from long ago;",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "he brings salvation on the earth.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "It was you who split open the sea by your power;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "you broke the heads of the monster in the waters.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "It was you who crushed the heads of Leviathan",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "and gave it as food to the creatures of the desert.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "It was you who opened up springs and streams;",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "you dried up the ever-flowing rivers.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "The day is yours, and yours also the night;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "you established the sun and moon.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "It was you who set all the boundaries of the earth;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you made both summer and winter.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember how the enemy has mocked you, Lord,",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "how foolish people have reviled your name.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not hand over the life of your dove to wild beasts;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "do not forget the lives of your afflicted people forever.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Have regard for your covenant,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "because haunts of violence fill the dark places of the land.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not let the oppressed retreat in disgrace;",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "may the poor and needy praise your name.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Rise up, O God, and defend your cause;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "remember how fools mock you all day long.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not ignore the clamor of your adversaries,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "the uproar of your enemies, which rises continually.",
+      "verse": 23,
+      "type": "poetry"
+    }
+  ]
+}

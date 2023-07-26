@@ -1,0 +1,242 @@
+{
+  "book_id": "NEH",
+  "book_name": "Nehemiah",
+  "chapter": 12,
+  "verses": 47,
+  "content": [
+    {
+      "text": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+      "verse": 1
+    },
+    {
+      "text": "Amariah, Malluch, Hattush,",
+      "verse": 2,
+      "type": "newline"
+    },
+    {
+      "text": "Shechaniah, Rehum, Meremoth,",
+      "verse": 3,
+      "type": "newline"
+    },
+    {
+      "text": "Iddo, Ginnetho, Abijah,",
+      "verse": 4,
+      "type": "newline"
+    },
+    {
+      "text": "Miamin, Maadiah, Bilgah,",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "Shemaiah, and Joiarib, Jedaiah,",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua.",
+      "verse": 7,
+      "type": "newline"
+    },
+    {
+      "text": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "Also Bakbukiah and Unni, their brethren, were over against them in the watches.",
+      "verse": 9,
+      "type": "newline"
+    },
+    {
+      "text": "And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,",
+      "verse": 10,
+      "type": "newline"
+    },
+    {
+      "text": "And Joiada begat Jonathan, and Jonathan begat Jaddua.",
+      "verse": 11,
+      "type": "newline"
+    },
+    {
+      "text": "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "Of Ezra, Meshullam; of Amariah, Jehohanan;",
+      "verse": 13,
+      "type": "newline"
+    },
+    {
+      "text": "Of Melicu, Jonathan; of Shebaniah, Joseph;",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Of Harim, Adna; of Meraioth, Helkai;",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "Of Iddo, Zechariah; of Ginnethon, Meshullam;",
+      "verse": 16,
+      "type": "newline"
+    },
+    {
+      "text": "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai:",
+      "verse": 17,
+      "type": "newline"
+    },
+    {
+      "text": "Of Bilgah, Shammua; of Shemaiah, Jehonathan;",
+      "verse": 18,
+      "type": "newline"
+    },
+    {
+      "text": "And of Joiarib, Mattenai; of Jedaiah, Uzzi;",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "Of Sallai, Kallai; of Amok, Eber;",
+      "verse": 20,
+      "type": "newline"
+    },
+    {
+      "text": "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian.",
+      "verse": 22,
+      "type": "newline"
+    },
+    {
+      "text": "The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
+      "verse": 23,
+      "type": "newline"
+    },
+    {
+      "text": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.",
+      "verse": 25,
+      "type": "newline"
+    },
+    {
+      "text": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.",
+      "verse": 26,
+      "type": "newline"
+    },
+    {
+      "text": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.",
+      "verse": 27,
+      "type": "newline"
+    },
+    {
+      "text": "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;",
+      "verse": 28,
+      "type": "newline"
+    },
+    {
+      "text": "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.",
+      "verse": 29,
+      "type": "newline"
+    },
+    {
+      "text": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:",
+      "verse": 31,
+      "type": "newline"
+    },
+    {
+      "text": "And after them went Hoshaiah, and half of the princes of Judah,",
+      "verse": 32,
+      "type": "newline"
+    },
+    {
+      "text": "And Azariah, Ezra, and Meshullam,",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "Judah, and Benjamin, and Shemaiah, and Jeremiah,",
+      "verse": 34,
+      "type": "newline"
+    },
+    {
+      "text": "And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:",
+      "verse": 35,
+      "type": "newline"
+    },
+    {
+      "text": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.",
+      "verse": 37,
+      "type": "newline"
+    },
+    {
+      "text": "And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;",
+      "verse": 38,
+      "type": "newline"
+    },
+    {
+      "text": "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.",
+      "verse": 39,
+      "type": "newline"
+    },
+    {
+      "text": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:",
+      "verse": 40,
+      "type": "newline"
+    },
+    {
+      "text": "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;",
+      "verse": 41,
+      "type": "newline"
+    },
+    {
+      "text": "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.",
+      "verse": 42,
+      "type": "newline"
+    },
+    {
+      "text": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
+      "verse": 43,
+      "type": "newline"
+    },
+    {
+      "text": "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
+      "verse": 44,
+      "type": "newline"
+    },
+    {
+      "text": "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.",
+      "verse": 45,
+      "type": "newline"
+    },
+    {
+      "text": "For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God.",
+      "verse": 46,
+      "type": "newline"
+    },
+    {
+      "text": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron.",
+      "verse": 47,
+      "type": "newline"
+    }
+  ]
+}

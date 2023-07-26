@@ -1,0 +1,117 @@
+{
+  "book_id": "1TIM",
+  "book_name": "1 Timothy",
+  "chapter": 3,
+  "verses": 16,
+  "content": [
+    {
+      "text": "Qualifications of Overseers",
+      "type": "heading"
+    },
+    {
+      "text": "This is a faithful saying: If a man desires the position of a bishop, he desires a good work. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "A bishop then must be blameless, the husband of one wife, temperate, sober-minded, of good behavior, hospitable, able to teach; ",
+      "verse": 2
+    },
+    {
+      "text": "not given to wine, not violent, not greedy for money, but gentle, not quarrelsome, not covetous; ",
+      "verse": 3
+    },
+    {
+      "text": "one who rules his own house well, having his children in submission with all reverence ",
+      "verse": 4
+    },
+    {
+      "text": "(for if a man does not know how to rule his own house, how will he take care of the church of God?); ",
+      "verse": 5
+    },
+    {
+      "text": "not a novice, lest being puffed up with pride he fall into the same condemnation as the devil. ",
+      "verse": 6
+    },
+    {
+      "text": "Moreover he must have a good testimony among those who are outside, lest he fall into reproach and the snare of the devil.",
+      "verse": 7
+    },
+    {
+      "text": "Qualifications of Deacons",
+      "type": "heading"
+    },
+    {
+      "text": "Likewise deacons must be reverent, not double-tongued, not given to much wine, not greedy for money, ",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "holding the mystery of the faith with a pure conscience. ",
+      "verse": 9
+    },
+    {
+      "text": "But let these also first be tested; then let them serve as deacons, being found blameless. ",
+      "verse": 10
+    },
+    {
+      "text": "Likewise, their wives must be reverent, not slanderers, temperate, faithful in all things. ",
+      "verse": 11
+    },
+    {
+      "text": "Let deacons be the husbands of one wife, ruling their children and their own houses well. ",
+      "verse": 12
+    },
+    {
+      "text": "For those who have served well as deacons obtain for themselves a good standing and great boldness in the faith which is in Christ Jesus.",
+      "verse": 13
+    },
+    {
+      "text": "The Great Mystery",
+      "type": "heading"
+    },
+    {
+      "text": "These things I write to you, though I hope to come to you shortly; ",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "but if I am delayed, I write so that you may know how you ought to conduct yourself in the house of God, which is the church of the living God, the pillar and ground of the truth. ",
+      "verse": 15
+    },
+    {
+      "text": "And without controversy great is the mystery of godliness:",
+      "verse": 16
+    },
+    {
+      "text": "God was manifested in the flesh,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Justified in the Spirit,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Seen by angels,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Preached among the Gentiles,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Believed on in the world,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Received up in glory.",
+      "verse": 16,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "book_id": "JER",
+  "book_name": "Jeremiah",
+  "chapter": 17,
+  "verses": 27,
+  "content": [
+    {
+      "text": "The Sin of Judah",
+      "type": "heading"
+    },
+    {
+      "text": "“The sin of Judah is written with a pen of iron; with a point of diamond it is engraved on the tablet of their heart, and on the horns of their altars,",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "while their children remember their altars and their Asherim, beside every green tree and on the high hills,",
+      "verse": 2
+    },
+    {
+      "text": "on the mountains in the open country. Your wealth and all your treasures I will give for spoil as the price of your high places for sin throughout all your territory.",
+      "verse": 3
+    },
+    {
+      "text": "You shall loosen your hand from your heritage that I gave to you, and I will make you serve your enemies in a land that you do not know, for in my anger a fire is kindled that shall burn forever.”",
+      "verse": 4
+    },
+    {
+      "text": "Thus says the Lord:",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Cursed is the man who trusts in man",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and makes flesh his strength,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "whose heart turns away from the Lord.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He is like a shrub in the desert,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and shall not see any good come.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall dwell in the parched places of the wilderness,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "in an uninhabited salt land.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "“Blessed is the man who trusts in the Lord,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "whose trust is the Lord.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "He is like a tree planted by water,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "that sends out its roots by the stream,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and does not fear when heat comes,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for its leaves remain green,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "and is not anxious in the year of drought,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "for it does not cease to bear fruit.”",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The heart is deceitful above all things,",
+      "verse": 9,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and desperately sick;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "who can understand it?",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "“I the Lord search the heart",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and test the mind,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "to give every man according to his ways,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "according to the fruit of his deeds.”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Like the partridge that gathers a brood that she did not hatch,",
+      "verse": 11,
+      "type": "poetry newline"
+    },
+    {
+      "text": "so is he who gets riches but not by justice;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "in the midst of his days they will leave him,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and at his end he will be a fool.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "A glorious throne set on high from the beginning",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "is the place of our sanctuary.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "O Lord, the hope of Israel,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "all who forsake you shall be put to shame;",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "those who turn away from you shall be written in the earth,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "for they have forsaken the Lord, the fountain of living water.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Jeremiah Prays for Deliverance",
+      "type": "heading"
+    },
+    {
+      "text": "Heal me, O Lord, and I shall be healed;",
+      "verse": 14,
+      "type": "poetry newline"
+    },
+    {
+      "text": "save me, and I shall be saved,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "for you are my praise.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, they say to me,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Where is the word of the Lord?",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "Let it come!”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "I have not run away from being your shepherd,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "nor have I desired the day of sickness.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "You know what came out of my lips;",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "it was before your face.",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Be not a terror to me;",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "you are my refuge in the day of disaster.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Let those be put to shame who persecute me,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "but let me not be put to shame;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "let them be dismayed,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "but let me not be dismayed;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "bring upon them the day of disaster;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "destroy them with double destruction!",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Keep the Sabbath Holy",
+      "type": "heading"
+    },
+    {
+      "text": "Thus said the Lord to me: “Go and stand in the People's Gate, by which the kings of Judah enter and by which they go out, and in all the gates of Jerusalem,",
+      "verse": 19,
+      "type": "newline"
+    },
+    {
+      "text": "and say: ‘Hear the word of the Lord, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, who enter by these gates.",
+      "verse": 20
+    },
+    {
+      "text": "Thus says the Lord: Take care for the sake of your lives, and do not bear a burden on the Sabbath day or bring it in by the gates of Jerusalem.",
+      "verse": 21
+    },
+    {
+      "text": "And do not carry a burden out of your houses on the Sabbath or do any work, but keep the Sabbath day holy, as I commanded your fathers.",
+      "verse": 22
+    },
+    {
+      "text": "Yet they did not listen or incline their ear, but stiffened their neck, that they might not hear and receive instruction.",
+      "verse": 23
+    },
+    {
+      "text": "“‘But if you listen to me, declares the Lord, and bring in no burden by the gates of this city on the Sabbath day, but keep the Sabbath day holy and do no work on it,",
+      "verse": 24,
+      "type": "newline"
+    },
+    {
+      "text": "then there shall enter by the gates of this city kings and princes who sit on the throne of David, riding in chariots and on horses, they and their officials, the men of Judah and the inhabitants of Jerusalem. And this city shall be inhabited forever.",
+      "verse": 25
+    },
+    {
+      "text": "And people shall come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, from the Shephelah, from the hill country, and from the Negeb, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thank offerings to the house of the Lord.",
+      "verse": 26
+    },
+    {
+      "text": "But if you do not listen to me, to keep the Sabbath day holy, and not to bear a burden and enter by the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates, and it shall devour the palaces of Jerusalem and shall not be quenched.’”",
+      "verse": 27
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 30,
+  "verses": 33,
+  "content": [
+    {
+      "text": "Futile Confidence in Egypt",
+      "type": "heading"
+    },
+    {
+      "text": "“Woe to the rebellious children,” says the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "“Who take counsel, but not of Me,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "And who devise plans, but not of My Spirit,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "That they may add sin to sin;",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Who walk to go down to Egypt,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And have not asked My advice,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "To strengthen themselves in the strength of Pharaoh,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And to trust in the shadow of Egypt!",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the strength of Pharaoh",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be your shame,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And trust in the shadow of Egypt",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall be your humiliation.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "For his princes were at Zoan,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "And his ambassadors came to Hanes.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "They were all ashamed of a people who could not benefit them,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Or be help or benefit,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "But a shame and also a reproach.”",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "The burden against the beasts of the South.",
+      "verse": 6,
+      "type": "newline"
+    },
+    {
+      "text": "Through a land of trouble and anguish,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From which came the lioness and lion,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "The viper and fiery flying serpent,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "They will carry their riches on the backs of young donkeys,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "And their treasures on the humps of camels,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "To a people who shall not profit;",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Egyptians shall help in vain and to no purpose.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I have called her",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Rahab-Hem-Shebeth.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "A Rebellious People",
+      "type": "heading"
+    },
+    {
+      "text": "Now go, write it before them on a tablet,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And note it on a scroll,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That it may be for time to come,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Forever and ever:",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "That this is a rebellious people,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Lying children,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Children who will not hear the law of the Lord;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "Who say to the seers, “Do not see,”",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And to the prophets, “Do not prophesy to us right things;",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Speak to us smooth things, prophesy deceits.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Get out of the way,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Turn aside from the path,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Cause the Holy One of Israel",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "To cease from before us.”",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore thus says the Holy One of Israel:",
+      "verse": 12,
+      "type": "newline"
+    },
+    {
+      "text": "“Because you despise this word,",
+      "verse": 12,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And trust in oppression and perversity,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "And rely on them,",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore this iniquity shall be to you",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Like a breach ready to fall,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "A bulge in a high wall,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "Whose breaking comes suddenly, in an instant.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "And He shall break it like the breaking of the potter’s vessel,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Which is broken in pieces;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "He shall not spare.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "So there shall not be found among its fragments",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "A shard to take fire from the hearth,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "Or to take water from the cistern.”",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "For thus says the Lord God, the Holy One of Israel:",
+      "verse": 15,
+      "type": "newline"
+    },
+    {
+      "text": "“In returning and rest you shall be saved;",
+      "verse": 15,
+      "type": "poetry newline"
+    },
+    {
+      "text": "In quietness and confidence shall be your strength.”",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But you would not,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "And you said, “No, for we will flee on horses”—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore you shall flee!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And, “We will ride on swift horses”—",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore those who pursue you shall be swift!",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "One thousand shall flee at the threat of one,",
+      "verse": 17,
+      "type": "poetry newline"
+    },
+    {
+      "text": "At the threat of five you shall flee,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "Till you are left as a pole on top of a mountain",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And as a banner on a hill.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "God Will Be Gracious",
+      "type": "heading"
+    },
+    {
+      "text": "Therefore the Lord will wait, that He may be gracious to you;",
+      "verse": 18,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And therefore He will be exalted, that He may have mercy on you.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For the Lord is a God of justice;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are all those who wait for Him.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "For the people shall dwell in Zion at Jerusalem;",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "You shall weep no more.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "He will be very gracious to you at the sound of your cry;",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "When He hears it, He will answer you.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "And though the Lord gives you",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "The bread of adversity and the water of affliction,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Yet your teachers will not be moved into a corner anymore,",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "But your eyes shall see your teachers.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Your ears shall hear a word behind you, saying,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "“This is the way, walk in it,”",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Whenever you turn to the right hand",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Or whenever you turn to the left.",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "You will also defile the covering of your images of silver,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "And the ornament of your molded images of gold.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "You will throw them away as an unclean thing;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "You will say to them, “Get away!”",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Then He will give the rain for your seed",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "With which you sow the ground,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And bread of the increase of the earth;",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be fat and plentiful.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "In that day your cattle will feed",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "In large pastures.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Likewise the oxen and the young donkeys that work the ground",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Will eat cured fodder,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "Which has been winnowed with the shovel and fan.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "There will be on every high mountain",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And on every high hill",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Rivers and streams of waters,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day of the great slaughter,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "When the towers fall.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Moreover the light of the moon will be as the light of the sun,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And the light of the sun will be sevenfold,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "As the light of seven days,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "In the day that the Lord binds up the bruise of His people",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "And heals the stroke of their wound.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Judgment on Assyria",
+      "type": "heading"
+    },
+    {
+      "text": "Behold, the name of the Lord comes from afar,",
+      "verse": 27,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Burning with His anger,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And His burden is heavy;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "His lips are full of indignation,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And His tongue like a devouring fire.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "His breath is like an overflowing stream,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Which reaches up to the neck,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "To sift the nations with the sieve of futility;",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And there shall be a bridle in the jaws of the people,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Causing them to err.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "You shall have a song",
+      "verse": 29,
+      "type": "poetry newline"
+    },
+    {
+      "text": "As in the night when a holy festival is kept,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And gladness of heart as when one goes with a flute,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "To come into the mountain of the Lord,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "To the Mighty One of Israel.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord will cause His glorious voice to be heard,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And show the descent of His arm,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "With the indignation of His anger",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And the flame of a devouring fire,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "With scattering, tempest, and hailstones.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "For through the voice of the Lord",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Assyria will be beaten down,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "As He strikes with the rod.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And in every place where the staff of punishment passes,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Which the Lord lays on him,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "It will be with tambourines and harps;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And in battles of brandishing He will fight with it.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "For Tophet was established of old,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Yes, for the king it is prepared.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "He has made it deep and large;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Its pyre is fire with much wood;",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "The breath of the Lord, like a stream of brimstone,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Kindles it.",
+      "verse": 33,
+      "type": "poetry"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 134,
+  "verses": 3,
+  "content": [
+    {
+      "text": "Praising the Lord in His House at Night",
+      "type": "heading"
+    },
+    {
+      "text": "A Song of Ascents.",
+      "type": "title"
+    },
+    {
+      "text": "Behold, bless the Lord,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "All you servants of the Lord,",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Who by night stand in the house of the Lord!",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Lift up your hands in the sanctuary,",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "And bless the Lord.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord who made heaven and earth",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Bless you from Zion!",
+      "verse": 3,
+      "type": "poetry"
+    }
+  ]
+}

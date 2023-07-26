@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 54,
+  "verses": 7,
+  "content": [
+    {
+      "text": "The Lord Upholds My Life",
+      "type": "heading"
+    },
+    {
+      "text": "To the choirmaster: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, “Is not David hiding among us?”",
+      "type": "title"
+    },
+    {
+      "text": "O God, save me by your name,",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and vindicate me by your might.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "O God, hear my prayer;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "give ear to the words of my mouth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "For strangers have risen against me;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ruthless men seek my life;",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "they do not set God before themselves. Selah",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Behold, God is my helper;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord is the upholder of my life.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "He will return the evil to my enemies;",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "in your faithfulness put an end to them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "With a freewill offering I will sacrifice to you;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will give thanks to your name, O Lord, for it is good.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "For he has delivered me from every trouble,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and my eye has looked in triumph on my enemies.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

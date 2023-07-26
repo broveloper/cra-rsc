@@ -1,0 +1,557 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 106,
+  "verses": 48,
+  "content": [
+    {
+      "text": "Joy in Forgiveness of Israel’s Sins",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Oh, give thanks to the Lord, for He is good!",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "For His mercy endures forever.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Who can utter the mighty acts of the Lord?",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Who can declare all His praise?",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are those who keep justice,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "And he who does righteousness at all times!",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Remember me, O Lord, with the favor You have toward Your people.",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Oh, visit me with Your salvation,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may see the benefit of Your chosen ones,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may rejoice in the gladness of Your nation,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "That I may glory with Your inheritance.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "We have sinned with our fathers,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "We have committed iniquity,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "We have done wickedly.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Our fathers in Egypt did not understand Your wonders;",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "They did not remember the multitude of Your mercies,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "But rebelled by the sea—the Red Sea.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Nevertheless He saved them for His name’s sake,",
+      "verse": 8,
+      "type": "poetry newline"
+    },
+    {
+      "text": "That He might make His mighty power known.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "He rebuked the Red Sea also, and it dried up;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "So He led them through the depths,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "As through the wilderness.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "He saved them from the hand of him who hated them,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "And redeemed them from the hand of the enemy.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "The waters covered their enemies;",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "There was not one of them left.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they believed His words;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They sang His praise.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "They soon forgot His works;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They did not wait for His counsel,",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "But lusted exceedingly in the wilderness,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And tested God in the desert.",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "And He gave them their request,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "But sent leanness into their soul.",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "When they envied Moses in the camp,",
+      "verse": 16,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And Aaron the saint of the Lord,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "The earth opened up and swallowed Dathan,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "And covered the faction of Abiram.",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "A fire was kindled in their company;",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "The flame burned up the wicked.",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "They made a calf in Horeb,",
+      "verse": 19,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And worshiped the molded image.",
+      "verse": 19,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus they changed their glory",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "Into the image of an ox that eats grass.",
+      "verse": 20,
+      "type": "poetry"
+    },
+    {
+      "text": "They forgot God their Savior,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Who had done great things in Egypt,",
+      "verse": 21,
+      "type": "poetry"
+    },
+    {
+      "text": "Wondrous works in the land of Ham,",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Awesome things by the Red Sea.",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore He said that He would destroy them,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Had not Moses His chosen one stood before Him in the breach,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "To turn away His wrath, lest He destroy them.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Then they despised the pleasant land;",
+      "verse": 24,
+      "type": "poetry newline"
+    },
+    {
+      "text": "They did not believe His word,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "But complained in their tents,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And did not heed the voice of the Lord.",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore He raised His hand in an oath against them,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "To overthrow them in the wilderness,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "To overthrow their descendants among the nations,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And to scatter them in the lands.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "They joined themselves also to Baal of Peor,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And ate sacrifices made to the dead.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus they provoked Him to anger with their deeds,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And the plague broke out among them.",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Then Phinehas stood up and intervened,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And the plague was stopped.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And that was accounted to him for righteousness",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "To all generations forevermore.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "They angered Him also at the waters of strife,",
+      "verse": 32,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So that it went ill with Moses on account of them;",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "Because they rebelled against His Spirit,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "So that he spoke rashly with his lips.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "They did not destroy the peoples,",
+      "verse": 34,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Concerning whom the Lord had commanded them,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "But they mingled with the Gentiles",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "And learned their works;",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "They served their idols,",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "Which became a snare to them.",
+      "verse": 36,
+      "type": "poetry"
+    },
+    {
+      "text": "They even sacrificed their sons",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "And their daughters to demons,",
+      "verse": 37,
+      "type": "poetry"
+    },
+    {
+      "text": "And shed innocent blood,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "The blood of their sons and daughters,",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Whom they sacrificed to the idols of Canaan;",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "And the land was polluted with blood.",
+      "verse": 38,
+      "type": "poetry"
+    },
+    {
+      "text": "Thus they were defiled by their own works,",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "And played the harlot by their own deeds.",
+      "verse": 39,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore the wrath of the Lord was kindled against His people,",
+      "verse": 40,
+      "type": "poetry newline"
+    },
+    {
+      "text": "So that He abhorred His own inheritance.",
+      "verse": 40,
+      "type": "poetry"
+    },
+    {
+      "text": "And He gave them into the hand of the Gentiles,",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who hated them ruled over them.",
+      "verse": 41,
+      "type": "poetry"
+    },
+    {
+      "text": "Their enemies also oppressed them,",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "And they were brought into subjection under their hand.",
+      "verse": 42,
+      "type": "poetry"
+    },
+    {
+      "text": "Many times He delivered them;",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "But they rebelled in their counsel,",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "And were brought low for their iniquity.",
+      "verse": 43,
+      "type": "poetry"
+    },
+    {
+      "text": "Nevertheless He regarded their affliction,",
+      "verse": 44,
+      "type": "poetry newline"
+    },
+    {
+      "text": "When He heard their cry;",
+      "verse": 44,
+      "type": "poetry"
+    },
+    {
+      "text": "And for their sake He remembered His covenant,",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "And relented according to the multitude of His mercies.",
+      "verse": 45,
+      "type": "poetry"
+    },
+    {
+      "text": "He also made them to be pitied",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "By all those who carried them away captive.",
+      "verse": 46,
+      "type": "poetry"
+    },
+    {
+      "text": "Save us, O Lord our God,",
+      "verse": 47,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And gather us from among the Gentiles,",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "To give thanks to Your holy name,",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "To triumph in Your praise.",
+      "verse": 47,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed be the Lord God of Israel",
+      "verse": 48,
+      "type": "poetry newline"
+    },
+    {
+      "text": "From everlasting to everlasting!",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "And let all the people say, “Amen!”",
+      "verse": 48,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord!",
+      "verse": 48,
+      "type": "poetry newline"
+    }
+  ]
+}

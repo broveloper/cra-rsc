@@ -1,0 +1,91 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 54,
+  "verses": 7,
+  "content": [
+    {
+      "text": "Psalm 54",
+      "type": "heading"
+    },
+    {
+      "text": "For the director of music. With stringed instruments. A maskil of David. When the Ziphites had gone to Saul and said, “Is not David hiding among us?”",
+      "type": "title"
+    },
+    {
+      "text": "Save me, O God, by your name;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "vindicate me by your might.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "Hear my prayer, O God;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "listen to the words of my mouth.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Arrogant foes are attacking me;",
+      "verse": 3,
+      "type": "poetry newline"
+    },
+    {
+      "text": "ruthless people are trying to kill me—",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "people without regard for God.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "Surely God is my help;",
+      "verse": 4,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the Lord is the one who sustains me.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Let evil recoil on those who slander me;",
+      "verse": 5,
+      "type": "poetry newline"
+    },
+    {
+      "text": "in your faithfulness destroy them.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "I will sacrifice a freewill offering to you;",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will praise your name, Lord, for it is good.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "You have delivered me from all my troubles,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and my eyes have looked in triumph on my foes.",
+      "verse": 7,
+      "type": "poetry"
+    }
+  ]
+}

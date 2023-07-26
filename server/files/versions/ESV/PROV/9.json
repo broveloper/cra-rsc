@@ -1,0 +1,196 @@
+{
+  "book_id": "PROV",
+  "book_name": "Proverbs",
+  "chapter": 9,
+  "verses": 18,
+  "content": [
+    {
+      "text": "The Way of Wisdom",
+      "type": "heading"
+    },
+    {
+      "text": "Wisdom has built her house;",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she has hewn her seven pillars.",
+      "verse": 1,
+      "type": "poetry"
+    },
+    {
+      "text": "She has slaughtered her beasts; she has mixed her wine;",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "she has also set her table.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "She has sent out her young women to call",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "from the highest places in the town,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "“Whoever is simple, let him turn in here!”",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "To him who lacks sense she says,",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "“Come, eat of my bread",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "and drink of the wine I have mixed.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "Leave your simple ways, and live,",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "and walk in the way of insight.”",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "Whoever corrects a scoffer gets himself abuse,",
+      "verse": 7,
+      "type": "poetry newline"
+    },
+    {
+      "text": "and he who reproves a wicked man incurs injury.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not reprove a scoffer, or he will hate you;",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "reprove a wise man, and he will love you.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "Give instruction to a wise man, and he will be still wiser;",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "teach a righteous man, and he will increase in learning.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The fear of the Lord is the beginning of wisdom,",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "and the knowledge of the Holy One is insight.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "For by me your days will be multiplied,",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "and years will be added to your life.",
+      "verse": 11,
+      "type": "poetry"
+    },
+    {
+      "text": "If you are wise, you are wise for yourself;",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "if you scoff, you alone will bear it.",
+      "verse": 12,
+      "type": "poetry"
+    },
+    {
+      "text": "The Way of Folly",
+      "type": "heading"
+    },
+    {
+      "text": "The woman Folly is loud;",
+      "verse": 13,
+      "type": "poetry newline"
+    },
+    {
+      "text": "she is seductive and knows nothing.",
+      "verse": 13,
+      "type": "poetry"
+    },
+    {
+      "text": "She sits at the door of her house;",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "she takes a seat on the highest places of the town,",
+      "verse": 14,
+      "type": "poetry"
+    },
+    {
+      "text": "calling to those who pass by,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "who are going straight on their way,",
+      "verse": 15,
+      "type": "poetry"
+    },
+    {
+      "text": "“Whoever is simple, let him turn in here!”",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "And to him who lacks sense she says,",
+      "verse": 16,
+      "type": "poetry"
+    },
+    {
+      "text": "“Stolen water is sweet,",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "and bread eaten in secret is pleasant.”",
+      "verse": 17,
+      "type": "poetry"
+    },
+    {
+      "text": "But he does not know that the dead are there,",
+      "verse": 18,
+      "type": "poetry"
+    },
+    {
+      "text": "that her guests are in the depths of Sheol.",
+      "verse": 18,
+      "type": "poetry"
+    }
+  ]
+}

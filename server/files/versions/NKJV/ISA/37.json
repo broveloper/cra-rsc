@@ -1,0 +1,440 @@
+{
+  "book_id": "ISA",
+  "book_name": "Isaiah",
+  "chapter": 37,
+  "verses": 38,
+  "content": [
+    {
+      "text": "Isaiah Assures Deliverance",
+      "type": "heading"
+    },
+    {
+      "text": "And so it was, when King Hezekiah heard it, that he tore his clothes, covered himself with sackcloth, and went into the house of the Lord. ",
+      "verse": 1,
+      "type": "newline"
+    },
+    {
+      "text": "Then he sent Eliakim, who was over the household, Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet, the son of Amoz. ",
+      "verse": 2
+    },
+    {
+      "text": "And they said to him, “Thus says Hezekiah: ‘This day is a day of trouble and rebuke and blasphemy; for the children have come to birth, but there is no strength to bring them forth. ",
+      "verse": 3
+    },
+    {
+      "text": "It may be that the Lord your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to reproach the living God, and will rebuke the words which the Lord your God has heard. Therefore lift up your prayer for the remnant that is left.’ ”",
+      "verse": 4
+    },
+    {
+      "text": "So the servants of King Hezekiah came to Isaiah. ",
+      "verse": 5,
+      "type": "newline"
+    },
+    {
+      "text": "And Isaiah said to them, “Thus you shall say to your master, ‘Thus says the Lord: “Do not be afraid of the words which you have heard, with which the servants of the king of Assyria have blasphemed Me. ",
+      "verse": 6
+    },
+    {
+      "text": "Surely I will send a spirit upon him, and he shall hear a rumor and return to his own land; and I will cause him to fall by the sword in his own land.” ’ ”",
+      "verse": 7
+    },
+    {
+      "text": "Sennacherib’s Threat and Hezekiah’s Prayer",
+      "type": "heading"
+    },
+    {
+      "text": "Then the Rabshakeh returned, and found the king of Assyria warring against Libnah, for he heard that he had departed from Lachish. ",
+      "verse": 8,
+      "type": "newline"
+    },
+    {
+      "text": "And the king heard concerning Tirhakah king of Ethiopia, “He has come out to make war with you.” So when he heard it, he sent messengers to Hezekiah, saying, ",
+      "verse": 9
+    },
+    {
+      "text": "“Thus you shall speak to Hezekiah king of Judah, saying: ‘Do not let your God in whom you trust deceive you, saying, “Jerusalem shall not be given into the hand of the king of Assyria.” ",
+      "verse": 10
+    },
+    {
+      "text": "Look! You have heard what the kings of Assyria have done to all lands by utterly destroying them; and shall you be delivered? ",
+      "verse": 11
+    },
+    {
+      "text": "Have the gods of the nations delivered those whom my fathers have destroyed, Gozan and Haran and Rezeph, and the people of Eden who were in Telassar? ",
+      "verse": 12
+    },
+    {
+      "text": "Where is the king of Hamath, the king of Arpad, and the king of the city of Sepharvaim, Hena, and Ivah?’ ”",
+      "verse": 13
+    },
+    {
+      "text": "And Hezekiah received the letter from the hand of the messengers, and read it; and Hezekiah went up to the house of the Lord, and spread it before the Lord. ",
+      "verse": 14,
+      "type": "newline"
+    },
+    {
+      "text": "Then Hezekiah prayed to the Lord, saying: ",
+      "verse": 15
+    },
+    {
+      "text": "“O Lord of hosts, God of Israel, the One who dwells between the cherubim, You are God, You alone, of all the kingdoms of the earth. You have made heaven and earth. ",
+      "verse": 16
+    },
+    {
+      "text": "Incline Your ear, O Lord, and hear; open Your eyes, O Lord, and see; and hear all the words of Sennacherib, which he has sent to reproach the living God. ",
+      "verse": 17
+    },
+    {
+      "text": "Truly, Lord, the kings of Assyria have laid waste all the nations and their lands, ",
+      "verse": 18
+    },
+    {
+      "text": "and have cast their gods into the fire; for they were not gods, but the work of men’s hands—wood and stone. Therefore they destroyed them. ",
+      "verse": 19
+    },
+    {
+      "text": "Now therefore, O Lord our God, save us from his hand, that all the kingdoms of the earth may know that You are the Lord, You alone.”",
+      "verse": 20
+    },
+    {
+      "text": "The Word of the Lord Concerning Sennacherib",
+      "type": "heading"
+    },
+    {
+      "text": "Then Isaiah the son of Amoz sent to Hezekiah, saying, “Thus says the Lord God of Israel, ‘Because you have prayed to Me against Sennacherib king of Assyria, ",
+      "verse": 21,
+      "type": "newline"
+    },
+    {
+      "text": "this is the word which the Lord has spoken concerning him:",
+      "verse": 22
+    },
+    {
+      "text": "“The virgin, the daughter of Zion,",
+      "verse": 22,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Has despised you, laughed you to scorn;",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "The daughter of Jerusalem",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "Has shaken her head behind your back!",
+      "verse": 22,
+      "type": "poetry"
+    },
+    {
+      "text": "“Whom have you reproached and blasphemed?",
+      "verse": 23,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Against whom have you raised your voice,",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "And lifted up your eyes on high?",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "Against the Holy One of Israel.",
+      "verse": 23,
+      "type": "poetry"
+    },
+    {
+      "text": "By your servants you have reproached the Lord,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And said, ‘By the multitude of my chariots",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I have come up to the height of the mountains,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "To the limits of Lebanon;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will cut down its tall cedars",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "And its choice cypress trees;",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I will enter its farthest height,",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "To its fruitful forest.",
+      "verse": 24,
+      "type": "poetry"
+    },
+    {
+      "text": "I have dug and drunk water,",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "And with the soles of my feet I have dried up",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "All the brooks of defense.’",
+      "verse": 25,
+      "type": "poetry"
+    },
+    {
+      "text": "“Did you not hear long ago",
+      "verse": 26,
+      "type": "poetry newline"
+    },
+    {
+      "text": "How I made it,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "From ancient times that I formed it?",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Now I have brought it to pass,",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "That you should be",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "For crushing fortified cities into heaps of ruins.",
+      "verse": 26,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore their inhabitants had little power;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "They were dismayed and confounded;",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "They were as the grass of the field",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And the green herb,",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "As the grass on the housetops",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "And grain blighted before it is grown.",
+      "verse": 27,
+      "type": "poetry"
+    },
+    {
+      "text": "“But I know your dwelling place,",
+      "verse": 28,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Your going out and your coming in,",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "And your rage against Me.",
+      "verse": 28,
+      "type": "poetry"
+    },
+    {
+      "text": "Because your rage against Me and your tumult",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Have come up to My ears,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "Therefore I will put My hook in your nose",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And My bridle in your lips,",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "And I will turn you back",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "By the way which you came.” ’",
+      "verse": 29,
+      "type": "poetry"
+    },
+    {
+      "text": "“This shall be a sign to you:",
+      "verse": 30,
+      "type": "newline"
+    },
+    {
+      "text": "You shall eat this year such as grows of itself,",
+      "verse": 30,
+      "type": "poetry newline"
+    },
+    {
+      "text": "And the second year what springs from the same;",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Also in the third year sow and reap,",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "Plant vineyards and eat the fruit of them.",
+      "verse": 30,
+      "type": "poetry"
+    },
+    {
+      "text": "And the remnant who have escaped of the house of Judah",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "Shall again take root downward,",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "And bear fruit upward.",
+      "verse": 31,
+      "type": "poetry"
+    },
+    {
+      "text": "For out of Jerusalem shall go a remnant,",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "And those who escape from Mount Zion.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "The zeal of the Lord of hosts will do this.",
+      "verse": 32,
+      "type": "poetry"
+    },
+    {
+      "text": "“Therefore thus says the Lord concerning the king of Assyria:",
+      "verse": 33,
+      "type": "newline"
+    },
+    {
+      "text": "‘He shall not come into this city,",
+      "verse": 33,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Nor shoot an arrow there,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor come before it with shield,",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "Nor build a siege mound against it.",
+      "verse": 33,
+      "type": "poetry"
+    },
+    {
+      "text": "By the way that he came,",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "By the same shall he return;",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "And he shall not come into this city,’",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "Says the Lord.",
+      "verse": 34,
+      "type": "poetry"
+    },
+    {
+      "text": "‘For I will defend this city, to save it",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "For My own sake and for My servant David’s sake.’ ”",
+      "verse": 35,
+      "type": "poetry"
+    },
+    {
+      "text": "Sennacherib’s Defeat and Death",
+      "type": "heading"
+    },
+    {
+      "text": "Then the angel of the Lord went out, and killed in the camp of the Assyrians one hundred and eighty-five thousand; and when people arose early in the morning, there were the corpses—all dead. ",
+      "verse": 36,
+      "type": "newline"
+    },
+    {
+      "text": "So Sennacherib king of Assyria departed and went away, returned home, and remained at Nineveh. ",
+      "verse": 37
+    },
+    {
+      "text": "Now it came to pass, as he was worshiping in the house of Nisroch his god, that his sons Adrammelech and Sharezer struck him down with the sword; and they escaped into the land of Ararat. Then Esarhaddon his son reigned in his place.",
+      "verse": 38
+    }
+  ]
+}

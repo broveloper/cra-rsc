@@ -1,0 +1,137 @@
+{
+  "book_id": "PS",
+  "book_name": "Psalm",
+  "chapter": 146,
+  "verses": 10,
+  "content": [
+    {
+      "text": "Psalm 146",
+      "type": "heading"
+    },
+    {
+      "text": "Praise the Lord.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "Praise the Lord, my soul.",
+      "verse": 1,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will praise the Lord all my life;",
+      "verse": 2,
+      "type": "poetry newline"
+    },
+    {
+      "text": "I will sing praise to my God as long as I live.",
+      "verse": 2,
+      "type": "poetry"
+    },
+    {
+      "text": "Do not put your trust in princes,",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "in human beings, who cannot save.",
+      "verse": 3,
+      "type": "poetry"
+    },
+    {
+      "text": "When their spirit departs, they return to the ground;",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "on that very day their plans come to nothing.",
+      "verse": 4,
+      "type": "poetry"
+    },
+    {
+      "text": "Blessed are those whose help is the God of Jacob,",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "whose hope is in the Lord their God.",
+      "verse": 5,
+      "type": "poetry"
+    },
+    {
+      "text": "He is the Maker of heaven and earth,",
+      "verse": 6,
+      "type": "poetry newline"
+    },
+    {
+      "text": "the sea, and everything in them—",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "he remains faithful forever.",
+      "verse": 6,
+      "type": "poetry"
+    },
+    {
+      "text": "He upholds the cause of the oppressed",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "and gives food to the hungry.",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord sets prisoners free,",
+      "verse": 7,
+      "type": "poetry"
+    },
+    {
+      "text": "    the Lord gives sight to the blind,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord lifts up those who are bowed down,",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "the Lord loves the righteous.",
+      "verse": 8,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord watches over the foreigner",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "and sustains the fatherless and the widow,",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "but he frustrates the ways of the wicked.",
+      "verse": 9,
+      "type": "poetry"
+    },
+    {
+      "text": "The Lord reigns forever,",
+      "verse": 10,
+      "type": "poetry newline"
+    },
+    {
+      "text": "your God, O Zion, for all generations.",
+      "verse": 10,
+      "type": "poetry"
+    },
+    {
+      "text": "Praise the Lord.",
+      "verse": 10,
+      "type": "poetry newline"
+    }
+  ]
+}
