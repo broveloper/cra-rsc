@@ -7,7 +7,7 @@ db.User = require('../models/user.model');
 db.Passage = require('../models/passage.model');
 db.mongoose = mongoose;
 db.mongoose
-	.connect(`mongodb+srv://${process.env.MONGODB_USER}:${process.env.MONGODB_PASSWORD}@${process.env.MONGODB_HOST}/?retryWrites=true&w=majority`, {
+	.connect(process.env.MONGODB_URI, {
 		useNewUrlParser: true,
 		useUnifiedTopology: true,
 		useFindAndModify: false,
