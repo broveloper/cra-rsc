@@ -251,7 +251,7 @@ const PassageOptions = props => {
 };
 
 export const SearchPassage = forwardRef((props, ref) => {
-	return <Route path="search-passage">
+	return <Route path="/search-passage">
 		<Screen appear in={true} ref={ref}>
 			<PassageOptions />
 		</Screen>

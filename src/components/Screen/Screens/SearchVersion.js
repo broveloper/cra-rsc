@@ -77,7 +77,7 @@ const VersionOptions = props => {
 };
 
 export const SearchVersion = forwardRef((props, ref) => {
-	return <Route path="search-version">
+	return <Route path="/search-version">
 		<Screen appear in={true} ref={ref}>
 			<VersionOptions />
 		</Screen>
