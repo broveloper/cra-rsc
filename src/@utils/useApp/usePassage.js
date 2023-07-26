@@ -4,8 +4,8 @@ import fuzzy from 'fuzzy';
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
 import { useAuth, useProfile } from '@utils/useApp';
 
-const validregex = /^\s*(\d?\s*[a-zA-Z]+)(?:\s+(\d+))?:?(\d+\s*-?\s*\d*)?\s*$/;
-const matchregex = /^\s*(\d?\s*[a-zA-Z]+)\s+(\d+):?(\d+\s*-?\s*\d*)?\s*$/;
+const validregex = /^\s*(\d?\s*[a-zA-Z]*)(?:\s+(\d+))?:?(\d+\s*-?\s*\d*)?\s*$/;
+const matchregex = /^\s*(\d?\s*[a-zA-Z]*)\s+(\d+):?(\d+\s*-?\s*\d*)?\s*$/;
 
 const Context = createContext(null);
 
