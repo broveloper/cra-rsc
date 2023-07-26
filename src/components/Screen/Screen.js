@@ -1,21 +1,31 @@
 import { forwardRef, useEffect, useState } from 'react';
-import { createPortal } from 'react-dom';
+import { createPortal, flushSync } from 'react-dom';
+import { useHistory } from 'react-router-dom';
 import { useClickAway, useKey, useUpdateEffect } from 'react-use';
 import { mountNode } from 'components/App';
 import { ScreenTransition } from './ScreenTransition';
 
 export const Screen = forwardRef((props, ref) => {
+	const history = useHistory();
 	const [isIn, setIsIn] = useState(props.in);
-	useKey('Escape', () => isIn && setIsIn(false), { event: 'keydown' }, [isIn]);
-	useClickAway(ref, () => isIn && setIsIn(false));
+	const hide = () => {
+		if (isIn) {
+			flushSync(() => setIsIn(false))
+			history.push('/');
+		}
+	};
+	const show = () => !isIn && setIsIn(true);
+	const toggle = () => isIn ? hide() : show();
+	useKey('Escape', hide, { event: 'keydown' }, [isIn]);
+	useClickAway(ref, hide);
 	
 	useUpdateEffect(() => {
-		setIsIn(props.in);
+		if (props.in) {
+			show();
+		} else {
+			hide();
+		}
 	}, [props.in]);
-
-	const hide = () => isIn && setIsIn(false);
-	const show = () => !isIn && setIsIn(true);
-	const toggle = () => setIsIn(!isIn);
 
 	useEffect(() => {
 		Object.assign(ref?.current || {}, { hide, show, toggle });
